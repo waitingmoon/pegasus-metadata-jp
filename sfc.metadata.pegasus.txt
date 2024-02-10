@@ -691,13 +691,13 @@ file: Bishoujo Janshi Suchie-Pai (Japan).zip
 game: Bishoujo Janshi Suchie-Pai (Japan) (Rev 1)
 file: Bishoujo Janshi Suchie-Pai (Japan) (Rev 1).zip
 
-game: Bishoujo Senshi Sailor Moon (Japan)
+game: 美少女戦士セーラームーン
 file: Bishoujo Senshi Sailor Moon (Japan).zip
 
 game: Bishoujo Senshi Sailor Moon - Another Story (Japan)
 file: Bishoujo Senshi Sailor Moon - Another Story (Japan).zip
 
-game: Bishoujo Senshi Sailor Moon R (Japan)
+game: 美少女戦士セーラームーン R
 file: Bishoujo Senshi Sailor Moon R (Japan).zip
 
 game: Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan)

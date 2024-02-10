@@ -6172,10 +6172,10 @@ file: Rockman X (Japan).zip
 game: Rockman X (Japan) (Rev 1)
 file: Rockman X (Japan) (Rev 1).zip
 
-game: Rockman X2 (Japan)
+game: ロックマン X2
 file: Rockman X2 (Japan).zip
 
-game: Rockman X3 (Japan)
+game: ロックマン X3
 file: Rockman X3 (Japan).zip
 
 game: Rockman's Soccer (Japan)

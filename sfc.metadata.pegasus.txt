@@ -282,19 +282,12 @@ game: Alien 3 (Japan)
 file: Alien 3 (Japan).zip
 
 game: Alien 3 (USA)
-file: Alien 3 (USA).zip
-
-game: Alien 3 (USA) (Beta 1)
-file: Alien 3 (USA) (Beta 1).zip
-
-game: Alien 3 (USA) (Beta 2)
-file: Alien 3 (USA) (Beta 2).zip
-
-game: Alien 3 (USA) (Beta 3)
-file: Alien 3 (USA) (Beta 3).zip
-
-game: Alien 3 (USA) (Rev 1)
-file: Alien 3 (USA) (Rev 1).zip
+files:
+ Alien 3 (USA).zip
+ Alien 3 (USA) (Beta 1).zip
+ Alien 3 (USA) (Beta 2).zip
+ Alien 3 (USA) (Beta 3).zip
+ Alien 3 (USA) (Rev 1).zip
 
 game: Alien vs Predator (Europe)
 file: Alien vs Predator (Europe).zip
@@ -593,19 +586,15 @@ game: Batman Forever (Europe)
 file: Batman Forever (Europe).zip
 
 game: Batman Forever (Japan) (En)
-file: Batman Forever (Japan) (En).zip
-
-game: Batman Forever (Japan) (En) (Beta 1)
-file: Batman Forever (Japan) (En) (Beta 1).zip
-
-game: Batman Forever (Japan) (En) (Beta 2)
-file: Batman Forever (Japan) (En) (Beta 2).zip
+files:
+ Batman Forever (Japan) (En).zip
+ Batman Forever (Japan) (En) (Beta 1).zip
+ Batman Forever (Japan) (En) (Beta 2).zip
 
 game: Batman Forever (USA)
-file: Batman Forever (USA).zip
-
-game: Batman Forever (USA) (Rev 1)
-file: Batman Forever (USA) (Rev 1).zip
+files:
+ Batman Forever (USA).zip
+ Batman Forever (USA) (Rev 1).zip
 
 game: Batman Returns (Europe)
 file: Batman Returns (Europe).zip
@@ -623,13 +612,10 @@ game: Battle Blaze (Japan) (En)
 file: Battle Blaze (Japan) (En).zip
 
 game: Battle Blaze (USA)
-file: Battle Blaze (USA).zip
-
-game: Battle Blaze (USA) (Beta 1)
-file: Battle Blaze (USA) (Beta 1).zip
-
-game: Battle Blaze (USA) (Beta 2)
-file: Battle Blaze (USA) (Beta 2).zip
+files:
+ Battle Blaze (USA).zip
+ Battle Blaze (USA) (Beta 1).zip
+ Battle Blaze (USA) (Beta 2).zip
 
 game: Battle Cars (USA)
 file: Battle Cars (USA).zip
@@ -1600,19 +1586,17 @@ game: Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan)
 file: Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan).zip
 
 game: Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan)
-file: Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan).zip
-
-game: Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan) (Rev 1) (NP)
-file: Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan) (Rev 1) (NP).zip
+files:
+ Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan).zip
+ Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan) (Rev 1) (NP).zip 
 
 game: Daibakushou Jinsei Gekijou (Japan)
 file: Daibakushou Jinsei Gekijou (Japan).zip
 
 game: Daikaijuu Monogatari (Japan)
-file: Daikaijuu Monogatari (Japan).zip
-
-game: Daikaijuu Monogatari (Japan) (Rev 1)
-file: Daikaijuu Monogatari (Japan) (Rev 1).zip
+files:
+ Daikaijuu Monogatari (Japan).zip
+ Daikaijuu Monogatari (Japan) (Rev 1).zip
 
 game: Daikaijuu Monogatari II (Japan)
 file: Daikaijuu Monogatari II (Japan).zip
@@ -1678,10 +1662,9 @@ game: Daze Before Christmas (Europe)
 file: Daze Before Christmas (Europe).zip
 
 game: Dead Dance (Japan)
-file: Dead Dance (Japan).zip
-
-game: Dead Dance (Japan) (Rev 1) (Switch Online)
-file: Dead Dance (Japan) (Rev 1) (Switch Online).zip
+files:
+ Dead Dance (Japan).zip
+ Dead Dance (Japan) (Rev 1) (Switch Online).zip
 
 game: Deae Tonosama Appare Ichiban (Japan)
 file: Deae Tonosama Appare Ichiban (Japan).zip
@@ -1829,10 +1812,9 @@ game: Dirt Trax FX (USA)
 file: Dirt Trax FX (USA).zip
 
 game: Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan)
-file: Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan).zip
-
-game: Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan) (Rev 1)
-file: Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan) (Rev 1).zip
+files:
+ Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan).zip
+ Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan) (Rev 1).zip
 
 game: Dokapon Gaiden - Honoo no Audition (Japan)
 file: Dokapon Gaiden - Honoo no Audition (Japan).zip
@@ -1928,16 +1910,14 @@ game: Doomsday Warrior (USA)
 file: Doomsday Warrior (USA).zip
 
 game: Doraemon - Nobita to Yousei no Kuni (Japan)
-file: Doraemon - Nobita to Yousei no Kuni (Japan).zip
-
-game: Doraemon - Nobita to Yousei no Kuni (Japan) (Rev 1)
-file: Doraemon - Nobita to Yousei no Kuni (Japan) (Rev 1).zip
+files:
+ Doraemon - Nobita to Yousei no Kuni (Japan).zip
+ Doraemon - Nobita to Yousei no Kuni (Japan) (Rev 1).zip
 
 game: Doraemon 2 - Nobita no Toys Land Daibouken (Japan)
-file: Doraemon 2 - Nobita no Toys Land Daibouken (Japan).zip
-
-game: Doraemon 2 - Nobita no Toys Land Daibouken (Japan) (Beta)
-file: Doraemon 2 - Nobita no Toys Land Daibouken (Japan) (Beta).zip
+files:
+ Doraemon 2 - Nobita no Toys Land Daibouken (Japan).zip
+ Doraemon 2 - Nobita no Toys Land Daibouken (Japan) (Beta).zip
 
 game: Doraemon 3 - Nobita to Toki no Hougyoku (Japan)
 file: Doraemon 3 - Nobita to Toki no Hougyoku (Japan).zip
@@ -2546,13 +2526,10 @@ game: Final Fantasy IV - Easy Type (Japan)
 file: Final Fantasy IV - Easy Type (Japan).zip
 
 game: Final Fantasy IV (Japan)
-file: Final Fantasy IV (Japan).zip
-
-game: Final Fantasy IV (Japan) (Rev 1)
-file: Final Fantasy IV (Japan) (Rev 1).zip
-
-game: Final Fantasy IV (Japan) (Rev 1) (Virtual Console)
-file: Final Fantasy IV (Japan) (Rev 1) (Virtual Console).zip
+files:
+ Final Fantasy IV (Japan).zip
+ Final Fantasy IV (Japan) (Rev 1).zip
+ Final Fantasy IV (Japan) (Rev 1) (Virtual Console).zip
 
 game: Final Fantasy USA - Mystic Quest (Japan)
 file: Final Fantasy USA - Mystic Quest (Japan).zip
@@ -2570,13 +2547,10 @@ game: Final Fight (Europe) (Virtual Console)
 file: Final Fight (Europe) (Virtual Console).zip
 
 game: Final Fight (Japan)
-file: Final Fight (Japan).zip
-
-game: Final Fight (Japan) (Capcom Town)
-file: Final Fight (Japan) (Capcom Town).zip
-
-game: Final Fight (Japan) (Virtual Console)
-file: Final Fight (Japan) (Virtual Console).zip
+files:
+ Final Fight (Japan).zip
+ Final Fight (Japan) (Capcom Town).zip
+ Final Fight (Japan) (Virtual Console).zip
 
 game: Final Fight (USA)
 file: Final Fight (USA).zip
@@ -2621,10 +2595,9 @@ game: Final Fight Guy (USA)
 file: Final Fight Guy (USA).zip
 
 game: Final Fight Tough (Japan)
-file: Final Fight Tough (Japan).zip
-
-game: Final Fight Tough (Japan) (Virtual Console)
-file: Final Fight Tough (Japan) (Virtual Console).zip
+files:
+ Final Fight Tough (Japan).zip
+ Final Fight Tough (Japan) (Virtual Console).zip
 
 game: Final Knockout (Japan) (En)
 file: Final Knockout (Japan) (En).zip
@@ -2836,13 +2809,10 @@ game: Furuta Atsuya no Simulation Pro Yakyuu 2 (Japan)
 file: Furuta Atsuya no Simulation Pro Yakyuu 2 (Japan).zip
 
 game: Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)
-file: Fushigi no Dungeon 2 - Fuurai no Shiren (Japan).zip
-
-game: Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP)
-file: Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP).zip
-
-game: Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (Virtual Console)
-file: Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (Virtual Console).zip
+files:
+ Fushigi no Dungeon 2 - Fuurai no Shiren (Japan).zip
+ Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP).zip
+ Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (Virtual Console).zip
 
 game: G.O.D - Mezame yo to Yobu Koe ga Kikoe (Japan)
 file: G.O.D - Mezame yo to Yobu Koe ga Kikoe (Japan).zip
@@ -2854,10 +2824,9 @@ game: Gaia Saver - Hero Saidai no Sakusen (Japan)
 file: Gaia Saver - Hero Saidai no Sakusen (Japan).zip
 
 game: Gakkou de Atta Kowai Hanashi (Japan)
-file: Gakkou de Atta Kowai Hanashi (Japan).zip
-
-game: Gakkou de Atta Kowai Hanashi (Japan) (Rev 1)
-file: Gakkou de Atta Kowai Hanashi (Japan) (Rev 1).zip
+files:
+ Gakkou de Atta Kowai Hanashi (Japan).zip
+ Gakkou de Atta Kowai Hanashi (Japan) (Rev 1).zip
 
 game: Galaxy Robo (Japan)
 file: Galaxy Robo (Japan).zip
@@ -2950,16 +2919,14 @@ game: Gargoyles (USA) (Proto) (1994-07-19)
 file: Gargoyles (USA) (Proto) (1994-07-19).zip
 
 game: Garou Densetsu - Shukumei no Tatakai (Japan)
-file: Garou Densetsu - Shukumei no Tatakai (Japan).zip
-
-game: Garou Densetsu - Shukumei no Tatakai (Japan) (Rev 1)
-file: Garou Densetsu - Shukumei no Tatakai (Japan) (Rev 1).zip
+files:
+ Garou Densetsu - Shukumei no Tatakai (Japan).zip
+ Garou Densetsu - Shukumei no Tatakai (Japan) (Rev 1).zip
 
 game: Garou Densetsu 2 - Aratanaru Tatakai (Japan)
-file: Garou Densetsu 2 - Aratanaru Tatakai (Japan).zip
-
-game: Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Rev 1)
-file: Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Rev 1).zip
+files:
+ Garou Densetsu 2 - Aratanaru Tatakai (Japan).zip
+ Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Rev 1).zip
 
 game: Garou Densetsu Special (Japan)
 file: Garou Densetsu Special (Japan).zip
@@ -2974,10 +2941,9 @@ game: Garry Kitchen's Super Battletank (Europe)
 file: Garry Kitchen's Super Battletank (Europe).zip
 
 game: Gdleen (Japan)
-file: Gdleen (Japan).zip
-
-game: Gdleen (Japan) (Rev 1)
-file: Gdleen (Japan) (Rev 1).zip
+files:
+ Gdleen (Japan).zip
+ Gdleen (Japan) (Rev 1).zip 
 
 game: Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan)
 file: Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan).zip
@@ -3040,10 +3006,9 @@ game: Ghoul Patrol (USA)
 file: Ghoul Patrol (USA).zip
 
 game: Gindama Oyakata no Pachinko Hisshouhou (Japan)
-file: Gindama Oyakata no Pachinko Hisshouhou (Japan).zip
-
-game: Gindama Oyakata no Pachinko Hisshouhou (Japan) (Rev 1)
-file: Gindama Oyakata no Pachinko Hisshouhou (Japan) (Rev 1).zip
+files:
+ Gindama Oyakata no Pachinko Hisshouhou (Japan).zip
+ Gindama Oyakata no Pachinko Hisshouhou (Japan) (Rev 1).zip
 
 game: Ginga Eiyuu Densetsu (Japan)
 file: Ginga Eiyuu Densetsu (Japan).zip
@@ -3151,19 +3116,15 @@ game: Gradius III (USA)
 file: Gradius III (USA).zip
 
 game: Granhistoria - Genshi Sekaiki (Japan)
-file: Granhistoria - Genshi Sekaiki (Japan).zip
-
-game: Granhistoria - Genshi Sekaiki (Japan) (Rev 1)
-file: Granhistoria - Genshi Sekaiki (Japan) (Rev 1).zip
-
-game: Granhistoria - Genshi Sekaiki (Japan) (Sample)
-file: Granhistoria - Genshi Sekaiki (Japan) (Sample).zip
+files:
+ Granhistoria - Genshi Sekaiki (Japan).zip
+ Granhistoria - Genshi Sekaiki (Japan) (Rev 1).zip
+ Granhistoria - Genshi Sekaiki (Japan) (Sample).zip
 
 game: Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan)
-file: Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan).zip
-
-game: Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan) (Beta)
-file: Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan) (Beta).zip
+files:
+ Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan).zip
+ Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan) (Beta).zip
 
 game: Great Battle II, The - Last Fighter Twin (Japan)
 file: Great Battle II, The - Last Fighter Twin (Japan).zip
@@ -3172,10 +3133,9 @@ game: Great Battle III, The (Japan)
 file: Great Battle III, The (Japan).zip
 
 game: Great Battle IV, The (Japan)
-file: Great Battle IV, The (Japan).zip
-
-game: Great Battle IV, The (Japan) (Beta)
-file: Great Battle IV, The (Japan) (Beta).zip
+files:
+ Great Battle IV, The (Japan).zip
+ Great Battle IV, The (Japan) (Beta).zip
 
 game: Great Battle V, The (Japan)
 file: Great Battle V, The (Japan).zip
@@ -3271,13 +3231,10 @@ game: Hansei Zaru Jiro-kun no Daibouken (Japan)
 file: Hansei Zaru Jiro-kun no Daibouken (Japan).zip
 
 game: Haou Taikei Ryuu Knight - Lord of Paladin (Japan)
-file: Haou Taikei Ryuu Knight - Lord of Paladin (Japan).zip
-
-game: Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Beta)
-file: Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Beta).zip
-
-game: Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Rev 1)
-file: Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Rev 1).zip
+files:
+ Haou Taikei Ryuu Knight - Lord of Paladin (Japan).zip
+ Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Beta).zip
+ Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Rev 1).zip
 
 game: Harapeko Bakka (Japan)
 file: Harapeko Bakka (Japan).zip
@@ -3517,13 +3474,10 @@ game: Hoshi no Kirby 3 (Japan)
 file: Hoshi no Kirby 3 (Japan).zip
 
 game: Hoshi no Kirby Super Deluxe (Japan)
-file: Hoshi no Kirby Super Deluxe (Japan).zip
-
-game: Hoshi no Kirby Super Deluxe (Japan) (Rev 1)
-file: Hoshi no Kirby Super Deluxe (Japan) (Rev 1).zip
-
-game: Hoshi no Kirby Super Deluxe (Japan) (Rev 2)
-file: Hoshi no Kirby Super Deluxe (Japan) (Rev 2).zip
+files:
+ Hoshi no Kirby Super Deluxe (Japan).zip
+ Hoshi no Kirby Super Deluxe (Japan) (Rev 1).zip
+ Hoshi no Kirby Super Deluxe (Japan) (Rev 2).zip
 
 game: Houkago in Beppin Jogakuin (Japan)
 file: Houkago in Beppin Jogakuin (Japan).zip
@@ -3910,46 +3864,36 @@ game: Jikkyou Powerful Pro Yakyuu '94 (Japan)
 file: Jikkyou Powerful Pro Yakyuu '94 (Japan).zip
 
 game: Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan)
-file: Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan) (Rev 1).zip
+files:
+ Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan).zip
+ Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan) (Rev 1).zip
 
 game: Jikkyou Powerful Pro Yakyuu 2 (Japan)
-file: Jikkyou Powerful Pro Yakyuu 2 (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 1).zip
-
-game: Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 2)
-file: Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 2).zip
+files:
+ Jikkyou Powerful Pro Yakyuu 2 (Japan).zip
+ Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 1).zip
+ Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 2).zip
 
 game: Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan)
-file: Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan) (Rev 1).zip
+files:
+ Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan).zip
+ Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan) (Rev 1).zip
 
 game: Jikkyou Powerful Pro Yakyuu 3 (Japan)
-file: Jikkyou Powerful Pro Yakyuu 3 (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu 3 (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu 3 (Japan) (Rev 1).zip
+files:
+ Jikkyou Powerful Pro Yakyuu 3 (Japan).zip
+ Jikkyou Powerful Pro Yakyuu 3 (Japan) (Rev 1).zip
 
 game: Jikkyou World Soccer - Perfect Eleven (Japan)
-file: Jikkyou World Soccer - Perfect Eleven (Japan).zip
-
-game: Jikkyou World Soccer - Perfect Eleven (Japan) (Rev 1)
-file: Jikkyou World Soccer - Perfect Eleven (Japan) (Rev 1).zip
+files:
+ Jikkyou World Soccer - Perfect Eleven (Japan).zip
+ Jikkyou World Soccer - Perfect Eleven (Japan) (Rev 1).zip
 
 game: Jikkyou World Soccer 2 - Fighting Eleven (Japan)
-file: Jikkyou World Soccer 2 - Fighting Eleven (Japan).zip
-
-game: Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Beta)
-file: Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Beta).zip
-
-game: Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Rev 1) (NP)
-file: Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Rev 1) (NP).zip
+files:
+ Jikkyou World Soccer 2 - Fighting Eleven (Japan).zip
+ Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Beta).zip
+ Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Rev 1) (NP).zip
 
 game: Jim Lee's WildC.A.T.S - Covert-Action-Teams (USA)
 file: Jim Lee's WildC.A.T.S - Covert-Action-Teams (USA).zip
@@ -9316,40 +9260,22 @@ game: Super Mahjong 3 - Karakuchi (Japan)
 file: Super Mahjong 3 - Karakuchi (Japan).zip
 
 game: Super Mahjong Taikai (Japan)
-file: Super Mahjong Taikai (Japan).zip
-
-game: Super Mahjong Taikai (Japan) (Rev 1)
-file: Super Mahjong Taikai (Japan) (Rev 1).zip
-
-game: Super Mahjong Taikai (Japan) (Rev 2)
-file: Super Mahjong Taikai (Japan) (Rev 2).zip
-
-game: Super Mahjong Taikai (Japan) (Rev 3)
-file: Super Mahjong Taikai (Japan) (Rev 3).zip
-
-game: Super Mahjong Taikai (Japan) (Rev 4)
-file: Super Mahjong Taikai (Japan) (Rev 4).zip
-
-game: Super Mahjong Taikai (Japan) (Rev 5)
-file: Super Mahjong Taikai (Japan) (Rev 5).zip
+files:
+ Super Mahjong Taikai (Japan).zip
+ Super Mahjong Taikai (Japan) (Rev 1).zip
+ Super Mahjong Taikai (Japan) (Rev 2).zip
+ Super Mahjong Taikai (Japan) (Rev 3).zip
+ Super Mahjong Taikai (Japan) (Rev 4).zip
+ Super Mahjong Taikai (Japan) (Rev 5).zip
 
 game: Super Mario - Yoshi Island (Japan)
-file: Super Mario - Yoshi Island (Japan).zip
-
-game: Super Mario - Yoshi Island (Japan) (Beta) (1995-07-10)
-file: Super Mario - Yoshi Island (Japan) (Beta) (1995-07-10).zip
-
-game: Super Mario - Yoshi Island (Japan) (Rev 1)
-file: Super Mario - Yoshi Island (Japan) (Rev 1).zip
-
-game: Super Mario - Yoshi Island (Japan) (Rev 1) (Beta) (1995-08-21)
-file: Super Mario - Yoshi Island (Japan) (Rev 1) (Beta) (1995-08-21).zip
-
-game: Super Mario - Yoshi Island (Japan) (Rev 2)
-file: Super Mario - Yoshi Island (Japan) (Rev 2).zip
-
-game: Super Mario - Yoshi Island (Japan) (Rev 2) (Beta) (1995-10-02)
-file: Super Mario - Yoshi Island (Japan) (Rev 2) (Beta) (1995-10-02).zip
+files:
+ Super Mario - Yoshi Island (Japan).zip
+ Super Mario - Yoshi Island (Japan) (Beta) (1995-07-10).zip
+ Super Mario - Yoshi Island (Japan) (Rev 1).zip
+ Super Mario - Yoshi Island (Japan) (Rev 1) (Beta) (1995-08-21).zip
+ Super Mario - Yoshi Island (Japan) (Rev 2).zip
+ Super Mario - Yoshi Island (Japan) (Rev 2) (Beta) (1995-10-02).zip
 
 game: Super Mario All-Stars (Europe)
 file: Super Mario All-Stars (Europe).zip
@@ -9373,31 +9299,21 @@ game: Super Mario All-Stars and Super Mario World (Europe)
 file: Super Mario All-Stars and Super Mario World (Europe).zip
 
 game: Super Mario Collection (Japan)
-file: Super Mario Collection (Japan).zip
-
-game: Super Mario Collection (Japan) (Rev 1)
-file: Super Mario Collection (Japan) (Rev 1).zip
-
-game: Super Mario Collection (Japan) (Rev 1) (Switch Online)
-file: Super Mario Collection (Japan) (Rev 1) (Switch Online).zip
-
-game: Super Mario Collection (Japan) (Rev 1) (Wii)
-file: Super Mario Collection (Japan) (Rev 1) (Wii).zip
+files:
+ Super Mario Collection (Japan).zip
+ Super Mario Collection (Japan) (Rev 1).zip
+ Super Mario Collection (Japan) (Rev 1) (Switch Online).zip
+ Super Mario Collection (Japan) (Rev 1) (Wii).zip
 
 game: Super Mario Kart (Europe)
 file: Super Mario Kart (Europe).zip
 
 game: Super Mario Kart (Japan)
-file: Super Mario Kart (Japan).zip
-
-game: Super Mario Kart (Japan) (Beta) (1992-04-13)
-file: Super Mario Kart (Japan) (Beta) (1992-04-13).zip
-
-game: Super Mario Kart (Japan) (Beta) (1992-07-10)
-file: Super Mario Kart (Japan) (Beta) (1992-07-10).zip
-
-game: Super Mario Kart (Japan) (Beta) (1992-08-06)
-file: Super Mario Kart (Japan) (Beta) (1992-08-06).zip
+files:
+ Super Mario Kart (Japan).zip
+ Super Mario Kart (Japan) (Beta) (1992-04-13).zip
+ Super Mario Kart (Japan) (Beta) (1992-07-10).zip
+ Super Mario Kart (Japan) (Beta) (1992-08-06).zip
 
 game: Super Mario Kart (USA)
 file: Super Mario Kart (USA).zip

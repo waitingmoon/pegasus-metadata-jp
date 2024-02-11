@@ -1,0 +1,719 @@
+game: [BIOS] SwanCrystal Boot ROM (Japan) (En)
+file: [BIOS] SwanCrystal Boot ROM (Japan) (En).zip
+
+game: [BIOS] WonderSwan Color Boot ROM (Japan) (En)
+file: [BIOS] WonderSwan Color Boot ROM (Japan) (En).zip
+
+game: 12 Dots Text Viewer (World) (v0.55) (WonderWitch) (Program) (Unl)
+file: 12 Dots Text Viewer (World) (v0.55) (WonderWitch) (Program) (Unl).zip
+
+game: 3D Othello (World) (Ja) (WonderWitch) (Unl)
+file: 3D Othello (World) (Ja) (WonderWitch) (Unl).zip
+
+game: 4 Koma TV (World) (Ja) (WonderWitch) (Unl)
+file: 4 Koma TV (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Alchemist Marie & Elie - Futari no Atelier (Japan) (Demo) (WonderWitch)
+file: Alchemist Marie & Elie - Futari no Atelier (Japan) (Demo) (WonderWitch).zip
+
+game: Alchemist Marie & Elie - Futari no Atelier (Japan)
+file: Alchemist Marie & Elie - Futari no Atelier (Japan).zip
+
+game: Another Heaven - Memory of those Days (Japan)
+file: Another Heaven - Memory of those Days (Japan).zip
+
+game: Arc the Lad - Kishin Fukkatsu (Japan)
+file: Arc the Lad - Kishin Fukkatsu (Japan).zip
+
+game: Arial (World) (v0.21) (Proto) (WonderWitch) (Unl)
+file: Arial (World) (v0.21) (Proto) (WonderWitch) (Unl).zip
+
+game: Artisan (World) (WonderWitch) (Unl)
+file: Artisan (World) (WonderWitch) (Unl).zip
+
+game: Arubi (World) (Ja) (v0.08) (Proto) (WonderWitch) (Unl)
+file: Arubi (World) (Ja) (v0.08) (Proto) (WonderWitch) (Unl).zip
+
+game: Atchi Muite Hoitsu! (World) (Ja) (WonderWitch) (Unl)
+file: Atchi Muite Hoitsu! (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Battle Spirit - Digimon Frontier (Japan) (Rev 1)
+file: Battle Spirit - Digimon Frontier (Japan) (Rev 1).zip
+
+game: Bio Worms (World) (WonderWitch) (Unl)
+file: Bio Worms (World) (WonderWitch) (Unl).zip
+
+game: Biorhythm for WonderWitch (World) (Ja) (WonderWitch) (Program) (Unl)
+file: Biorhythm for WonderWitch (World) (Ja) (WonderWitch) (Program) (Unl).zip
+
+game: BloodStorm (World) (WonderWitch) (Unl)
+file: BloodStorm (World) (WonderWitch) (Unl).zip
+
+game: Blue Wing Blitz (Japan)
+file: Blue Wing Blitz (Japan).zip
+
+game: BOM Danna (World) (Ja) (WonderWitch) (Unl)
+file: BOM Danna (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Bury (World) (WonderWitch) (Unl)
+file: Bury (World) (WonderWitch) (Unl).zip
+
+game: Canon Hockey (World) (WonderWitch) (Unl)
+file: Canon Hockey (World) (WonderWitch) (Unl).zip
+
+game: Chains (World) (WonderWitch) (Unl)
+file: Chains (World) (WonderWitch) (Unl).zip
+
+game: Charaga (World) (WonderWitch) (Unl)
+file: Charaga (World) (WonderWitch) (Unl).zip
+
+game: CNLink (World) (Ja) (WonderWitch) (Unl)
+file: CNLink (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Coar Crashers (World) (Demo) (WonderWitch) (Unl)
+file: Coar Crashers (World) (Demo) (WonderWitch) (Unl).zip
+
+game: collo (World) (WonderWitch) (Unl)
+file: collo (World) (WonderWitch) (Unl).zip
+
+game: Course Out (World) (Ja) (v0.0.1) (Proto) (WonderWitch) (Unl)
+file: Course Out (World) (Ja) (v0.0.1) (Proto) (WonderWitch) (Unl).zip
+
+game: Course Out 2 (World) (Ja) (v0.0.1) (WonderWitch) (Unl)
+file: Course Out 2 (World) (Ja) (v0.0.1) (WonderWitch) (Unl).zip
+
+game: Course Out 3 (World) (Ja) (v0.0.1) (Proto) (WonderWitch) (Unl)
+file: Course Out 3 (World) (Ja) (v0.0.1) (Proto) (WonderWitch) (Unl).zip
+
+game: Dai Meikyuu (World) (Ja) (WonderWitch) (Unl)
+file: Dai Meikyuu (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Dark Eyes - Battle Gate (Japan)
+file: Dark Eyes - Battle Gate (Japan).zip
+
+game: Darkhero Figment - Calibur Edition (World) (Ja) (WonderWitch) (Unl)
+file: Darkhero Figment - Calibur Edition (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Darkhero Figment - Doris Edition (World) (Ja) (WonderWitch) (Unl)
+file: Darkhero Figment - Doris Edition (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Darkhero Figment 2 (World) (Ja) (WonderWitch) (Unl)
+file: Darkhero Figment 2 (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Dicing Knight. (Japan)
+file: Dicing Knight. (Japan).zip
+
+game: DicingKnight Legion (World) (v2.1) (Demo) (WonderWitch) (Unl)
+file: DicingKnight Legion (World) (v2.1) (Demo) (WonderWitch) (Unl).zip
+
+game: Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Hong Kong) (En)
+file: Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Hong Kong) (En).zip
+
+game: Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Korea) (En)
+file: Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Korea) (En).zip
+
+game: Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)
+file: Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).zip
+
+game: Digimon Adventure 02 - D1 Tamers (Japan)
+file: Digimon Adventure 02 - D1 Tamers (Japan).zip
+
+game: Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)
+file: Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja).zip
+
+game: Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)
+file: Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).zip
+
+game: Digimon Tamers - Brave Tamer (Japan) (Rev 1)
+file: Digimon Tamers - Brave Tamer (Japan) (Rev 1).zip
+
+game: Digimon Tamers - Digimon Medley (Japan) (Rev 1)
+file: Digimon Tamers - Digimon Medley (Japan) (Rev 1).zip
+
+game: Digimon Tamers - Digimon Medley (Japan)
+file: Digimon Tamers - Digimon Medley (Japan).zip
+
+game: Digital Monster - D-Project (Japan) (Rev 1)
+file: Digital Monster - D-Project (Japan) (Rev 1).zip
+
+game: Digital Monster - D-Project (Japan) (Rev 2)
+file: Digital Monster - D-Project (Japan) (Rev 2).zip
+
+game: Digital Monster - D-Project (Japan)
+file: Digital Monster - D-Project (Japan).zip
+
+game: Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)
+file: Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).zip
+
+game: Digital Monster Card Game - Ver. WonderSwan Color (Japan)
+file: Digital Monster Card Game - Ver. WonderSwan Color (Japan).zip
+
+game: Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)
+file: Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).zip
+
+game: Doukyuu Tantei Oke Solo (World) (Ja) (WonderWitch) (Unl)
+file: Doukyuu Tantei Oke Solo (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Dragon Ball (Japan)
+file: Dragon Ball (Japan).zip
+
+game: Es=Loss Zero Side (World) (Ja) (WonderWitch) (Unl)
+file: Es=Loss Zero Side (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Evil Dragon (World) (WonderWitch) (Unl)
+file: Evil Dragon (World) (WonderWitch) (Unl).zip
+
+game: Features (World) (WonderWitch) (Unl)
+file: Features (World) (WonderWitch) (Unl).zip
+
+game: Final Fantasy (Japan)
+file: Final Fantasy (Japan).zip
+
+game: Final Fantasy II (Japan)
+file: Final Fantasy II (Japan).zip
+
+game: Final Fantasy IV (Japan)
+file: Final Fantasy IV (Japan).zip
+
+game: Final Lap Special - GT & Formula Machine (Japan)
+file: Final Lap Special - GT & Formula Machine (Japan).zip
+
+game: Flash Koibito-kun (Japan)
+file: Flash Koibito-kun (Japan).zip
+
+game: Flip (World) (Proto) (WonderWitch) (Unl)
+file: Flip (World) (Proto) (WonderWitch) (Unl).zip
+
+game: From TV Animation One Piece - Chopper no Daibouken (Japan)
+file: From TV Animation One Piece - Chopper no Daibouken (Japan).zip
+
+game: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan) (Sample)
+file: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan) (Sample).zip
+
+game: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)
+file: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).zip
+
+game: From TV Animation One Piece - Niji no Shima Densetsu (Japan)
+file: From TV Animation One Piece - Niji no Shima Densetsu (Japan).zip
+
+game: From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)
+file: From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).zip
+
+game: From TV Animation One Piece - Treasure Wars (Japan)
+file: From TV Animation One Piece - Treasure Wars (Japan).zip
+
+game: From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)
+file: From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).zip
+
+game: Front Mission (Japan)
+file: Front Mission (Japan).zip
+
+game: Gansaku Shuu Watch (World) (Ja) (WonderWitch) (Unl)
+file: Gansaku Shuu Watch (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Gekitou! Crash Gear Turbo - Gear Champion League (Japan)
+file: Gekitou! Crash Gear Turbo - Gear Champion League (Japan).zip
+
+game: Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2)
+file: Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).zip
+
+game: Golden Axe (Japan)
+file: Golden Axe (Japan).zip
+
+game: GPS TOOL for WonderSwan (World) (Ja) (WonderWitch) (Unl)
+file: GPS TOOL for WonderSwan (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Gransta Chronicle (Japan)
+file: Gransta Chronicle (Japan).zip
+
+game: Guilty Gear Petit (Japan)
+file: Guilty Gear Petit (Japan).zip
+
+game: Guilty Gear Petit 2 (Japan)
+file: Guilty Gear Petit 2 (Japan).zip
+
+game: GunPey EX (Japan)
+file: GunPey EX (Japan).zip
+
+game: Guruguru Ringuru (World) (WonderWitch) (Unl)
+file: Guruguru Ringuru (World) (WonderWitch) (Unl).zip
+
+game: Hanabi (World) (Proto) (WonderWitch) (Unl)
+file: Hanabi (World) (Proto) (WonderWitch) (Unl).zip
+
+game: Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1)
+file: Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).zip
+
+game: Hashire! Taiboku! (World) (v0.5) (Proto) (WonderWitch) (Unl)
+file: Hashire! Taiboku! (World) (v0.5) (Proto) (WonderWitch) (Unl).zip
+
+game: Hataraku Chocobo (Japan)
+file: Hataraku Chocobo (Japan).zip
+
+game: Hebi (World) (Ja) (WonderWitch) (Unl)
+file: Hebi (World) (Ja) (WonderWitch) (Unl).zip
+
+game: HG-voice-player + Sound Sample (World) (WonderWitch) (Program) (Unl)
+file: HG-voice-player + Sound Sample (World) (WonderWitch) (Program) (Unl).zip
+
+game: Hirotte, Yokete!! (World) (WonderWitch) (Unl)
+file: Hirotte, Yokete!! (World) (WonderWitch) (Unl).zip
+
+game: Hoippuru for WonderSwan (World) (Ja) (v1.00) (WonderWitch) (Unl)
+file: Hoippuru for WonderSwan (World) (Ja) (v1.00) (WonderWitch) (Unl).zip
+
+game: Hoippuru for WonderSwan (World) (Ja) (v2.00) (WonderWitch) (Unl)
+file: Hoippuru for WonderSwan (World) (Ja) (v2.00) (WonderWitch) (Unl).zip
+
+game: House Keeper - 1.5 Generation (World) (Ja) (Proto) (WonderWitch) (Unl)
+file: House Keeper - 1.5 Generation (World) (Ja) (Proto) (WonderWitch) (Unl).zip
+
+game: House Keeper (World) (Ja) (WonderWitch) (Unl)
+file: House Keeper (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Hunter X Hunter - Greed Island (Japan) (Rev 1)
+file: Hunter X Hunter - Greed Island (Japan) (Rev 1).zip
+
+game: Hunter X Hunter - Greed Island (Japan)
+file: Hunter X Hunter - Greed Island (Japan).zip
+
+game: Hunter X Hunter - Michibikareshi Mono (Japan)
+file: Hunter X Hunter - Michibikareshi Mono (Japan).zip
+
+game: Hunter X Hunter - Sorezore no Ketsui (Japan)
+file: Hunter X Hunter - Sorezore no Ketsui (Japan).zip
+
+game: Hurry Up! (World) (WonderWitch) (Unl)
+file: Hurry Up! (World) (WonderWitch) (Unl).zip
+
+game: Ice Cream Shop (World) (WonderWitch) (Unl)
+file: Ice Cream Shop (World) (WonderWitch) (Unl).zip
+
+game: Illusion Garden (World) (Ja) (WonderWitch) (Unl)
+file: Illusion Garden (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Inu Renda 2 (World) (Ja) (WonderWitch) (Unl)
+file: Inu Renda 2 (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Inuyasha - Fuuun Emaki (Japan)
+file: Inuyasha - Fuuun Emaki (Japan).zip
+
+game: Inuyasha - Kagome no Sengoku Nikki (Japan)
+file: Inuyasha - Kagome no Sengoku Nikki (Japan).zip
+
+game: Inuyasha - Kagome no Yume Nikki (Japan)
+file: Inuyasha - Kagome no Yume Nikki (Japan).zip
+
+game: Isigarki (World) (WonderWitch) (Program) (Unl)
+file: Isigarki (World) (WonderWitch) (Program) (Unl).zip
+
+game: Isomon - Get Oh No!! (World) (Ja) (WonderWitch) (Unl)
+file: Isomon - Get Oh No!! (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Judgement Silversword - Rebirth Edition (Japan) (Rev 4321)
+file: Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).zip
+
+game: Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)
+file: Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).zip
+
+game: Judgement Silversword (World) (Ja) (WonderWitch) (Unl)
+file: Judgement Silversword (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Juicy Crew (World) (WonderWitch) (Unl)
+file: Juicy Crew (World) (WonderWitch) (Unl).zip
+
+game: Kaikon (World) (Ja) (WonderWitch) (Unl)
+file: Kaikon (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Kanain (World) (Ja) (WonderWitch) (Unl)
+file: Kanain (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Kasanegasane (World) (Ja) (WonderWitch) (Unl)
+file: Kasanegasane (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan)
+file: Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).zip
+
+game: Kidou Senshi Gundam Seed (Japan)
+file: Kidou Senshi Gundam Seed (Japan).zip
+
+game: Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)
+file: Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).zip
+
+game: Kidou Senshi Gundam Vol. 2 - Jaburo (Japan)
+file: Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).zip
+
+game: Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan)
+file: Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).zip
+
+game: Kinnikuman II-Sei - Choujin Seisenshi (Japan)
+file: Kinnikuman II-Sei - Choujin Seisenshi (Japan).zip
+
+game: Kinnikuman II-Sei - Dream Tag Match (Japan)
+file: Kinnikuman II-Sei - Dream Tag Match (Japan).zip
+
+game: Kurupara! (Japan) (Rev 1)
+file: Kurupara! (Japan) (Rev 1).zip
+
+game: Kuttsuke Su (World) (Ja) (WonderWitch) (Unl)
+file: Kuttsuke Su (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Last Alive (Japan)
+file: Last Alive (Japan).zip
+
+game: Lolita Queen (World) (WonderWitch) (Unl)
+file: Lolita Queen (World) (WonderWitch) (Unl).zip
+
+game: Magical Harvest (World) (v0.99) (WonderWitch) (Unl)
+file: Magical Harvest (World) (v0.99) (WonderWitch) (Unl).zip
+
+game: Magical Harvest (World) (v1.00) (WonderWitch) (WWGP2001) (Unl)
+file: Magical Harvest (World) (v1.00) (WonderWitch) (WWGP2001) (Unl).zip
+
+game: Mahha de Tsuugaku!! (World) (WonderWitch) (Unl)
+file: Mahha de Tsuugaku!! (World) (WonderWitch) (Unl).zip
+
+game: Makai Toushi Sa-Ga (Japan)
+file: Makai Toushi Sa-Ga (Japan).zip
+
+game: mama Mitte (Japan) (Program)
+file: mama Mitte (Japan) (Program).zip
+
+game: mama Mitte (Japan) (Rev D) (Program)
+file: mama Mitte (Japan) (Rev D) (Program).zip
+
+game: Mawase Mawase WonderSwan Mawase (World) (WonderWitch) (Unl)
+file: Mawase Mawase WonderSwan Mawase (World) (WonderWitch) (Unl).zip
+
+game: Maze Maze (World) (WonderWitch) (Unl)
+file: Maze Maze (World) (WonderWitch) (Unl).zip
+
+game: Meitantei Conan - Yuugure no Oujo (Japan)
+file: Meitantei Conan - Yuugure no Oujo (Japan).zip
+
+game: Melodion (World) (WonderWitch) (Program) (Unl)
+file: Melodion (World) (WonderWitch) (Program) (Unl).zip
+
+game: Memories Off - Festa (Japan)
+file: Memories Off - Festa (Japan).zip
+
+game: Mikeneko Holmes - Ghost Panic (Japan)
+file: Mikeneko Holmes - Ghost Panic (Japan).zip
+
+game: Mini Tennis (World) (WonderWitch) (Unl)
+file: Mini Tennis (World) (WonderWitch) (Unl).zip
+
+game: Monmon Gunner (World) (Ja) (WonderWitch) (Unl)
+file: Monmon Gunner (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Moverang (World) (WonderWitch) (Unl)
+file: Moverang (World) (WonderWitch) (Unl).zip
+
+game: Mr. Driller (Japan)
+file: Mr. Driller (Japan).zip
+
+game: Multi-BoaRD (World) (WonderWitch) (Unl)
+file: Multi-BoaRD (World) (WonderWitch) (Unl).zip
+
+game: Namco Super Wars (Japan)
+file: Namco Super Wars (Japan).zip
+
+game: Nametry (World) (v1.00) (WonderWitch) (WWGP2001) (Unl)
+file: Nametry (World) (v1.00) (WonderWitch) (WWGP2001) (Unl).zip
+
+game: Nametry (World) (v1.01) (WonderWitch) (Unl)
+file: Nametry (World) (v1.01) (WonderWitch) (Unl).zip
+
+game: Naruto - Konoha Ninpouchou (Japan)
+file: Naruto - Konoha Ninpouchou (Japan).zip
+
+game: NAVI GET 400 Million (Japan) (Version 1.0) (Program)
+file: NAVI GET 400 Million (Japan) (Version 1.0) (Program).zip
+
+game: NAVI GET 400 Million (Japan) (Version 2.1) (Program)
+file: NAVI GET 400 Million (Japan) (Version 2.1) (Program).zip
+
+game: NAVI GET 400 Million (Japan) (Version 3.0) (Program)
+file: NAVI GET 400 Million (Japan) (Version 3.0) (Program).zip
+
+game: NAVI GET 400 Million (Japan) (Version 9) (Program)
+file: NAVI GET 400 Million (Japan) (Version 9) (Program).zip
+
+game: Neko no Kurubushi (World) (WonderWitch) (Unl)
+file: Neko no Kurubushi (World) (WonderWitch) (Unl).zip
+
+game: Neojan (World) (WonderWitch) (Unl)
+file: Neojan (World) (WonderWitch) (Unl).zip
+
+game: Nijiiro Dandodan (World) (Ja) (WonderWitch) (Unl)
+file: Nijiiro Dandodan (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Not Found (World) (WonderWitch) (Unl)
+file: Not Found (World) (WonderWitch) (Unl).zip
+
+game: Octopus Mahjong, The (World) (Ja) (v0.92) (WonderWitch) (Unl)
+file: Octopus Mahjong, The (World) (Ja) (v0.92) (WonderWitch) (Unl).zip
+
+game: One Dazen Won! (World) (v0.02) (Proto) (WonderWitch) (Unl)
+file: One Dazen Won! (World) (v0.02) (Proto) (WonderWitch) (Unl).zip
+
+game: Ougon (World) (WonderWitch) (Unl)
+file: Ougon (World) (WonderWitch) (Unl).zip
+
+game: Panic Wonder (World) (WonderWitch) (Unl)
+file: Panic Wonder (World) (WonderWitch) (Unl).zip
+
+game: Pastel Fantasy Deluxe (World) (WonderWitch) (Unl)
+file: Pastel Fantasy Deluxe (World) (WonderWitch) (Unl).zip
+
+game: Patto Golf (World) (WonderWitch) (Unl)
+file: Patto Golf (World) (WonderWitch) (Unl).zip
+
+game: Pepperas! (World) (v0.40) (Proto) (WonderWitch) (Unl)
+file: Pepperas! (World) (v0.40) (Proto) (WonderWitch) (Unl).zip
+
+game: Petit Balls (World) (WonderWitch) (Unl)
+file: Petit Balls (World) (WonderWitch) (Unl).zip
+
+game: Petit PazzLe (World) (Ja) (WonderWitch) (Unl)
+file: Petit PazzLe (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Petit Shooo (World) (WonderWitch) (Unl)
+file: Petit Shooo (World) (WonderWitch) (Unl).zip
+
+game: Petit SounD (World) (Ja) (WonderWitch) (Program)
+file: Petit SounD (World) (Ja) (WonderWitch) (Program).zip
+
+game: Pianica (World) (WonderWitch) (Program) (Unl)
+file: Pianica (World) (WonderWitch) (Program) (Unl).zip
+
+game: Pink Passer (World) (Ja) (v0.01) (Proto) (WonderWitch) (Unl)
+file: Pink Passer (World) (Ja) (v0.01) (Proto) (WonderWitch) (Unl).zip
+
+game: Pittari! (World) (Ja) (WonderWitch) (Unl)
+file: Pittari! (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Pladel 2 (World) (WonderWitch) (Unl)
+file: Pladel 2 (World) (WonderWitch) (Unl).zip
+
+game: Pocket no Naka no Doraemon (Japan)
+file: Pocket no Naka no Doraemon (Japan).zip
+
+game: Poker (World) (Ja) (WonderWitch) (Unl)
+file: Poker (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Project E-Force (World) (2001-11-10) (Proto) (WonderWitch) (Unl)
+file: Project E-Force (World) (2001-11-10) (Proto) (WonderWitch) (Unl).zip
+
+game: Project E-Force (World) (2002-05-29) (Proto) (WonderWitch) (Unl)
+file: Project E-Force (World) (2002-05-29) (Proto) (WonderWitch) (Unl).zip
+
+game: Putipati (World) (v1.11) (WonderWitch) (WWGP2002) (Unl)
+file: Putipati (World) (v1.11) (WonderWitch) (WWGP2002) (Unl).zip
+
+game: Putipati (World) (v1.12) (WonderWitch) (Unl)
+file: Putipati (World) (v1.12) (WonderWitch) (Unl).zip
+
+game: Raku Jongg (Japan)
+file: Raku Jongg (Japan).zip
+
+game: Rave Hunter (World) (WonderWitch) (Unl)
+file: Rave Hunter (World) (WonderWitch) (Unl).zip
+
+game: Real Cheese (World) (Ja) (WonderWitch) (Unl)
+file: Real Cheese (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Rect for WonderSwan (World) (WonderWitch) (Unl)
+file: Rect for WonderSwan (World) (WonderWitch) (Unl).zip
+
+game: Reversi (World) (Ja) (WonderWitch) (Unl)
+file: Reversi (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Rhyme Rider Kerorican (Japan)
+file: Rhyme Rider Kerorican (Japan).zip
+
+game: Rhythmin (World) (Ja) (WonderWitch) (Unl)
+file: Rhythmin (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)
+file: Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1).zip
+
+game: Riviera - Yakusoku no Chi Riviera (Japan)
+file: Riviera - Yakusoku no Chi Riviera (Japan).zip
+
+game: Rockman EXE - N1 Battle (Japan) (Rev 1)
+file: Rockman EXE - N1 Battle (Japan) (Rev 1).zip
+
+game: Rockman EXE WS (Japan)
+file: Rockman EXE WS (Japan).zip
+
+game: Romancing Sa-Ga (Japan)
+file: Romancing Sa-Ga (Japan).zip
+
+game: RUN=DIM - Return to Earth (Japan)
+file: RUN=DIM - Return to Earth (Japan).zip
+
+game: Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan)
+file: Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).zip
+
+game: Samegame for WSC (World) (WonderWitch) (Unl)
+file: Samegame for WSC (World) (WonderWitch) (Unl).zip
+
+game: Samoner (World) (Ja) (WonderWitch) (Unl)
+file: Samoner (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Saorin Puzzle (World) (Demo) (WonderWitch) (Unl)
+file: Saorin Puzzle (World) (Demo) (WonderWitch) (Unl).zip
+
+game: Satori - WonderSwan Remix (World) (WonderWitch) (Unl)
+file: Satori - WonderSwan Remix (World) (WonderWitch) (Unl).zip
+
+game: SD Gundam - Operation U.C. (Japan)
+file: SD Gundam - Operation U.C. (Japan).zip
+
+game: SD Gundam Eiyuu Den - Kishi Densetsu (Japan)
+file: SD Gundam Eiyuu Den - Kishi Densetsu (Japan).zip
+
+game: SD Gundam Eiyuu Den - Musha Densetsu (Japan)
+file: SD Gundam Eiyuu Den - Musha Densetsu (Japan).zip
+
+game: SD Gundam G Generation - Gather Beat 2 (Japan)
+file: SD Gundam G Generation - Gather Beat 2 (Japan).zip
+
+game: SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2)
+file: SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2).zip
+
+game: SD Gundam G Generation - Mono-Eye Gundams (Japan)
+file: SD Gundam G Generation - Mono-Eye Gundams (Japan).zip
+
+game: Self Produce (World) (Proto) (WonderWitch) (Unl)
+file: Self Produce (World) (Proto) (WonderWitch) (Unl).zip
+
+game: Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan)
+file: Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).zip
+
+game: Shaman King - Asu e no Ishi (Japan) (Rev 1)
+file: Shaman King - Asu e no Ishi (Japan) (Rev 1).zip
+
+game: Shaman King - Asu e no Ishi (Japan)
+file: Shaman King - Asu e no Ishi (Japan).zip
+
+game: Shokaku 80186 (World) (WonderWitch) (Unl)
+file: Shokaku 80186 (World) (WonderWitch) (Unl).zip
+
+game: SLG Kyara Idou Sanpuru (World) (Demo) (WonderWitch) (Unl)
+file: SLG Kyara Idou Sanpuru (World) (Demo) (WonderWitch) (Unl).zip
+
+game: Solfege (World) (WonderWitch) (Unl)
+file: Solfege (World) (WonderWitch) (Unl).zip
+
+game: Sorobang (Japan) (Rev 1)
+file: Sorobang (Japan) (Rev 1).zip
+
+game: Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale)
+file: Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).zip
+
+game: Star Hearts - Hoshi to Daichi no Shisha (Japan)
+file: Star Hearts - Hoshi to Daichi no Shisha (Japan).zip
+
+game: Star Ochi (World) (WonderWitch) (Unl)
+file: Star Ochi (World) (WonderWitch) (Unl).zip
+
+game: Starlight Waltz (World) (Proto) (WonderWitch) (Unl)
+file: Starlight Waltz (World) (Proto) (WonderWitch) (Unl).zip
+
+game: Super Robot Taisen Compact 3 (Japan) (Rev 5)
+file: Super Robot Taisen Compact 3 (Japan) (Rev 5).zip
+
+game: Super Robot Taisen Compact 3 (Japan) (Rev 6)
+file: Super Robot Taisen Compact 3 (Japan) (Rev 6).zip
+
+game: Super Robot Taisen Compact for WonderSwan Color (Japan)
+file: Super Robot Taisen Compact for WonderSwan Color (Japan).zip
+
+game: Surround (World) (Proto) (WonderWitch) (Unl)
+file: Surround (World) (Proto) (WonderWitch) (Unl).zip
+
+game: Tank Island (World) (WonderWitch) (Unl)
+file: Tank Island (World) (WonderWitch) (Unl).zip
+
+game: Tank Move Color (World) (WonderWitch) (Unl)
+file: Tank Move Color (World) (WonderWitch) (Unl).zip
+
+game: TankQ! (World) (Proto) (WonderWitch) (Unl)
+file: TankQ! (World) (Proto) (WonderWitch) (Unl).zip
+
+game: Terrors 2 (Japan)
+file: Terrors 2 (Japan).zip
+
+game: Tetris (Japan)
+file: Tetris (Japan).zip
+
+game: Tonde Stone (World) (WonderWitch) (Unl)
+file: Tonde Stone (World) (WonderWitch) (Unl).zip
+
+game: Tonpuusou (Japan)
+file: Tonpuusou (Japan).zip
+
+game: Uchuu Senkan Yamato (Japan)
+file: Uchuu Senkan Yamato (Japan).zip
+
+game: Ultraman - Hikari no Kuni no Shisha (Japan)
+file: Ultraman - Hikari no Kuni no Shisha (Japan).zip
+
+game: UnderBabel (Main Data) (World) (Ja) (WonderWitch) (Unl)
+file: UnderBabel (Main Data) (World) (Ja) (WonderWitch) (Unl).zip
+
+game: UnderBabel (Supporting Data) (World) (Ja) (WonderWitch) (Unl)
+file: UnderBabel (Supporting Data) (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Visual Sequencer MUCOS (World) (Ja) (WonderWitch) (Program) (Unl)
+file: Visual Sequencer MUCOS (World) (Ja) (WonderWitch) (Program) (Unl).zip
+
+game: War Cup (World) (Ja) (Proto) (WonderWitch) (Unl)
+file: War Cup (World) (Ja) (Proto) (WonderWitch) (Unl).zip
+
+game: Well-being (World) (WonderWitch) (Unl)
+file: Well-being (World) (WonderWitch) (Unl).zip
+
+game: Wild Card (Japan)
+file: Wild Card (Japan).zip
+
+game: Witch Typing (World) (Ja) (WonderWitch) (Unl)
+file: Witch Typing (World) (Ja) (WonderWitch) (Unl).zip
+
+game: Witches! (World) (WonderWitch) (Unl)
+file: Witches! (World) (WonderWitch) (Unl).zip
+
+game: With You - Mitsumete Itai (Japan)
+file: With You - Mitsumete Itai (Japan).zip
+
+game: Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)
+file: Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).zip
+
+game: Wonder Classic (Japan)
+file: Wonder Classic (Japan).zip
+
+game: Wonder Racer (World) (WonderWitch) (Unl)
+file: Wonder Racer (World) (WonderWitch) (Unl).zip
+
+game: WonderCommand (World) (WonderWitch) (Program)
+file: WonderCommand (World) (WonderWitch) (Program).zip
+
+game: X - Card of Fate (Japan)
+file: X - Card of Fate (Japan).zip
+
+game: XI Little (Japan)
+file: XI Little (Japan).zip
+
+game: Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002)
+file: Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002).zip
+
+game: Yokeru Kamo (World) (v1.1) (WonderWitch) (Unl)
+file: Yokeru Kamo (World) (v1.1) (WonderWitch) (Unl).zip
+
+game: Yuuki Paint (World) (v1.01) (WonderWitch) (WWGP2001) (Unl)
+file: Yuuki Paint (World) (v1.01) (WonderWitch) (WWGP2001) (Unl).zip
+
+game: Yuuki Paint (World) (v1.20) (WonderWitch) (Unl)
+file: Yuuki Paint (World) (v1.20) (WonderWitch) (Unl).zip

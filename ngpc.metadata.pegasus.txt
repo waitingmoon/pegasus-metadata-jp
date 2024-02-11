@@ -1,0 +1,383 @@
+game: [BIOS] SNK NeoGeo Pocket Color (World) (En,Ja)
+file: [BIOS] SNK NeoGeo Pocket Color (World) (En,Ja).zip
+
+game: Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)
+file: Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).zip
+
+game: Baseball Stars Color - Pocket Sports Series (World) (En,Ja)
+file: Baseball Stars Color - Pocket Sports Series (World) (En,Ja).zip
+
+game: Big Bang Pro Wrestling (Japan) (En,Ja)
+file: Big Bang Pro Wrestling (Japan) (En,Ja).zip
+
+game: Bikkuriman 2000 - Viva! Pocket Festival! (Japan)
+file: Bikkuriman 2000 - Viva! Pocket Festival! (Japan).zip
+
+game: Biomotor Unitron (Japan) (Demo)
+file: Biomotor Unitron (Japan) (Demo).zip
+
+game: Biomotor Unitron (Japan)
+file: Biomotor Unitron (Japan).zip
+
+game: Biomotor Unitron (USA, Europe)
+file: Biomotor Unitron (USA, Europe).zip
+
+game: Bust-A-Move Pocket (USA) (Beta)
+file: Bust-A-Move Pocket (USA) (Beta).zip
+
+game: Bust-A-Move Pocket (USA)
+file: Bust-A-Move Pocket (USA).zip
+
+game: Cool Boarders Pocket (Japan, Europe) (En,Ja)
+file: Cool Boarders Pocket (Japan, Europe) (En,Ja).zip
+
+game: Cool Cool Jam (Japan)
+file: Cool Cool Jam (Japan).zip
+
+game: Cool Cool Jam (USA) (Proto)
+file: Cool Cool Jam (USA) (Proto).zip
+
+game: Crush Roller (World) (En,Ja)
+file: Crush Roller (World) (En,Ja).zip
+
+game: Dark Arms - Beast Buster 1999 (World) (En,Ja)
+file: Dark Arms - Beast Buster 1999 (World) (En,Ja).zip
+
+game: Delta Warp (Japan) (Demo)
+file: Delta Warp (Japan) (Demo).zip
+
+game: Delta Warp (Japan) (En,Ja)
+file: Delta Warp (Japan) (En,Ja).zip
+
+game: Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)
+file: Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).zip
+
+game: Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo)
+file: Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo).zip
+
+game: Densha de Go! 2 on NeoGeo Pocket (Japan)
+file: Densha de Go! 2 on NeoGeo Pocket (Japan).zip
+
+game: Dive Alert - Becky's Version (USA, Europe)
+file: Dive Alert - Becky's Version (USA, Europe).zip
+
+game: Dive Alert - Burn Hen (Japan) (Beta)
+file: Dive Alert - Burn Hen (Japan) (Beta).zip
+
+game: Dive Alert - Burn Hen (Japan)
+file: Dive Alert - Burn Hen (Japan).zip
+
+game: Dive Alert - Matt's Version (USA, Europe)
+file: Dive Alert - Matt's Version (USA, Europe).zip
+
+game: Dive Alert - Rebecca Hen (Japan)
+file: Dive Alert - Rebecca Hen (Japan).zip
+
+game: Dokodemo Mahjong (Japan)
+file: Dokodemo Mahjong (Japan).zip
+
+game: Dynamite Slugger (Japan, Europe) (En,Ja)
+file: Dynamite Slugger (Japan, Europe) (En,Ja).zip
+
+game: Evolution - Eternal Dungeons (Europe) (v03)
+file: Evolution - Eternal Dungeons (Europe) (v03).zip
+
+game: Evolution - Eternal Dungeons (Europe) (vA1)
+file: Evolution - Eternal Dungeons (Europe) (vA1).zip
+
+game: Fantastic Night Dreams - Cotton (Europe)
+file: Fantastic Night Dreams - Cotton (Europe).zip
+
+game: Fantastic Night Dreams - Cotton (Japan)
+file: Fantastic Night Dreams - Cotton (Japan).zip
+
+game: Faselei! (Japan)
+file: Faselei! (Japan).zip
+
+game: Faselei! (USA, Europe)
+file: Faselei! (USA, Europe).zip
+
+game: Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)
+file: Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip
+
+game: Ganbare Neo Poke-kun (Kari) (Japan)
+file: Ganbare Neo Poke-kun (Kari) (Japan).zip
+
+game: Infinity Cure (Japan)
+file: Infinity Cure (Japan).zip
+
+game: Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)
+file: Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).zip
+
+game: King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 1)
+file: King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 1).zip
+
+game: King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 2)
+file: King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 2).zip
+
+game: King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)
+file: King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).zip
+
+game: King of Fighters, The - Battle de Paradise (Japan)
+file: King of Fighters, The - Battle de Paradise (Japan).zip
+
+game: Koi Koi Mahjong (Japan) (v08)
+file: Koi Koi Mahjong (Japan) (v08).zip
+
+game: Koi Koi Mahjong (Japan) (v0B)
+file: Koi Koi Mahjong (Japan) (v0B).zip
+
+game: Last Blade, The - Beyond the Destiny (USA, Europe)
+file: Last Blade, The - Beyond the Destiny (USA, Europe).zip
+
+game: Magical Drop Pocket (Japan) (Demo)
+file: Magical Drop Pocket (Japan) (Demo).zip
+
+game: Magical Drop Pocket (Japan)
+file: Magical Drop Pocket (Japan).zip
+
+game: Magical Drop Pocket (USA, Europe)
+file: Magical Drop Pocket (USA, Europe).zip
+
+game: Memories Off - Pure (Japan)
+file: Memories Off - Pure (Japan).zip
+
+game: Metal Slug - 1st Mission (World) (En,Ja)
+file: Metal Slug - 1st Mission (World) (En,Ja).zip
+
+game: Metal Slug - 2nd Mission (World) (En,Ja) (Demo)
+file: Metal Slug - 2nd Mission (World) (En,Ja) (Demo).zip
+
+game: Metal Slug - 2nd Mission (World) (En,Ja)
+file: Metal Slug - 2nd Mission (World) (En,Ja).zip
+
+game: Mezase! Kanji Ou (Japan)
+file: Mezase! Kanji Ou (Japan).zip
+
+game: Mizuki Shigeru no Youkai Shashinkan (Japan)
+file: Mizuki Shigeru no Youkai Shashinkan (Japan).zip
+
+game: Neo 21 - Pocket Casino Series (World)
+file: Neo 21 - Pocket Casino Series (World).zip
+
+game: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (Beta)
+file: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (Beta).zip
+
+game: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v11)
+file: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v11).zip
+
+game: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16)
+file: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16).zip
+
+game: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)
+file: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).zip
+
+game: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)
+file: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).zip
+
+game: Neo Derby Champ Daiyosou (Japan)
+file: Neo Derby Champ Daiyosou (Japan).zip
+
+game: Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11)
+file: Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11).zip
+
+game: Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)
+file: Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).zip
+
+game: Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)
+file: Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).zip
+
+game: Neo Poke Pro Yakyuu (Japan) (v1F)
+file: Neo Poke Pro Yakyuu (Japan) (v1F).zip
+
+game: Neo Poke Pro Yakyuu (Japan) (v32)
+file: Neo Poke Pro Yakyuu (Japan) (v32).zip
+
+game: Neo Turf Masters (World) (En,Ja)
+file: Neo Turf Masters (World) (En,Ja).zip
+
+game: NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)
+file: NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).zip
+
+game: Nige-ron-pa (Japan)
+file: Nige-ron-pa (Japan).zip
+
+game: Oekaki Puzzle (Japan)
+file: Oekaki Puzzle (Japan).zip
+
+game: Pac-Man (World) (En,Ja)
+file: Pac-Man (World) (En,Ja).zip
+
+game: Pachi-Slot Aruze Oukoku - Porcano 2 (Japan)
+file: Pachi-Slot Aruze Oukoku - Porcano 2 (Japan).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v03)
+file: Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v03).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v04)
+file: Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v04).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v06)
+file: Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v06).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)
+file: Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)
+file: Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v03)
+file: Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v03).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v04)
+file: Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v04).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v03)
+file: Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v03).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v04)
+file: Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v04).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v05)
+file: Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v05).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)
+file: Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03)
+file: Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03).zip
+
+game: Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04)
+file: Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04).zip
+
+game: Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta)
+file: Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta).zip
+
+game: Pachinko Hisshou Guide - Pocket Parlor (Japan)
+file: Pachinko Hisshou Guide - Pocket Parlor (Japan).zip
+
+game: Party Mail (Japan) (Beta)
+file: Party Mail (Japan) (Beta).zip
+
+game: Party Mail (Japan)
+file: Party Mail (Japan).zip
+
+game: Picture Puzzle (Europe)
+file: Picture Puzzle (Europe).zip
+
+game: Pocket Love - if (Japan)
+file: Pocket Love - if (Japan).zip
+
+game: Pocket Reversi (Europe) (v03)
+file: Pocket Reversi (Europe) (v03).zip
+
+game: Pocket Reversi (Europe) (vA1)
+file: Pocket Reversi (Europe) (vA1).zip
+
+game: Pocket Reversi (Japan)
+file: Pocket Reversi (Japan).zip
+
+game: Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)
+file: Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip
+
+game: PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)
+file: PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).zip
+
+game: Puyo Pop (World) (En,Ja) (v05)
+file: Puyo Pop (World) (En,Ja) (v05).zip
+
+game: Puyo Pop (World) (En,Ja) (v06)
+file: Puyo Pop (World) (En,Ja) (v06).zip
+
+game: Puzzle Bobble Mini (Europe)
+file: Puzzle Bobble Mini (Europe).zip
+
+game: Puzzle Bobble Mini (Japan) (En)
+file: Puzzle Bobble Mini (Japan) (En).zip
+
+game: Puzzle Link (USA, Europe)
+file: Puzzle Link (USA, Europe).zip
+
+game: Puzzle Link 2 (USA, Europe)
+file: Puzzle Link 2 (USA, Europe).zip
+
+game: Renketsu Puzzle Tsunagete Pon! Color (Japan)
+file: Renketsu Puzzle Tsunagete Pon! Color (Japan).zip
+
+game: Rockman - Battle & Fighters (Japan) (Demo)
+file: Rockman - Battle & Fighters (Japan) (Demo).zip
+
+game: Rockman - Battle & Fighters (Japan)
+file: Rockman - Battle & Fighters (Japan).zip
+
+game: Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)
+file: Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip
+
+game: Shanghai Mini (World) (En,Ja) (Beta 1)
+file: Shanghai Mini (World) (En,Ja) (Beta 1).zip
+
+game: Shanghai Mini (World) (En,Ja) (Beta 2)
+file: Shanghai Mini (World) (En,Ja) (Beta 2).zip
+
+game: Shanghai Mini (World) (En,Ja)
+file: Shanghai Mini (World) (En,Ja).zip
+
+game: Shinki Sekai Evolution - Hateshinai Dungeon (Japan)
+file: Shinki Sekai Evolution - Hateshinai Dungeon (Japan).zip
+
+game: Shougi no Tatsujin Color (Japan)
+file: Shougi no Tatsujin Color (Japan).zip
+
+game: SNK Gals' Fighters (Japan)
+file: SNK Gals' Fighters (Japan).zip
+
+game: SNK Gals' Fighters (USA, Europe)
+file: SNK Gals' Fighters (USA, Europe).zip
+
+game: SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)
+file: SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).zip
+
+game: SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)
+file: SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip
+
+game: SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)
+file: SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip
+
+game: SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)
+file: SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).zip
+
+game: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)
+file: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo).zip
+
+game: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)
+file: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).zip
+
+game: SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)
+file: SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).zip
+
+game: SNK vs. Capcom - The Match of the Millennium (Japan) (Demo)
+file: SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).zip
+
+game: SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)
+file: SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip
+
+game: Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)
+file: Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).zip
+
+game: Sonic The Hedgehog - Pocket Adventure (World) (Demo)
+file: Sonic The Hedgehog - Pocket Adventure (World) (Demo).zip
+
+game: Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)
+file: Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).zip
+
+game: Soreike!! Hanafuda Doujou (Japan)
+file: Soreike!! Hanafuda Doujou (Japan).zip
+
+game: Super Real Mahjong - Premium Collection (Japan)
+file: Super Real Mahjong - Premium Collection (Japan).zip
+
+game: Tsunagete Pon! 2 (Japan)
+file: Tsunagete Pon! 2 (Japan).zip
+
+game: Wrestling Madness (Japan) (En) (Beta)
+file: Wrestling Madness (Japan) (En) (Beta).zip

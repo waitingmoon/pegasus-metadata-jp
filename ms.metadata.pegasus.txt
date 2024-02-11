@@ -1,0 +1,2072 @@
+game: [BIOS] Alex Kidd in Miracle World (BIOS Version) (World) (Sega Ages)
+file: [BIOS] Alex Kidd in Miracle World (BIOS Version) (World) (Sega Ages).zip
+
+game: [BIOS] Alex Kidd in Miracle World (Korea) (Unl)
+file: [BIOS] Alex Kidd in Miracle World (Korea) (Unl).zip
+
+game: [BIOS] Alex Kidd in Miracle World (USA, Europe, Brazil) (En)
+file: [BIOS] Alex Kidd in Miracle World (USA, Europe, Brazil) (En).zip
+
+game: [BIOS] Hang On (USA, Europe) (v3.4)
+file: [BIOS] Hang On (USA, Europe) (v3.4).zip
+
+game: [BIOS] Hang On & Safari Hunt (USA, Europe, Brazil) (En) (v2.4)
+file: [BIOS] Hang On & Safari Hunt (USA, Europe, Brazil) (En) (v2.4).zip
+
+game: [BIOS] Missile Defense 3-D (USA, Europe) (v4.4)
+file: [BIOS] Missile Defense 3-D (USA, Europe) (v4.4).zip
+
+game: [BIOS] Sega Master System (Europe) (v2.0)
+file: [BIOS] Sega Master System (Europe) (v2.0).zip
+
+game: [BIOS] Sega Master System (Japan) (v2.1)
+file: [BIOS] Sega Master System (Japan) (v2.1).zip
+
+game: [BIOS] Sega Master System (USA, Europe) (v1.3)
+file: [BIOS] Sega Master System (USA, Europe) (v1.3).zip
+
+game: [BIOS] Sega Master System (USA) (M404) (Proto)
+file: [BIOS] Sega Master System (USA) (M404) (Proto).zip
+
+game: [BIOS] Sega Master System (USA) (Proto)
+file: [BIOS] Sega Master System (USA) (Proto).zip
+
+game: [BIOS] Sega Master System (USA) (Store Display Unit)
+file: [BIOS] Sega Master System (USA) (Store Display Unit).zip
+
+game: [BIOS] Sonic The Hedgehog (Europe)
+file: [BIOS] Sonic The Hedgehog (Europe).zip
+
+game: [BIOS] TecToy Master System Evolution Menu (Brazil)
+file: [BIOS] TecToy Master System Evolution Menu (Brazil).zip
+
+game: 11 Hap Gam-Boy (Korea) (Unl)
+file: 11 Hap Gam-Boy (Korea) (Unl).zip
+
+game: 128 Hap (Korea) (Unl)
+file: 128 Hap (Korea) (Unl).zip
+
+game: 2 Hap in 1 - Moai-ui Bomul + David II (Korea) (Unl)
+file: 2 Hap in 1 - Moai-ui Bomul + David II (Korea) (Unl).zip
+
+game: 20 em 1 (Brazil)
+file: 20 em 1 (Brazil).zip
+
+game: 3 in 1 - The Best Game Collection (A) (Korea) (En) (Unl)
+file: 3 in 1 - The Best Game Collection (A) (Korea) (En) (Unl).zip
+
+game: 3 in 1 - The Best Game Collection (B) (Korea) (En) (Unl)
+file: 3 in 1 - The Best Game Collection (B) (Korea) (En) (Unl).zip
+
+game: 3 in 1 - The Best Game Collection (C) (Korea) (En) (Unl)
+file: 3 in 1 - The Best Game Collection (C) (Korea) (En) (Unl).zip
+
+game: 3 in 1 - The Best Game Collection (D) (Korea) (En) (Unl)
+file: 3 in 1 - The Best Game Collection (D) (Korea) (En) (Unl).zip
+
+game: 3 in 1 - The Best Game Collection (E) (Korea) (En) (Unl)
+file: 3 in 1 - The Best Game Collection (E) (Korea) (En) (Unl).zip
+
+game: 3 in 1 - The Best Game Collection (F) (Korea) (En) (Unl)
+file: 3 in 1 - The Best Game Collection (F) (Korea) (En) (Unl).zip
+
+game: 3D Gunner (USA) (Beta)
+file: 3D Gunner (USA) (Beta).zip
+
+game: 4 PAK All Action (Australia) (Unl)
+file: 4 PAK All Action (Australia) (Unl).zip
+
+game: 8 in 1 - The Best Game Collection (A) (Korea) (En) (Unl)
+file: 8 in 1 - The Best Game Collection (A) (Korea) (En) (Unl).zip
+
+game: 8 in 1 - The Best Game Collection (B) (Korea) (En) (Unl)
+file: 8 in 1 - The Best Game Collection (B) (Korea) (En) (Unl).zip
+
+game: 8 in 1 - The Best Game Collection (C) (Korea) (En) (Unl)
+file: 8 in 1 - The Best Game Collection (C) (Korea) (En) (Unl).zip
+
+game: 94 Super World Cup Soccer (Korea) (Unl)
+file: 94 Super World Cup Soccer (Korea) (Unl).zip
+
+game: 94-Nen Super Basketball (Taiwan) (En) (Unl)
+file: 94-Nen Super Basketball (Taiwan) (En) (Unl).zip
+
+game: A-Team Music, The (Unknown) (Proto) (1992-11-09) (Sound Data)
+file: A-Team Music, The (Unknown) (Proto) (1992-11-09) (Sound Data).zip
+
+game: Ace of Aces (Europe, Brazil) (En)
+file: Ace of Aces (Europe, Brazil) (En).zip
+
+game: Acerte o Alvo (Brazil) (Mega Drive 4)
+file: Acerte o Alvo (Brazil) (Mega Drive 4).zip
+
+game: Action Boy (Taiwan) (En) (Unl)
+file: Action Boy (Taiwan) (En) (Unl).zip
+
+game: Action Fighter (Japan, Europe) (En) (Beta)
+file: Action Fighter (Japan, Europe) (En) (Beta).zip
+
+game: Action Fighter (Japan, Europe) (En)
+file: Action Fighter (Japan, Europe) (En).zip
+
+game: Action Fighter (Taiwan) (Unl)
+file: Action Fighter (Taiwan) (Unl).zip
+
+game: Action Fighter (USA, Europe, Brazil) (En) (Rev 1)
+file: Action Fighter (USA, Europe, Brazil) (En) (Rev 1).zip
+
+game: Addams Family, The (Europe)
+file: Addams Family, The (Europe).zip
+
+game: Aerial Assault (Europe, Brazil) (En)
+file: Aerial Assault (Europe, Brazil) (En).zip
+
+game: Aerial Assault (Taiwan) (En) (Unl)
+file: Aerial Assault (Taiwan) (En) (Unl).zip
+
+game: Aerial Assault (USA)
+file: Aerial Assault (USA).zip
+
+game: After Burner (World)
+file: After Burner (World).zip
+
+game: Agigongnyong Dooly (Korea) (Unl)
+file: Agigongnyong Dooly (Korea) (Unl).zip
+
+game: Air Rescue (Europe, Brazil) (En)
+file: Air Rescue (Europe, Brazil) (En).zip
+
+game: Aladdin (Europe, Brazil) (En)
+file: Aladdin (Europe, Brazil) (En).zip
+
+game: Aleste (Japan)
+file: Aleste (Japan).zip
+
+game: Alex Kidd - High-Tech World (USA, Europe, Brazil) (En) (Beta)
+file: Alex Kidd - High-Tech World (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)
+file: Alex Kidd - High-Tech World (USA, Europe, Brazil) (En).zip
+
+game: Alex Kidd - The Lost Stars (World)
+file: Alex Kidd - The Lost Stars (World).zip
+
+game: Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)
+file: Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1).zip
+
+game: Alex Kidd in Miracle World (USA, Europe)
+file: Alex Kidd in Miracle World (USA, Europe).zip
+
+game: Alex Kidd in Miracle World (World) (Ja) (Sega Ages)
+file: Alex Kidd in Miracle World (World) (Ja) (Sega Ages).zip
+
+game: Alex Kidd in Miracle World (World) (Sega Ages)
+file: Alex Kidd in Miracle World (World) (Sega Ages).zip
+
+game: Alex Kidd in Miracle World 2 (World) (Unl)
+file: Alex Kidd in Miracle World 2 (World) (Unl).zip
+
+game: Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)
+file: Alex Kidd in Shinobi World (USA, Europe, Brazil) (En).zip
+
+game: Alex Kidd no Miracle World (Japan)
+file: Alex Kidd no Miracle World (Japan).zip
+
+game: Alex Kido (Taiwan) (En) (Unl)
+file: Alex Kido (Taiwan) (En) (Unl).zip
+
+game: Alf (USA)
+file: Alf (USA).zip
+
+game: Alibaba and 40 Thieves (Korea) (En) (Unl)
+file: Alibaba and 40 Thieves (Korea) (En) (Unl).zip
+
+game: Alien 3 (Europe, Brazil) (En)
+file: Alien 3 (Europe, Brazil) (En).zip
+
+game: Alien Storm (Europe, Brazil) (En)
+file: Alien Storm (Europe, Brazil) (En).zip
+
+game: Alien Syndrome (Japan)
+file: Alien Syndrome (Japan).zip
+
+game: Alien Syndrome (USA, Europe, Brazil) (En) (Beta)
+file: Alien Syndrome (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Alien Syndrome (USA, Europe, Brazil) (En)
+file: Alien Syndrome (USA, Europe, Brazil) (En).zip
+
+game: Alocos (Taiwan) (En) (Unl)
+file: Alocos (Taiwan) (En) (Unl).zip
+
+game: Altered Beast (USA, Europe, Brazil) (En)
+file: Altered Beast (USA, Europe, Brazil) (En).zip
+
+game: American Baseball (Europe, Brazil) (En)
+file: American Baseball (Europe, Brazil) (En).zip
+
+game: American Pro Football (Europe)
+file: American Pro Football (Europe).zip
+
+game: Andre Agassi Tennis (Europe, Brazil) (En)
+file: Andre Agassi Tennis (Europe, Brazil) (En).zip
+
+game: Anmitsu Hime (Japan)
+file: Anmitsu Hime (Japan).zip
+
+game: Arcade Smash Hits (Europe)
+file: Arcade Smash Hits (Europe).zip
+
+game: Argos no Juujiken (Japan)
+file: Argos no Juujiken (Japan).zip
+
+game: Ariel - The Little Mermaid (Brazil) (En)
+file: Ariel - The Little Mermaid (Brazil) (En).zip
+
+game: Ashura (Japan)
+file: Ashura (Japan).zip
+
+game: Assault City (Europe) (Joypad)
+file: Assault City (Europe) (Joypad).zip
+
+game: Assault City (USA, Europe, Brazil) (En) (Light Phaser)
+file: Assault City (USA, Europe, Brazil) (En) (Light Phaser).zip
+
+game: Asterix (Europe, Brazil) (En,Fr) (Rev 1)
+file: Asterix (Europe, Brazil) (En,Fr) (Rev 1).zip
+
+game: Asterix (Europe, Brazil) (En,Fr)
+file: Asterix (Europe, Brazil) (En,Fr).zip
+
+game: Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)
+file: Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).zip
+
+game: Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De)
+file: Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).zip
+
+game: Astro Adventure (Taiwan) (En) (Unl)
+file: Astro Adventure (Taiwan) (En) (Unl).zip
+
+game: Astro Flash (Japan)
+file: Astro Flash (Japan).zip
+
+game: Astro Warrior (Japan, USA, Brazil) (En)
+file: Astro Warrior (Japan, USA, Brazil) (En).zip
+
+game: Astro Warrior & Pit Pot (Brazil) (En) (Master System Evolution)
+file: Astro Warrior & Pit Pot (Brazil) (En) (Master System Evolution).zip
+
+game: Astro Warrior & Pit Pot (Europe) (Sample)
+file: Astro Warrior & Pit Pot (Europe) (Sample).zip
+
+game: Astro Warrior & Pit Pot (Europe)
+file: Astro Warrior & Pit Pot (Europe).zip
+
+game: Aventuras da TV Colosso, As (Brazil)
+file: Aventuras da TV Colosso, As (Brazil).zip
+
+game: Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)
+file: Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En).zip
+
+game: Aztec Adventure (World)
+file: Aztec Adventure (World).zip
+
+game: Aztel Adventure (Taiwan) (En) (Unl)
+file: Aztel Adventure (Taiwan) (En) (Unl).zip
+
+game: Back to the Future Part II (Europe, Brazil) (En)
+file: Back to the Future Part II (Europe, Brazil) (En).zip
+
+game: Back to the Future Part III (Europe)
+file: Back to the Future Part III (Europe).zip
+
+game: Baku Baku (Brazil) (En)
+file: Baku Baku (Brazil) (En).zip
+
+game: Bank Panic (Europe, Brazil) (En)
+file: Bank Panic (Europe, Brazil) (En).zip
+
+game: Basketball Nightmare (Europe, Brazil) (En) (Beta 1)
+file: Basketball Nightmare (Europe, Brazil) (En) (Beta 1).zip
+
+game: Basketball Nightmare (Europe, Brazil) (En) (Beta 2)
+file: Basketball Nightmare (Europe, Brazil) (En) (Beta 2).zip
+
+game: Basketball Nightmare (Europe, Brazil) (En)
+file: Basketball Nightmare (Europe, Brazil) (En).zip
+
+game: Batman Returns (Europe, Brazil) (En)
+file: Batman Returns (Europe, Brazil) (En).zip
+
+game: Battle Out Run (Europe, Brazil) (En)
+file: Battle Out Run (Europe, Brazil) (En).zip
+
+game: Battle Wings (World) (Beta) (1988-09-07)
+file: Battle Wings (World) (Beta) (1988-09-07).zip
+
+game: Battlemaniacs (Brazil) (En)
+file: Battlemaniacs (Brazil) (En).zip
+
+game: Black Belt (Taiwan) (En) (Unl)
+file: Black Belt (Taiwan) (En) (Unl).zip
+
+game: Black Belt (USA, Europe, Brazil) (En)
+file: Black Belt (USA, Europe, Brazil) (En).zip
+
+game: Blade Eagle (World) (Beta)
+file: Blade Eagle (World) (Beta).zip
+
+game: Blade Eagle 3-D (World)
+file: Blade Eagle 3-D (World).zip
+
+game: BMX Trial - Alex Kidd (Japan)
+file: BMX Trial - Alex Kidd (Japan).zip
+
+game: Bobble Bobble (Korea) (En) (Unl)
+file: Bobble Bobble (Korea) (En) (Unl).zip
+
+game: Bolas e Cores (Brazil) (Mega Drive 4)
+file: Bolas e Cores (Brazil) (Mega Drive 4).zip
+
+game: Bolhas (Brazil) (Mega Drive 4)
+file: Bolhas (Brazil) (Mega Drive 4).zip
+
+game: Bombeiros (Brazil) (Mega Drive 4)
+file: Bombeiros (Brazil) (Mega Drive 4).zip
+
+game: Bomber Raid (World)
+file: Bomber Raid (World).zip
+
+game: Bonanza Bros. (Europe, Brazil) (En)
+file: Bonanza Bros. (Europe, Brazil) (En).zip
+
+game: Bonkers Wax Up! (Brazil) (En)
+file: Bonkers Wax Up! (Brazil) (En).zip
+
+game: Bram Stoker's Dracula (Europe)
+file: Bram Stoker's Dracula (Europe).zip
+
+game: Bubble Bobble (Europe, Brazil) (En)
+file: Bubble Bobble (Europe, Brazil) (En).zip
+
+game: Bubble Bobble (Taiwan) (En) (Unl)
+file: Bubble Bobble (Taiwan) (En) (Unl).zip
+
+game: Buggy Run (Europe, Brazil) (En)
+file: Buggy Run (Europe, Brazil) (En).zip
+
+game: C_So! (Korea) (Unl)
+file: C_So! (Korea) (Unl).zip
+
+game: California Games (USA, Europe, Brazil) (En)
+file: California Games (USA, Europe, Brazil) (En).zip
+
+game: California Games II (Europe)
+file: California Games II (Europe).zip
+
+game: Captain Silver (Japan, Europe, Brazil) (En)
+file: Captain Silver (Japan, Europe, Brazil) (En).zip
+
+game: Captain Silver (USA) (Beta)
+file: Captain Silver (USA) (Beta).zip
+
+game: Captain Silver (USA)
+file: Captain Silver (USA).zip
+
+game: Casino Games (USA, Europe)
+file: Casino Games (USA, Europe).zip
+
+game: Castelo Ra-Tim-Bum (Brazil)
+file: Castelo Ra-Tim-Bum (Brazil).zip
+
+game: Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)
+file: Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo).zip
+
+game: Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1)
+file: Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1).zip
+
+game: Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)
+file: Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).zip
+
+game: Cava-Cava (Brazil) (Mega Drive 4)
+file: Cava-Cava (Brazil) (Mega Drive 4).zip
+
+game: Champions of Europe (Europe, Brazil) (En)
+file: Champions of Europe (Europe, Brazil) (En).zip
+
+game: Championship Hockey (Europe)
+file: Championship Hockey (Europe).zip
+
+game: Chapolim x Dracula - Um Duelo Assustador (Brazil)
+file: Chapolim x Dracula - Um Duelo Assustador (Brazil).zip
+
+game: Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es)
+file: Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).zip
+
+game: Choplifter (Japan) (Proto)
+file: Choplifter (Japan) (Proto).zip
+
+game: Choplifter (Taiwan) (En) (Unl)
+file: Choplifter (Taiwan) (En) (Unl).zip
+
+game: Choplifter (USA, Europe, Brazil) (En) (Beta)
+file: Choplifter (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Choplifter (USA, Europe, Brazil) (En)
+file: Choplifter (USA, Europe, Brazil) (En).zip
+
+game: Chouon Senshi Borgman (Japan) (Beta)
+file: Chouon Senshi Borgman (Japan) (Beta).zip
+
+game: Chouon Senshi Borgman (Japan)
+file: Chouon Senshi Borgman (Japan).zip
+
+game: Chuck Rock (Europe, Brazil) (En)
+file: Chuck Rock (Europe, Brazil) (En).zip
+
+game: Chuck Rock II - Son of Chuck (Brazil) (En)
+file: Chuck Rock II - Son of Chuck (Brazil) (En).zip
+
+game: Chuck Rock II - Son of Chuck (Europe)
+file: Chuck Rock II - Son of Chuck (Europe).zip
+
+game: Circuit, The (Japan)
+file: Circuit, The (Japan).zip
+
+game: Cloud Master (USA, Europe, Brazil) (En)
+file: Cloud Master (USA, Europe, Brazil) (En).zip
+
+game: Color & Switch Test (Brazil) (En) (Rev 1)
+file: Color & Switch Test (Brazil) (En) (Rev 1).zip
+
+game: Color & Switch Test (Japan) (En) (Proto)
+file: Color & Switch Test (Japan) (En) (Proto).zip
+
+game: Columns (USA, Europe, Brazil) (En) (Beta)
+file: Columns (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Columns (USA, Europe, Brazil) (En)
+file: Columns (USA, Europe, Brazil) (En).zip
+
+game: Comical Machine Gun Joe (Japan)
+file: Comical Machine Gun Joe (Japan).zip
+
+game: Comical Machine Gun Joe (Korea) (Unl)
+file: Comical Machine Gun Joe (Korea) (Unl).zip
+
+game: Comical Machine Gun Joe (Taiwan) (Unl)
+file: Comical Machine Gun Joe (Taiwan) (Unl).zip
+
+game: Con-Dori (Korea) (Unl)
+file: Con-Dori (Korea) (Unl).zip
+
+game: Cool Spot (Europe)
+file: Cool Spot (Europe).zip
+
+game: Cosmic Spacehead (Europe) (En,Fr,De,Es)
+file: Cosmic Spacehead (Europe) (En,Fr,De,Es).zip
+
+game: Creature Capture (Brazil) (Mega Drive 4)
+file: Creature Capture (Brazil) (Mega Drive 4).zip
+
+game: Cyber Shinobi, The (Europe, Brazil) (En) (Beta)
+file: Cyber Shinobi, The (Europe, Brazil) (En) (Beta).zip
+
+game: Cyber Shinobi, The (Europe, Brazil) (En)
+file: Cyber Shinobi, The (Europe, Brazil) (En).zip
+
+game: Cyber Shinobi, The (Taiwan) (En) (Unl)
+file: Cyber Shinobi, The (Taiwan) (En) (Unl).zip
+
+game: Cyborg Hunter (USA, Europe, Brazil) (En) (Beta) (1988-09-12)
+file: Cyborg Hunter (USA, Europe, Brazil) (En) (Beta) (1988-09-12).zip
+
+game: Cyborg Hunter (USA, Europe, Brazil) (En)
+file: Cyborg Hunter (USA, Europe, Brazil) (En).zip
+
+game: Cyborg Z (Korea) (Unl)
+file: Cyborg Z (Korea) (Unl).zip
+
+game: Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)
+file: Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).zip
+
+game: Dallyeora Pigu-Wang (Korea) (Unl)
+file: Dallyeora Pigu-Wang (Korea) (Unl).zip
+
+game: Danan - The Jungle Fighter (Europe, Brazil) (En)
+file: Danan - The Jungle Fighter (Europe, Brazil) (En).zip
+
+game: Dead Angle (USA, Europe, Brazil) (En) (Beta)
+file: Dead Angle (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Dead Angle (USA, Europe, Brazil) (En)
+file: Dead Angle (USA, Europe, Brazil) (En).zip
+
+game: Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)
+file: Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En).zip
+
+game: Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It)
+file: Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).zip
+
+game: Desert Strike (Europe) (En,Fr,De,Es)
+file: Desert Strike (Europe) (En,Fr,De,Es).zip
+
+game: Dick Tracy (USA, Europe, Brazil) (En)
+file: Dick Tracy (USA, Europe, Brazil) (En).zip
+
+game: DINOBASHER - Starring Bignose the Caveman (Europe) (Proto)
+file: DINOBASHER - Starring Bignose the Caveman (Europe) (Proto).zip
+
+game: Dinosaur Dooley, The (Korea) (En) (Unl)
+file: Dinosaur Dooley, The (Korea) (En) (Unl).zip
+
+game: Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta)
+file: Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta).zip
+
+game: Doki Doki Penguin Land - Uchuu Daibouken (Japan)
+file: Doki Doki Penguin Land - Uchuu Daibouken (Japan).zip
+
+game: Domino (Brazil) (Mega Drive 4)
+file: Domino (Brazil) (Mega Drive 4).zip
+
+game: Double Dragon (Taiwan) (En) (Unl)
+file: Double Dragon (Taiwan) (En) (Unl).zip
+
+game: Double Dragon (World)
+file: Double Dragon (World).zip
+
+game: Double Hawk (Europe) (Beta)
+file: Double Hawk (Europe) (Beta).zip
+
+game: Double Hawk (Europe)
+file: Double Hawk (Europe).zip
+
+game: Double Target - Cynthia no Nemuri (Japan)
+file: Double Target - Cynthia no Nemuri (Japan).zip
+
+game: Doze Trabalhos de Jongo, Os (Brazil) (Mega Drive 4)
+file: Doze Trabalhos de Jongo, Os (Brazil) (Mega Drive 4).zip
+
+game: Dr. HELLO (Korea) (En) (Unl)
+file: Dr. HELLO (Korea) (En) (Unl).zip
+
+game: Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En)
+file: Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En).zip
+
+game: Dragon - The Bruce Lee Story (Europe)
+file: Dragon - The Bruce Lee Story (Europe).zip
+
+game: Dragon Crystal (Europe, Brazil) (En)
+file: Dragon Crystal (Europe, Brazil) (En).zip
+
+game: Dynamite Duke (Europe, Brazil) (En)
+file: Dynamite Duke (Europe, Brazil) (En).zip
+
+game: Dynamite Dux (Europe, Brazil) (En) (Beta)
+file: Dynamite Dux (Europe, Brazil) (En) (Beta).zip
+
+game: Dynamite Dux (Europe, Brazil) (En)
+file: Dynamite Dux (Europe, Brazil) (En).zip
+
+game: Dynamite Headdy (Brazil) (En)
+file: Dynamite Headdy (Brazil) (En).zip
+
+game: E-SWAT (Taiwan) (En) (Unl)
+file: E-SWAT (Taiwan) (En) (Unl).zip
+
+game: E-SWAT (USA, Europe, Brazil) (En) (Beta 1)
+file: E-SWAT (USA, Europe, Brazil) (En) (Beta 1).zip
+
+game: E-SWAT (USA, Europe, Brazil) (En) (Beta 2)
+file: E-SWAT (USA, Europe, Brazil) (En) (Beta 2).zip
+
+game: E-SWAT (USA, Europe, Brazil) (En) (Beta 3)
+file: E-SWAT (USA, Europe, Brazil) (En) (Beta 3).zip
+
+game: E-SWAT (USA, Europe, Brazil) (En) (Rev A)
+file: E-SWAT (USA, Europe, Brazil) (En) (Rev A).zip
+
+game: E-SWAT (USA, Europe, Brazil) (En)
+file: E-SWAT (USA, Europe, Brazil) (En).zip
+
+game: E.I. - Exa Innova (Korea) (En) (Unl)
+file: E.I. - Exa Innova (Korea) (En) (Unl).zip
+
+game: Eagles 5 (Korea) (Unl)
+file: Eagles 5 (Korea) (Unl).zip
+
+game: Earthworm Jim (Brazil) (En)
+file: Earthworm Jim (Brazil) (En).zip
+
+game: Ecco - The Tides of Time (Brazil)
+file: Ecco - The Tides of Time (Brazil).zip
+
+game: Ecco The Dolphin (Europe, Brazil) (En)
+file: Ecco The Dolphin (Europe, Brazil) (En).zip
+
+game: Enduro Racer (Japan)
+file: Enduro Racer (Japan).zip
+
+game: Enduro Racer (USA, Europe, Brazil) (En)
+file: Enduro Racer (USA, Europe, Brazil) (En).zip
+
+game: Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto)
+file: Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).zip
+
+game: F-1 Spirit - The Way to Formula-1 (Korea) (En) (Unl)
+file: F-1 Spirit - The Way to Formula-1 (Korea) (En) (Unl).zip
+
+game: F-16 Fighter (USA, Europe, Brazil) (En)
+file: F-16 Fighter (USA, Europe, Brazil) (En).zip
+
+game: F-16 Fighting Falcon (Japan)
+file: F-16 Fighting Falcon (Japan).zip
+
+game: F-16 Fighting Falcon (Taiwan) (Unl)
+file: F-16 Fighting Falcon (Taiwan) (Unl).zip
+
+game: F-16 Fighting Falcon (USA)
+file: F-16 Fighting Falcon (USA).zip
+
+game: F1 (Europe, Brazil) (En)
+file: F1 (Europe, Brazil) (En).zip
+
+game: FA Tetris (Korea) (Unl)
+file: FA Tetris (Korea) (Unl).zip
+
+game: Fabrica de Chocolate (Brazil) (Mega Drive 4)
+file: Fabrica de Chocolate (Brazil) (Mega Drive 4).zip
+
+game: Family Games (Japan)
+file: Family Games (Japan).zip
+
+game: Fantastic Dizzy (Europe) (En,Fr,De,Es,It)
+file: Fantastic Dizzy (Europe) (En,Fr,De,Es,It).zip
+
+game: Fantasy Zone - The Maze (USA, Europe, Brazil) (En) (Beta)
+file: Fantasy Zone - The Maze (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Fantasy Zone - The Maze (USA, Europe, Brazil) (En)
+file: Fantasy Zone - The Maze (USA, Europe, Brazil) (En).zip
+
+game: Fantasy Zone (Japan)
+file: Fantasy Zone (Japan).zip
+
+game: Fantasy Zone (Taiwan) (Unl)
+file: Fantasy Zone (Taiwan) (Unl).zip
+
+game: Fantasy Zone (World) (Beta)
+file: Fantasy Zone (World) (Beta).zip
+
+game: Fantasy Zone (World) (Rev 1)
+file: Fantasy Zone (World) (Rev 1).zip
+
+game: Fantasy Zone II - Opa-Opa no Namida (Japan)
+file: Fantasy Zone II - Opa-Opa no Namida (Japan).zip
+
+game: Fantasy Zone II (USA, Europe, Brazil) (En)
+file: Fantasy Zone II (USA, Europe, Brazil) (En).zip
+
+game: Feiche Zhengba Zhan (Taiwan) (En) (Unl)
+file: Feiche Zhengba Zhan (Taiwan) (En) (Unl).zip
+
+game: Ferias Frustradas do Pica Pau (Brazil)
+file: Ferias Frustradas do Pica Pau (Brazil).zip
+
+game: FIFA International Soccer (Brazil) (En,Es,Pt)
+file: FIFA International Soccer (Brazil) (En,Es,Pt).zip
+
+game: Final Bubble Bobble (Japan)
+file: Final Bubble Bobble (Japan).zip
+
+game: Fire & Forget II (Europe)
+file: Fire & Forget II (Europe).zip
+
+game: Fire & Ice (Brazil) (En)
+file: Fire & Ice (Brazil) (En).zip
+
+game: Flash, The (Europe, Brazil) (En)
+file: Flash, The (Europe, Brazil) (En).zip
+
+game: Flashpoint (Korea) (Unl)
+file: Flashpoint (Korea) (Unl).zip
+
+game: Flintstones, The (Europe, Brazil) (En)
+file: Flintstones, The (Europe, Brazil) (En).zip
+
+game: Forgotten Worlds (Europe, Brazil) (En)
+file: Forgotten Worlds (Europe, Brazil) (En).zip
+
+game: Forgotten Worlds (Taiwan) (En) (Unl)
+file: Forgotten Worlds (Taiwan) (En) (Unl).zip
+
+game: Fushigi no Oshiro Pit Pot (Japan) (Beta)
+file: Fushigi no Oshiro Pit Pot (Japan) (Beta).zip
+
+game: Fushigi no Oshiro Pit Pot (Japan)
+file: Fushigi no Oshiro Pit Pot (Japan).zip
+
+game: G-LOC - Air Battle (Europe, Brazil) (En)
+file: G-LOC - Air Battle (Europe, Brazil) (En).zip
+
+game: Gaegujangi Ggachi (Korea) (Unl)
+file: Gaegujangi Ggachi (Korea) (Unl).zip
+
+game: Gain Ground (Europe, Brazil) (En) (Beta)
+file: Gain Ground (Europe, Brazil) (En) (Beta).zip
+
+game: Gain Ground (Europe, Brazil) (En)
+file: Gain Ground (Europe, Brazil) (En).zip
+
+game: Galactic Protector (Japan)
+file: Galactic Protector (Japan).zip
+
+game: Galaxian (Korea) (Unl)
+file: Galaxian (Korea) (Unl).zip
+
+game: Galaxy Force (Europe, Brazil) (En)
+file: Galaxy Force (Europe, Brazil) (En).zip
+
+game: Galaxy Force (USA)
+file: Galaxy Force (USA).zip
+
+game: Game Box Serie Esportes Radicais (Brazil) (En)
+file: Game Box Serie Esportes Radicais (Brazil) (En).zip
+
+game: Game Chongjiphap 200 (Korea) (Unl)
+file: Game Chongjiphap 200 (Korea) (Unl).zip
+
+game: Game de Check! Koutsuu Anzen (Japan) (Proto)
+file: Game de Check! Koutsuu Anzen (Japan) (Proto).zip
+
+game: Game Mo-eumjip 188 Hap (Korea) (v1.0) (Unl)
+file: Game Mo-eumjip 188 Hap (Korea) (v1.0) (Unl).zip
+
+game: Game Mo-eumjip 188 Hap (Korea) (v1.1) (Unl)
+file: Game Mo-eumjip 188 Hap (Korea) (v1.1) (Unl).zip
+
+game: Gangcheol RoboCop (Korea) (En) (Unl)
+file: Gangcheol RoboCop (Korea) (En) (Unl).zip
+
+game: Gangster Town (USA, Europe, Brazil) (En)
+file: Gangster Town (USA, Europe, Brazil) (En).zip
+
+game: Gauntlet (Europe, Brazil) (En)
+file: Gauntlet (Europe, Brazil) (En).zip
+
+game: George Foreman's KO Boxing (Europe, Brazil) (En)
+file: George Foreman's KO Boxing (Europe, Brazil) (En).zip
+
+game: Geraldinho (Brazil) (En)
+file: Geraldinho (Brazil) (En).zip
+
+game: Ghost House (Japan)
+file: Ghost House (Japan).zip
+
+game: Ghost House (USA, Europe, Brazil) (En) (Beta)
+file: Ghost House (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Ghost House (USA, Europe, Brazil) (En)
+file: Ghost House (USA, Europe, Brazil) (En).zip
+
+game: Ghostbusters (USA, Europe, Brazil) (En)
+file: Ghostbusters (USA, Europe, Brazil) (En).zip
+
+game: Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)
+file: Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo).zip
+
+game: Ghouls'n Ghosts (USA, Europe, Brazil) (En)
+file: Ghouls'n Ghosts (USA, Europe, Brazil) (En).zip
+
+game: Global Defense (USA, Europe, Brazil) (En) (Beta)
+file: Global Defense (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Global Defense (USA, Europe, Brazil) (En)
+file: Global Defense (USA, Europe, Brazil) (En).zip
+
+game: Global Gladiators (Europe, Brazil) (En)
+file: Global Gladiators (Europe, Brazil) (En).zip
+
+game: Gokuaku Doumei Dump Matsumoto (Japan)
+file: Gokuaku Doumei Dump Matsumoto (Japan).zip
+
+game: Golden Axe (USA, Europe, Brazil) (En) (Demo)
+file: Golden Axe (USA, Europe, Brazil) (En) (Demo).zip
+
+game: Golden Axe (USA, Europe, Brazil) (En)
+file: Golden Axe (USA, Europe, Brazil) (En).zip
+
+game: Golden Axe Warrior (USA, Europe, Brazil) (En)
+file: Golden Axe Warrior (USA, Europe, Brazil) (En).zip
+
+game: Golfamania (Europe, Brazil) (En)
+file: Golfamania (Europe, Brazil) (En).zip
+
+game: Golfamania (Europe) (Beta)
+file: Golfamania (Europe) (Beta).zip
+
+game: Golvellius - Valley of Doom (USA, Europe, Brazil) (En)
+file: Golvellius - Valley of Doom (USA, Europe, Brazil) (En).zip
+
+game: GP Rider (Europe, Brazil) (En)
+file: GP Rider (Europe, Brazil) (En).zip
+
+game: Great Baseball (Japan)
+file: Great Baseball (Japan).zip
+
+game: Great Baseball (USA, Europe)
+file: Great Baseball (USA, Europe).zip
+
+game: Great Basketball (World)
+file: Great Basketball (World).zip
+
+game: Great Football (World)
+file: Great Football (World).zip
+
+game: Great Golf (Japan)
+file: Great Golf (Japan).zip
+
+game: Great Golf (Korea) (En) (Unl)
+file: Great Golf (Korea) (En) (Unl).zip
+
+game: Great Golf (World) (Beta)
+file: Great Golf (World) (Beta).zip
+
+game: Great Golf (World)
+file: Great Golf (World).zip
+
+game: Great Ice Hockey (Japan, USA) (En)
+file: Great Ice Hockey (Japan, USA) (En).zip
+
+game: Great Soccer (Europe)
+file: Great Soccer (Europe).zip
+
+game: Great Soccer (Japan)
+file: Great Soccer (Japan).zip
+
+game: Great Soccer (Taiwan) (Unl)
+file: Great Soccer (Taiwan) (Unl).zip
+
+game: Great Tennis (Japan)
+file: Great Tennis (Japan).zip
+
+game: Great Volleyball (Japan)
+file: Great Volleyball (Japan).zip
+
+game: Great Volleyball (USA, Europe, Brazil) (En)
+file: Great Volleyball (USA, Europe, Brazil) (En).zip
+
+game: Gun.Smoke (Korea) (En) (Unl)
+file: Gun.Smoke (Korea) (En) (Unl).zip
+
+game: Haja no Fuuin (Japan)
+file: Haja no Fuuin (Japan).zip
+
+game: Hang On (Europe) (Beta)
+file: Hang On (Europe) (Beta).zip
+
+game: Hang On (Europe)
+file: Hang On (Europe).zip
+
+game: Hang On (Japan)
+file: Hang On (Japan).zip
+
+game: Hang On & Astro Warrior (USA)
+file: Hang On & Astro Warrior (USA).zip
+
+game: Hang On & Safari Hunt (USA) (Beta)
+file: Hang On & Safari Hunt (USA) (Beta).zip
+
+game: Hang On & Safari Hunt (USA)
+file: Hang On & Safari Hunt (USA).zip
+
+game: Heavyweight Champ (Europe, Brazil) (En)
+file: Heavyweight Champ (Europe, Brazil) (En).zip
+
+game: Heroes of the Lance (Europe, Brazil) (En) (Beta)
+file: Heroes of the Lance (Europe, Brazil) (En) (Beta).zip
+
+game: Heroes of the Lance (Europe, Brazil) (En)
+file: Heroes of the Lance (Europe, Brazil) (En).zip
+
+game: High School! Kimengumi (Japan)
+file: High School! Kimengumi (Japan).zip
+
+game: Hokuto no Ken (Japan)
+file: Hokuto no Ken (Japan).zip
+
+game: Hokuto no Ken (Taiwan) (Unl)
+file: Hokuto no Ken (Taiwan) (Unl).zip
+
+game: Home Alone (Europe)
+file: Home Alone (Europe).zip
+
+game: Hong Kil Dong (Korea) (Unl)
+file: Hong Kil Dong (Korea) (Unl).zip
+
+game: Hook (Europe) (Proto)
+file: Hook (Europe) (Proto).zip
+
+game: Hoshi wo Sagashite... (Japan)
+file: Hoshi wo Sagashite... (Japan).zip
+
+game: Hwarang-ui Geom (Korea) (Unl)
+file: Hwarang-ui Geom (Korea) (Unl).zip
+
+game: Impossible Mission (Europe, Brazil) (En) (Beta)
+file: Impossible Mission (Europe, Brazil) (En) (Beta).zip
+
+game: Impossible Mission (Europe, Brazil) (En)
+file: Impossible Mission (Europe, Brazil) (En).zip
+
+game: Incredible Crash Dummies, The (Europe, Brazil) (En)
+file: Incredible Crash Dummies, The (Europe, Brazil) (En).zip
+
+game: Incredible Hulk, The (Europe, Brazil) (En)
+file: Incredible Hulk, The (Europe, Brazil) (En).zip
+
+game: Indiana Jones and the Last Crusade (Europe, Brazil) (En)
+file: Indiana Jones and the Last Crusade (Europe, Brazil) (En).zip
+
+game: Indiana Jones and the Last Crusade (USA) (Proto)
+file: Indiana Jones and the Last Crusade (USA) (Proto).zip
+
+game: James 'Buster' Douglas Knockout Boxing (USA) (Sample)
+file: James 'Buster' Douglas Knockout Boxing (USA) (Sample).zip
+
+game: James 'Buster' Douglas Knockout Boxing (USA)
+file: James 'Buster' Douglas Knockout Boxing (USA).zip
+
+game: James Bond 007 - The Duel (Brazil) (En)
+file: James Bond 007 - The Duel (Brazil) (En).zip
+
+game: James Bond 007 - The Duel (Europe)
+file: James Bond 007 - The Duel (Europe).zip
+
+game: James Pond 2 - Codename RoboCod (Europe, Brazil) (En)
+file: James Pond 2 - Codename RoboCod (Europe, Brazil) (En).zip
+
+game: Jang Pung 3 (Korea) (Unl)
+file: Jang Pung 3 (Korea) (Unl).zip
+
+game: Jang Pung II (Korea) (Unl)
+file: Jang Pung II (Korea) (Unl).zip
+
+game: Janggun-ui Adeul (Korea) (Unl)
+file: Janggun-ui Adeul (Korea) (Unl).zip
+
+game: Joe Montana Football (USA, Europe, Brazil) (En)
+file: Joe Montana Football (USA, Europe, Brazil) (En).zip
+
+game: Jogos de Verao II (Brazil) (En)
+file: Jogos de Verao II (Brazil) (En).zip
+
+game: Jungle Book, The (Europe, Brazil) (En)
+file: Jungle Book, The (Europe, Brazil) (En).zip
+
+game: Jurassic Park (Europe, Brazil) (En)
+file: Jurassic Park (Europe, Brazil) (En).zip
+
+game: Kenseiden (Japan)
+file: Kenseiden (Japan).zip
+
+game: Kenseiden (USA, Europe, Brazil) (En)
+file: Kenseiden (USA, Europe, Brazil) (En).zip
+
+game: King & Balloon (Korea) (En) (Unl)
+file: King & Balloon (Korea) (En) (Unl).zip
+
+game: King's Quest - Quest for the Crown (USA) (Beta 1)
+file: King's Quest - Quest for the Crown (USA) (Beta 1).zip
+
+game: King's Quest - Quest for the Crown (USA) (Beta 2)
+file: King's Quest - Quest for the Crown (USA) (Beta 2).zip
+
+game: King's Quest - Quest for the Crown (USA)
+file: King's Quest - Quest for the Crown (USA).zip
+
+game: KLAX (Europe)
+file: KLAX (Europe).zip
+
+game: Knightmare II - The Maze of Galious (Korea) (Unl)
+file: Knightmare II - The Maze of Galious (Korea) (Unl).zip
+
+game: Krusty's Fun House (Europe, Brazil) (En)
+file: Krusty's Fun House (Europe, Brazil) (En).zip
+
+game: Kujaku Ou (Japan)
+file: Kujaku Ou (Japan).zip
+
+game: Kung Fu Kid (Taiwan) (En) (Unl)
+file: Kung Fu Kid (Taiwan) (En) (Unl).zip
+
+game: Kung Fu Kid (USA, Europe, Brazil) (En)
+file: Kung Fu Kid (USA, Europe, Brazil) (En).zip
+
+game: Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)
+file: Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En).zip
+
+game: Laser Ghost (Europe)
+file: Laser Ghost (Europe).zip
+
+game: Legend of Illusion Starring Mickey Mouse (Brazil) (En)
+file: Legend of Illusion Starring Mickey Mouse (Brazil) (En).zip
+
+game: Lemmings (Europe, Brazil) (En)
+file: Lemmings (Europe, Brazil) (En).zip
+
+game: Lemmings (Europe) (Beta)
+file: Lemmings (Europe) (Beta).zip
+
+game: Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)
+file: Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).zip
+
+game: Lethal Weapon 3 Music (Unknown) (Proto) (1992-11-30) (Sound Data)
+file: Lethal Weapon 3 Music (Unknown) (Proto) (1992-11-30) (Sound Data).zip
+
+game: Line of Fire (Europe, Brazil) (En)
+file: Line of Fire (Europe, Brazil) (En).zip
+
+game: Lion King, The (Europe, Brazil) (En)
+file: Lion King, The (Europe, Brazil) (En).zip
+
+game: Lord of Sword (Japan)
+file: Lord of Sword (Japan).zip
+
+game: Lord of Sword (Taiwan) (Ja) (Unl)
+file: Lord of Sword (Taiwan) (Ja) (Unl).zip
+
+game: Lord of the Sword (USA, Europe, Brazil) (En)
+file: Lord of the Sword (USA, Europe, Brazil) (En).zip
+
+game: Loretta no Shouzou - Sherlock Holmes (Japan)
+file: Loretta no Shouzou - Sherlock Holmes (Japan).zip
+
+game: Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En) (Beta)
+file: Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En) (Beta).zip
+
+game: Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)
+file: Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En).zip
+
+game: Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja)
+file: Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja).zip
+
+game: Mahjong Sengoku Jidai (Japan) (Beta)
+file: Mahjong Sengoku Jidai (Japan) (Beta).zip
+
+game: Makai Retsuden (Japan)
+file: Makai Retsuden (Japan).zip
+
+game: Maou Golvellius (Japan) (Beta)
+file: Maou Golvellius (Japan) (Beta).zip
+
+game: Maou Golvellius (Japan)
+file: Maou Golvellius (Japan).zip
+
+game: Marble Madness (Europe)
+file: Marble Madness (Europe).zip
+
+game: Marksman Shooting & Trap Shooting (USA, Brazil) (En)
+file: Marksman Shooting & Trap Shooting (USA, Brazil) (En).zip
+
+game: Marksman Shooting & Trap Shooting & Safari Hunt (Europe)
+file: Marksman Shooting & Trap Shooting & Safari Hunt (Europe).zip
+
+game: Master of Darkness (Europe, Brazil) (En)
+file: Master of Darkness (Europe, Brazil) (En).zip
+
+game: Masters of Combat (Europe, Brazil) (En)
+file: Masters of Combat (Europe, Brazil) (En).zip
+
+game: Maze Hunter 3-D (USA, Europe, Brazil) (En)
+file: Maze Hunter 3-D (USA, Europe, Brazil) (En).zip
+
+game: Maze Walker (Japan) (En) (Sega 3D Classics)
+file: Maze Walker (Japan) (En) (Sega 3D Classics).zip
+
+game: Maze Walker (Japan) (En)
+file: Maze Walker (Japan) (En).zip
+
+game: Megumi Rescue (Japan)
+file: Megumi Rescue (Japan).zip
+
+game: Memoria Master (Brazil) (Mega Drive 4)
+file: Memoria Master (Brazil) (Mega Drive 4).zip
+
+game: Mercs (Europe, Brazil) (En)
+file: Mercs (Europe, Brazil) (En).zip
+
+game: Michael Jackson's Moonwalker (USA, Europe, Brazil) (En) (Beta)
+file: Michael Jackson's Moonwalker (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Michael Jackson's Moonwalker (USA, Europe, Brazil) (En)
+file: Michael Jackson's Moonwalker (USA, Europe, Brazil) (En).zip
+
+game: Mickey's Ultimate Challenge (Brazil) (En)
+file: Mickey's Ultimate Challenge (Brazil) (En).zip
+
+game: Micro Machines (Europe)
+file: Micro Machines (Europe).zip
+
+game: Micro Xevious, The (Korea) (Unl)
+file: Micro Xevious, The (Korea) (Unl).zip
+
+game: Mina Terrestre (Brazil) (Mega Drive 4)
+file: Mina Terrestre (Brazil) (Mega Drive 4).zip
+
+game: Minerador (Brazil) (Mega Drive 4)
+file: Minerador (Brazil) (Mega Drive 4).zip
+
+game: Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta) (1988-02-25)
+file: Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta) (1988-02-25).zip
+
+game: Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)
+file: Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En).zip
+
+game: Missile Defense 3-D (USA, Europe, Brazil) (En) (Sample)
+file: Missile Defense 3-D (USA, Europe, Brazil) (En) (Sample).zip
+
+game: Missile Defense 3-D (USA, Europe, Brazil) (En)
+file: Missile Defense 3-D (USA, Europe, Brazil) (En).zip
+
+game: Monica no Castelo do Dragao (Brazil)
+file: Monica no Castelo do Dragao (Brazil).zip
+
+game: Monopoly (USA, Europe) (Beta 1)
+file: Monopoly (USA, Europe) (Beta 1).zip
+
+game: Monopoly (USA, Europe) (Beta 2)
+file: Monopoly (USA, Europe) (Beta 2).zip
+
+game: Monopoly (USA, Europe) (Rev A)
+file: Monopoly (USA, Europe) (Rev A).zip
+
+game: Monopoly (USA, Europe)
+file: Monopoly (USA, Europe).zip
+
+game: Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta)
+file: Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta).zip
+
+game: Montezuma's Revenge - Featuring PANAMA JOE (USA)
+file: Montezuma's Revenge - Featuring PANAMA JOE (USA).zip
+
+game: Mopiranger (Korea) (En) (Unl)
+file: Mopiranger (Korea) (En) (Unl).zip
+
+game: Mortal Kombat (Europe, Brazil) (En)
+file: Mortal Kombat (Europe, Brazil) (En).zip
+
+game: Mortal Kombat 3 (Brazil) (En)
+file: Mortal Kombat 3 (Brazil) (En).zip
+
+game: Mortal Kombat II (Europe, Brazil) (En)
+file: Mortal Kombat II (Europe, Brazil) (En).zip
+
+game: Ms. Pac-Man (Europe, Brazil) (En)
+file: Ms. Pac-Man (Europe, Brazil) (En).zip
+
+game: MSX Soccer (Korea) (Unl)
+file: MSX Soccer (Korea) (Unl).zip
+
+game: My Hero (USA, Europe, Brazil) (En)
+file: My Hero (USA, Europe, Brazil) (En).zip
+
+game: NBA Jam (Europe) (Proto)
+file: NBA Jam (Europe) (Proto).zip
+
+game: Nekkyuu Koushien (Japan)
+file: Nekkyuu Koushien (Japan).zip
+
+game: Nemesis (Korea) (Unl)
+file: Nemesis (Korea) (Unl).zip
+
+game: Nemesis 2 (Korea) (En) (Unl)
+file: Nemesis 2 (Korea) (En) (Unl).zip
+
+game: New Boggle Boggle 2 (Korea) (En) (Unl)
+file: New Boggle Boggle 2 (Korea) (En) (Unl).zip
+
+game: NewZealand Story, The (Europe)
+file: NewZealand Story, The (Europe).zip
+
+game: Ninja (Japan)
+file: Ninja (Japan).zip
+
+game: Ninja Gaiden (Europe, Brazil) (En) (Beta)
+file: Ninja Gaiden (Europe, Brazil) (En) (Beta).zip
+
+game: Ninja Gaiden (Europe, Brazil) (En)
+file: Ninja Gaiden (Europe, Brazil) (En).zip
+
+game: Ninja, The (Taiwan) (Unl)
+file: Ninja, The (Taiwan) (Unl).zip
+
+game: Ninja, The (USA, Europe, Brazil) (En)
+file: Ninja, The (USA, Europe, Brazil) (En).zip
+
+game: Northen Ken (Taiwan) (Ja) (Unl)
+file: Northen Ken (Taiwan) (Ja) (Unl).zip
+
+game: Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)
+file: Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+
+game: Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)
+file: Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+
+game: Opa Opa (Japan)
+file: Opa Opa (Japan).zip
+
+game: Operation Wolf (Europe, Brazil) (En)
+file: Operation Wolf (Europe, Brazil) (En).zip
+
+game: Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It)
+file: Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It).zip
+
+game: OutRun (World)
+file: OutRun (World).zip
+
+game: OutRun 3-D (Europe, Brazil) (En) (Beta)
+file: OutRun 3-D (Europe, Brazil) (En) (Beta).zip
+
+game: OutRun 3-D (Europe, Brazil) (En)
+file: OutRun 3-D (Europe, Brazil) (En).zip
+
+game: OutRun 3-D (Japan) (En) (Sega 3D Fukkoku Akaibusu)
+file: OutRun 3-D (Japan) (En) (Sega 3D Fukkoku Akaibusu).zip
+
+game: OutRun Europa (Europe, Brazil) (En)
+file: OutRun Europa (Europe, Brazil) (En).zip
+
+game: Pac-Mania (Europe)
+file: Pac-Mania (Europe).zip
+
+game: Palhacos (Brazil) (Mega Drive 4)
+file: Palhacos (Brazil) (Mega Drive 4).zip
+
+game: Paper Boy (Taiwan) (En) (Unl)
+file: Paper Boy (Taiwan) (En) (Unl).zip
+
+game: Paperboy (Europe)
+file: Paperboy (Europe).zip
+
+game: Paperboy (USA, Brazil) (En)
+file: Paperboy (USA, Brazil) (En).zip
+
+game: Parlour Games (USA, Europe)
+file: Parlour Games (USA, Europe).zip
+
+game: Pat Riley Basketball (USA) (Proto)
+file: Pat Riley Basketball (USA) (Proto).zip
+
+game: Penguin Adventure (Korea) (En) (Unl)
+file: Penguin Adventure (Korea) (En) (Unl).zip
+
+game: Penguin Land (USA, Europe)
+file: Penguin Land (USA, Europe).zip
+
+game: PGA Tour Golf (Europe)
+file: PGA Tour Golf (Europe).zip
+
+game: Phantasy Star (Brazil)
+file: Phantasy Star (Brazil).zip
+
+game: Phantasy Star (Japan) (Virtual Console)
+file: Phantasy Star (Japan) (Virtual Console).zip
+
+game: Phantasy Star (Japan)
+file: Phantasy Star (Japan).zip
+
+game: Phantasy Star (Korea) (Unl)
+file: Phantasy Star (Korea) (Unl).zip
+
+game: Phantasy Star (USA, Europe) (Rev A)
+file: Phantasy Star (USA, Europe) (Rev A).zip
+
+game: Phantasy Star (USA, Europe)
+file: Phantasy Star (USA, Europe).zip
+
+game: Phantasy Star (World) (Ja) (Sega Ages)
+file: Phantasy Star (World) (Ja) (Sega Ages).zip
+
+game: Phantasy Star (World) (Sega Ages)
+file: Phantasy Star (World) (Sega Ages).zip
+
+game: Pigu-Wang 7 Hap - Jaemiiss-neun Game Mo-eumjip (Korea) (Unl)
+file: Pigu-Wang 7 Hap - Jaemiiss-neun Game Mo-eumjip (Korea) (Unl).zip
+
+game: Pit-Fighter (Brazil) (En)
+file: Pit-Fighter (Brazil) (En).zip
+
+game: Pit-Fighter (Europe)
+file: Pit-Fighter (Europe).zip
+
+game: Pooyan (Korea) (En) (Unl)
+file: Pooyan (Korea) (En) (Unl).zip
+
+game: Populous (Europe, Brazil) (En)
+file: Populous (Europe, Brazil) (En).zip
+
+game: Poseidon Wars 3-D (USA, Europe, Brazil) (En)
+file: Poseidon Wars 3-D (USA, Europe, Brazil) (En).zip
+
+game: Power Boggle Boggle (Korea) (En) (Unl)
+file: Power Boggle Boggle (Korea) (En) (Unl).zip
+
+game: Power Strike (USA, Europe, Brazil) (En)
+file: Power Strike (USA, Europe, Brazil) (En).zip
+
+game: Power Strike II (Europe, Brazil) (En)
+file: Power Strike II (Europe, Brazil) (En).zip
+
+game: Ppang Gongjang (Korea) (En) (Unl)
+file: Ppang Gongjang (Korea) (En) (Unl).zip
+
+game: Predator 2 (Brazil) (En)
+file: Predator 2 (Brazil) (En).zip
+
+game: Predator 2 (Europe)
+file: Predator 2 (Europe).zip
+
+game: Prince of Persia (Europe, Brazil) (En)
+file: Prince of Persia (Europe, Brazil) (En).zip
+
+game: Prince of Persia (Taiwan) (En) (Unl)
+file: Prince of Persia (Taiwan) (En) (Unl).zip
+
+game: Pro Wrestling (USA, Europe, Brazil) (En)
+file: Pro Wrestling (USA, Europe, Brazil) (En).zip
+
+game: Pro Yakyuu, The - Pennant Race (Japan)
+file: Pro Yakyuu, The - Pennant Race (Japan).zip
+
+game: Promocao Especial M. System III Compact (Brazil) (Sample)
+file: Promocao Especial M. System III Compact (Brazil) (Sample).zip
+
+game: Psychic World (Europe, Brazil) (En)
+file: Psychic World (Europe, Brazil) (En).zip
+
+game: Psycho Fox (USA, Europe, Brazil) (En) (Beta)
+file: Psycho Fox (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Psycho Fox (USA, Europe, Brazil) (En)
+file: Psycho Fox (USA, Europe, Brazil) (En).zip
+
+game: Putt & Putter (Europe, Brazil) (En) (Beta)
+file: Putt & Putter (Europe, Brazil) (En) (Beta).zip
+
+game: Putt & Putter (Europe, Brazil) (En)
+file: Putt & Putter (Europe, Brazil) (En).zip
+
+game: Puzzle Game (Korea) (En) (Unl)
+file: Puzzle Game (Korea) (En) (Unl).zip
+
+game: Quartet (Taiwan) (En) (Unl)
+file: Quartet (Taiwan) (En) (Unl).zip
+
+game: Quartet (USA, Europe)
+file: Quartet (USA, Europe).zip
+
+game: Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil) (En)
+file: Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil) (En).zip
+
+game: R-Type (Taiwan) (En) (Unl)
+file: R-Type (Taiwan) (En) (Unl).zip
+
+game: R-Type (World) (Beta)
+file: R-Type (World) (Beta).zip
+
+game: R-Type (World)
+file: R-Type (World).zip
+
+game: R.C. Grand Prix (USA, Europe, Brazil) (En) (Beta)
+file: R.C. Grand Prix (USA, Europe, Brazil) (En) (Beta).zip
+
+game: R.C. Grand Prix (USA, Europe, Brazil) (En)
+file: R.C. Grand Prix (USA, Europe, Brazil) (En).zip
+
+game: Rainbow Islands (Brazil) (En)
+file: Rainbow Islands (Brazil) (En).zip
+
+game: Rainbow Islands (Europe)
+file: Rainbow Islands (Europe).zip
+
+game: Rambo - First Blood Part II (USA)
+file: Rambo - First Blood Part II (USA).zip
+
+game: Rambo III (USA, Europe, Brazil) (En)
+file: Rambo III (USA, Europe, Brazil) (En).zip
+
+game: Rampage (USA, Europe, Brazil) (En) (Beta)
+file: Rampage (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Rampage (USA, Europe, Brazil) (En)
+file: Rampage (USA, Europe, Brazil) (En).zip
+
+game: Rampart (Europe)
+file: Rampart (Europe).zip
+
+game: Rastan (USA, Europe, Brazil) (En) (Beta)
+file: Rastan (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Rastan (USA, Europe, Brazil) (En)
+file: Rastan (USA, Europe, Brazil) (En).zip
+
+game: Reggie Jackson Baseball (USA)
+file: Reggie Jackson Baseball (USA).zip
+
+game: Renegade (Europe, Brazil) (En)
+file: Renegade (Europe, Brazil) (En).zip
+
+game: Rescue Mission (USA, Europe, Brazil) (En)
+file: Rescue Mission (USA, Europe, Brazil) (En).zip
+
+game: Road Fighter (Korea) (En) (Unl)
+file: Road Fighter (Korea) (En) (Unl).zip
+
+game: Road Rash (Europe, Brazil) (En)
+file: Road Rash (Europe, Brazil) (En).zip
+
+game: RoboCop 3 (Europe, Brazil) (En)
+file: RoboCop 3 (Europe, Brazil) (En).zip
+
+game: RoboCop versus The Terminator (Europe, Brazil) (En)
+file: RoboCop versus The Terminator (Europe, Brazil) (En).zip
+
+game: Rocky (World)
+file: Rocky (World).zip
+
+game: Running Battle (Europe, Brazil) (En)
+file: Running Battle (Europe, Brazil) (En).zip
+
+game: Sagaia (Europe, Brazil) (En)
+file: Sagaia (Europe, Brazil) (En).zip
+
+game: Sagak-ui Bimil (Korea) (En) (Unl)
+file: Sagak-ui Bimil (Korea) (En) (Unl).zip
+
+game: Samgukji 3 (Korea) (Unl)
+file: Samgukji 3 (Korea) (Unl).zip
+
+game: Sapo Xule - O Mestre do Kung Fu (Brazil)
+file: Sapo Xule - O Mestre do Kung Fu (Brazil).zip
+
+game: Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (Pt)
+file: Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (Pt).zip
+
+game: Sapo Xule vs. Os Invasores do Brejo (Brazil)
+file: Sapo Xule vs. Os Invasores do Brejo (Brazil).zip
+
+game: Satellite 7 (Japan)
+file: Satellite 7 (Japan).zip
+
+game: Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12)
+file: Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).zip
+
+game: Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)
+file: Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).zip
+
+game: Scramble Spirits (Europe, Brazil) (En) (Beta)
+file: Scramble Spirits (Europe, Brazil) (En) (Beta).zip
+
+game: Scramble Spirits (Europe, Brazil) (En)
+file: Scramble Spirits (Europe, Brazil) (En).zip
+
+game: Scramble Spirits (Taiwan) (En) (Unl)
+file: Scramble Spirits (Taiwan) (En) (Unl).zip
+
+game: SDI (Japan)
+file: SDI (Japan).zip
+
+game: Secret Command (Europe)
+file: Secret Command (Europe).zip
+
+game: Sega Chess (Europe, Brazil) (En)
+file: Sega Chess (Europe, Brazil) (En).zip
+
+game: Sega Graphic Board (USA) (v2.0) (Proto)
+file: Sega Graphic Board (USA) (v2.0) (Proto).zip
+
+game: Sega World Tournament Golf (Europe, Brazil) (En)
+file: Sega World Tournament Golf (Europe, Brazil) (En).zip
+
+game: Seishun Scandal (Japan)
+file: Seishun Scandal (Japan).zip
+
+game: Senha (Brazil) (Mega Drive 4)
+file: Senha (Brazil) (Mega Drive 4).zip
+
+game: Sensible Soccer (Europe)
+file: Sensible Soccer (Europe).zip
+
+game: Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En)
+file: Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En).zip
+
+game: Shadow Dancer (Taiwan) (En) (Unl)
+file: Shadow Dancer (Taiwan) (En) (Unl).zip
+
+game: Shadow of the Beast (Europe, Brazil) (En)
+file: Shadow of the Beast (Europe, Brazil) (En).zip
+
+game: Shadow of the Beast (Taiwan) (En) (Unl)
+file: Shadow of the Beast (Taiwan) (En) (Unl).zip
+
+game: Shanghai (USA, Europe) (Beta)
+file: Shanghai (USA, Europe) (Beta).zip
+
+game: Shanghai (USA, Europe)
+file: Shanghai (USA, Europe).zip
+
+game: Shangwei Mingling (Taiwan) (En) (Unl)
+file: Shangwei Mingling (Taiwan) (En) (Unl).zip
+
+game: Shinobi (Japan, Brazil) (Ja)
+file: Shinobi (Japan, Brazil) (Ja).zip
+
+game: Shinobi (USA, Europe, Brazil) (En) (Rev 1)
+file: Shinobi (USA, Europe, Brazil) (En) (Rev 1).zip
+
+game: Shooting Gallery (USA, Europe, Brazil) (En)
+file: Shooting Gallery (USA, Europe, Brazil) (En).zip
+
+game: Simpsons, The - Bart vs. The Space Mutants (Europe, Brazil) (En)
+file: Simpsons, The - Bart vs. The Space Mutants (Europe, Brazil) (En).zip
+
+game: Simpsons, The - Bart vs. The World (Europe, Brazil) (En)
+file: Simpsons, The - Bart vs. The World (Europe, Brazil) (En).zip
+
+game: Sitio do Picapau Amarelo (Brazil)
+file: Sitio do Picapau Amarelo (Brazil).zip
+
+game: Sky Fighter (Korea) (En) (Unl)
+file: Sky Fighter (Korea) (En) (Unl).zip
+
+game: Sky Jaguar (Korea) (Clover) (Unl)
+file: Sky Jaguar (Korea) (Clover) (Unl).zip
+
+game: Sky Jaguar (Korea) (Unl)
+file: Sky Jaguar (Korea) (Unl).zip
+
+game: Slap Shoot (USA) (Beta)
+file: Slap Shoot (USA) (Beta).zip
+
+game: Slap Shot (Europe) (Sample)
+file: Slap Shot (Europe) (Sample).zip
+
+game: Slap Shot (Europe)
+file: Slap Shot (Europe).zip
+
+game: Slap Shot (USA, Europe, Brazil) (En)
+file: Slap Shot (USA, Europe, Brazil) (En).zip
+
+game: Smurfs, The (Europe, Brazil) (En,Fr,De,Es)
+file: Smurfs, The (Europe, Brazil) (En,Fr,De,Es).zip
+
+game: Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta)
+file: Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).zip
+
+game: Solomon no Kagi - Oujo Rihita no Namida (Japan)
+file: Solomon no Kagi - Oujo Rihita no Namida (Japan).zip
+
+game: Sonic Blast (Brazil) (En)
+file: Sonic Blast (Brazil) (En).zip
+
+game: Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30)
+file: Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30).zip
+
+game: Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13)
+file: Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13).zip
+
+game: Sonic Chaos (Europe, Brazil) (En)
+file: Sonic Chaos (Europe, Brazil) (En).zip
+
+game: Sonic Spinball (Europe, Brazil) (En)
+file: Sonic Spinball (Europe, Brazil) (En).zip
+
+game: Sonic The Hedgehog (USA, Europe, Brazil) (En)
+file: Sonic The Hedgehog (USA, Europe, Brazil) (En).zip
+
+game: Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)
+file: Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1).zip
+
+game: Sonic The Hedgehog 2 (Europe, Brazil) (En)
+file: Sonic The Hedgehog 2 (Europe, Brazil) (En).zip
+
+game: Sonic's Edusoft (Unknown) (Proto)
+file: Sonic's Edusoft (Unknown) (Proto).zip
+
+game: Space Gun (Europe)
+file: Space Gun (Europe).zip
+
+game: Space Harrier (Europe)
+file: Space Harrier (Europe).zip
+
+game: Space Harrier (Japan, USA) (En)
+file: Space Harrier (Japan, USA) (En).zip
+
+game: Space Harrier 3-D (USA, Europe, Brazil) (En)
+file: Space Harrier 3-D (USA, Europe, Brazil) (En).zip
+
+game: Space Harrier 3D (Japan)
+file: Space Harrier 3D (Japan).zip
+
+game: Special Criminal Investigation (Europe) (Beta)
+file: Special Criminal Investigation (Europe) (Beta).zip
+
+game: Special Criminal Investigation (Europe)
+file: Special Criminal Investigation (Europe).zip
+
+game: Speedball (Europe) (Rev 1)
+file: Speedball (Europe) (Rev 1).zip
+
+game: Speedball (Europe)
+file: Speedball (Europe).zip
+
+game: Speedball 2 (Europe)
+file: Speedball 2 (Europe).zip
+
+game: SpellCaster (USA, Europe, Brazil) (En)
+file: SpellCaster (USA, Europe, Brazil) (En).zip
+
+game: Spider-Man - Return of the Sinister Six (Europe, Brazil) (En)
+file: Spider-Man - Return of the Sinister Six (Europe, Brazil) (En).zip
+
+game: Spider-Man (USA, Europe, Brazil) (En)
+file: Spider-Man (USA, Europe, Brazil) (En).zip
+
+game: Sports Pad Football (USA)
+file: Sports Pad Football (USA).zip
+
+game: Sports Pad Soccer (Japan)
+file: Sports Pad Soccer (Japan).zip
+
+game: Spy vs Spy (Japan)
+file: Spy vs Spy (Japan).zip
+
+game: Spy vs Spy (Taiwan) (Unl)
+file: Spy vs Spy (Taiwan) (Unl).zip
+
+game: Spy vs Spy (USA, Europe, Brazil) (En)
+file: Spy vs Spy (USA, Europe, Brazil) (En).zip
+
+game: Star Wars (Europe, Brazil) (En)
+file: Star Wars (Europe, Brazil) (En).zip
+
+game: Street Fighter II' (Brazil) (En)
+file: Street Fighter II' (Brazil) (En).zip
+
+game: Street Master (Korea) (Unl)
+file: Street Master (Korea) (Unl).zip
+
+game: Streets of Rage (Europe, Brazil) (En)
+file: Streets of Rage (Europe, Brazil) (En).zip
+
+game: Streets of Rage II (Europe, Brazil) (En)
+file: Streets of Rage II (Europe, Brazil) (En).zip
+
+game: Strider (USA, Europe, Brazil) (En) (Demo)
+file: Strider (USA, Europe, Brazil) (En) (Demo).zip
+
+game: Strider (USA, Europe, Brazil) (En)
+file: Strider (USA, Europe, Brazil) (En).zip
+
+game: Strider II (Europe, Brazil) (En)
+file: Strider II (Europe, Brazil) (En).zip
+
+game: Strider, The (Taiwan) (En) (Unl)
+file: Strider, The (Taiwan) (En) (Unl).zip
+
+game: Submarine Attack (Europe, Brazil) (En)
+file: Submarine Attack (Europe, Brazil) (En).zip
+
+game: Submarine Attack (Taiwan) (En) (Unl)
+file: Submarine Attack (Taiwan) (En) (Unl).zip
+
+game: Sudoku (Brazil) (Mega Drive 4)
+file: Sudoku (Brazil) (Mega Drive 4).zip
+
+game: Suho Jeonsa (Korea) (Unl)
+file: Suho Jeonsa (Korea) (Unl).zip
+
+game: Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan)
+file: Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).zip
+
+game: Summer Games (Europe, Brazil) (En) (Beta 1)
+file: Summer Games (Europe, Brazil) (En) (Beta 1).zip
+
+game: Summer Games (Europe, Brazil) (En) (Beta 2)
+file: Summer Games (Europe, Brazil) (En) (Beta 2).zip
+
+game: Summer Games (Europe, Brazil) (En)
+file: Summer Games (Europe, Brazil) (En).zip
+
+game: Super Arkanoid (Korea) (Unl)
+file: Super Arkanoid (Korea) (Unl).zip
+
+game: Super Basketball (USA) (Demo)
+file: Super Basketball (USA) (Demo).zip
+
+game: Super Bioman I (Korea) (Unl)
+file: Super Bioman I (Korea) (Unl).zip
+
+game: Super Boy 4 (Korea) (Unl)
+file: Super Boy 4 (Korea) (Unl).zip
+
+game: Super Boy I (Korea) (En) (Unl)
+file: Super Boy I (Korea) (En) (Unl).zip
+
+game: Super Boy II (Korea) (En) (Unl)
+file: Super Boy II (Korea) (En) (Unl).zip
+
+game: Super Boy III (Korea) (En) (Unl)
+file: Super Boy III (Korea) (En) (Unl).zip
+
+game: Super Bubble Bobble (Korea) (En) (Unl)
+file: Super Bubble Bobble (Korea) (En) (Unl).zip
+
+game: Super Columns & Tetris (Korea) (Unl)
+file: Super Columns & Tetris (Korea) (Unl).zip
+
+game: Super Futebol II (Brazil)
+file: Super Futebol II (Brazil).zip
+
+game: Super Game 150 (Korea) (Unl)
+file: Super Game 150 (Korea) (Unl).zip
+
+game: Super Game 180 (Korea) (Unl)
+file: Super Game 180 (Korea) (Unl).zip
+
+game: Super Game 45 (Korea) (Unl)
+file: Super Game 45 (Korea) (Unl).zip
+
+game: Super Game 52 Hap (Korea) (Unl)
+file: Super Game 52 Hap (Korea) (Unl).zip
+
+game: Super Game World 30 Hap (Korea) (Unl)
+file: Super Game World 30 Hap (Korea) (Unl).zip
+
+game: Super Game World 30 Hap (Korea) (v1.1) (Unl)
+file: Super Game World 30 Hap (Korea) (v1.1) (Unl).zip
+
+game: Super Game World 75 Hap (Korea) (Unl)
+file: Super Game World 75 Hap (Korea) (Unl).zip
+
+game: Super Golf (Europe) (Beta)
+file: Super Golf (Europe) (Beta).zip
+
+game: Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)
+file: Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+
+game: Super Monaco GP (Europe, Brazil) (En) (Beta)
+file: Super Monaco GP (Europe, Brazil) (En) (Beta).zip
+
+game: Super Monaco GP (Europe, Brazil) (En)
+file: Super Monaco GP (Europe, Brazil) (En).zip
+
+game: Super Monaco GP (USA) (Beta 1)
+file: Super Monaco GP (USA) (Beta 1).zip
+
+game: Super Monaco GP (USA) (Beta 2)
+file: Super Monaco GP (USA) (Beta 2).zip
+
+game: Super Monaco GP (USA)
+file: Super Monaco GP (USA).zip
+
+game: Super Multi Game - Super 125 in 1 (Korea) (Unl)
+file: Super Multi Game - Super 125 in 1 (Korea) (Unl).zip
+
+game: Super Multi Game - Super 75 in 1 (Korea) (Unl)
+file: Super Multi Game - Super 75 in 1 (Korea) (Unl).zip
+
+game: Super Off Road (Europe) (Beta)
+file: Super Off Road (Europe) (Beta).zip
+
+game: Super Off Road (Europe)
+file: Super Off Road (Europe).zip
+
+game: Super Penguin (Korea) (Unl)
+file: Super Penguin (Korea) (Unl).zip
+
+game: Super Racing (Japan)
+file: Super Racing (Japan).zip
+
+game: Super Smash T.V. (Europe)
+file: Super Smash T.V. (Europe).zip
+
+game: Super Space Invaders (Europe)
+file: Super Space Invaders (Europe).zip
+
+game: Super Tennis (USA, Europe)
+file: Super Tennis (USA, Europe).zip
+
+game: Super Tetris (Korea) (Unl)
+file: Super Tetris (Korea) (Unl).zip
+
+game: Super Wonder Boy - Monster World (Japan)
+file: Super Wonder Boy - Monster World (Japan).zip
+
+game: Superman - The Man of Steel (Europe, Brazil) (En)
+file: Superman - The Man of Steel (Europe, Brazil) (En).zip
+
+game: T2 - The Arcade Game (Europe)
+file: T2 - The Arcade Game (Europe).zip
+
+game: Taito Chase H.Q. (Europe) (Beta)
+file: Taito Chase H.Q. (Europe) (Beta).zip
+
+game: Taito Chase H.Q. (Europe)
+file: Taito Chase H.Q. (Europe).zip
+
+game: Tangram (Brazil) (Mega Drive 4)
+file: Tangram (Brazil) (Mega Drive 4).zip
+
+game: Tank Battalion (Korea) (Unl)
+file: Tank Battalion (Korea) (Unl).zip
+
+game: Taz in Escape from Mars (Brazil) (En)
+file: Taz in Escape from Mars (Brazil) (En).zip
+
+game: Taz-Mania (Europe, Brazil) (En) (Beta)
+file: Taz-Mania (Europe, Brazil) (En) (Beta).zip
+
+game: Taz-Mania (Europe, Brazil) (En)
+file: Taz-Mania (Europe, Brazil) (En).zip
+
+game: Tecmo World Cup '92 (Europe) (Beta)
+file: Tecmo World Cup '92 (Europe) (Beta).zip
+
+game: Tecmo World Cup '93 (Europe)
+file: Tecmo World Cup '93 (Europe).zip
+
+game: Teddy Boy (USA, Europe, Brazil) (En)
+file: Teddy Boy (USA, Europe, Brazil) (En).zip
+
+game: Teddy Boy Blues (Japan) (Proto) (Ep-MyCard)
+file: Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).zip
+
+game: Teddy Boy Blues (Japan)
+file: Teddy Boy Blues (Japan).zip
+
+game: Tennis Ace (Europe, Brazil) (En)
+file: Tennis Ace (Europe, Brazil) (En).zip
+
+game: Tensai Bakabon (Japan)
+file: Tensai Bakabon (Japan).zip
+
+game: Terminator 2 - Judgment Day (Europe)
+file: Terminator 2 - Judgment Day (Europe).zip
+
+game: Terminator, The (Brazil) (En)
+file: Terminator, The (Brazil) (En).zip
+
+game: Terminator, The (Europe)
+file: Terminator, The (Europe).zip
+
+game: Three Dragon Story, The (Korea) (Unl)
+file: Three Dragon Story, The (Korea) (Unl).zip
+
+game: Thunder Blade (Japan)
+file: Thunder Blade (Japan).zip
+
+game: Thunder Blade (Taiwan) (En) (Unl)
+file: Thunder Blade (Taiwan) (En) (Unl).zip
+
+game: Thunder Blade (USA, Europe, Brazil) (En) (Beta)
+file: Thunder Blade (USA, Europe, Brazil) (En) (Beta).zip
+
+game: Thunder Blade (USA, Europe, Brazil) (En)
+file: Thunder Blade (USA, Europe, Brazil) (En).zip
+
+game: Time Soldiers (USA, Europe, Brazil) (En)
+file: Time Soldiers (USA, Europe, Brazil) (En).zip
+
+game: Tom & Jerry (Europe, Brazil) (En) (Beta)
+file: Tom & Jerry (Europe, Brazil) (En) (Beta).zip
+
+game: Tom and Jerry - The Movie (Europe, Brazil) (En)
+file: Tom and Jerry - The Movie (Europe, Brazil) (En).zip
+
+game: Toto World 3 (Korea) (Unl)
+file: Toto World 3 (Korea) (Unl).zip
+
+game: TransBot (USA, Europe, Brazil) (En) (Beta)
+file: TransBot (USA, Europe, Brazil) (En) (Beta).zip
+
+game: TransBot (USA, Europe, Brazil) (En)
+file: TransBot (USA, Europe, Brazil) (En).zip
+
+game: Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es)
+file: Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).zip
+
+game: Ttoriui Moheom (Korea) (En) (Unl)
+file: Ttoriui Moheom (Korea) (En) (Unl).zip
+
+game: Turma da Monica em O Resgate (Brazil)
+file: Turma da Monica em O Resgate (Brazil).zip
+
+game: Ultima IV - Quest of the Avatar (Europe, Brazil) (En) (Beta)
+file: Ultima IV - Quest of the Avatar (Europe, Brazil) (En) (Beta).zip
+
+game: Ultima IV - Quest of the Avatar (Europe, Brazil) (En)
+file: Ultima IV - Quest of the Avatar (Europe, Brazil) (En).zip
+
+game: Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It)
+file: Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It).zip
+
+game: Vampire (Europe) (Beta)
+file: Vampire (Europe) (Beta).zip
+
+game: Vigilante (USA, Europe, Brazil) (En)
+file: Vigilante (USA, Europe, Brazil) (En).zip
+
+game: Virtua Fighter Animation (Brazil) (En)
+file: Virtua Fighter Animation (Brazil) (En).zip
+
+game: Walter Payton Football (USA)
+file: Walter Payton Football (USA).zip
+
+game: Wanted (USA, Europe, Brazil) (En)
+file: Wanted (USA, Europe, Brazil) (En).zip
+
+game: Where in the World is Carmen Sandiego (Brazil) (En)
+file: Where in the World is Carmen Sandiego (Brazil) (En).zip
+
+game: Where in the World is Carmen Sandiego (USA)
+file: Where in the World is Carmen Sandiego (USA).zip
+
+game: Wimbledon (Brazil) (En)
+file: Wimbledon (Brazil) (En).zip
+
+game: Wimbledon (Europe)
+file: Wimbledon (Europe).zip
+
+game: Wimbledon II (Europe, Brazil) (En)
+file: Wimbledon II (Europe, Brazil) (En).zip
+
+game: Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No)
+file: Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).zip
+
+game: Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)
+file: Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).zip
+
+game: Wolfchild (Europe, Brazil) (En)
+file: Wolfchild (Europe, Brazil) (En).zip
+
+game: Wonder Boy (Japan, Europe) (En)
+file: Wonder Boy (Japan, Europe) (En).zip
+
+game: Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)
+file: Wonder Boy (USA, Europe, Brazil) (En) (Rev 1).zip
+
+game: Wonder Boy III - The Dragon's Trap (USA, Europe)
+file: Wonder Boy III - The Dragon's Trap (USA, Europe).zip
+
+game: Wonder Boy in Monster Land (USA, Europe) (Beta)
+file: Wonder Boy in Monster Land (USA, Europe) (Beta).zip
+
+game: Wonder Boy in Monster Land (USA, Europe)
+file: Wonder Boy in Monster Land (USA, Europe).zip
+
+game: Wonder Boy in Monster World (Europe) (Beta)
+file: Wonder Boy in Monster World (Europe) (Beta).zip
+
+game: Wonder Boy in Monster World (Europe)
+file: Wonder Boy in Monster World (Europe).zip
+
+game: Wonsiin (Korea) (Unl)
+file: Wonsiin (Korea) (Unl).zip
+
+game: Woody Pop - Shinjinrui no Block Kuzushi (Japan)
+file: Woody Pop - Shinjinrui no Block Kuzushi (Japan).zip
+
+game: World Class Leaderboard (Europe, Brazil) (En)
+file: World Class Leaderboard (Europe, Brazil) (En).zip
+
+game: World Cup Italia '90 (Europe, Brazil) (En)
+file: World Cup Italia '90 (Europe, Brazil) (En).zip
+
+game: World Cup Italia '90 (USA) (Demo)
+file: World Cup Italia '90 (USA) (Demo).zip
+
+game: World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)
+file: World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+
+game: World Games (Europe, Brazil) (En) (Beta)
+file: World Games (Europe, Brazil) (En) (Beta).zip
+
+game: World Games (Europe, Brazil) (En)
+file: World Games (Europe, Brazil) (En).zip
+
+game: World Grand Prix (Europe)
+file: World Grand Prix (Europe).zip
+
+game: World Grand Prix (USA, Brazil) (En) (Beta)
+file: World Grand Prix (USA, Brazil) (En) (Beta).zip
+
+game: World Grand Prix (USA, Brazil) (En)
+file: World Grand Prix (USA, Brazil) (En).zip
+
+game: World Soccer (World)
+file: World Soccer (World).zip
+
+game: WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil) (En)
+file: WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil) (En).zip
+
+game: X-Men - Mojo World (Brazil) (En)
+file: X-Men - Mojo World (Brazil) (En).zip
+
+game: Xenon 2 - Megablast (Europe) (Rev 1)
+file: Xenon 2 - Megablast (Europe) (Rev 1).zip
+
+game: Xenon 2 - Megablast (Europe)
+file: Xenon 2 - Megablast (Europe).zip
+
+game: Xyzolog (Korea) (En) (Unl)
+file: Xyzolog (Korea) (En) (Unl).zip
+
+game: Ys - The Vanished Omens (USA, Europe, Brazil) (En)
+file: Ys - The Vanished Omens (USA, Europe, Brazil) (En).zip
+
+game: Ys - The Vanished Omens (USA, Europe) (Ja) (Demo)
+file: Ys - The Vanished Omens (USA, Europe) (Ja) (Demo).zip
+
+game: Ys (Japan)
+file: Ys (Japan).zip
+
+game: Yuyryeong-ui Jip (Korea) (Unl)
+file: Yuyryeong-ui Jip (Korea) (Unl).zip
+
+game: Zaxxon 3-D (World) (Beta)
+file: Zaxxon 3-D (World) (Beta).zip
+
+game: Zaxxon 3-D (World)
+file: Zaxxon 3-D (World).zip
+
+game: Zemina Best 25 (Korea) (Unl)
+file: Zemina Best 25 (Korea) (Unl).zip
+
+game: Zemina Best 39 (Korea) (Unl)
+file: Zemina Best 39 (Korea) (Unl).zip
+
+game: Zemina Best 88 (Korea) (Unl)
+file: Zemina Best 88 (Korea) (Unl).zip
+
+game: Zemina Rompack - Q-Bert + Sports 3 + Gulkave + Pooyan (Korea) (Unl)
+file: Zemina Rompack - Q-Bert + Sports 3 + Gulkave + Pooyan (Korea) (Unl).zip
+
+game: Zillion (Europe, Brazil) (En) (Rev 2)
+file: Zillion (Europe, Brazil) (En) (Rev 2).zip
+
+game: Zillion (Japan, Europe) (En,Ja)
+file: Zillion (Japan, Europe) (En,Ja).zip
+
+game: Zillion (USA, Europe) (Rev 1)
+file: Zillion (USA, Europe) (Rev 1).zip
+
+game: Zillion II - The Tri Formation (World) (Beta)
+file: Zillion II - The Tri Formation (World) (Beta).zip
+
+game: Zillion II - The Tri Formation (World)
+file: Zillion II - The Tri Formation (World).zip
+
+game: Zool - Ninja of the 'Nth' Dimension (Europe)
+file: Zool - Ninja of the 'Nth' Dimension (Europe).zip

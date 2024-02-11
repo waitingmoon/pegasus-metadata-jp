@@ -1,0 +1,92 @@
+game: 3-D Tetris (USA)
+file: 3-D Tetris (USA).zip
+
+game: Bound High (Japan) (En) (Proto)
+file: Bound High (Japan) (En) (Proto).zip
+
+game: Galactic Pinball (Japan, USA) (En)
+file: Galactic Pinball (Japan, USA) (En).zip
+
+game: Golf (USA)
+file: Golf (USA).zip
+
+game: Insmouth no Yakata (Japan)
+file: Insmouth no Yakata (Japan).zip
+
+game: Jack Bros. (USA)
+file: Jack Bros. (USA).zip
+
+game: Jack Bros. no Meiro de Hiihoo! (Japan)
+file: Jack Bros. no Meiro de Hiihoo! (Japan).zip
+
+game: Mario Clash (Japan, USA) (En)
+file: Mario Clash (Japan, USA) (En).zip
+
+game: Mario's Tennis (Japan, USA) (En)
+file: Mario's Tennis (Japan, USA) (En).zip
+
+game: Nester's Funky Bowling (USA)
+file: Nester's Funky Bowling (USA).zip
+
+game: Niko-chan Battle (Japan) (Proto)
+file: Niko-chan Battle (Japan) (Proto).zip
+
+game: Panic Bomber (USA)
+file: Panic Bomber (USA).zip
+
+game: Red Alarm (Japan)
+file: Red Alarm (Japan).zip
+
+game: Red Alarm (USA)
+file: Red Alarm (USA).zip
+
+game: SD Gundam - Dimension War (Japan)
+file: SD Gundam - Dimension War (Japan).zip
+
+game: Space Invaders - Virtual Collection (Japan)
+file: Space Invaders - Virtual Collection (Japan).zip
+
+game: Space Pinball (Japan) (En) (Proto)
+file: Space Pinball (Japan) (En) (Proto).zip
+
+game: Space Squash (Japan)
+file: Space Squash (Japan).zip
+
+game: T&E Virtual Golf (Japan)
+file: T&E Virtual Golf (Japan).zip
+
+game: Teleroboxer (Japan, USA) (En)
+file: Teleroboxer (Japan, USA) (En).zip
+
+game: Tobidase! Panibon (Japan)
+file: Tobidase! Panibon (Japan).zip
+
+game: V-Tetris (Japan)
+file: V-Tetris (Japan).zip
+
+game: Vertical Force (Japan)
+file: Vertical Force (Japan).zip
+
+game: Vertical Force (USA)
+file: Vertical Force (USA).zip
+
+game: Virtual Bowling (Japan)
+file: Virtual Bowling (Japan).zip
+
+game: Virtual Boy Wario Land (Japan, USA) (En)
+file: Virtual Boy Wario Land (Japan, USA) (En).zip
+
+game: Virtual Fishing (Japan)
+file: Virtual Fishing (Japan).zip
+
+game: Virtual Lab (Japan)
+file: Virtual Lab (Japan).zip
+
+game: Virtual League Baseball (USA)
+file: Virtual League Baseball (USA).zip
+
+game: Virtual Pro Yakyuu '95 (Japan)
+file: Virtual Pro Yakyuu '95 (Japan).zip
+
+game: Waterworld (USA)
+file: Waterworld (USA).zip

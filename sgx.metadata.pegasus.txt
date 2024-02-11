@@ -1,0 +1,14 @@
+game: 1941 - Counter Attack (Japan)
+file: 1941 - Counter Attack (Japan).zip
+
+game: Aldynes - The Misson Code for Rage Crisis (Japan)
+file: Aldynes - The Misson Code for Rage Crisis (Japan).zip
+
+game: Battle Ace (Japan)
+file: Battle Ace (Japan).zip
+
+game: Daimakaimura (Japan)
+file: Daimakaimura (Japan).zip
+
+game: Madou King Granzort (Japan)
+file: Madou King Granzort (Japan).zip

@@ -1,0 +1,35 @@
+game: [BIOS] SNK NeoGeo Pocket (Japan, Europe) (En)
+file: [BIOS] SNK NeoGeo Pocket (Japan, Europe) (En).zip
+
+game: [BIOS] SNK NeoGeo Pocket (Japan) (En) (Beta)
+file: [BIOS] SNK NeoGeo Pocket (Japan) (En) (Beta).zip
+
+game: Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)
+file: Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip
+
+game: King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)
+file: King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip
+
+game: King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo)
+file: King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).zip
+
+game: Melon-chan no Seichou Nikki (Japan)
+file: Melon-chan no Seichou Nikki (Japan).zip
+
+game: Neo Cherry Master - Real Casino Series (Japan) (En,Ja)
+file: Neo Cherry Master - Real Casino Series (Japan) (En,Ja).zip
+
+game: NeoGeo Cup '98 (Japan, Europe) (En,Ja)
+file: NeoGeo Cup '98 (Japan, Europe) (En,Ja).zip
+
+game: Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)
+file: Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip
+
+game: Renketsu Puzzle Tsunagete Pon! (Japan)
+file: Renketsu Puzzle Tsunagete Pon! (Japan).zip
+
+game: Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)
+file: Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip
+
+game: Shougi no Tatsujin (Japan)
+file: Shougi no Tatsujin (Japan).zip

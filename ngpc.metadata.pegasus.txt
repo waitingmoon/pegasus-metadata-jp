@@ -13,20 +13,20 @@ file: Big Bang Pro Wrestling (Japan) (En,Ja).zip
 game: Bikkuriman 2000 - Viva! Pocket Festival! (Japan)
 file: Bikkuriman 2000 - Viva! Pocket Festival! (Japan).zip
 
-game: Biomotor Unitron (Japan) (Demo)
-file: Biomotor Unitron (Japan) (Demo).zip
-
 game: Biomotor Unitron (Japan)
 file: Biomotor Unitron (Japan).zip
+
+game: Biomotor Unitron (Japan) (Demo)
+file: Biomotor Unitron (Japan) (Demo).zip
 
 game: Biomotor Unitron (USA, Europe)
 file: Biomotor Unitron (USA, Europe).zip
 
-game: Bust-A-Move Pocket (USA) (Beta)
-file: Bust-A-Move Pocket (USA) (Beta).zip
-
 game: Bust-A-Move Pocket (USA)
 file: Bust-A-Move Pocket (USA).zip
+
+game: Bust-A-Move Pocket (USA) (Beta)
+file: Bust-A-Move Pocket (USA) (Beta).zip
 
 game: Cool Boarders Pocket (Japan, Europe) (En,Ja)
 file: Cool Boarders Pocket (Japan, Europe) (En,Ja).zip
@@ -52,20 +52,20 @@ file: Delta Warp (Japan) (En,Ja).zip
 game: Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)
 file: Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).zip
 
-game: Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo)
-file: Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo).zip
-
 game: Densha de Go! 2 on NeoGeo Pocket (Japan)
 file: Densha de Go! 2 on NeoGeo Pocket (Japan).zip
+
+game: Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo)
+file: Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo).zip
 
 game: Dive Alert - Becky's Version (USA, Europe)
 file: Dive Alert - Becky's Version (USA, Europe).zip
 
-game: Dive Alert - Burn Hen (Japan) (Beta)
-file: Dive Alert - Burn Hen (Japan) (Beta).zip
-
 game: Dive Alert - Burn Hen (Japan)
 file: Dive Alert - Burn Hen (Japan).zip
+
+game: Dive Alert - Burn Hen (Japan) (Beta)
+file: Dive Alert - Burn Hen (Japan) (Beta).zip
 
 game: Dive Alert - Matt's Version (USA, Europe)
 file: Dive Alert - Matt's Version (USA, Europe).zip
@@ -130,11 +130,11 @@ file: Koi Koi Mahjong (Japan) (v0B).zip
 game: Last Blade, The - Beyond the Destiny (USA, Europe)
 file: Last Blade, The - Beyond the Destiny (USA, Europe).zip
 
-game: Magical Drop Pocket (Japan) (Demo)
-file: Magical Drop Pocket (Japan) (Demo).zip
-
 game: Magical Drop Pocket (Japan)
 file: Magical Drop Pocket (Japan).zip
+
+game: Magical Drop Pocket (Japan) (Demo)
+file: Magical Drop Pocket (Japan) (Demo).zip
 
 game: Magical Drop Pocket (USA, Europe)
 file: Magical Drop Pocket (USA, Europe).zip
@@ -145,11 +145,11 @@ file: Memories Off - Pure (Japan).zip
 game: Metal Slug - 1st Mission (World) (En,Ja)
 file: Metal Slug - 1st Mission (World) (En,Ja).zip
 
-game: Metal Slug - 2nd Mission (World) (En,Ja) (Demo)
-file: Metal Slug - 2nd Mission (World) (En,Ja) (Demo).zip
-
 game: Metal Slug - 2nd Mission (World) (En,Ja)
 file: Metal Slug - 2nd Mission (World) (En,Ja).zip
+
+game: Metal Slug - 2nd Mission (World) (En,Ja) (Demo)
+file: Metal Slug - 2nd Mission (World) (En,Ja) (Demo).zip
 
 game: Mezase! Kanji Ou (Japan)
 file: Mezase! Kanji Ou (Japan).zip
@@ -169,11 +169,11 @@ file: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v11).zip
 game: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16)
 file: Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16).zip
 
-game: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)
-file: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).zip
-
 game: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)
 file: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).zip
+
+game: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)
+file: Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).zip
 
 game: Neo Derby Champ Daiyosou (Japan)
 file: Neo Derby Champ Daiyosou (Japan).zip
@@ -250,17 +250,17 @@ file: Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03).zip
 game: Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04)
 file: Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04).zip
 
-game: Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta)
-file: Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta).zip
-
 game: Pachinko Hisshou Guide - Pocket Parlor (Japan)
 file: Pachinko Hisshou Guide - Pocket Parlor (Japan).zip
 
-game: Party Mail (Japan) (Beta)
-file: Party Mail (Japan) (Beta).zip
+game: Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta)
+file: Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta).zip
 
 game: Party Mail (Japan)
 file: Party Mail (Japan).zip
+
+game: Party Mail (Japan) (Beta)
+file: Party Mail (Japan) (Beta).zip
 
 game: Picture Puzzle (Europe)
 file: Picture Puzzle (Europe).zip
@@ -304,23 +304,23 @@ file: Puzzle Link 2 (USA, Europe).zip
 game: Renketsu Puzzle Tsunagete Pon! Color (Japan)
 file: Renketsu Puzzle Tsunagete Pon! Color (Japan).zip
 
-game: Rockman - Battle & Fighters (Japan) (Demo)
-file: Rockman - Battle & Fighters (Japan) (Demo).zip
-
 game: Rockman - Battle & Fighters (Japan)
 file: Rockman - Battle & Fighters (Japan).zip
 
+game: Rockman - Battle & Fighters (Japan) (Demo)
+file: Rockman - Battle & Fighters (Japan) (Demo).zip
+
 game: Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)
 file: Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip
+
+game: Shanghai Mini (World) (En,Ja)
+file: Shanghai Mini (World) (En,Ja).zip
 
 game: Shanghai Mini (World) (En,Ja) (Beta 1)
 file: Shanghai Mini (World) (En,Ja) (Beta 1).zip
 
 game: Shanghai Mini (World) (En,Ja) (Beta 2)
 file: Shanghai Mini (World) (En,Ja) (Beta 2).zip
-
-game: Shanghai Mini (World) (En,Ja)
-file: Shanghai Mini (World) (En,Ja).zip
 
 game: Shinki Sekai Evolution - Hateshinai Dungeon (Japan)
 file: Shinki Sekai Evolution - Hateshinai Dungeon (Japan).zip
@@ -346,11 +346,11 @@ file: SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip
 game: SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)
 file: SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).zip
 
-game: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)
-file: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo).zip
-
 game: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)
 file: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).zip
+
+game: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)
+file: SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo).zip
 
 game: SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)
 file: SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).zip

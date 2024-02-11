@@ -13,11 +13,11 @@ file: 3D Othello (World) (Ja) (WonderWitch) (Unl).zip
 game: 4 Koma TV (World) (Ja) (WonderWitch) (Unl)
 file: 4 Koma TV (World) (Ja) (WonderWitch) (Unl).zip
 
-game: Alchemist Marie & Elie - Futari no Atelier (Japan) (Demo) (WonderWitch)
-file: Alchemist Marie & Elie - Futari no Atelier (Japan) (Demo) (WonderWitch).zip
-
 game: Alchemist Marie & Elie - Futari no Atelier (Japan)
 file: Alchemist Marie & Elie - Futari no Atelier (Japan).zip
+
+game: Alchemist Marie & Elie - Futari no Atelier (Japan) (Demo) (WonderWitch)
+file: Alchemist Marie & Elie - Futari no Atelier (Japan) (Demo) (WonderWitch).zip
 
 game: Another Heaven - Memory of those Days (Japan)
 file: Another Heaven - Memory of those Days (Japan).zip
@@ -112,11 +112,11 @@ file: Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Hong Kong) (En)
 game: Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Korea) (En)
 file: Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Korea) (En).zip
 
-game: Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)
-file: Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).zip
-
 game: Digimon Adventure 02 - D1 Tamers (Japan)
 file: Digimon Adventure 02 - D1 Tamers (Japan).zip
+
+game: Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)
+file: Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).zip
 
 game: Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)
 file: Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja).zip
@@ -127,11 +127,14 @@ file: Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).zip
 game: Digimon Tamers - Brave Tamer (Japan) (Rev 1)
 file: Digimon Tamers - Brave Tamer (Japan) (Rev 1).zip
 
+game: Digimon Tamers - Digimon Medley (Japan)
+file: Digimon Tamers - Digimon Medley (Japan).zip
+
 game: Digimon Tamers - Digimon Medley (Japan) (Rev 1)
 file: Digimon Tamers - Digimon Medley (Japan) (Rev 1).zip
 
-game: Digimon Tamers - Digimon Medley (Japan)
-file: Digimon Tamers - Digimon Medley (Japan).zip
+game: Digital Monster - D-Project (Japan)
+file: Digital Monster - D-Project (Japan).zip
 
 game: Digital Monster - D-Project (Japan) (Rev 1)
 file: Digital Monster - D-Project (Japan) (Rev 1).zip
@@ -139,14 +142,11 @@ file: Digital Monster - D-Project (Japan) (Rev 1).zip
 game: Digital Monster - D-Project (Japan) (Rev 2)
 file: Digital Monster - D-Project (Japan) (Rev 2).zip
 
-game: Digital Monster - D-Project (Japan)
-file: Digital Monster - D-Project (Japan).zip
+game: Digital Monster Card Game - Ver. WonderSwan Color (Japan)
+file: Digital Monster Card Game - Ver. WonderSwan Color (Japan).zip
 
 game: Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)
 file: Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).zip
-
-game: Digital Monster Card Game - Ver. WonderSwan Color (Japan)
-file: Digital Monster Card Game - Ver. WonderSwan Color (Japan).zip
 
 game: Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)
 file: Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).zip
@@ -187,20 +187,20 @@ file: Flip (World) (Proto) (WonderWitch) (Unl).zip
 game: From TV Animation One Piece - Chopper no Daibouken (Japan)
 file: From TV Animation One Piece - Chopper no Daibouken (Japan).zip
 
-game: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan) (Sample)
-file: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan) (Sample).zip
-
 game: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)
 file: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).zip
+
+game: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan) (Sample)
+file: From TV Animation One Piece - Grand Battle Swan Colosseum (Japan) (Sample).zip
 
 game: From TV Animation One Piece - Niji no Shima Densetsu (Japan)
 file: From TV Animation One Piece - Niji no Shima Densetsu (Japan).zip
 
-game: From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)
-file: From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).zip
-
 game: From TV Animation One Piece - Treasure Wars (Japan)
 file: From TV Animation One Piece - Treasure Wars (Japan).zip
+
+game: From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)
+file: From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).zip
 
 game: From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)
 file: From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).zip
@@ -271,11 +271,11 @@ file: House Keeper - 1.5 Generation (World) (Ja) (Proto) (WonderWitch) (Unl).zip
 game: House Keeper (World) (Ja) (WonderWitch) (Unl)
 file: House Keeper (World) (Ja) (WonderWitch) (Unl).zip
 
-game: Hunter X Hunter - Greed Island (Japan) (Rev 1)
-file: Hunter X Hunter - Greed Island (Japan) (Rev 1).zip
-
 game: Hunter X Hunter - Greed Island (Japan)
 file: Hunter X Hunter - Greed Island (Japan).zip
+
+game: Hunter X Hunter - Greed Island (Japan) (Rev 1)
+file: Hunter X Hunter - Greed Island (Japan) (Rev 1).zip
 
 game: Hunter X Hunter - Michibikareshi Mono (Japan)
 file: Hunter X Hunter - Michibikareshi Mono (Japan).zip
@@ -535,11 +535,11 @@ file: Rhyme Rider Kerorican (Japan).zip
 game: Rhythmin (World) (Ja) (WonderWitch) (Unl)
 file: Rhythmin (World) (Ja) (WonderWitch) (Unl).zip
 
-game: Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)
-file: Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1).zip
-
 game: Riviera - Yakusoku no Chi Riviera (Japan)
 file: Riviera - Yakusoku no Chi Riviera (Japan).zip
+
+game: Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)
+file: Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1).zip
 
 game: Rockman EXE - N1 Battle (Japan) (Rev 1)
 file: Rockman EXE - N1 Battle (Japan) (Rev 1).zip
@@ -580,11 +580,11 @@ file: SD Gundam Eiyuu Den - Musha Densetsu (Japan).zip
 game: SD Gundam G Generation - Gather Beat 2 (Japan)
 file: SD Gundam G Generation - Gather Beat 2 (Japan).zip
 
-game: SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2)
-file: SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2).zip
-
 game: SD Gundam G Generation - Mono-Eye Gundams (Japan)
 file: SD Gundam G Generation - Mono-Eye Gundams (Japan).zip
+
+game: SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2)
+file: SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2).zip
 
 game: Self Produce (World) (Proto) (WonderWitch) (Unl)
 file: Self Produce (World) (Proto) (WonderWitch) (Unl).zip
@@ -592,11 +592,11 @@ file: Self Produce (World) (Proto) (WonderWitch) (Unl).zip
 game: Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan)
 file: Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).zip
 
-game: Shaman King - Asu e no Ishi (Japan) (Rev 1)
-file: Shaman King - Asu e no Ishi (Japan) (Rev 1).zip
-
 game: Shaman King - Asu e no Ishi (Japan)
 file: Shaman King - Asu e no Ishi (Japan).zip
+
+game: Shaman King - Asu e no Ishi (Japan) (Rev 1)
+file: Shaman King - Asu e no Ishi (Japan) (Rev 1).zip
 
 game: Shokaku 80186 (World) (WonderWitch) (Unl)
 file: Shokaku 80186 (World) (WonderWitch) (Unl).zip

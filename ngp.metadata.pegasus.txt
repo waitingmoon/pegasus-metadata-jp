@@ -10,8 +10,8 @@ file: Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip
 game: King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)
 file: King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip
 
-game: King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo)
-file: King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).zip
+game: King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)
+file: King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo).zip
 
 game: Melon-chan no Seichou Nikki (Japan)
 file: Melon-chan no Seichou Nikki (Japan).zip

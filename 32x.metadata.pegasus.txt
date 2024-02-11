@@ -34,6 +34,9 @@ file: ClayFighter 2 (USA) (Proto) (1995-04-28).zip
 game: Cosmic Carnage (Europe)
 file: Cosmic Carnage (Europe).zip
 
+game: Cosmic Carnage (Japan, USA) (En)
+file: Cosmic Carnage (Japan, USA) (En).zip
+
 game: Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06)
 file: Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06).zip
 
@@ -58,17 +61,17 @@ file: Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).zip
 game: Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11)
 file: Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).zip
 
-game: Cosmic Carnage (Japan, USA) (En)
-file: Cosmic Carnage (Japan, USA) (En).zip
-
 game: Darxide (Europe) (En,Fr,De,Es)
 file: Darxide (Europe) (En,Fr,De,Es).zip
+
+game: Doom (Europe)
+file: Doom (Europe).zip
 
 game: Doom (Europe) (Beta) (1994-10-02)
 file: Doom (Europe) (Beta) (1994-10-02).zip
 
-game: Doom (Europe)
-file: Doom (Europe).zip
+game: Doom (Japan, USA) (En)
+file: Doom (Japan, USA) (En).zip
 
 game: Doom (Japan, USA) (En) (Beta) (1994-09-06)
 file: Doom (Japan, USA) (En) (Beta) (1994-09-06).zip
@@ -97,9 +100,6 @@ file: Doom (Japan, USA) (En) (Beta) (1994-09-27).zip
 game: Doom (Japan, USA) (En) (Beta) (1994-12-01)
 file: Doom (Japan, USA) (En) (Beta) (1994-12-01).zip
 
-game: Doom (Japan, USA) (En)
-file: Doom (Japan, USA) (En).zip
-
 game: Doom RR (Japan, USA) (En) (Beta) (1995-02-15)
 file: Doom RR (Japan, USA) (En) (Beta) (1995-02-15).zip
 
@@ -115,14 +115,17 @@ file: Ecco the Dolphin (USA) (Demo) (Developer Cart).zip
 game: FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)
 file: FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).zip
 
+game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)
+file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).zip
+
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).zip
 
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).zip
 
-game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)
-file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).zip
+game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En)
+file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).zip
 
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06).zip
@@ -166,20 +169,20 @@ file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).zip
 
-game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt)
-file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt).zip
-
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19).zip
+
+game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt)
+file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt).zip
 
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21).zip
 
-game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt)
-file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt).zip
-
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22).zip
+
+game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt)
+file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt).zip
 
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23).zip
@@ -190,11 +193,11 @@ file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27).zip
 
-game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt)
-file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt).zip
-
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28).zip
+
+game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt)
+file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt).zip
 
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29).zip
@@ -220,11 +223,11 @@ file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)
 game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21)
 file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21).zip
 
-game: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En)
-file: Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).zip
-
 game: Knuckles' Chaotix (Europe)
 file: Knuckles' Chaotix (Europe).zip
+
+game: Knuckles' Chaotix (Japan, USA) (En)
+file: Knuckles' Chaotix (Japan, USA) (En).zip
 
 game: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07)
 file: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07).zip
@@ -253,17 +256,14 @@ file: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09).zip
 game: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10)
 file: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10).zip
 
-game: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt)
-file: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt).zip
-
 game: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13)
 file: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13).zip
 
+game: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt)
+file: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt).zip
+
 game: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14)
 file: Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14).zip
-
-game: Knuckles' Chaotix (Japan, USA) (En)
-file: Knuckles' Chaotix (Japan, USA) (En).zip
 
 game: Kolibri (USA, Europe)
 file: Kolibri (USA, Europe).zip
@@ -304,11 +304,11 @@ file: Metal Head (Japan, USA) (En) (Beta) (1994-11-21).zip
 game: Metal Head (Japan, USA) (En) (Beta) (1994-12-02)
 file: Metal Head (Japan, USA) (En) (Beta) (1994-12-02).zip
 
-game: Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt)
-file: Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt).zip
-
 game: Metal Head (Japan, USA) (En) (Beta) (1994-12-07)
 file: Metal Head (Japan, USA) (En) (Beta) (1994-12-07).zip
+
+game: Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt)
+file: Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt).zip
 
 game: Metal Head (Japan, USA) (En) (Beta) (1994-12-09)
 file: Metal Head (Japan, USA) (En) (Beta) (1994-12-09).zip
@@ -325,11 +325,11 @@ file: Mortal Kombat II (Europe).zip
 game: Mortal Kombat II (Japan, USA) (En)
 file: Mortal Kombat II (Japan, USA) (En).zip
 
-game: Motherbase (Europe) (Sample)
-file: Motherbase (Europe) (Sample).zip
-
 game: Motherbase (Europe)
 file: Motherbase (Europe).zip
+
+game: Motherbase (Europe) (Sample)
+file: Motherbase (Europe) (Sample).zip
 
 game: Motocross Championship (Europe)
 file: Motocross Championship (Europe).zip
@@ -358,11 +358,11 @@ file: Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28).zip
 game: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01)
 file: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01).zip
 
-game: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt)
-file: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt).zip
-
 game: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02)
 file: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02).zip
+
+game: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt)
+file: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt).zip
 
 game: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03)
 file: Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03).zip
@@ -409,17 +409,20 @@ file: Soulstar X (USA) (Proto).zip
 game: Space Harrier (Europe)
 file: Space Harrier (Europe).zip
 
-game: Space Harrier (Japan, USA) (En) (Beta) (1994-09-20)
-file: Space Harrier (Japan, USA) (En) (Beta) (1994-09-20).zip
-
 game: Space Harrier (Japan, USA) (En)
 file: Space Harrier (Japan, USA) (En).zip
+
+game: Space Harrier (Japan, USA) (En) (Beta) (1994-09-20)
+file: Space Harrier (Japan, USA) (En) (Beta) (1994-09-20).zip
 
 game: Spot Goes to Hollywood (USA) (Proto)
 file: Spot Goes to Hollywood (USA) (Proto).zip
 
 game: Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)
 file: Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).zip
+
+game: Star Wars Arcade (Europe)
+file: Star Wars Arcade (Europe).zip
 
 game: Star Wars Arcade (Europe) (Beta) (1994-09-23)
 file: Star Wars Arcade (Europe) (Beta) (1994-09-23).zip
@@ -433,8 +436,8 @@ file: Star Wars Arcade (Europe) (Beta) (1994-10-06).zip
 game: Star Wars Arcade (Europe) (Beta) (1994-10-07)
 file: Star Wars Arcade (Europe) (Beta) (1994-10-07).zip
 
-game: Star Wars Arcade (Europe)
-file: Star Wars Arcade (Europe).zip
+game: Star Wars Arcade (Japan)
+file: Star Wars Arcade (Japan).zip
 
 game: Star Wars Arcade (Japan) (Beta) (1994-09-30)
 file: Star Wars Arcade (Japan) (Beta) (1994-09-30).zip
@@ -445,8 +448,8 @@ file: Star Wars Arcade (Japan) (Beta) (1994-10-03).zip
 game: Star Wars Arcade (Japan) (Beta) (1994-10-05)
 file: Star Wars Arcade (Japan) (Beta) (1994-10-05).zip
 
-game: Star Wars Arcade (Japan)
-file: Star Wars Arcade (Japan).zip
+game: Star Wars Arcade (USA)
+file: Star Wars Arcade (USA).zip
 
 game: Star Wars Arcade (USA) (Beta) (1994-08-30)
 file: Star Wars Arcade (USA) (Beta) (1994-08-30).zip
@@ -481,8 +484,8 @@ file: Star Wars Arcade (USA) (Beta) (1994-09-16).zip
 game: Star Wars Arcade (USA) (Beta) (1994-09-18)
 file: Star Wars Arcade (USA) (Beta) (1994-09-18).zip
 
-game: Star Wars Arcade (USA)
-file: Star Wars Arcade (USA).zip
+game: Stellar Assault (Japan)
+file: Stellar Assault (Japan).zip
 
 game: Stellar Assault (Japan) (En) (Beta) (1995-02-06)
 file: Stellar Assault (Japan) (En) (Beta) (1995-02-06).zip
@@ -490,8 +493,8 @@ file: Stellar Assault (Japan) (En) (Beta) (1995-02-06).zip
 game: Stellar Assault (Japan) (En) (Beta) (1995-02-13)
 file: Stellar Assault (Japan) (En) (Beta) (1995-02-13).zip
 
-game: Stellar Assault (Japan)
-file: Stellar Assault (Japan).zip
+game: Stellar Assault (USA, Europe)
+file: Stellar Assault (USA, Europe).zip
 
 game: Stellar Assault (USA, Europe) (Beta) (1995-02-22)
 file: Stellar Assault (USA, Europe) (Beta) (1995-02-22).zip
@@ -502,17 +505,17 @@ file: Stellar Assault (USA, Europe) (Beta) (1995-03-02).zip
 game: Stellar Assault (USA, Europe) (Beta) (1995-03-06)
 file: Stellar Assault (USA, Europe) (Beta) (1995-03-06).zip
 
-game: Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt)
-file: Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt).zip
-
 game: Stellar Assault (USA, Europe) (Beta) (1995-03-13)
 file: Stellar Assault (USA, Europe) (Beta) (1995-03-13).zip
 
-game: Stellar Assault (USA, Europe)
-file: Stellar Assault (USA, Europe).zip
+game: Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt)
+file: Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt).zip
 
 game: T-MEK (USA, Europe)
 file: T-MEK (USA, Europe).zip
+
+game: Tempo (Japan, USA) (En)
+file: Tempo (Japan, USA) (En).zip
 
 game: Tempo (Japan, USA) (En) (Beta) (1994-12-21)
 file: Tempo (Japan, USA) (En) (Beta) (1994-12-21).zip
@@ -529,17 +532,14 @@ file: Tempo (Japan, USA) (En) (Beta) (1995-01-26).zip
 game: Tempo (Japan, USA) (En) (Beta) (1995-02-04)
 file: Tempo (Japan, USA) (En) (Beta) (1995-02-04).zip
 
-game: Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt)
-file: Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt).zip
-
 game: Tempo (Japan, USA) (En) (Beta) (1995-02-06)
 file: Tempo (Japan, USA) (En) (Beta) (1995-02-06).zip
 
+game: Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt)
+file: Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt).zip
+
 game: Tempo (Japan, USA) (En) (Beta) (1995-02-07)
 file: Tempo (Japan, USA) (En) (Beta) (1995-02-07).zip
-
-game: Tempo (Japan, USA) (En)
-file: Tempo (Japan, USA) (En).zip
 
 game: Time Warner 32X CMD Download Cartridge (USA) (Program)
 file: Time Warner 32X CMD Download Cartridge (USA) (Program).zip
@@ -549,6 +549,9 @@ file: Toughman Contest (USA, Europe).zip
 
 game: Virtua Fighter (Europe)
 file: Virtua Fighter (Europe).zip
+
+game: Virtua Fighter (Japan, USA) (En)
+file: Virtua Fighter (Japan, USA) (En).zip
 
 game: Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30)
 file: Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30).zip
@@ -571,9 +574,6 @@ file: Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24).zip
 game: Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25)
 file: Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25).zip
 
-game: Virtua Fighter (Japan, USA) (En)
-file: Virtua Fighter (Japan, USA) (En).zip
-
 game: Virtua Hamster (USA) (Proto)
 file: Virtua Hamster (USA) (Proto).zip
 
@@ -583,6 +583,9 @@ file: Virtua Racing Deluxe (Europe).zip
 game: Virtua Racing Deluxe (Japan)
 file: Virtua Racing Deluxe (Japan).zip
 
+game: Virtua Racing Deluxe (USA)
+file: Virtua Racing Deluxe (USA).zip
+
 game: Virtua Racing Deluxe (USA) (Beta) (1994-08-22)
 file: Virtua Racing Deluxe (USA) (Beta) (1994-08-22).zip
 
@@ -591,9 +594,6 @@ file: Virtua Racing Deluxe (USA) (Beta) (1994-08-29).zip
 
 game: Virtua Racing Deluxe (USA) (Beta) (1994-09-05)
 file: Virtua Racing Deluxe (USA) (Beta) (1994-09-05).zip
-
-game: Virtua Racing Deluxe (USA)
-file: Virtua Racing Deluxe (USA).zip
 
 game: World Series Baseball Starring Deion Sanders (USA)
 file: World Series Baseball Starring Deion Sanders (USA).zip

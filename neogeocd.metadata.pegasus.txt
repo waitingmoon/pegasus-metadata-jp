@@ -124,11 +124,11 @@ file: Janshin Densetsu - Quest of Jongmaster (Japan).chd
 game: Joy Joy Kid ~ Puzzled (World) (En,Ja)
 file: Joy Joy Kid ~ Puzzled (World) (En,Ja).chd
 
-game: King of Fighters '94, The (World) (En,Ja) (Rev 1)
-file: King of Fighters '94, The (World) (En,Ja) (Rev 1).chd
-
 game: King of Fighters '94, The (World) (En,Ja)
 file: King of Fighters '94, The (World) (En,Ja).chd
+
+game: King of Fighters '94, The (World) (En,Ja) (Rev 1)
+file: King of Fighters '94, The (World) (En,Ja) (Rev 1).chd
 
 game: King of Fighters '95, The (Japan) (En,Ja) (Rev 1)
 file: King of Fighters '95, The (Japan) (En,Ja) (Rev 1).chd

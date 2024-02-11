@@ -13,11 +13,11 @@ file: Adventures of Batman and Robin, The (Europe).chd
 game: Adventures of Batman and Robin, The (USA)
 file: Adventures of Batman and Robin, The (USA).chd
 
-game: Adventures of Willy Beamish, The (USA) (Alt)
-file: Adventures of Willy Beamish, The (USA) (Alt).chd
-
 game: Adventures of Willy Beamish, The (USA)
 file: Adventures of Willy Beamish, The (USA).chd
+
+game: Adventures of Willy Beamish, The (USA) (Alt)
+file: Adventures of Willy Beamish, The (USA) (Alt).chd
 
 game: After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)
 file: After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan).chd
@@ -43,11 +43,11 @@ file: Alshark (Japan).chd
 game: Amazing Spider-Man vs. The Kingpin, The (Europe)
 file: Amazing Spider-Man vs. The Kingpin, The (Europe).chd
 
-game: Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)
-file: Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).chd
-
 game: Amazing Spider-Man vs. The Kingpin, The (USA)
 file: Amazing Spider-Man vs. The Kingpin, The (USA).chd
+
+game: Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)
+file: Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).chd
 
 game: Android Assault - The Revenge of Bari-Arm (USA)
 file: Android Assault - The Revenge of Bari-Arm (USA).chd
@@ -73,17 +73,17 @@ file: Bakuden - The Unbalanced Zone (Japan).chd
 game: Bari-Arm (Japan)
 file: Bari-Arm (Japan).chd
 
-game: Batman Returns (Europe) (Alt)
-file: Batman Returns (Europe) (Alt).chd
-
 game: Batman Returns (Europe)
 file: Batman Returns (Europe).chd
 
-game: Batman Returns (USA) (Alt)
-file: Batman Returns (USA) (Alt).chd
+game: Batman Returns (Europe) (Alt)
+file: Batman Returns (Europe) (Alt).chd
 
 game: Batman Returns (USA)
 file: Batman Returns (USA).chd
+
+game: Batman Returns (USA) (Alt)
+file: Batman Returns (USA) (Alt).chd
 
 game: Battle Fantasy (Japan) (Rev A)
 file: Battle Fantasy (Japan) (Rev A).chd
@@ -118,11 +118,11 @@ file: BC Racers (Europe) (En,Fr,De).chd
 game: BC Racers (USA)
 file: BC Racers (USA).chd
 
-game: Beast II (Europe) (Demo)
-file: Beast II (Europe) (Demo).chd
-
 game: Beast II (Europe)
 file: Beast II (Europe).chd
+
+game: Beast II (Europe) (Demo)
+file: Beast II (Europe) (Demo).chd
 
 game: Bill Walsh College Football (Europe)
 file: Bill Walsh College Football (Europe).chd
@@ -136,17 +136,20 @@ file: Black Hole Assault (Japan).chd
 game: Blackhole Assault (Europe)
 file: Blackhole Assault (Europe).chd
 
-game: Blackhole Assault (USA) (Alt)
-file: Blackhole Assault (USA) (Alt).chd
-
 game: Blackhole Assault (USA)
 file: Blackhole Assault (USA).chd
+
+game: Blackhole Assault (USA) (Alt)
+file: Blackhole Assault (USA) (Alt).chd
 
 game: Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)
 file: Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd
 
 game: Bouncers (USA)
 file: Bouncers (USA).chd
+
+game: Bram Stoker's Dracula (USA)
+file: Bram Stoker's Dracula (USA).chd
 
 game: Bram Stoker's Dracula (USA) (Alt 1)
 file: Bram Stoker's Dracula (USA) (Alt 1).chd
@@ -156,9 +159,6 @@ file: Bram Stoker's Dracula (USA) (Alt 2).chd
 
 game: Bram Stoker's Dracula (USA) (Version 2.0)
 file: Bram Stoker's Dracula (USA) (Version 2.0).chd
-
-game: Bram Stoker's Dracula (USA)
-file: Bram Stoker's Dracula (USA).chd
 
 game: Brutal - Paws of Fury (Europe) (En,Fr,De)
 file: Brutal - Paws of Fury (Europe) (En,Fr,De).chd
@@ -232,17 +232,17 @@ file: Compton's Interactive Encyclopedia (USA) (Version 2.01S).chd
 game: Compton's Interactive Encyclopedia (USA) (Version 2.10) (RE2)
 file: Compton's Interactive Encyclopedia (USA) (Version 2.10) (RE2).chd
 
-game: Corpse Killer (Europe) (Mega-CD 32X)
-file: Corpse Killer (Europe) (Mega-CD 32X).chd
-
 game: Corpse Killer (Europe)
 file: Corpse Killer (Europe).chd
 
-game: Corpse Killer (USA) (Sega CD 32X)
-file: Corpse Killer (USA) (Sega CD 32X).chd
+game: Corpse Killer (Europe) (Mega-CD 32X)
+file: Corpse Killer (Europe) (Mega-CD 32X).chd
 
 game: Corpse Killer (USA)
 file: Corpse Killer (USA).chd
+
+game: Corpse Killer (USA) (Sega CD 32X)
+file: Corpse Killer (USA) (Sega CD 32X).chd
 
 game: Cosmic Fantasy Stories (Japan)
 file: Cosmic Fantasy Stories (Japan).chd
@@ -310,11 +310,11 @@ file: Dragon's Lair (Europe).chd
 game: Dragon's Lair (Japan) (En,Ja,Fr,De,It)
 file: Dragon's Lair (Japan) (En,Ja,Fr,De,It).chd
 
-game: Dragon's Lair (USA) (Demo)
-file: Dragon's Lair (USA) (Demo).chd
-
 game: Dragon's Lair (USA)
 file: Dragon's Lair (USA).chd
+
+game: Dragon's Lair (USA) (Demo)
+file: Dragon's Lair (USA) (Demo).chd
 
 game: Dune (Europe) (En,Fr,De,Es,It,Ar)
 file: Dune (Europe) (En,Fr,De,Es,It,Ar).chd
@@ -352,20 +352,20 @@ file: Earthworm Jim - Special Edition (USA) (RE).chd
 game: Ecco - The Tides of Time (Europe) (En,Fr,De,Es)
 file: Ecco - The Tides of Time (Europe) (En,Fr,De,Es).chd
 
-game: Ecco - The Tides of Time (USA) (Alt)
-file: Ecco - The Tides of Time (USA) (Alt).chd
-
 game: Ecco - The Tides of Time (USA)
 file: Ecco - The Tides of Time (USA).chd
+
+game: Ecco - The Tides of Time (USA) (Alt)
+file: Ecco - The Tides of Time (USA) (Alt).chd
 
 game: Ecco the Dolphin (Australia)
 file: Ecco the Dolphin (Australia).chd
 
-game: Ecco the Dolphin (Europe) (Rerelease)
-file: Ecco the Dolphin (Europe) (Rerelease).chd
-
 game: Ecco the Dolphin (Europe)
 file: Ecco the Dolphin (Europe).chd
+
+game: Ecco the Dolphin (Europe) (Rerelease)
+file: Ecco the Dolphin (Europe) (Rerelease).chd
 
 game: Ecco the Dolphin (USA)
 file: Ecco the Dolphin (USA).chd
@@ -394,20 +394,20 @@ file: ESPN NBA Hangtime '95 (USA).chd
 game: ESPN Sunday Night NFL (USA)
 file: ESPN Sunday Night NFL (USA).chd
 
+game: Eternal Champions - Challenge from the Dark Side (Europe)
+file: Eternal Champions - Challenge from the Dark Side (Europe).chd
+
 game: Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09)
 file: Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09).chd
 
-game: Eternal Champions - Challenge from the Dark Side (Europe)
-file: Eternal Champions - Challenge from the Dark Side (Europe).chd
+game: Eternal Champions - Challenge from the Dark Side (USA)
+file: Eternal Champions - Challenge from the Dark Side (USA).chd
 
 game: Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11)
 file: Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11).chd
 
 game: Eternal Champions - Challenge from the Dark Side (USA) (RE)
 file: Eternal Champions - Challenge from the Dark Side (USA) (RE).chd
-
-game: Eternal Champions - Challenge from the Dark Side (USA)
-file: Eternal Champions - Challenge from the Dark Side (USA).chd
 
 game: Eye of the Beholder (Europe)
 file: Eye of the Beholder (Europe).chd
@@ -436,23 +436,23 @@ file: Fahrenheit (USA) (Disc 1) (Key Disc) (Sega CD).chd
 game: Fahrenheit (USA) (Disc 2) (32X CD)
 file: Fahrenheit (USA) (Disc 2) (32X CD).chd
 
+game: Fatal Fury Special (Europe)
+file: Fatal Fury Special (Europe).chd
+
 game: Fatal Fury Special (Europe) (Beta) (1995-02-23)
 file: Fatal Fury Special (Europe) (Beta) (1995-02-23).chd
 
 game: Fatal Fury Special (Europe) (Demo)
 file: Fatal Fury Special (Europe) (Demo).chd
 
-game: Fatal Fury Special (Europe)
-file: Fatal Fury Special (Europe).chd
-
 game: Fatal Fury Special (USA)
 file: Fatal Fury Special (USA).chd
 
-game: FIFA International Soccer - Championship Edition (Europe) (Demo) (Alt)
-file: FIFA International Soccer - Championship Edition (Europe) (Demo) (Alt).chd
-
 game: FIFA International Soccer - Championship Edition (Europe) (Demo)
 file: FIFA International Soccer - Championship Edition (Europe) (Demo).chd
+
+game: FIFA International Soccer - Championship Edition (Europe) (Demo) (Alt)
+file: FIFA International Soccer - Championship Edition (Europe) (Demo) (Alt).chd
 
 game: FIFA International Soccer - Championship Edition (Europe) (En,Fr,De,Es)
 file: FIFA International Soccer - Championship Edition (Europe) (En,Fr,De,Es).chd
@@ -463,20 +463,20 @@ file: FIFA International Soccer (USA).chd
 game: Final Fight CD (Europe)
 file: Final Fight CD (Europe).chd
 
+game: Final Fight CD (Japan)
+file: Final Fight CD (Japan).chd
+
 game: Final Fight CD (Japan) (Rev A)
 file: Final Fight CD (Japan) (Rev A).chd
 
-game: Final Fight CD (Japan)
-file: Final Fight CD (Japan).chd
+game: Final Fight CD (USA)
+file: Final Fight CD (USA).chd
 
 game: Final Fight CD (USA) (Alt 1)
 file: Final Fight CD (USA) (Alt 1).chd
 
 game: Final Fight CD (USA) (Alt 2)
 file: Final Fight CD (USA) (Alt 2).chd
-
-game: Final Fight CD (USA)
-file: Final Fight CD (USA).chd
 
 game: Flashback - The Quest for Identity (USA)
 file: Flashback - The Quest for Identity (USA).chd
@@ -520,11 +520,11 @@ file: Ground Zero Texas (Europe) (Disc 2).chd
 game: Ground Zero Texas (USA) (Disc 1)
 file: Ground Zero Texas (USA) (Disc 1).chd
 
-game: Ground Zero Texas (USA) (Disc 2) (Alt)
-file: Ground Zero Texas (USA) (Disc 2) (Alt).chd
-
 game: Ground Zero Texas (USA) (Disc 2)
 file: Ground Zero Texas (USA) (Disc 2).chd
+
+game: Ground Zero Texas (USA) (Disc 2) (Alt)
+file: Ground Zero Texas (USA) (Disc 2) (Alt).chd
 
 game: Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland-hen (Japan)
 file: Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland-hen (Japan).chd
@@ -532,11 +532,11 @@ file: Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland-hen (Japan).chd
 game: Heart of the Alien - Out of This World Parts I and II (USA) (RE)
 file: Heart of the Alien - Out of This World Parts I and II (USA) (RE).chd
 
-game: Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo)
-file: Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo).chd
-
 game: Heavenly Symphony - Formula One World Championship 1993 (Japan)
 file: Heavenly Symphony - Formula One World Championship 1993 (Japan).chd
+
+game: Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo)
+file: Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo).chd
 
 game: Heavy Nova (Japan)
 file: Heavy Nova (Japan).chd
@@ -550,11 +550,11 @@ file: Heimdall (USA).chd
 game: Hook (Europe)
 file: Hook (Europe).chd
 
-game: Hook (USA) (Alt)
-file: Hook (USA) (Alt).chd
-
 game: Hook (USA)
 file: Hook (USA).chd
+
+game: Hook (USA) (Alt)
+file: Hook (USA) (Alt).chd
 
 game: IIIrd World War, The (Japan)
 file: IIIrd World War, The (Japan).chd
@@ -583,11 +583,11 @@ file: Jeopardy! (USA).chd
 game: Joe Montana's NFL Football (USA)
 file: Joe Montana's NFL Football (USA).chd
 
-game: Jurassic Park (Europe) (Rerelease)
-file: Jurassic Park (Europe) (Rerelease).chd
-
 game: Jurassic Park (Europe)
 file: Jurassic Park (Europe).chd
+
+game: Jurassic Park (Europe) (Rerelease)
+file: Jurassic Park (Europe) (Rerelease).chd
 
 game: Jurassic Park (France)
 file: Jurassic Park (France).chd
@@ -607,20 +607,20 @@ file: Jurassic Park (USA) (RE).chd
 game: Kamen Rider ZO (Japan)
 file: Kamen Rider ZO (Japan).chd
 
-game: Keio Flying Squadron (Europe) (Demo)
-file: Keio Flying Squadron (Europe) (Demo).chd
-
 game: Keio Flying Squadron (Europe)
 file: Keio Flying Squadron (Europe).chd
+
+game: Keio Flying Squadron (Europe) (Demo)
+file: Keio Flying Squadron (Europe) (Demo).chd
 
 game: Keio Flying Squadron (USA)
 file: Keio Flying Squadron (USA).chd
 
-game: Keiou Yuugekitai (Japan) (Demo)
-file: Keiou Yuugekitai (Japan) (Demo).chd
-
 game: Keiou Yuugekitai (Japan)
 file: Keiou Yuugekitai (Japan).chd
+
+game: Keiou Yuugekitai (Japan) (Demo)
+file: Keiou Yuugekitai (Japan) (Demo).chd
 
 game: Kids on Site (Europe) (RE-1)
 file: Kids on Site (Europe) (RE-1).chd
@@ -628,11 +628,11 @@ file: Kids on Site (Europe) (RE-1).chd
 game: Kids on Site (USA)
 file: Kids on Site (USA).chd
 
-game: Lawnmower Man, The (Europe) (Demo)
-file: Lawnmower Man, The (Europe) (Demo).chd
-
 game: Lawnmower Man, The (Europe)
 file: Lawnmower Man, The (Europe).chd
+
+game: Lawnmower Man, The (Europe) (Demo)
+file: Lawnmower Man, The (Europe) (Demo).chd
 
 game: Lawnmower Man, The (USA)
 file: Lawnmower Man, The (USA).chd
@@ -643,11 +643,14 @@ file: Lethal Enforcers (Europe).chd
 game: Lethal Enforcers (Japan)
 file: Lethal Enforcers (Japan).chd
 
+game: Lethal Enforcers (USA)
+file: Lethal Enforcers (USA).chd
+
 game: Lethal Enforcers (USA) (Alt)
 file: Lethal Enforcers (USA) (Alt).chd
 
-game: Lethal Enforcers (USA)
-file: Lethal Enforcers (USA).chd
+game: Lethal Enforcers II - Gun Fighters (Europe)
+file: Lethal Enforcers II - Gun Fighters (Europe).chd
 
 game: Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23)
 file: Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23).chd
@@ -655,20 +658,17 @@ file: Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23).chd
 game: Lethal Enforcers II - Gun Fighters (Europe) (Demo)
 file: Lethal Enforcers II - Gun Fighters (Europe) (Demo).chd
 
-game: Lethal Enforcers II - Gun Fighters (Europe)
-file: Lethal Enforcers II - Gun Fighters (Europe).chd
-
 game: Lethal Enforcers II - Gun Fighters (USA)
 file: Lethal Enforcers II - Gun Fighters (USA).chd
 
 game: Lethal Enforcers II - The Western (Japan)
 file: Lethal Enforcers II - The Western (Japan).chd
 
-game: Links - The Challenge of Golf (USA) (RE)
-file: Links - The Challenge of Golf (USA) (RE).chd
-
 game: Links - The Challenge of Golf (USA)
 file: Links - The Challenge of Golf (USA).chd
+
+game: Links - The Challenge of Golf (USA) (RE)
+file: Links - The Challenge of Golf (USA) (RE).chd
 
 game: Loadstar - The Legend of Tully Bodine (USA, Brazil)
 file: Loadstar - The Legend of Tully Bodine (USA, Brazil).chd
@@ -679,14 +679,14 @@ file: Lords of Thunder (Europe).chd
 game: Lords of Thunder (USA)
 file: Lords of Thunder (USA).chd
 
+game: Lunar - Eternal Blue (Japan)
+file: Lunar - Eternal Blue (Japan).chd
+
 game: Lunar - Eternal Blue (Japan) (Demo)
 file: Lunar - Eternal Blue (Japan) (Demo).chd
 
 game: Lunar - Eternal Blue (Japan) (Rev A)
 file: Lunar - Eternal Blue (Japan) (Rev A).chd
-
-game: Lunar - Eternal Blue (Japan)
-file: Lunar - Eternal Blue (Japan).chd
 
 game: Lunar - Eternal Blue (USA) (RE)
 file: Lunar - Eternal Blue (USA) (RE).chd
@@ -694,11 +694,11 @@ file: Lunar - Eternal Blue (USA) (RE).chd
 game: Lunar - The Silver Star (Japan)
 file: Lunar - The Silver Star (Japan).chd
 
-game: Lunar - The Silver Star (USA) (RE)
-file: Lunar - The Silver Star (USA) (RE).chd
-
 game: Lunar - The Silver Star (USA)
 file: Lunar - The Silver Star (USA).chd
+
+game: Lunar - The Silver Star (USA) (RE)
+file: Lunar - The Silver Star (USA) (RE).chd
 
 game: Mad Dog II - The Lost Gold (USA)
 file: Mad Dog II - The Lost Gold (USA).chd
@@ -712,11 +712,11 @@ file: Mahou no Shoujo - Silky Lip (Japan).chd
 game: Make My Video - INXS (Europe)
 file: Make My Video - INXS (Europe).chd
 
-game: Make My Video - INXS (USA) (Beta) (1992-12-15)
-file: Make My Video - INXS (USA) (Beta) (1992-12-15).chd
-
 game: Make My Video - INXS (USA)
 file: Make My Video - INXS (USA).chd
+
+game: Make My Video - INXS (USA) (Beta) (1992-12-15)
+file: Make My Video - INXS (USA) (Beta) (1992-12-15).chd
 
 game: Make My Video - Kris Kross (Europe)
 file: Make My Video - Kris Kross (Europe).chd
@@ -724,11 +724,11 @@ file: Make My Video - Kris Kross (Europe).chd
 game: Make My Video - Kris Kross (USA)
 file: Make My Video - Kris Kross (USA).chd
 
-game: Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (1992-12-11)
-file: Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (1992-12-11).chd
-
 game: Make My Video - Marky Mark and the Funky Bunch (USA)
 file: Make My Video - Marky Mark and the Funky Bunch (USA).chd
+
+game: Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (1992-12-11)
+file: Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (1992-12-11).chd
 
 game: Mansion of Hidden Souls (USA)
 file: Mansion of Hidden Souls (USA).chd
@@ -754,26 +754,26 @@ file: MegaRace (USA).chd
 game: Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)
 file: Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd
 
+game: Mickey Mania (Europe)
+file: Mickey Mania (Europe).chd
+
 game: Mickey Mania (Europe) (Demo) (Mega Power, Sega Pro)
 file: Mickey Mania (Europe) (Demo) (Mega Power, Sega Pro).chd
 
 game: Mickey Mania (Europe) (Demo) (Mega Sega)
 file: Mickey Mania (Europe) (Demo) (Mega Sega).chd
 
-game: Mickey Mania (Europe)
-file: Mickey Mania (Europe).chd
+game: Microcosm (Europe)
+file: Microcosm (Europe).chd
 
 game: Microcosm (Europe) (Alt)
 file: Microcosm (Europe) (Alt).chd
 
-game: Microcosm (Europe)
-file: Microcosm (Europe).chd
+game: Microcosm (Japan)
+file: Microcosm (Japan).chd
 
 game: Microcosm (Japan) (Demo)
 file: Microcosm (Japan) (Demo).chd
-
-game: Microcosm (Japan)
-file: Microcosm (Japan).chd
 
 game: Microcosm (USA)
 file: Microcosm (USA).chd
@@ -832,17 +832,17 @@ file: NHL Hockey '94 (Europe).chd
 game: Night Striker (Japan, Korea)
 file: Night Striker (Japan, Korea).chd
 
-game: Night Trap (Europe) (Disc 1) (Mega-CD 32X)
-file: Night Trap (Europe) (Disc 1) (Mega-CD 32X).chd
-
 game: Night Trap (Europe) (Disc 1)
 file: Night Trap (Europe) (Disc 1).chd
 
-game: Night Trap (Europe) (Disc 2) (Mega-CD 32X)
-file: Night Trap (Europe) (Disc 2) (Mega-CD 32X).chd
+game: Night Trap (Europe) (Disc 1) (Mega-CD 32X)
+file: Night Trap (Europe) (Disc 1) (Mega-CD 32X).chd
 
 game: Night Trap (Europe) (Disc 2)
 file: Night Trap (Europe) (Disc 2).chd
+
+game: Night Trap (Europe) (Disc 2) (Mega-CD 32X)
+file: Night Trap (Europe) (Disc 2) (Mega-CD 32X).chd
 
 game: Night Trap (France) (Disc 1)
 file: Night Trap (France) (Disc 1).chd
@@ -859,32 +859,32 @@ file: Night Trap (Japan) (Disc 1).chd
 game: Night Trap (Japan) (Disc 2)
 file: Night Trap (Japan) (Disc 2).chd
 
+game: Night Trap (USA) (Disc 1)
+file: Night Trap (USA) (Disc 1).chd
+
 game: Night Trap (USA) (Disc 1) (Alt)
 file: Night Trap (USA) (Disc 1) (Alt).chd
-
-game: Night Trap (USA) (Disc 1) (Rerelease) (Alt)
-file: Night Trap (USA) (Disc 1) (Rerelease) (Alt).chd
 
 game: Night Trap (USA) (Disc 1) (Rerelease)
 file: Night Trap (USA) (Disc 1) (Rerelease).chd
 
+game: Night Trap (USA) (Disc 1) (Rerelease) (Alt)
+file: Night Trap (USA) (Disc 1) (Rerelease) (Alt).chd
+
 game: Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1)
 file: Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1).chd
 
-game: Night Trap (USA) (Disc 1)
-file: Night Trap (USA) (Disc 1).chd
-
-game: Night Trap (USA) (Disc 2) (Rerelease) (Alt)
-file: Night Trap (USA) (Disc 2) (Rerelease) (Alt).chd
+game: Night Trap (USA) (Disc 2)
+file: Night Trap (USA) (Disc 2).chd
 
 game: Night Trap (USA) (Disc 2) (Rerelease)
 file: Night Trap (USA) (Disc 2) (Rerelease).chd
 
+game: Night Trap (USA) (Disc 2) (Rerelease) (Alt)
+file: Night Trap (USA) (Disc 2) (Rerelease) (Alt).chd
+
 game: Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1)
 file: Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1).chd
-
-game: Night Trap (USA) (Disc 2)
-file: Night Trap (USA) (Disc 2).chd
 
 game: Ninja Warriors, The (Japan)
 file: Ninja Warriors, The (Japan).chd
@@ -895,17 +895,17 @@ file: Nobunaga no Yabou - Haouden (Japan).chd
 game: Nostalgia 1907 - In North Atlantic Sea (Japan)
 file: Nostalgia 1907 - In North Atlantic Sea (Japan).chd
 
-game: Note! Color Mechanica (USA) (Unl) (Alt)
-file: Note! Color Mechanica (USA) (Unl) (Alt).chd
-
 game: Note! Color Mechanica (USA) (Unl)
 file: Note! Color Mechanica (USA) (Unl).chd
 
-game: Novastorm (Europe) (Demo)
-file: Novastorm (Europe) (Demo).chd
+game: Note! Color Mechanica (USA) (Unl) (Alt)
+file: Note! Color Mechanica (USA) (Unl) (Alt).chd
 
 game: Novastorm (Europe)
 file: Novastorm (Europe).chd
+
+game: Novastorm (Europe) (Demo)
+file: Novastorm (Europe) (Demo).chd
 
 game: Novastorm (USA)
 file: Novastorm (USA).chd
@@ -919,11 +919,11 @@ file: Pier Solar and the Great Architects - The Definitive Original Soundtrack (
 game: Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)
 file: Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA).chd
 
-game: Pitfall - The Mayan Adventure (Europe) (Demo)
-file: Pitfall - The Mayan Adventure (Europe) (Demo).chd
-
 game: Pitfall - The Mayan Adventure (Europe)
 file: Pitfall - The Mayan Adventure (Europe).chd
+
+game: Pitfall - The Mayan Adventure (Europe) (Demo)
+file: Pitfall - The Mayan Adventure (Europe) (Demo).chd
 
 game: Pitfall - The Mayan Adventure (USA)
 file: Pitfall - The Mayan Adventure (USA).chd
@@ -931,11 +931,11 @@ file: Pitfall - The Mayan Adventure (USA).chd
 game: Popful Mail (USA) (RE)
 file: Popful Mail (USA) (RE).chd
 
-game: PopfulMail (Japan) (Demo)
-file: PopfulMail (Japan) (Demo).chd
-
 game: PopfulMail (Japan)
 file: PopfulMail (Japan).chd
+
+game: PopfulMail (Japan) (Demo)
+file: PopfulMail (Japan) (Demo).chd
 
 game: Power Factory (Europe)
 file: Power Factory (Europe).chd
@@ -970,11 +970,11 @@ file: Prize Fighter (Japan) (Disc 1).chd
 game: Prize Fighter (Japan) (Disc 2)
 file: Prize Fighter (Japan) (Disc 2).chd
 
-game: Prize Fighter (USA) (Disc 1) (Alt)
-file: Prize Fighter (USA) (Disc 1) (Alt).chd
-
 game: Prize Fighter (USA) (Disc 1)
 file: Prize Fighter (USA) (Disc 1).chd
+
+game: Prize Fighter (USA) (Disc 1) (Alt)
+file: Prize Fighter (USA) (Disc 1) (Alt).chd
 
 game: Prize Fighter (USA) (Disc 2)
 file: Prize Fighter (USA) (Disc 2).chd
@@ -982,20 +982,20 @@ file: Prize Fighter (USA) (Disc 2).chd
 game: Pro Yakyuu Super League CD (Japan)
 file: Pro Yakyuu Super League CD (Japan).chd
 
-game: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)
-file: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd
-
 game: Psychic Detective Series Vol. 3 - Aya (Japan)
 file: Psychic Detective Series Vol. 3 - Aya (Japan).chd
+
+game: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)
+file: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd
 
 game: Psychic Detective Series Vol. 4 - Orgel (Japan)
 file: Psychic Detective Series Vol. 4 - Orgel (Japan).chd
 
-game: Psygnosis Christmas Sampler (Europe) (Alt)
-file: Psygnosis Christmas Sampler (Europe) (Alt).chd
-
 game: Psygnosis Christmas Sampler (Europe)
 file: Psygnosis Christmas Sampler (Europe).chd
+
+game: Psygnosis Christmas Sampler (Europe) (Alt)
+file: Psygnosis Christmas Sampler (Europe) (Alt).chd
 
 game: Puggsy (Europe)
 file: Puggsy (Europe).chd
@@ -1021,11 +1021,11 @@ file: Ranma 1-2 - Byakuranaika (Japan).chd
 game: RDF - Global Conflict (USA)
 file: RDF - Global Conflict (USA).chd
 
-game: Record of Lodoss War (Japan) (Demo)
-file: Record of Lodoss War (Japan) (Demo).chd
-
 game: Record of Lodoss War (Japan)
 file: Record of Lodoss War (Japan).chd
+
+game: Record of Lodoss War (Japan) (Demo)
+file: Record of Lodoss War (Japan) (Demo).chd
 
 game: Revenge of the Ninja (USA)
 file: Revenge of the Ninja (USA).chd
@@ -1036,11 +1036,11 @@ file: Revengers of Vengeance (USA).chd
 game: Rise of the Dragon - A Blade Hunter Mystery (Japan)
 file: Rise of the Dragon - A Blade Hunter Mystery (Japan).chd
 
-game: Rise of the Dragon (USA) (Rerelease) (RE)
-file: Rise of the Dragon (USA) (Rerelease) (RE).chd
-
 game: Rise of the Dragon (USA)
 file: Rise of the Dragon (USA).chd
+
+game: Rise of the Dragon (USA) (Rerelease) (RE)
+file: Rise of the Dragon (USA) (Rerelease) (RE).chd
 
 game: Road Avenger (Europe)
 file: Road Avenger (Europe).chd
@@ -1060,11 +1060,11 @@ file: Robo Aleste (Europe).chd
 game: Robo Aleste (USA)
 file: Robo Aleste (USA).chd
 
-game: Samurai Shodown (Europe) (Demo)
-file: Samurai Shodown (Europe) (Demo).chd
-
 game: Samurai Shodown (Europe)
 file: Samurai Shodown (Europe).chd
+
+game: Samurai Shodown (Europe) (Demo)
+file: Samurai Shodown (Europe) (Demo).chd
 
 game: Samurai Shodown (USA) (RE)
 file: Samurai Shodown (USA) (RE).chd
@@ -1093,11 +1093,11 @@ file: Sega CD Demo (Japan) (Proto) (1992-05-29).chd
 game: Sega Classic Arcade Collection - Limited Edition (Japan)
 file: Sega Classic Arcade Collection - Limited Edition (Japan).chd
 
-game: Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)
-file: Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt).chd
-
 game: Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A)
 file: Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A).chd
+
+game: Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)
+file: Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt).chd
 
 game: Sega Classics Arcade Collection (USA) (4-in-1) (RE)
 file: Sega Classics Arcade Collection (USA) (4-in-1) (RE).chd
@@ -1117,14 +1117,20 @@ file: Seirei Shinseiki - Fhey Area (Japan).chd
 game: Sengoku Denshou (Japan)
 file: Sengoku Denshou (Japan).chd
 
-game: Sensible Soccer (Europe) (Demo)
-file: Sensible Soccer (Europe) (Demo).chd
-
 game: Sensible Soccer (Europe)
 file: Sensible Soccer (Europe).chd
 
+game: Sensible Soccer (Europe) (Demo)
+file: Sensible Soccer (Europe) (Demo).chd
+
 game: Sewer Shark (Europe)
 file: Sewer Shark (Europe).chd
+
+game: Sewer Shark (USA)
+file: Sewer Shark (USA).chd
+
+game: Sewer Shark (USA) (Not for Resale)
+file: Sewer Shark (USA) (Not for Resale).chd
 
 game: Sewer Shark (USA) (Not for Resale) (Alt 1)
 file: Sewer Shark (USA) (Not for Resale) (Alt 1).chd
@@ -1132,14 +1138,8 @@ file: Sewer Shark (USA) (Not for Resale) (Alt 1).chd
 game: Sewer Shark (USA) (Not for Resale) (Alt 2)
 file: Sewer Shark (USA) (Not for Resale) (Alt 2).chd
 
-game: Sewer Shark (USA) (Not for Resale)
-file: Sewer Shark (USA) (Not for Resale).chd
-
 game: Sewer Shark (USA) (Rev 1)
 file: Sewer Shark (USA) (Rev 1).chd
-
-game: Sewer Shark (USA)
-file: Sewer Shark (USA).chd
 
 game: Shadow of the Beast II - Juushin no Jubaku (Japan)
 file: Shadow of the Beast II - Juushin no Jubaku (Japan).chd
@@ -1186,14 +1186,14 @@ file: Shining Force CD (USA) (5R, 6R).chd
 game: Silpheed (Europe)
 file: Silpheed (Europe).chd
 
-game: Silpheed (Japan) (Demo) (Fixed Dump)
-file: Silpheed (Japan) (Demo) (Fixed Dump).chd
+game: Silpheed (Japan)
+file: Silpheed (Japan).chd
 
 game: Silpheed (Japan) (Demo)
 file: Silpheed (Japan) (Demo).chd
 
-game: Silpheed (Japan)
-file: Silpheed (Japan).chd
+game: Silpheed (Japan) (Demo) (Fixed Dump)
+file: Silpheed (Japan) (Demo) (Fixed Dump).chd
 
 game: Silpheed (USA)
 file: Silpheed (USA).chd
@@ -1204,32 +1204,32 @@ file: SimEarth (Japan).chd
 game: Sing!! Sega Game Music Presented by B. B. Queens (Japan)
 file: Sing!! Sega Game Music Presented by B. B. Queens (Japan).chd
 
+game: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers)
+file: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers).chd
+
 game: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Demo)
 file: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Demo).chd
 
 game: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Mega-CD 32X)
 file: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Mega-CD 32X).chd
 
-game: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers)
-file: Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers).chd
+game: Slam City with Scottie Pippen (Europe) (Disc 2) (Juice)
+file: Slam City with Scottie Pippen (Europe) (Disc 2) (Juice).chd
 
 game: Slam City with Scottie Pippen (Europe) (Disc 2) (Juice) (Mega-CD 32X)
 file: Slam City with Scottie Pippen (Europe) (Disc 2) (Juice) (Mega-CD 32X).chd
 
-game: Slam City with Scottie Pippen (Europe) (Disc 2) (Juice)
-file: Slam City with Scottie Pippen (Europe) (Disc 2) (Juice).chd
+game: Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog)
+file: Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog).chd
 
 game: Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog) (Mega-CD 32X)
 file: Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog) (Mega-CD 32X).chd
 
-game: Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog)
-file: Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog).chd
+game: Slam City with Scottie Pippen (Europe) (Disc 4) (Smash)
+file: Slam City with Scottie Pippen (Europe) (Disc 4) (Smash).chd
 
 game: Slam City with Scottie Pippen (Europe) (Disc 4) (Smash) (Mega-CD 32X)
 file: Slam City with Scottie Pippen (Europe) (Disc 4) (Smash) (Mega-CD 32X).chd
-
-game: Slam City with Scottie Pippen (Europe) (Disc 4) (Smash)
-file: Slam City with Scottie Pippen (Europe) (Disc 4) (Smash).chd
 
 game: Slam City with Scottie Pippen (USA, Brazil) (Disc 1) (Fingers) (RE-1)
 file: Slam City with Scottie Pippen (USA, Brazil) (Disc 1) (Fingers) (RE-1).chd
@@ -1243,20 +1243,20 @@ file: Slam City with Scottie Pippen (USA, Brazil) (Disc 3) (Mad Dog) (RE-1).chd
 game: Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash)
 file: Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash).chd
 
-game: Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X)
-file: Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X).chd
-
 game: Slam City with Scottie Pippen (USA) (Disc 1) (Fingers)
 file: Slam City with Scottie Pippen (USA) (Disc 1) (Fingers).chd
+
+game: Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X)
+file: Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X).chd
 
 game: Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (Sega CD 32X)
 file: Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (Sega CD 32X).chd
 
-game: Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X)
-file: Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X).chd
-
 game: Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog)
 file: Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog).chd
+
+game: Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X)
+file: Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X).chd
 
 game: Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (RE-1)
 file: Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (RE-1).chd
@@ -1267,11 +1267,11 @@ file: Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X).chd
 game: Smurfs, The (Europe) (En,Fr,De,Es,It)
 file: Smurfs, The (Europe) (En,Fr,De,Es,It).chd
 
-game: Snatcher (Europe) (Beta) (1994-10-07)
-file: Snatcher (Europe) (Beta) (1994-10-07).chd
-
 game: Snatcher (Europe)
 file: Snatcher (Europe).chd
+
+game: Snatcher (Europe) (Beta) (1994-10-07)
+file: Snatcher (Europe) (Beta) (1994-10-07).chd
 
 game: Snatcher (USA)
 file: Snatcher (USA).chd
@@ -1279,17 +1279,17 @@ file: Snatcher (USA).chd
 game: Software Toolworks' Star Wars Chess, The (Europe)
 file: Software Toolworks' Star Wars Chess, The (Europe).chd
 
-game: Software Toolworks' Star Wars Chess, The (USA) (Alt)
-file: Software Toolworks' Star Wars Chess, The (USA) (Alt).chd
-
 game: Software Toolworks' Star Wars Chess, The (USA)
 file: Software Toolworks' Star Wars Chess, The (USA).chd
 
-game: Sol-Feace (Europe) (Alt)
-file: Sol-Feace (Europe) (Alt).chd
+game: Software Toolworks' Star Wars Chess, The (USA) (Alt)
+file: Software Toolworks' Star Wars Chess, The (USA) (Alt).chd
 
 game: Sol-Feace (Europe)
 file: Sol-Feace (Europe).chd
+
+game: Sol-Feace (Europe) (Alt)
+file: Sol-Feace (Europe) (Alt).chd
 
 game: Sol-Feace (Japan)
 file: Sol-Feace (Japan).chd
@@ -1300,14 +1300,17 @@ file: Sol-Feace (USA) (RE).chd
 game: Sol-Feace (USA) (RE2)
 file: Sol-Feace (USA) (RE2).chd
 
+game: Sonic CD (Europe)
+file: Sonic CD (Europe).chd
+
 game: Sonic CD (Europe) (Beta) (1993-08-06)
 file: Sonic CD (Europe) (Beta) (1993-08-06).chd
 
 game: Sonic CD (Europe) (Beta) (1993-08-19)
 file: Sonic CD (Europe) (Beta) (1993-08-19).chd
 
-game: Sonic CD (Europe)
-file: Sonic CD (Europe).chd
+game: Sonic CD (USA)
+file: Sonic CD (USA).chd
 
 game: Sonic CD (USA) (Alt)
 file: Sonic CD (USA) (Alt).chd
@@ -1315,17 +1318,17 @@ file: Sonic CD (USA) (Alt).chd
 game: Sonic CD (USA) (Beta) (1993-10-12)
 file: Sonic CD (USA) (Beta) (1993-10-12).chd
 
-game: Sonic CD (USA) (RE125) (Alt)
-file: Sonic CD (USA) (RE125) (Alt).chd
-
 game: Sonic CD (USA) (RE125)
 file: Sonic CD (USA) (RE125).chd
 
-game: Sonic CD (USA)
-file: Sonic CD (USA).chd
+game: Sonic CD (USA) (RE125) (Alt)
+file: Sonic CD (USA) (RE125) (Alt).chd
 
 game: Sonic MegaMix (USA) (Unl)
 file: Sonic MegaMix (USA) (Unl).chd
+
+game: Sonic the Hedgehog CD (Japan)
+file: Sonic the Hedgehog CD (Japan).chd
 
 game: Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12)
 file: Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12).chd
@@ -1335,9 +1338,6 @@ file: Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01).chd
 
 game: Sonic the Hedgehog CD (Japan) (Demo)
 file: Sonic the Hedgehog CD (Japan) (Demo).chd
-
-game: Sonic the Hedgehog CD (Japan)
-file: Sonic the Hedgehog CD (Japan).chd
 
 game: SoulStar (Europe) (Demo)
 file: SoulStar (Europe) (Demo).chd
@@ -1354,11 +1354,11 @@ file: SoulStar (USA).chd
 game: SoulStar & Battlecorps (Europe) (Demo)
 file: SoulStar & Battlecorps (Europe) (Demo).chd
 
-game: Space Ace (USA) (Demo)
-file: Space Ace (USA) (Demo).chd
-
 game: Space Ace (USA)
 file: Space Ace (USA).chd
+
+game: Space Ace (USA) (Demo)
+file: Space Ace (USA) (Demo).chd
 
 game: Space Adventure, The - Cobra - The Legendary Bandit (Europe)
 file: Space Adventure, The - Cobra - The Legendary Bandit (Europe).chd
@@ -1366,23 +1366,23 @@ file: Space Adventure, The - Cobra - The Legendary Bandit (Europe).chd
 game: Space Adventure, The - Cobra - The Legendary Bandit (USA)
 file: Space Adventure, The - Cobra - The Legendary Bandit (USA).chd
 
+game: Star Wars - Rebel Assault (Europe)
+file: Star Wars - Rebel Assault (Europe).chd
+
 game: Star Wars - Rebel Assault (Europe) (Demo) (Mega Power)
 file: Star Wars - Rebel Assault (Europe) (Demo) (Mega Power).chd
 
 game: Star Wars - Rebel Assault (Europe) (Demo) (Sega Pro)
 file: Star Wars - Rebel Assault (Europe) (Demo) (Sega Pro).chd
 
-game: Star Wars - Rebel Assault (Europe)
-file: Star Wars - Rebel Assault (Europe).chd
-
 game: Star Wars - Rebel Assault (Japan)
 file: Star Wars - Rebel Assault (Japan).chd
 
-game: Star Wars - Rebel Assault (USA) (Limited Run Games)
-file: Star Wars - Rebel Assault (USA) (Limited Run Games).chd
-
 game: Star Wars - Rebel Assault (USA)
 file: Star Wars - Rebel Assault (USA).chd
+
+game: Star Wars - Rebel Assault (USA) (Limited Run Games)
+file: Star Wars - Rebel Assault (USA) (Limited Run Games).chd
 
 game: Starblade (Europe)
 file: Starblade (Europe).chd
@@ -1399,17 +1399,20 @@ file: Stellar-Fire (USA).chd
 game: Super Strike Trilogy (USA) (Unl)
 file: Super Strike Trilogy (USA) (Unl).chd
 
+game: Supreme Warrior (Europe) (Disc 1)
+file: Supreme Warrior (Europe) (Disc 1).chd
+
 game: Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X)
 file: Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X).chd
 
-game: Supreme Warrior (Europe) (Disc 1)
-file: Supreme Warrior (Europe) (Disc 1).chd
+game: Supreme Warrior (Europe) (Disc 2)
+file: Supreme Warrior (Europe) (Disc 2).chd
 
 game: Supreme Warrior (Europe) (Disc 2) (Mega-CD 32X)
 file: Supreme Warrior (Europe) (Disc 2) (Mega-CD 32X).chd
 
-game: Supreme Warrior (Europe) (Disc 2)
-file: Supreme Warrior (Europe) (Disc 2).chd
+game: Supreme Warrior (USA) (Disc 1) (Fire & Earth)
+file: Supreme Warrior (USA) (Disc 1) (Fire & Earth).chd
 
 game: Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Alt)
 file: Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Alt).chd
@@ -1417,14 +1420,11 @@ file: Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Alt).chd
 game: Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Sega CD 32X)
 file: Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Sega CD 32X).chd
 
-game: Supreme Warrior (USA) (Disc 1) (Fire & Earth)
-file: Supreme Warrior (USA) (Disc 1) (Fire & Earth).chd
+game: Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu)
+file: Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu).chd
 
 game: Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu) (Sega CD 32X)
 file: Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu) (Sega CD 32X).chd
-
-game: Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu)
-file: Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu).chd
 
 game: Surgical Strike (Brazil) (Sega CD 32X)
 file: Surgical Strike (Brazil) (Sega CD 32X).chd
@@ -1435,11 +1435,11 @@ file: Surgical Strike (Europe).chd
 game: Surgical Strike (Japan)
 file: Surgical Strike (Japan).chd
 
-game: Surgical Strike (USA) (Alt)
-file: Surgical Strike (USA) (Alt).chd
-
 game: Surgical Strike (USA)
 file: Surgical Strike (USA).chd
+
+game: Surgical Strike (USA) (Alt)
+file: Surgical Strike (USA) (Alt).chd
 
 game: Switch (Japan)
 file: Switch (Japan).chd
@@ -1468,20 +1468,20 @@ file: Third World War (USA).chd
 game: Thunder Storm FX (Japan)
 file: Thunder Storm FX (Japan).chd
 
-game: Thunderhawk (Europe) (Demo) (Mega Power, Sega Pro)
-file: Thunderhawk (Europe) (Demo) (Mega Power, Sega Pro).chd
-
 game: Thunderhawk (Europe) (Demo)
 file: Thunderhawk (Europe) (Demo).chd
+
+game: Thunderhawk (Europe) (Demo) (Mega Power, Sega Pro)
+file: Thunderhawk (Europe) (Demo) (Mega Power, Sega Pro).chd
 
 game: Thunderhawk (Europe) (En,Fr,De,Es) (RE)
 file: Thunderhawk (Europe) (En,Fr,De,Es) (RE).chd
 
-game: Thunderhawk (Japan) (Demo)
-file: Thunderhawk (Japan) (Demo).chd
-
 game: Thunderhawk (Japan)
 file: Thunderhawk (Japan).chd
+
+game: Thunderhawk (Japan) (Demo)
+file: Thunderhawk (Japan) (Demo).chd
 
 game: Time Gal (Europe)
 file: Time Gal (Europe).chd
@@ -1513,11 +1513,11 @@ file: Tomcat Alley (Japan).chd
 game: Tomcat Alley (Spain)
 file: Tomcat Alley (Spain).chd
 
-game: Tomcat Alley (USA) (Alt)
-file: Tomcat Alley (USA) (Alt).chd
-
 game: Tomcat Alley (USA)
 file: Tomcat Alley (USA).chd
+
+game: Tomcat Alley (USA) (Alt)
+file: Tomcat Alley (USA) (Alt).chd
 
 game: Trivial Pursuit (USA)
 file: Trivial Pursuit (USA).chd
@@ -1525,11 +1525,11 @@ file: Trivial Pursuit (USA).chd
 game: Ultraverse Prime (USA)
 file: Ultraverse Prime (USA).chd
 
-game: Urusei Yatsura - Dear My Friends (Japan) (Demo)
-file: Urusei Yatsura - Dear My Friends (Japan) (Demo).chd
-
 game: Urusei Yatsura - Dear My Friends (Japan)
 file: Urusei Yatsura - Dear My Friends (Japan).chd
+
+game: Urusei Yatsura - Dear My Friends (Japan) (Demo)
+file: Urusei Yatsura - Dear My Friends (Japan) (Demo).chd
 
 game: Vay - Ryuusei no Yoroi (Japan)
 file: Vay - Ryuusei no Yoroi (Japan).chd
@@ -1615,11 +1615,11 @@ file: Yumemi Mystery Mansion (Europe) (Made in EU).chd
 game: Yumemi Mystery Mansion (Europe) (Made in Japan)
 file: Yumemi Mystery Mansion (Europe) (Made in Japan).chd
 
-game: Yumemi Yakata no Monogatari (Japan) (Demo)
-file: Yumemi Yakata no Monogatari (Japan) (Demo).chd
-
 game: Yumemi Yakata no Monogatari (Japan)
 file: Yumemi Yakata no Monogatari (Japan).chd
+
+game: Yumemi Yakata no Monogatari (Japan) (Demo)
+file: Yumemi Yakata no Monogatari (Japan) (Demo).chd
 
 game: Yumimi Mix (Japan)
 file: Yumimi Mix (Japan).chd

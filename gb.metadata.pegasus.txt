@@ -130,11 +130,11 @@ file: Aladdin (USA) (SGB Enhanced).zip
 game: Aladdin (World) (Disney Classic Games) (SGB Enhanced)
 file: Aladdin (World) (Disney Classic Games) (SGB Enhanced).zip
 
-game: Alfred Chicken (Europe) (Beta)
-file: Alfred Chicken (Europe) (Beta).zip
-
 game: Alfred Chicken (Europe)
 file: Alfred Chicken (Europe).zip
+
+game: Alfred Chicken (Europe) (Beta)
+file: Alfred Chicken (Europe) (Beta).zip
 
 game: Alfred Chicken (Japan) (SGB Enhanced)
 file: Alfred Chicken (Japan) (SGB Enhanced).zip
@@ -184,11 +184,11 @@ file: Amazing Spider-Man, The (USA, Europe).zip
 game: America Oudan Ultra Quiz (Japan)
 file: America Oudan Ultra Quiz (Japan).zip
 
-game: America Oudan Ultra Quiz Part 2 (Japan) (Rev 1)
-file: America Oudan Ultra Quiz Part 2 (Japan) (Rev 1).zip
-
 game: America Oudan Ultra Quiz Part 2 (Japan)
 file: America Oudan Ultra Quiz Part 2 (Japan).zip
+
+game: America Oudan Ultra Quiz Part 2 (Japan) (Rev 1)
+file: America Oudan Ultra Quiz Part 2 (Japan) (Rev 1).zip
 
 game: America Oudan Ultra Quiz Part 3 - Champion Taikai (Japan)
 file: America Oudan Ultra Quiz Part 3 - Champion Taikai (Japan).zip
@@ -271,11 +271,11 @@ file: Asterix & Obelix (Europe) (Fr,De) (SGB Enhanced).zip
 game: Asterix & Obelix (Spain) (En,Es) (SGB Enhanced)
 file: Asterix & Obelix (Spain) (En,Es) (SGB Enhanced).zip
 
-game: Asteroids (USA, Europe) (Beta)
-file: Asteroids (USA, Europe) (Beta).zip
-
 game: Asteroids (USA, Europe)
 file: Asteroids (USA, Europe).zip
+
+game: Asteroids (USA, Europe) (Beta)
+file: Asteroids (USA, Europe) (Beta).zip
 
 game: Astro Rabby (Japan)
 file: Astro Rabby (Japan).zip
@@ -421,11 +421,11 @@ file: Battle Unit Zeoth (USA, Europe).zip
 game: BattleCity (Japan)
 file: BattleCity (Japan).zip
 
-game: Battleship (USA, Europe) (Beta)
-file: Battleship (USA, Europe) (Beta).zip
-
 game: Battleship (USA, Europe)
 file: Battleship (USA, Europe).zip
+
+game: Battleship (USA, Europe) (Beta)
+file: Battleship (USA, Europe) (Beta).zip
 
 game: Battletoads (Japan)
 file: Battletoads (Japan).zip
@@ -505,11 +505,11 @@ file: Blades of Steel (Europe).zip
 game: Blades of Steel (USA)
 file: Blades of Steel (USA).zip
 
-game: Blaster Master Boy (USA) (Beta)
-file: Blaster Master Boy (USA) (Beta).zip
-
 game: Blaster Master Boy (USA)
 file: Blaster Master Boy (USA).zip
+
+game: Blaster Master Boy (USA) (Beta)
+file: Blaster Master Boy (USA) (Beta).zip
 
 game: Blaster Master Jr. (Europe)
 file: Blaster Master Jr. (Europe).zip
@@ -544,20 +544,20 @@ file: Boggle Plus (USA).zip
 game: Bokujou Monogatari GB (Japan) (Rev 1) (SGB Enhanced)
 file: Bokujou Monogatari GB (Japan) (Rev 1) (SGB Enhanced).zip
 
+game: Bokujou Monogatari GB (Japan) (SGB Enhanced)
+file: Bokujou Monogatari GB (Japan) (SGB Enhanced).zip
+
 game: Bokujou Monogatari GB (Japan) (SGB Enhanced) (NP)
 file: Bokujou Monogatari GB (Japan) (SGB Enhanced) (NP).zip
 
-game: Bokujou Monogatari GB (Japan) (SGB Enhanced)
-file: Bokujou Monogatari GB (Japan) (SGB Enhanced).zip
+game: Bomb Jack (Europe)
+file: Bomb Jack (Europe).zip
 
 game: Bomb Jack (Europe) (Beta 1)
 file: Bomb Jack (Europe) (Beta 1).zip
 
 game: Bomb Jack (Europe) (Beta 2)
 file: Bomb Jack (Europe) (Beta 2).zip
-
-game: Bomb Jack (Europe)
-file: Bomb Jack (Europe).zip
 
 game: Bomber Boy (Japan)
 file: Bomber Boy (Japan).zip
@@ -580,11 +580,11 @@ file: Bomberman GB 2 (Japan) (SGB Enhanced).zip
 game: Bomberman GB 3 (Japan) (SGB Enhanced)
 file: Bomberman GB 3 (Japan) (SGB Enhanced).zip
 
-game: Bonk's Adventure (USA) (Beta)
-file: Bonk's Adventure (USA) (Beta).zip
-
 game: Bonk's Adventure (USA)
 file: Bonk's Adventure (USA).zip
+
+game: Bonk's Adventure (USA) (Beta)
+file: Bonk's Adventure (USA) (Beta).zip
 
 game: Bonk's Revenge (USA) (SGB Enhanced)
 file: Bonk's Revenge (USA) (SGB Enhanced).zip
@@ -652,11 +652,11 @@ file: Bubble Bobble Part 2 (USA, Europe).zip
 game: Bubble Ghost (Japan)
 file: Bubble Ghost (Japan).zip
 
-game: Bubble Ghost (USA, Europe) (Beta)
-file: Bubble Ghost (USA, Europe) (Beta).zip
-
 game: Bubble Ghost (USA, Europe)
 file: Bubble Ghost (USA, Europe).zip
+
+game: Bubble Ghost (USA, Europe) (Beta)
+file: Bubble Ghost (USA, Europe) (Beta).zip
 
 game: Bubsy II (Europe)
 file: Bubsy II (Europe).zip
@@ -715,11 +715,11 @@ file: Caesars Palace (Europe) (En,Fr,De,Es,It).zip
 game: Caesars Palace (Japan)
 file: Caesars Palace (Japan).zip
 
-game: Caesars Palace (USA) (Rev 1)
-file: Caesars Palace (USA) (Rev 1).zip
-
 game: Caesars Palace (USA)
 file: Caesars Palace (USA).zip
+
+game: Caesars Palace (USA) (Rev 1)
+file: Caesars Palace (USA) (Rev 1).zip
 
 game: Caihong Zhanshi - Rainbow Prince (Taiwan) (Unl)
 file: Caihong Zhanshi - Rainbow Prince (Taiwan) (Unl).zip
@@ -751,50 +751,50 @@ file: Casino FunPak (USA, Europe).zip
 game: Casper (Europe)
 file: Casper (Europe).zip
 
-game: Casper (USA) (Beta)
-file: Casper (USA) (Beta).zip
-
 game: Casper (USA)
 file: Casper (USA).zip
+
+game: Casper (USA) (Beta)
+file: Casper (USA) (Beta).zip
 
 game: Castelian (Europe)
 file: Castelian (Europe).zip
 
-game: Castelian (USA) (Beta)
-file: Castelian (USA) (Beta).zip
-
 game: Castelian (USA)
 file: Castelian (USA).zip
 
-game: Castle Quest (Europe) (Beta)
-file: Castle Quest (Europe) (Beta).zip
+game: Castelian (USA) (Beta)
+file: Castelian (USA) (Beta).zip
 
 game: Castle Quest (Europe)
 file: Castle Quest (Europe).zip
 
+game: Castle Quest (Europe) (Beta)
+file: Castle Quest (Europe) (Beta).zip
+
 game: Castlevania - The Adventure (Europe)
 file: Castlevania - The Adventure (Europe).zip
-
-game: Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)
-file: Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).zip
 
 game: Castlevania - The Adventure (USA)
 file: Castlevania - The Adventure (USA).zip
 
-game: Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)
-file: Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection).zip
+game: Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)
+file: Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).zip
 
 game: Castlevania II - Belmont's Revenge (USA, Europe)
 file: Castlevania II - Belmont's Revenge (USA, Europe).zip
 
+game: Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)
+file: Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection).zip
+
 game: Castlevania Legends (USA, Europe) (SGB Enhanced)
 file: Castlevania Legends (USA, Europe) (SGB Enhanced).zip
 
-game: Catrap (USA) (Beta)
-file: Catrap (USA) (Beta).zip
-
 game: Catrap (USA)
 file: Catrap (USA).zip
+
+game: Catrap (USA) (Beta)
+file: Catrap (USA) (Beta).zip
 
 game: Cave Noire (Japan)
 file: Cave Noire (Japan).zip
@@ -907,11 +907,11 @@ file: Contra Spirits (Japan) (SGB Enhanced).zip
 game: Cool Ball (USA)
 file: Cool Ball (USA).zip
 
-game: Cool Hand (Europe) (Fr,De)
-file: Cool Hand (Europe) (Fr,De).zip
-
 game: Cool Hand (Europe)
 file: Cool Hand (Europe).zip
+
+game: Cool Hand (Europe) (Fr,De)
+file: Cool Hand (Europe) (Fr,De).zip
 
 game: Cool Spot (Europe)
 file: Cool Spot (Europe).zip
@@ -922,17 +922,17 @@ file: Cool Spot (USA).zip
 game: Cool World (USA, Europe)
 file: Cool World (USA, Europe).zip
 
-game: Cosmo Tank (Japan) (Beta)
-file: Cosmo Tank (Japan) (Beta).zip
-
 game: Cosmo Tank (Japan)
 file: Cosmo Tank (Japan).zip
 
-game: Cosmo Tank (USA) (Beta)
-file: Cosmo Tank (USA) (Beta).zip
+game: Cosmo Tank (Japan) (Beta)
+file: Cosmo Tank (Japan) (Beta).zip
 
 game: Cosmo Tank (USA)
 file: Cosmo Tank (USA).zip
+
+game: Cosmo Tank (USA) (Beta)
+file: Cosmo Tank (USA) (Beta).zip
 
 game: Crayon Shin-chan - Ora no Gokigen Collection (Japan) (SGB Enhanced)
 file: Crayon Shin-chan - Ora no Gokigen Collection (Japan) (SGB Enhanced).zip
@@ -1003,11 +1003,11 @@ file: Darkwing Duck (Germany).zip
 game: Darkwing Duck (Spain)
 file: Darkwing Duck (Spain).zip
 
-game: Darkwing Duck (USA) (Beta)
-file: Darkwing Duck (USA) (Beta).zip
-
 game: Darkwing Duck (USA)
 file: Darkwing Duck (USA).zip
+
+game: Darkwing Duck (USA) (Beta)
+file: Darkwing Duck (USA) (Beta).zip
 
 game: David Crane's The Rescue of Princess Blobette (Europe)
 file: David Crane's The Rescue of Princess Blobette (Europe).zip
@@ -1027,11 +1027,11 @@ file: Dead Heat Scramble (USA).zip
 game: Death Track (Europe) (Proto)
 file: Death Track (Europe) (Proto).zip
 
-game: Dennis (Europe) (Beta) (1993-09-13)
-file: Dennis (Europe) (Beta) (1993-09-13).zip
-
 game: Dennis (Europe)
 file: Dennis (Europe).zip
+
+game: Dennis (Europe) (Beta) (1993-09-13)
+file: Dennis (Europe) (Beta) (1993-09-13).zip
 
 game: Dennis the Menace (USA)
 file: Dennis the Menace (USA).zip
@@ -1078,11 +1078,11 @@ file: Doctor GB Card 16M Loader (World) (Unl).zip
 game: Doctor GB Card 4M (World) (Unl)
 file: Doctor GB Card 4M (World) (Unl).zip
 
-game: Doctor GB Card Demo (World) (Demo) (Unl) (Alt)
-file: Doctor GB Card Demo (World) (Demo) (Unl) (Alt).zip
-
 game: Doctor GB Card Demo (World) (Demo) (Unl)
 file: Doctor GB Card Demo (World) (Demo) (Unl).zip
+
+game: Doctor GB Card Demo (World) (Demo) (Unl) (Alt)
+file: Doctor GB Card Demo (World) (Demo) (Unl) (Alt).zip
 
 game: Dodge Boy (Japan)
 file: Dodge Boy (Japan).zip
@@ -1177,11 +1177,11 @@ file: Downtown - Nekketsu Koushinkyoku - Dokodemo Daiundoukai (Japan).zip
 game: Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)
 file: Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).zip
 
-game: Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta)
-file: Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).zip
-
 game: Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv)
 file: Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+
+game: Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta)
+file: Dr. Franken (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).zip
 
 game: Dr. Franken (Japan)
 file: Dr. Franken (Japan).zip
@@ -1192,26 +1192,26 @@ file: Dr. Franken (USA).zip
 game: Dr. Franken II (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)
 file: Dr. Franken II (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).zip
 
+game: Dr. Mario (World)
+file: Dr. Mario (World).zip
+
 game: Dr. Mario (World) (Beta)
 file: Dr. Mario (World) (Beta).zip
 
 game: Dr. Mario (World) (Rev 1)
 file: Dr. Mario (World) (Rev 1).zip
 
-game: Dr. Mario (World)
-file: Dr. Mario (World).zip
+game: Dracula Densetsu (Japan)
+file: Dracula Densetsu (Japan).zip
 
 game: Dracula Densetsu (Japan) (Castlevania Anniversary Collection)
 file: Dracula Densetsu (Japan) (Castlevania Anniversary Collection).zip
 
-game: Dracula Densetsu (Japan)
-file: Dracula Densetsu (Japan).zip
+game: Dracula Densetsu II (Japan)
+file: Dracula Densetsu II (Japan).zip
 
 game: Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)
 file: Dracula Densetsu II (Japan) (Castlevania Anniversary Collection).zip
-
-game: Dracula Densetsu II (Japan)
-file: Dracula Densetsu II (Japan).zip
 
 game: Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)
 file: Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced).zip
@@ -1246,11 +1246,11 @@ file: DragonHeart (France).zip
 game: DragonHeart (USA, Europe)
 file: DragonHeart (USA, Europe).zip
 
-game: Dropzone (Europe) (Beta)
-file: Dropzone (Europe) (Beta).zip
-
 game: Dropzone (Europe)
 file: Dropzone (Europe).zip
+
+game: Dropzone (Europe) (Beta)
+file: Dropzone (Europe) (Beta).zip
 
 game: Druaga no Tou (Japan)
 file: Druaga no Tou (Japan).zip
@@ -1279,11 +1279,11 @@ file: Dungeon Land (Japan).zip
 game: Dungeon Warrior (Europe) (Proto)
 file: Dungeon Warrior (Europe) (Proto).zip
 
-game: DX Bakenou Z (Japan) (Rev 1)
-file: DX Bakenou Z (Japan) (Rev 1).zip
-
 game: DX Bakenou Z (Japan)
 file: DX Bakenou Z (Japan).zip
+
+game: DX Bakenou Z (Japan) (Rev 1)
+file: DX Bakenou Z (Japan) (Rev 1).zip
 
 game: Dynablaster (Europe)
 file: Dynablaster (Europe).zip
@@ -1318,11 +1318,11 @@ file: Exodus - Journey to the Promised Land (USA) (Unl).zip
 game: Extra Bases (USA)
 file: Extra Bases (USA).zip
 
-game: F-1 Race (World) (Rev 1)
-file: F-1 Race (World) (Rev 1).zip
-
 game: F-1 Race (World)
 file: F-1 Race (World).zip
+
+game: F-1 Race (World) (Rev 1)
+file: F-1 Race (World) (Rev 1).zip
 
 game: F-1 Spirit (Japan)
 file: F-1 Spirit (Japan).zip
@@ -1366,11 +1366,11 @@ file: Fastest Lap (Japan) (En).zip
 game: Fastest Lap (USA)
 file: Fastest Lap (USA).zip
 
-game: Felix the Cat (USA, Europe) (Beta)
-file: Felix the Cat (USA, Europe) (Beta).zip
-
 game: Felix the Cat (USA, Europe)
 file: Felix the Cat (USA, Europe).zip
+
+game: Felix the Cat (USA, Europe) (Beta)
+file: Felix the Cat (USA, Europe) (Beta).zip
 
 game: Ferrari (Japan)
 file: Ferrari (Japan).zip
@@ -1597,11 +1597,11 @@ file: Ganbare Goemon - Sarawareta Ebisumaru (Japan).zip
 game: Ganso!! Yancha Maru (Japan)
 file: Ganso!! Yancha Maru (Japan).zip
 
-game: Garfield Labyrinth (Europe) (Beta)
-file: Garfield Labyrinth (Europe) (Beta).zip
-
 game: Garfield Labyrinth (Europe)
 file: Garfield Labyrinth (Europe).zip
+
+game: Garfield Labyrinth (Europe) (Beta)
+file: Garfield Labyrinth (Europe) (Beta).zip
 
 game: Gargoyle's Quest (Europe) (Rev 1)
 file: Gargoyle's Quest (Europe) (Rev 1).zip
@@ -1615,11 +1615,11 @@ file: Gargoyle's Quest II - The Demon Darkness (Europe) (Proto).zip
 game: Gargoyle's Quest II - The Demon Darkness (USA) (Proto)
 file: Gargoyle's Quest II - The Demon Darkness (USA) (Proto).zip
 
-game: Gauntlet II (USA, Europe) (Beta)
-file: Gauntlet II (USA, Europe) (Beta).zip
-
 game: Gauntlet II (USA, Europe)
 file: Gauntlet II (USA, Europe).zip
+
+game: Gauntlet II (USA, Europe) (Beta)
+file: Gauntlet II (USA, Europe) (Beta).zip
 
 game: GB Basketball (Japan)
 file: GB Basketball (Japan).zip
@@ -1672,11 +1672,11 @@ file: Getaway, The - High Speed II (USA).zip
 game: Ghostbusters II (Japan)
 file: Ghostbusters II (Japan).zip
 
-game: Ghostbusters II (USA, Europe) (Beta)
-file: Ghostbusters II (USA, Europe) (Beta).zip
-
 game: Ghostbusters II (USA, Europe)
 file: Ghostbusters II (USA, Europe).zip
+
+game: Ghostbusters II (USA, Europe) (Beta)
+file: Ghostbusters II (USA, Europe) (Beta).zip
 
 game: GI King! - Sanbiki no Yosouya (Japan)
 file: GI King! - Sanbiki no Yosouya (Japan).zip
@@ -1693,11 +1693,11 @@ file: Go Go Ackman (Japan) (SGB Enhanced).zip
 game: Go! Go! Hitchhike (Japan) (SGB Enhanced)
 file: Go! Go! Hitchhike (Japan) (SGB Enhanced).zip
 
-game: Go! Go! Tank (Japan) (Beta)
-file: Go! Go! Tank (Japan) (Beta).zip
-
 game: Go! Go! Tank (Japan)
 file: Go! Go! Tank (Japan).zip
+
+game: Go! Go! Tank (Japan) (Beta)
+file: Go! Go! Tank (Japan) (Beta).zip
 
 game: Go! Go! Tank (USA)
 file: Go! Go! Tank (USA).zip
@@ -1771,11 +1771,11 @@ file: Goukaku Boy Series - Gakken - Kanyouku Kotowaza 210 (Japan).zip
 game: Goukaku Boy Series - Gakken - Rekishi 512 (Japan)
 file: Goukaku Boy Series - Gakken - Rekishi 512 (Japan).zip
 
-game: Goukaku Boy Series - Gakken - Yojijukugo 288 (Japan) (Rev 1)
-file: Goukaku Boy Series - Gakken - Yojijukugo 288 (Japan) (Rev 1).zip
-
 game: Goukaku Boy Series - Gakken - Yojijukugo 288 (Japan)
 file: Goukaku Boy Series - Gakken - Yojijukugo 288 (Japan).zip
+
+game: Goukaku Boy Series - Gakken - Yojijukugo 288 (Japan) (Rev 1)
+file: Goukaku Boy Series - Gakken - Yojijukugo 288 (Japan) (Rev 1).zip
 
 game: Goukaku Boy Series - Kirihara Shoten Hinshutsu Eibunpou Gohou Mondai 1000 (Japan)
 file: Goukaku Boy Series - Kirihara Shoten Hinshutsu Eibunpou Gohou Mondai 1000 (Japan).zip
@@ -1828,11 +1828,11 @@ file: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Shakai Battle Hen (Jap
 game: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Shakai Battle Hen (Japan) (Imagineer)
 file: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Shakai Battle Hen (Japan) (Imagineer).zip
 
-game: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan) (Rev 1)
-file: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan) (Rev 1).zip
-
 game: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan)
 file: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan).zip
+
+game: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan) (Rev 1)
+file: Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan) (Rev 1).zip
 
 game: Goukaku Boy Series - Yamakawa Ichimonittou - Nihonshi B Yougo Mondaishuu (Japan)
 file: Goukaku Boy Series - Yamakawa Ichimonittou - Nihonshi B Yougo Mondaishuu (Japan).zip
@@ -1867,11 +1867,11 @@ file: Great Greed (USA).zip
 game: Gremlins 2 - The New Batch (World)
 file: Gremlins 2 - The New Batch (World).zip
 
-game: HAL Wrestling (USA) (Beta)
-file: HAL Wrestling (USA) (Beta).zip
-
 game: HAL Wrestling (USA)
 file: HAL Wrestling (USA).zip
+
+game: HAL Wrestling (USA) (Beta)
+file: HAL Wrestling (USA) (Beta).zip
 
 game: Hammerin' Harry - Ghost Building Company (USA) (Proto)
 file: Hammerin' Harry - Ghost Building Company (USA) (Proto).zip
@@ -1972,17 +1972,17 @@ file: Hook (Europe).zip
 game: Hook (Japan)
 file: Hook (Japan).zip
 
-game: Hook (USA) (Sample)
-file: Hook (USA) (Sample).zip
-
 game: Hook (USA)
 file: Hook (USA).zip
 
-game: Hoshi no Kirby (Japan) (Rev 1)
-file: Hoshi no Kirby (Japan) (Rev 1).zip
+game: Hook (USA) (Sample)
+file: Hook (USA) (Sample).zip
 
 game: Hoshi no Kirby (Japan)
 file: Hoshi no Kirby (Japan).zip
+
+game: Hoshi no Kirby (Japan) (Rev 1)
+file: Hoshi no Kirby (Japan) (Rev 1).zip
 
 game: Hoshi no Kirby 2 (Japan) (SGB Enhanced)
 file: Hoshi no Kirby 2 (Japan) (SGB Enhanced).zip
@@ -2005,11 +2005,11 @@ file: Hugo 2 (Germany).zip
 game: Humans, The (Europe) (En,Fr,De,Es,It)
 file: Humans, The (Europe) (En,Fr,De,Es,It).zip
 
-game: Humans, The (USA) (QUByte Classics)
-file: Humans, The (USA) (QUByte Classics).zip
-
 game: Humans, The (USA)
 file: Humans, The (USA).zip
+
+game: Humans, The (USA) (QUByte Classics)
+file: Humans, The (USA) (QUByte Classics).zip
 
 game: Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe) (SGB Enhanced)
 file: Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe) (SGB Enhanced).zip
@@ -2170,11 +2170,11 @@ file: Jet Pak Man (Europe) (Proto).zip
 game: Jetsons, The - Robot Panic (Japan) (Proto)
 file: Jetsons, The - Robot Panic (Japan) (Proto).zip
 
-game: Jetsons, The - Robot Panic (USA, Europe) (Rev 1)
-file: Jetsons, The - Robot Panic (USA, Europe) (Rev 1).zip
-
 game: Jetsons, The - Robot Panic (USA, Europe)
 file: Jetsons, The - Robot Panic (USA, Europe).zip
+
+game: Jetsons, The - Robot Panic (USA, Europe) (Rev 1)
+file: Jetsons, The - Robot Panic (USA, Europe) (Rev 1).zip
 
 game: Jikuu Senki Mu (Japan)
 file: Jikuu Senki Mu (Japan).zip
@@ -2182,14 +2182,14 @@ file: Jikuu Senki Mu (Japan).zip
 game: Jimmy Connors no Pro Tennis Tour (Japan)
 file: Jimmy Connors no Pro Tennis Tour (Japan).zip
 
+game: Jimmy Connors Tennis (USA, Europe)
+file: Jimmy Connors Tennis (USA, Europe).zip
+
 game: Jimmy Connors Tennis (USA, Europe) (1993-03-19) (Beta)
 file: Jimmy Connors Tennis (USA, Europe) (1993-03-19) (Beta).zip
 
 game: Jimmy Connors Tennis (USA, Europe) (Beta)
 file: Jimmy Connors Tennis (USA, Europe) (Beta).zip
-
-game: Jimmy Connors Tennis (USA, Europe)
-file: Jimmy Connors Tennis (USA, Europe).zip
 
 game: Jinsei Game (Japan) (SGB Enhanced)
 file: Jinsei Game (Japan) (SGB Enhanced).zip
@@ -2197,11 +2197,11 @@ file: Jinsei Game (Japan) (SGB Enhanced).zip
 game: Jinsei Game Densetsu (Japan)
 file: Jinsei Game Densetsu (Japan).zip
 
-game: Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta)
-file: Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).zip
-
 game: Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl,Sv)
 file: Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+
+game: Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta)
+file: Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).zip
 
 game: Joe & Mac (USA)
 file: Joe & Mac (USA).zip
@@ -2359,11 +2359,11 @@ file: Kingyo Chuuihou! - Wapiko no Wakuwaku Stamp Rally! (Japan).zip
 game: Kingyo Chuuihou! 2 - Gyopi-chan o Sagase! (Japan)
 file: Kingyo Chuuihou! 2 - Gyopi-chan o Sagase! (Japan).zip
 
-game: Kinin Koumaroku Oni (Japan) (Rev 1)
-file: Kinin Koumaroku Oni (Japan) (Rev 1).zip
-
 game: Kinin Koumaroku Oni (Japan)
 file: Kinin Koumaroku Oni (Japan).zip
+
+game: Kinin Koumaroku Oni (Japan) (Rev 1)
+file: Kinin Koumaroku Oni (Japan) (Rev 1).zip
 
 game: Kinnikuman - The Dream Match (Japan)
 file: Kinnikuman - The Dream Match (Japan).zip
@@ -2467,11 +2467,11 @@ file: Krusty's Fun House (USA, Europe).zip
 game: Kuma no Puutarou - Takara Sagashi da Ooiri Game Battle! (Japan) (SGB Enhanced)
 file: Kuma no Puutarou - Takara Sagashi da Ooiri Game Battle! (Japan) (SGB Enhanced).zip
 
-game: Kung-Fu Master (USA, Europe) (Beta)
-file: Kung-Fu Master (USA, Europe) (Beta).zip
-
 game: Kung-Fu Master (USA, Europe)
 file: Kung-Fu Master (USA, Europe).zip
+
+game: Kung-Fu Master (USA, Europe) (Beta)
+file: Kung-Fu Master (USA, Europe) (Beta).zip
 
 game: Kuusou Kagaku Sekai Gulliver Boy - Kuusou Kagaku Puzzle Purittopon!! (Japan) (SGB Enhanced)
 file: Kuusou Kagaku Sekai Gulliver Boy - Kuusou Kagaku Puzzle Purittopon!! (Japan) (SGB Enhanced).zip
@@ -2485,11 +2485,11 @@ file: Kyoro-chan Land (Japan).zip
 game: Lamborghini American Challenge (USA, Europe)
 file: Lamborghini American Challenge (USA, Europe).zip
 
-game: Lasama Chuanqi - Story of Lasama (Taiwan) (Unl) (Alt)
-file: Lasama Chuanqi - Story of Lasama (Taiwan) (Unl) (Alt).zip
-
 game: Lasama Chuanqi - Story of Lasama (Taiwan) (Unl)
 file: Lasama Chuanqi - Story of Lasama (Taiwan) (Unl).zip
+
+game: Lasama Chuanqi - Story of Lasama (Taiwan) (Unl) (Alt)
+file: Lasama Chuanqi - Story of Lasama (Taiwan) (Unl) (Alt).zip
 
 game: Last Action Hero (USA, Europe)
 file: Last Action Hero (USA, Europe).zip
@@ -2530,14 +2530,14 @@ file: Legend of Zelda, The - Link's Awakening (France).zip
 game: Legend of Zelda, The - Link's Awakening (Germany)
 file: Legend of Zelda, The - Link's Awakening (Germany).zip
 
+game: Legend of Zelda, The - Link's Awakening (USA, Europe)
+file: Legend of Zelda, The - Link's Awakening (USA, Europe).zip
+
 game: Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 1)
 file: Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 1).zip
 
 game: Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)
 file: Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).zip
-
-game: Legend of Zelda, The - Link's Awakening (USA, Europe)
-file: Legend of Zelda, The - Link's Awakening (USA, Europe).zip
 
 game: Legend of Zelda, The - Link's Awakening DX (France) (Proto) (1998-11-17)
 file: Legend of Zelda, The - Link's Awakening DX (France) (Proto) (1998-11-17).zip
@@ -2548,14 +2548,14 @@ file: Legend of Zelda, The - Link's Awakening DX (Germany) (Proto) (1998-11-17).
 game: Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Proto) (1998-11-08)
 file: Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Proto) (1998-11-08).zip
 
+game: Lemmings (Europe)
+file: Lemmings (Europe).zip
+
 game: Lemmings (Europe) (Beta) (1993-05-19)
 file: Lemmings (Europe) (Beta) (1993-05-19).zip
 
 game: Lemmings (Europe) (Rev 1)
 file: Lemmings (Europe) (Rev 1).zip
-
-game: Lemmings (Europe)
-file: Lemmings (Europe).zip
 
 game: Lemmings (Japan)
 file: Lemmings (Japan).zip
@@ -2566,11 +2566,11 @@ file: Lemmings (USA).zip
 game: Lemmings 2 - The Tribes (Europe)
 file: Lemmings 2 - The Tribes (Europe).zip
 
-game: Lethal Weapon (USA, Europe) (Beta)
-file: Lethal Weapon (USA, Europe) (Beta).zip
-
 game: Lethal Weapon (USA, Europe)
 file: Lethal Weapon (USA, Europe).zip
+
+game: Lethal Weapon (USA, Europe) (Beta)
+file: Lethal Weapon (USA, Europe) (Beta).zip
 
 game: Lingo (Europe) (En,Fr,De,Nl)
 file: Lingo (Europe) (En,Fr,De,Nl).zip
@@ -2623,11 +2623,11 @@ file: Looney Tunes 2 - Tasmanian Devil in Island Chase (USA, Europe).zip
 game: Looney Tunes Series - Daffy Duck (Japan) (SGB Enhanced)
 file: Looney Tunes Series - Daffy Duck (Japan) (SGB Enhanced).zip
 
-game: Loopz (World) (Beta)
-file: Loopz (World) (Beta).zip
-
 game: Loopz (World)
 file: Loopz (World).zip
+
+game: Loopz (World) (Beta)
+file: Loopz (World) (Beta).zip
 
 game: Lost World, The - Jurassic Park (USA, Europe) (SGB Enhanced)
 file: Lost World, The - Jurassic Park (USA, Europe) (SGB Enhanced).zip
@@ -2683,11 +2683,11 @@ file: Magnetic Soccer (Europe).zip
 game: Mahoujin GuruGuru - Yuusha to Kukuri no Daibouken (Japan) (SGB Enhanced)
 file: Mahoujin GuruGuru - Yuusha to Kukuri no Daibouken (Japan) (SGB Enhanced).zip
 
-game: Makai Toushi Sa-Ga (Japan) (Rev 1)
-file: Makai Toushi Sa-Ga (Japan) (Rev 1).zip
-
 game: Makai Toushi Sa-Ga (Japan)
 file: Makai Toushi Sa-Ga (Japan).zip
+
+game: Makai Toushi Sa-Ga (Japan) (Rev 1)
+file: Makai Toushi Sa-Ga (Japan) (Rev 1).zip
 
 game: Makai Toushi Sa-Ga (World) (Ja) (Rev 1) (Collection of SaGa)
 file: Makai Toushi Sa-Ga (World) (Ja) (Rev 1) (Collection of SaGa).zip
@@ -2791,11 +2791,11 @@ file: Mega Man II (USA).zip
 game: Mega Man III (Europe)
 file: Mega Man III (Europe).zip
 
-game: Mega Man III (USA) (Sample)
-file: Mega Man III (USA) (Sample).zip
-
 game: Mega Man III (USA)
 file: Mega Man III (USA).zip
+
+game: Mega Man III (USA) (Sample)
+file: Mega Man III (USA) (Sample).zip
 
 game: Mega Man IV (Europe)
 file: Mega Man IV (Europe).zip
@@ -2833,11 +2833,11 @@ file: Meitantei Conan - Giwaku no Gouka Ressha (Japan) (SGB Enhanced).zip
 game: Mercenary Force (USA, Europe)
 file: Mercenary Force (USA, Europe).zip
 
-game: Metal Masters (USA) (Beta)
-file: Metal Masters (USA) (Beta).zip
-
 game: Metal Masters (USA)
 file: Metal Masters (USA).zip
+
+game: Metal Masters (USA) (Beta)
+file: Metal Masters (USA) (Beta).zip
 
 game: Metroid II - Return of Samus (World)
 file: Metroid II - Return of Samus (World).zip
@@ -2869,11 +2869,11 @@ file: Mickey Mouse II (Japan).zip
 game: Mickey Mouse IV - Mahou no Labyrinth (Japan)
 file: Mickey Mouse IV - Mahou no Labyrinth (Japan).zip
 
-game: Mickey Mouse V (Japan) (Rev 1)
-file: Mickey Mouse V (Japan) (Rev 1).zip
-
 game: Mickey Mouse V (Japan)
 file: Mickey Mouse V (Japan).zip
+
+game: Mickey Mouse V (Japan) (Rev 1)
+file: Mickey Mouse V (Japan) (Rev 1).zip
 
 game: Mickey's Chase (Japan)
 file: Mickey's Chase (Japan).zip
@@ -2884,11 +2884,11 @@ file: Mickey's Dangerous Chase (Europe).zip
 game: Mickey's Dangerous Chase (USA)
 file: Mickey's Dangerous Chase (USA).zip
 
-game: Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12)
-file: Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12).zip
-
 game: Mickey's Ultimate Challenge (USA, Europe)
 file: Mickey's Ultimate Challenge (USA, Europe).zip
+
+game: Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12)
+file: Mickey's Ultimate Challenge (USA, Europe) (Beta) (1993-11-12).zip
 
 game: Micro Machines (USA, Europe)
 file: Micro Machines (USA, Europe).zip
@@ -2962,11 +2962,11 @@ file: Minolta 2098 Adj. Program (USA) (Unl).zip
 game: Minolta 2156 Adj. Program (USA) (Unl)
 file: Minolta 2156 Adj. Program (USA) (Unl).zip
 
-game: Minolta 2162 Adj. Program (USA) (Unl) (Alt)
-file: Minolta 2162 Adj. Program (USA) (Unl) (Alt).zip
-
 game: Minolta 2162 Adj. Program (USA) (Unl)
 file: Minolta 2162 Adj. Program (USA) (Unl).zip
+
+game: Minolta 2162 Adj. Program (USA) (Unl) (Alt)
+file: Minolta 2162 Adj. Program (USA) (Unl) (Alt).zip
 
 game: Minolta 2166 Adj. Program (USA) (Unl)
 file: Minolta 2166 Adj. Program (USA) (Unl).zip
@@ -2992,11 +2992,11 @@ file: Minolta 2428 Adj. Program (USA) (Unl).zip
 game: Minolta 2429 Adj. Program (USA) (Unl)
 file: Minolta 2429 Adj. Program (USA) (Unl).zip
 
-game: Minolta 2440 Adj. Program (USA) (Unl) (Alt)
-file: Minolta 2440 Adj. Program (USA) (Unl) (Alt).zip
-
 game: Minolta 2440 Adj. Program (USA) (Unl)
 file: Minolta 2440 Adj. Program (USA) (Unl).zip
+
+game: Minolta 2440 Adj. Program (USA) (Unl) (Alt)
+file: Minolta 2440 Adj. Program (USA) (Unl) (Alt).zip
 
 game: Minolta 2463 Adj. Program (USA) (Unl)
 file: Minolta 2463 Adj. Program (USA) (Unl).zip
@@ -3085,11 +3085,11 @@ file: Monster Maker (Japan).zip
 game: Monster Maker 2 - Uru no Hiken (Japan)
 file: Monster Maker 2 - Uru no Hiken (Japan).zip
 
-game: Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1993-04-01)
-file: Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1993-04-01).zip
-
 game: Monster Max (Europe) (En,Fr,De,Es,It,Nl)
 file: Monster Max (Europe) (En,Fr,De,Es,It,Nl).zip
+
+game: Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1993-04-01)
+file: Monster Max (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1993-04-01).zip
 
 game: Monster Race (Japan) (SGB Enhanced)
 file: Monster Race (Japan) (SGB Enhanced).zip
@@ -3109,11 +3109,11 @@ file: Montezuma's Return! (Europe) (En,Fr,De,Es,It).zip
 game: Mortal Kombat - Shinken Kourin Densetsu (Japan)
 file: Mortal Kombat - Shinken Kourin Densetsu (Japan).zip
 
-game: Mortal Kombat (USA, Europe) (Beta)
-file: Mortal Kombat (USA, Europe) (Beta).zip
-
 game: Mortal Kombat (USA, Europe)
 file: Mortal Kombat (USA, Europe).zip
+
+game: Mortal Kombat (USA, Europe) (Beta)
+file: Mortal Kombat (USA, Europe) (Beta).zip
 
 game: Mortal Kombat & Mortal Kombat II (Japan)
 file: Mortal Kombat & Mortal Kombat II (Japan).zip
@@ -3133,11 +3133,11 @@ file: Mortal Kombat II - Kyuukyoku Shinken (Japan).zip
 game: Mortal Kombat II (USA, Europe)
 file: Mortal Kombat II (USA, Europe).zip
 
-game: Motocross Maniacs (Europe) (Rev 1)
-file: Motocross Maniacs (Europe) (Rev 1).zip
-
 game: Motocross Maniacs (Europe)
 file: Motocross Maniacs (Europe).zip
+
+game: Motocross Maniacs (Europe) (Rev 1)
+file: Motocross Maniacs (Europe) (Rev 1).zip
 
 game: Motocross Maniacs (Japan)
 file: Motocross Maniacs (Japan).zip
@@ -3184,11 +3184,11 @@ file: MVP Baseball (Japan).zip
 game: Mysterium (Japan)
 file: Mysterium (Japan).zip
 
-game: Mysterium (USA) (Beta)
-file: Mysterium (USA) (Beta).zip
-
 game: Mysterium (USA)
 file: Mysterium (USA).zip
+
+game: Mysterium (USA) (Beta)
+file: Mysterium (USA) (Beta).zip
 
 game: Mystic Quest (Europe)
 file: Mystic Quest (Europe).zip
@@ -3244,11 +3244,11 @@ file: Namco Gallery Vol.3 (Japan) (SGB Enhanced).zip
 game: Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (Japan)
 file: Nangoku Shounen Papuwa-kun - Ganmadan no Yabou (Japan).zip
 
-game: Nanonote (Japan) (Rev 1) (Beta)
-file: Nanonote (Japan) (Rev 1) (Beta).zip
-
 game: Nanonote (Japan)
 file: Nanonote (Japan).zip
+
+game: Nanonote (Japan) (Rev 1) (Beta)
+file: Nanonote (Japan) (Rev 1) (Beta).zip
 
 game: Navy SEALs (USA, Europe)
 file: Navy SEALs (USA, Europe).zip
@@ -3301,11 +3301,11 @@ file: Nemesis (Europe).zip
 game: Nemesis (Japan)
 file: Nemesis (Japan).zip
 
-game: Nemesis (USA) (Rev 1) (Beta)
-file: Nemesis (USA) (Rev 1) (Beta).zip
-
 game: Nemesis (USA)
 file: Nemesis (USA).zip
+
+game: Nemesis (USA) (Rev 1) (Beta)
+file: Nemesis (USA) (Rev 1) (Beta).zip
 
 game: Nemesis II - The Return of the Hero (Europe)
 file: Nemesis II - The Return of the Hero (Europe).zip
@@ -3418,14 +3418,14 @@ file: Ninja Spirit (Europe) (Proto).zip
 game: Ninja Spirit (USA) (Proto)
 file: Ninja Spirit (USA) (Proto).zip
 
+game: Ninja Taro (USA)
+file: Ninja Taro (USA).zip
+
 game: Ninja Taro (USA) (Beta 1)
 file: Ninja Taro (USA) (Beta 1).zip
 
 game: Ninja Taro (USA) (Beta 2)
 file: Ninja Taro (USA) (Beta 2).zip
-
-game: Ninja Taro (USA)
-file: Ninja Taro (USA).zip
 
 game: Ninku (Japan) (SGB Enhanced)
 file: Ninku (Japan) (SGB Enhanced).zip
@@ -3472,11 +3472,11 @@ file: Oni II - Oni Densetsu (Japan).zip
 game: Oni III - Kuro no Hakaishin (Japan)
 file: Oni III - Kuro no Hakaishin (Japan).zip
 
-game: Oni IV - Kijin no Ketsuzoku (Japan) (Rev 1) (Beta)
-file: Oni IV - Kijin no Ketsuzoku (Japan) (Rev 1) (Beta).zip
-
 game: Oni IV - Kijin no Ketsuzoku (Japan)
 file: Oni IV - Kijin no Ketsuzoku (Japan).zip
+
+game: Oni IV - Kijin no Ketsuzoku (Japan) (Rev 1) (Beta)
+file: Oni IV - Kijin no Ketsuzoku (Japan) (Rev 1) (Beta).zip
 
 game: Oni V - Oni wo Tsugumono (Japan) (SGB Enhanced)
 file: Oni V - Oni wo Tsugumono (Japan) (SGB Enhanced).zip
@@ -3505,23 +3505,23 @@ file: Othello World (Japan) (SGB Enhanced).zip
 game: Otogibanashi Taisen (Japan) (SGB Enhanced)
 file: Otogibanashi Taisen (Japan) (SGB Enhanced).zip
 
-game: Otto's Ottifanten - Baby Bruno's Alptraum (Europe) (En,Fr,De,Es) (Beta)
-file: Otto's Ottifanten - Baby Bruno's Alptraum (Europe) (En,Fr,De,Es) (Beta).zip
-
 game: Otto's Ottifanten - Baby Bruno's Alptraum (Europe) (En,Fr,De,Es)
 file: Otto's Ottifanten - Baby Bruno's Alptraum (Europe) (En,Fr,De,Es).zip
 
-game: Out of Gas (USA) (Beta)
-file: Out of Gas (USA) (Beta).zip
+game: Otto's Ottifanten - Baby Bruno's Alptraum (Europe) (En,Fr,De,Es) (Beta)
+file: Otto's Ottifanten - Baby Bruno's Alptraum (Europe) (En,Fr,De,Es) (Beta).zip
 
 game: Out of Gas (USA)
 file: Out of Gas (USA).zip
 
-game: Outburst (Japan) (Demo)
-file: Outburst (Japan) (Demo).zip
+game: Out of Gas (USA) (Beta)
+file: Out of Gas (USA) (Beta).zip
 
 game: Outburst (Japan)
 file: Outburst (Japan).zip
+
+game: Outburst (Japan) (Demo)
+file: Outburst (Japan) (Demo).zip
 
 game: Oyatsu Quiz Mogu Mogu Q (Japan) (SGB Enhanced)
 file: Oyatsu Quiz Mogu Mogu Q (Japan) (SGB Enhanced).zip
@@ -3631,11 +3631,11 @@ file: Panel Action Bingo (USA).zip
 game: Panel no Ninja Kesamaru (Japan)
 file: Panel no Ninja Kesamaru (Japan).zip
 
-game: Pang (Europe) (Beta)
-file: Pang (Europe) (Beta).zip
-
 game: Pang (Europe)
 file: Pang (Europe).zip
+
+game: Pang (Europe) (Beta)
+file: Pang (Europe) (Beta).zip
 
 game: Paperboy (USA, Europe)
 file: Paperboy (USA, Europe).zip
@@ -3697,11 +3697,11 @@ file: Pierre le Chef is... Out to Lunch (Europe).zip
 game: Pinball - 66hiki no Wani Daikoushin! (Japan)
 file: Pinball - 66hiki no Wani Daikoushin! (Japan).zip
 
-game: Pinball - Revenge of the 'Gator (USA, Europe) (Beta)
-file: Pinball - Revenge of the 'Gator (USA, Europe) (Beta).zip
-
 game: Pinball - Revenge of the 'Gator (USA, Europe)
 file: Pinball - Revenge of the 'Gator (USA, Europe).zip
+
+game: Pinball - Revenge of the 'Gator (USA, Europe) (Beta)
+file: Pinball - Revenge of the 'Gator (USA, Europe) (Beta).zip
 
 game: Pinball Deluxe (Europe)
 file: Pinball Deluxe (Europe).zip
@@ -3811,17 +3811,17 @@ file: Pocket Monsters - Pikachu (Japan) (Rev 3) (SGB Enhanced).zip
 game: Pocket Monsters - Pikachu (Japan) (SGB Enhanced)
 file: Pocket Monsters - Pikachu (Japan) (SGB Enhanced).zip
 
-game: Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug)
-file: Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug).zip
-
 game: Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced)
 file: Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced).zip
 
-game: Pocket Monsters Kin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug)
-file: Pocket Monsters Kin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug).zip
+game: Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug)
+file: Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug).zip
 
 game: Pocket Monsters Kin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced)
 file: Pocket Monsters Kin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced).zip
+
+game: Pocket Monsters Kin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug)
+file: Pocket Monsters Kin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) (Debug).zip
 
 game: Pocket Puyo Puyo Tsuu (Japan) (Rev 1) (SGB Enhanced) (NP)
 file: Pocket Puyo Puyo Tsuu (Japan) (Rev 1) (SGB Enhanced) (NP).zip
@@ -3880,11 +3880,11 @@ file: Pokemon - Versione Gialla - Speciale Edizione Pikachu (Italy) (CGB+SGB Enh
 game: Pokemon - Versione Rossa (Italy) (SGB Enhanced)
 file: Pokemon - Versione Rossa (Italy) (SGB Enhanced).zip
 
-game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-03) (Beta) (CGB+SGB Enhanced) (Alt)
-file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-03) (Beta) (CGB+SGB Enhanced) (Alt).zip
-
 game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-03) (Beta) (CGB+SGB Enhanced)
 file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-03) (Beta) (CGB+SGB Enhanced).zip
+
+game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-03) (Beta) (CGB+SGB Enhanced) (Alt)
+file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-03) (Beta) (CGB+SGB Enhanced) (Alt).zip
 
 game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-10) (Beta) (CGB+SGB Enhanced)
 file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-10) (Beta) (CGB+SGB Enhanced).zip
@@ -3901,11 +3901,11 @@ file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-
 game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-18) (Beta) (CGB+SGB Enhanced)
 file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-18) (Beta) (CGB+SGB Enhanced).zip
 
-game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-22) (Beta) (CGB+SGB Enhanced) (Alt)
-file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-22) (Beta) (CGB+SGB Enhanced) (Alt).zip
-
 game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-22) (Beta) (CGB+SGB Enhanced)
 file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-22) (Beta) (CGB+SGB Enhanced).zip
+
+game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-22) (Beta) (CGB+SGB Enhanced) (Alt)
+file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (1999-02-22) (Beta) (CGB+SGB Enhanced) (Alt).zip
 
 game: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)
 file: Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).zip
@@ -3931,29 +3931,29 @@ file: Popeye (USA) (Proto).zip
 game: Popeye 2 (Europe)
 file: Popeye 2 (Europe).zip
 
-game: Popeye 2 (Japan) (Rev 1)
-file: Popeye 2 (Japan) (Rev 1).zip
-
 game: Popeye 2 (Japan)
 file: Popeye 2 (Japan).zip
+
+game: Popeye 2 (Japan) (Rev 1)
+file: Popeye 2 (Japan) (Rev 1).zip
 
 game: Popeye 2 (USA)
 file: Popeye 2 (USA).zip
 
-game: Populous (Europe) (Sample)
-file: Populous (Europe) (Sample).zip
-
 game: Populous (Europe)
 file: Populous (Europe).zip
+
+game: Populous (Europe) (Sample)
+file: Populous (Europe) (Sample).zip
 
 game: Populous Gaiden (Japan)
 file: Populous Gaiden (Japan).zip
 
-game: Power Mission (Japan) (Rev 1)
-file: Power Mission (Japan) (Rev 1).zip
-
 game: Power Mission (Japan)
 file: Power Mission (Japan).zip
+
+game: Power Mission (Japan) (Rev 1)
+file: Power Mission (Japan) (Rev 1).zip
 
 game: Power Mission (USA)
 file: Power Mission (USA).zip
@@ -3982,26 +3982,26 @@ file: Prehistorik Man (USA, Europe).zip
 game: Pri Pri - Primitive Princess! (Japan)
 file: Pri Pri - Primitive Princess! (Japan).zip
 
-game: Primal Rage (USA, Europe) (Beta)
-file: Primal Rage (USA, Europe) (Beta).zip
-
 game: Primal Rage (USA, Europe)
 file: Primal Rage (USA, Europe).zip
 
-game: Prince of Persia (Europe) (En,Fr,De,Es,It) (Beta)
-file: Prince of Persia (Europe) (En,Fr,De,Es,It) (Beta).zip
+game: Primal Rage (USA, Europe) (Beta)
+file: Primal Rage (USA, Europe) (Beta).zip
 
 game: Prince of Persia (Europe) (En,Fr,De,Es,It)
 file: Prince of Persia (Europe) (En,Fr,De,Es,It).zip
 
+game: Prince of Persia (Europe) (En,Fr,De,Es,It) (Beta)
+file: Prince of Persia (Europe) (En,Fr,De,Es,It) (Beta).zip
+
 game: Prince of Persia (Japan)
 file: Prince of Persia (Japan).zip
 
-game: Prince of Persia (USA) (Beta)
-file: Prince of Persia (USA) (Beta).zip
-
 game: Prince of Persia (USA)
 file: Prince of Persia (USA).zip
+
+game: Prince of Persia (USA) (Beta)
+file: Prince of Persia (USA) (Beta).zip
 
 game: Prince YehRude (Taiwan) (Unl)
 file: Prince YehRude (Taiwan) (Unl).zip
@@ -4114,11 +4114,11 @@ file: R-Type (Japan).zip
 game: R-Type (USA, Europe)
 file: R-Type (USA, Europe).zip
 
-game: R-Type II (Europe) (Beta)
-file: R-Type II (Europe) (Beta).zip
-
 game: R-Type II (Europe)
 file: R-Type II (Europe).zip
+
+game: R-Type II (Europe) (Beta)
+file: R-Type II (Europe) (Beta).zip
 
 game: R-Type II (Japan)
 file: R-Type II (Japan).zip
@@ -4132,11 +4132,11 @@ file: Race Days (Europe).zip
 game: Race Days (USA)
 file: Race Days (USA).zip
 
-game: Race Drivin' (USA, Europe) (Beta)
-file: Race Drivin' (USA, Europe) (Beta).zip
-
 game: Race Drivin' (USA, Europe)
 file: Race Drivin' (USA, Europe).zip
+
+game: Race Drivin' (USA, Europe) (Beta)
+file: Race Drivin' (USA, Europe) (Beta).zip
 
 game: Racing Damashii (Japan)
 file: Racing Damashii (Japan).zip
@@ -4195,11 +4195,11 @@ file: Reservoir Rat (Europe) (En,Fr,De,Es,It).zip
 game: Riddick Bowe Boxing (Europe)
 file: Riddick Bowe Boxing (Europe).zip
 
-game: Riddick Bowe Boxing (USA) (Beta)
-file: Riddick Bowe Boxing (USA) (Beta).zip
-
 game: Riddick Bowe Boxing (USA)
 file: Riddick Bowe Boxing (USA).zip
+
+game: Riddick Bowe Boxing (USA) (Beta)
+file: Riddick Bowe Boxing (USA) (Beta).zip
 
 game: Ring Rage (Japan)
 file: Ring Rage (Japan).zip
@@ -4207,11 +4207,11 @@ file: Ring Rage (Japan).zip
 game: Ring Rage (USA)
 file: Ring Rage (USA).zip
 
-game: Road Rash (USA, Europe) (Beta)
-file: Road Rash (USA, Europe) (Beta).zip
-
 game: Road Rash (USA, Europe)
 file: Road Rash (USA, Europe).zip
+
+game: Road Rash (USA, Europe) (Beta)
+file: Road Rash (USA, Europe) (Beta).zip
 
 game: Roadster (Japan)
 file: Roadster (Japan).zip
@@ -4261,11 +4261,11 @@ file: Rock'n! Monster!! (Japan) (SGB Enhanced).zip
 game: Rockman 8 (Taiwan) (Unl)
 file: Rockman 8 (Taiwan) (Unl).zip
 
-game: Rockman World (Japan) (En) (Beta)
-file: Rockman World (Japan) (En) (Beta).zip
-
 game: Rockman World (Japan)
 file: Rockman World (Japan).zip
+
+game: Rockman World (Japan) (En) (Beta)
+file: Rockman World (Japan) (En) (Beta).zip
 
 game: Rockman World 2 (Japan)
 file: Rockman World 2 (Japan).zip
@@ -4282,11 +4282,11 @@ file: Rockman World 5 (Japan) (SGB Enhanced).zip
 game: Rodland (Europe)
 file: Rodland (Europe).zip
 
-game: Roger Clemens' MVP Baseball (USA) (Rev 1)
-file: Roger Clemens' MVP Baseball (USA) (Rev 1).zip
-
 game: Roger Clemens' MVP Baseball (USA)
 file: Roger Clemens' MVP Baseball (USA).zip
+
+game: Roger Clemens' MVP Baseball (USA) (Rev 1)
+file: Roger Clemens' MVP Baseball (USA) (Rev 1).zip
 
 game: Rolan's Curse (USA)
 file: Rolan's Curse (USA).zip
@@ -4303,11 +4303,11 @@ file: Rubble Saver II (Japan).zip
 game: Rugrats Movie, The (USA) (SGB Enhanced)
 file: Rugrats Movie, The (USA) (SGB Enhanced).zip
 
-game: Sa-Ga 2 - Hihou Densetsu (Japan) (Rev 1)
-file: Sa-Ga 2 - Hihou Densetsu (Japan) (Rev 1).zip
-
 game: Sa-Ga 2 - Hihou Densetsu (Japan)
 file: Sa-Ga 2 - Hihou Densetsu (Japan).zip
+
+game: Sa-Ga 2 - Hihou Densetsu (Japan) (Rev 1)
+file: Sa-Ga 2 - Hihou Densetsu (Japan) (Rev 1).zip
 
 game: Sa-Ga 2 - Hihou Densetsu (World) (Ja) (Rev 1) (Collection of SaGa)
 file: Sa-Ga 2 - Hihou Densetsu (World) (Ja) (Rev 1) (Collection of SaGa).zip
@@ -4348,11 +4348,11 @@ file: Sanrio Carnival (Japan).zip
 game: Sanrio Carnival 2 (Japan)
 file: Sanrio Carnival 2 (Japan).zip
 
-game: Sanrio Uranai Party (Japan) (Rev 1)
-file: Sanrio Uranai Party (Japan) (Rev 1).zip
-
 game: Sanrio Uranai Party (Japan)
 file: Sanrio Uranai Party (Japan).zip
+
+game: Sanrio Uranai Party (Japan) (Rev 1)
+file: Sanrio Uranai Party (Japan) (Rev 1).zip
 
 game: Sarakon (Europe) (Proto)
 file: Sarakon (Europe) (Proto).zip
@@ -4399,11 +4399,11 @@ file: seaQuest DSV (USA, Europe) (SGB Enhanced).zip
 game: Seaside Volley (Japan)
 file: Seaside Volley (Japan).zip
 
-game: Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection)
-file: Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection).zip
-
 game: Seiken Densetsu - Final Fantasy Gaiden (Japan)
 file: Seiken Densetsu - Final Fantasy Gaiden (Japan).zip
+
+game: Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection)
+file: Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection).zip
 
 game: Selection - Erabareshi Mono (Japan)
 file: Selection - Erabareshi Mono (Japan).zip
@@ -4447,11 +4447,11 @@ file: Shikinjou (Japan).zip
 game: Shin Keiba Kizoku Pocket Jockey (Japan) (SGB Enhanced)
 file: Shin Keiba Kizoku Pocket Jockey (Japan) (SGB Enhanced).zip
 
-game: Shin Nihon Pro Wrestling - Toukon Sanjuushi (Japan) (Sample)
-file: Shin Nihon Pro Wrestling - Toukon Sanjuushi (Japan) (Sample).zip
-
 game: Shin Nihon Pro Wrestling - Toukon Sanjuushi (Japan)
 file: Shin Nihon Pro Wrestling - Toukon Sanjuushi (Japan).zip
+
+game: Shin Nihon Pro Wrestling - Toukon Sanjuushi (Japan) (Sample)
+file: Shin Nihon Pro Wrestling - Toukon Sanjuushi (Japan) (Sample).zip
 
 game: Shin SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (SGB Enhanced)
 file: Shin SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (SGB Enhanced).zip
@@ -4501,11 +4501,11 @@ file: Simpsons, The - Bart no Jack to Mame no Ki (Japan).zip
 game: Simpsons, The - Bart vs. the Juggernauts (USA, Europe)
 file: Simpsons, The - Bart vs. the Juggernauts (USA, Europe).zip
 
-game: Simpsons, The - Itchy & Scratchy - Miniature Golf Madness (USA, Europe) (Beta)
-file: Simpsons, The - Itchy & Scratchy - Miniature Golf Madness (USA, Europe) (Beta).zip
-
 game: Simpsons, The - Itchy & Scratchy - Miniature Golf Madness (USA, Europe)
 file: Simpsons, The - Itchy & Scratchy - Miniature Golf Madness (USA, Europe).zip
+
+game: Simpsons, The - Itchy & Scratchy - Miniature Golf Madness (USA, Europe) (Beta)
+file: Simpsons, The - Itchy & Scratchy - Miniature Golf Madness (USA, Europe) (Beta).zip
 
 game: Skate or Die - Bad 'N Rad (Europe)
 file: Skate or Die - Bad 'N Rad (Europe).zip
@@ -4639,14 +4639,14 @@ file: Spider-Man - X-Men - Arcade's Revenge (USA, Europe).zip
 game: Spider-Man 2 (USA, Europe)
 file: Spider-Man 2 (USA, Europe).zip
 
+game: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe)
+file: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe).zip
+
 game: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 1)
 file: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 1).zip
 
 game: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2) (1993-04-11)
 file: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2) (1993-04-11).zip
-
-game: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe)
-file: Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe).zip
 
 game: Spirit of F-1, The (Europe)
 file: Spirit of F-1, The (Europe).zip
@@ -4663,11 +4663,11 @@ file: Spirou (Europe) (En,Fr,De,Es) (SGB Enhanced).zip
 game: Splitz - Nigaoe 15 Game (Japan)
 file: Splitz - Nigaoe 15 Game (Japan).zip
 
-game: Splitz (Europe) (Beta)
-file: Splitz (Europe) (Beta).zip
-
 game: Splitz (Europe)
 file: Splitz (Europe).zip
+
+game: Splitz (Europe) (Beta)
+file: Splitz (Europe) (Beta).zip
 
 game: Sports Collection (Japan)
 file: Sports Collection (Japan).zip
@@ -4720,11 +4720,11 @@ file: Star Trek - The Next Generation (Germany).zip
 game: Star Trek - The Next Generation (Spain)
 file: Star Trek - The Next Generation (Spain).zip
 
-game: Star Trek - The Next Generation (USA, Europe) (Beta)
-file: Star Trek - The Next Generation (USA, Europe) (Beta).zip
-
 game: Star Trek - The Next Generation (USA, Europe)
 file: Star Trek - The Next Generation (USA, Europe).zip
+
+game: Star Trek - The Next Generation (USA, Europe) (Beta)
+file: Star Trek - The Next Generation (USA, Europe) (Beta).zip
 
 game: Star Trek Generations - Beyond the Nexus (Europe) (SGB Enhanced)
 file: Star Trek Generations - Beyond the Nexus (Europe) (SGB Enhanced).zip
@@ -4861,11 +4861,14 @@ file: Super James Pond (USA) (Proto).zip
 game: Super Kick Off (Europe) (En,Fr,De,It,Nl)
 file: Super Kick Off (Europe) (En,Fr,De,It,Nl).zip
 
+game: Super Mario Land (World)
+file: Super Mario Land (World).zip
+
 game: Super Mario Land (World) (Rev 1)
 file: Super Mario Land (World) (Rev 1).zip
 
-game: Super Mario Land (World)
-file: Super Mario Land (World).zip
+game: Super Mario Land 2 - 6 Golden Coins (USA, Europe)
+file: Super Mario Land 2 - 6 Golden Coins (USA, Europe).zip
 
 game: Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 1)
 file: Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 1).zip
@@ -4873,17 +4876,14 @@ file: Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 1).zip
 game: Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)
 file: Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).zip
 
-game: Super Mario Land 2 - 6 Golden Coins (USA, Europe)
-file: Super Mario Land 2 - 6 Golden Coins (USA, Europe).zip
+game: Super Mario Land 2 - 6-tsu no Kinka (Japan)
+file: Super Mario Land 2 - 6-tsu no Kinka (Japan).zip
 
 game: Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 1)
 file: Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 1).zip
 
 game: Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 2)
 file: Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 2).zip
-
-game: Super Mario Land 2 - 6-tsu no Kinka (Japan)
-file: Super Mario Land 2 - 6-tsu no Kinka (Japan).zip
 
 game: Super Mario World 7 (Taiwan) (Unl)
 file: Super Mario World 7 (Taiwan) (Unl).zip
@@ -4894,11 +4894,11 @@ file: Super Momotarou Dentetsu (Japan).zip
 game: Super Momotarou Dentetsu II (Japan)
 file: Super Momotarou Dentetsu II (Japan).zip
 
-game: Super Off Road (USA, Europe) (Beta)
-file: Super Off Road (USA, Europe) (Beta).zip
-
 game: Super Off Road (USA, Europe)
 file: Super Off Road (USA, Europe).zip
+
+game: Super Off Road (USA, Europe) (Beta)
+file: Super Off Road (USA, Europe) (Beta).zip
 
 game: Super Pachinko Taisen (Japan) (SGB Enhanced)
 file: Super Pachinko Taisen (Japan) (SGB Enhanced).zip
@@ -4930,11 +4930,11 @@ file: Superman (USA, Europe) (SGB Enhanced).zip
 game: Sutte Hakkun (Japan) (Proto) (SGB Enhanced)
 file: Sutte Hakkun (Japan) (Proto) (SGB Enhanced).zip
 
-game: Suzuki Aguri no F-1 Super Driving (Japan) (Beta)
-file: Suzuki Aguri no F-1 Super Driving (Japan) (Beta).zip
-
 game: Suzuki Aguri no F-1 Super Driving (Japan)
 file: Suzuki Aguri no F-1 Super Driving (Japan).zip
+
+game: Suzuki Aguri no F-1 Super Driving (Japan) (Beta)
+file: Suzuki Aguri no F-1 Super Driving (Japan) (Beta).zip
 
 game: Swamp Thing (USA, Europe)
 file: Swamp Thing (USA, Europe).zip
@@ -5014,11 +5014,11 @@ file: Tasmania Monogatari (Japan).zip
 game: Tasmania Story (USA)
 file: Tasmania Story (USA).zip
 
-game: Taz-Mania (Europe) (Beta)
-file: Taz-Mania (Europe) (Beta).zip
-
 game: Taz-Mania (Europe)
 file: Taz-Mania (Europe).zip
+
+game: Taz-Mania (Europe) (Beta)
+file: Taz-Mania (Europe) (Beta).zip
 
 game: Taz-Mania 2 (USA)
 file: Taz-Mania 2 (USA).zip
@@ -5035,23 +5035,26 @@ file: Teenage Mutant Hero Turtles - Fall of the Foot Clan (Europe).zip
 game: Teenage Mutant Hero Turtles II - Back from the Sewers (Europe)
 file: Teenage Mutant Hero Turtles II - Back from the Sewers (Europe).zip
 
-game: Teenage Mutant Hero Turtles III - Radical Rescue (Europe) (Rev 1)
-file: Teenage Mutant Hero Turtles III - Radical Rescue (Europe) (Rev 1).zip
-
 game: Teenage Mutant Hero Turtles III - Radical Rescue (Europe)
 file: Teenage Mutant Hero Turtles III - Radical Rescue (Europe).zip
 
-game: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA) (Cowabunga Collection, The)
-file: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA) (Cowabunga Collection, The).zip
+game: Teenage Mutant Hero Turtles III - Radical Rescue (Europe) (Rev 1)
+file: Teenage Mutant Hero Turtles III - Radical Rescue (Europe) (Rev 1).zip
 
 game: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)
 file: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).zip
 
-game: Teenage Mutant Ninja Turtles (Japan) (Cowabunga Collection, The)
-file: Teenage Mutant Ninja Turtles (Japan) (Cowabunga Collection, The).zip
+game: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA) (Cowabunga Collection, The)
+file: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA) (Cowabunga Collection, The).zip
 
 game: Teenage Mutant Ninja Turtles (Japan)
 file: Teenage Mutant Ninja Turtles (Japan).zip
+
+game: Teenage Mutant Ninja Turtles (Japan) (Cowabunga Collection, The)
+file: Teenage Mutant Ninja Turtles (Japan) (Cowabunga Collection, The).zip
+
+game: Teenage Mutant Ninja Turtles 2 (Japan)
+file: Teenage Mutant Ninja Turtles 2 (Japan).zip
 
 game: Teenage Mutant Ninja Turtles 2 (Japan) (Cowabunga Collection, The)
 file: Teenage Mutant Ninja Turtles 2 (Japan) (Cowabunga Collection, The).zip
@@ -5059,14 +5062,14 @@ file: Teenage Mutant Ninja Turtles 2 (Japan) (Cowabunga Collection, The).zip
 game: Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta) (1991-05-20)
 file: Teenage Mutant Ninja Turtles 2 (Japan) (En) (Beta) (1991-05-20).zip
 
-game: Teenage Mutant Ninja Turtles 2 (Japan)
-file: Teenage Mutant Ninja Turtles 2 (Japan).zip
+game: Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu (Japan)
+file: Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu (Japan).zip
 
 game: Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu (Japan) (Cowabunga Collection, The)
 file: Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu (Japan) (Cowabunga Collection, The).zip
 
-game: Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu (Japan)
-file: Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu (Japan).zip
+game: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)
+file: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).zip
 
 game: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA) (Beta)
 file: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA) (Beta).zip
@@ -5074,17 +5077,14 @@ file: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA) (Beta).zip
 game: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA) (Cowabunga Collection, The)
 file: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA) (Cowabunga Collection, The).zip
 
-game: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)
-file: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).zip
+game: Teenage Mutant Ninja Turtles III - Radical Rescue (USA)
+file: Teenage Mutant Ninja Turtles III - Radical Rescue (USA).zip
 
 game: Teenage Mutant Ninja Turtles III - Radical Rescue (USA) (Cowabunga Collection, The)
 file: Teenage Mutant Ninja Turtles III - Radical Rescue (USA) (Cowabunga Collection, The).zip
 
 game: Teenage Mutant Ninja Turtles III - Radical Rescue (USA) (Rev 1) (Beta)
 file: Teenage Mutant Ninja Turtles III - Radical Rescue (USA) (Rev 1) (Beta).zip
-
-game: Teenage Mutant Ninja Turtles III - Radical Rescue (USA)
-file: Teenage Mutant Ninja Turtles III - Radical Rescue (USA).zip
 
 game: Teke Teke! Asmik-kun World (Japan)
 file: Teke Teke! Asmik-kun World (Japan).zip
@@ -5110,11 +5110,11 @@ file: Terminator 2 - Judgment Day (USA, Europe).zip
 game: Tesserae (Europe) (En,Fr,De,Es,It)
 file: Tesserae (Europe) (En,Fr,De,Es,It).zip
 
-game: Tesserae (USA) (Beta)
-file: Tesserae (USA) (Beta).zip
-
 game: Tesserae (USA)
 file: Tesserae (USA).zip
+
+game: Tesserae (USA) (Beta)
+file: Tesserae (USA) (Beta).zip
 
 game: Tetris (Japan) (En)
 file: Tetris (Japan) (En).zip
@@ -5161,11 +5161,11 @@ file: Tintin in Tibet (Europe) (En,Es,It,Sv) (SGB Enhanced).zip
 game: Tintin in Tibet (Europe) (En,Fr,De,Nl) (SGB Enhanced)
 file: Tintin in Tibet (Europe) (En,Fr,De,Nl) (SGB Enhanced).zip
 
-game: Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta) (1991-09-06)
-file: Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta) (1991-09-06).zip
-
 game: Tiny Toon Adventures - Babs' Big Break (USA, Europe)
 file: Tiny Toon Adventures - Babs' Big Break (USA, Europe).zip
+
+game: Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta) (1991-09-06)
+file: Tiny Toon Adventures - Babs' Big Break (USA, Europe) (Beta) (1991-09-06).zip
 
 game: Tiny Toon Adventures - Wacky Sports (Europe)
 file: Tiny Toon Adventures - Wacky Sports (Europe).zip
@@ -5173,11 +5173,11 @@ file: Tiny Toon Adventures - Wacky Sports (Europe).zip
 game: Tiny Toon Adventures - Wacky Sports (USA)
 file: Tiny Toon Adventures - Wacky Sports (USA).zip
 
-game: Tiny Toon Adventures (Japan) (Beta) (1991-07-16)
-file: Tiny Toon Adventures (Japan) (Beta) (1991-07-16).zip
-
 game: Tiny Toon Adventures (Japan)
 file: Tiny Toon Adventures (Japan).zip
+
+game: Tiny Toon Adventures (Japan) (Beta) (1991-07-16)
+file: Tiny Toon Adventures (Japan) (Beta) (1991-07-16).zip
 
 game: Tiny Toon Adventures 2 - Buster Bunny no Kattobi Daibouken (Japan)
 file: Tiny Toon Adventures 2 - Buster Bunny no Kattobi Daibouken (Japan).zip
@@ -5209,11 +5209,11 @@ file: Tokyo Disneyland - Mickey no Cinderella-jou Mystery Tour (Japan) (SGB Enha
 game: Tom & Jerry (USA, Europe)
 file: Tom & Jerry (USA, Europe).zip
 
-game: Tom and Jerry - Frantic Antics! (USA, Europe) (Beta)
-file: Tom and Jerry - Frantic Antics! (USA, Europe) (Beta).zip
-
 game: Tom and Jerry - Frantic Antics! (USA, Europe)
 file: Tom and Jerry - Frantic Antics! (USA, Europe).zip
+
+game: Tom and Jerry - Frantic Antics! (USA, Europe) (Beta)
+file: Tom and Jerry - Frantic Antics! (USA, Europe) (Beta).zip
 
 game: Tom to Jerry (Japan)
 file: Tom to Jerry (Japan).zip
@@ -5266,11 +5266,11 @@ file: Track & Field (USA, Europe).zip
 game: Track Meet - Mezase! Barcelona (Japan)
 file: Track Meet - Mezase! Barcelona (Japan).zip
 
-game: Track Meet (USA, Europe) (Beta)
-file: Track Meet (USA, Europe) (Beta).zip
-
 game: Track Meet (USA, Europe)
 file: Track Meet (USA, Europe).zip
+
+game: Track Meet (USA, Europe) (Beta)
+file: Track Meet (USA, Europe) (Beta).zip
 
 game: Trappers Tengoku - Spy vs Spy (Japan)
 file: Trappers Tengoku - Spy vs Spy (Japan).zip
@@ -5344,11 +5344,11 @@ file: TV Champion (Japan) (SGB Enhanced).zip
 game: Twin (Japan)
 file: Twin (Japan).zip
 
-game: TwinBee da!! (Japan) (Beta)
-file: TwinBee da!! (Japan) (Beta).zip
-
 game: TwinBee da!! (Japan)
 file: TwinBee da!! (Japan).zip
+
+game: TwinBee da!! (Japan) (Beta)
+file: TwinBee da!! (Japan) (Beta).zip
 
 game: Two Hearts (Japan) (Demo) (Unl)
 file: Two Hearts (Japan) (Demo) (Unl).zip
@@ -5374,11 +5374,11 @@ file: Ultima - Ushinawareta Runes (Japan).zip
 game: Ultima - Ushinawareta Runes 2 (Japan)
 file: Ultima - Ushinawareta Runes 2 (Japan).zip
 
-game: Ultra Golf (USA) (Beta) (1991-11-20)
-file: Ultra Golf (USA) (Beta) (1991-11-20).zip
-
 game: Ultra Golf (USA)
 file: Ultra Golf (USA).zip
+
+game: Ultra Golf (USA) (Beta) (1991-11-20)
+file: Ultra Golf (USA) (Beta) (1991-11-20).zip
 
 game: Ultraman (Japan)
 file: Ultraman (Japan).zip
@@ -5500,11 +5500,11 @@ file: Winner's Horse (Japan).zip
 game: Winter Gold (Europe)
 file: Winter Gold (Europe).zip
 
-game: Winter Olympic Games (USA) (Rev 1) (Beta)
-file: Winter Olympic Games (USA) (Rev 1) (Beta).zip
-
 game: Winter Olympic Games (USA)
 file: Winter Olympic Games (USA).zip
+
+game: Winter Olympic Games (USA) (Rev 1) (Beta)
+file: Winter Olympic Games (USA) (Rev 1) (Beta).zip
 
 game: Wizardry Gaiden I - Joou no Junan (Japan)
 file: Wizardry Gaiden I - Joou no Junan (Japan).zip
@@ -5527,17 +5527,17 @@ file: Wordtris (France) (Fr) (Proto).zip
 game: Wordtris (Germany) (De) (Proto)
 file: Wordtris (Germany) (De) (Proto).zip
 
-game: Wordtris (USA) (Beta)
-file: Wordtris (USA) (Beta).zip
-
 game: Wordtris (USA)
 file: Wordtris (USA).zip
 
-game: WordZap (USA) (Beta)
-file: WordZap (USA) (Beta).zip
+game: Wordtris (USA) (Beta)
+file: Wordtris (USA) (Beta).zip
 
 game: WordZap (USA)
 file: WordZap (USA).zip
+
+game: WordZap (USA) (Beta)
+file: WordZap (USA) (Beta).zip
 
 game: WorkBoy (USA) (Proto)
 file: WorkBoy (USA) (Proto).zip
@@ -5545,11 +5545,11 @@ file: WorkBoy (USA) (Proto).zip
 game: World Beach Volley - 1991 GB Cup (Japan)
 file: World Beach Volley - 1991 GB Cup (Japan).zip
 
-game: World Beach Volley - 1992 GB Cup (Europe) (Beta)
-file: World Beach Volley - 1992 GB Cup (Europe) (Beta).zip
-
 game: World Beach Volley - 1992 GB Cup (Europe)
 file: World Beach Volley - 1992 GB Cup (Europe).zip
+
+game: World Beach Volley - 1992 GB Cup (Europe) (Beta)
+file: World Beach Volley - 1992 GB Cup (Europe) (Beta).zip
 
 game: World Bowling (Japan)
 file: World Bowling (Japan).zip
@@ -5623,11 +5623,11 @@ file: Xenon 2 - Megablast (Japan).zip
 game: Xenon 2 (USA, Europe)
 file: Xenon 2 (USA, Europe).zip
 
-game: Yakuman (Japan) (Rev 1)
-file: Yakuman (Japan) (Rev 1).zip
-
 game: Yakuman (Japan)
 file: Yakuman (Japan).zip
+
+game: Yakuman (Japan) (Rev 1)
+file: Yakuman (Japan) (Rev 1).zip
 
 game: Yannick Noah Tennis (France) (En)
 file: Yannick Noah Tennis (France) (En).zip
@@ -5680,14 +5680,14 @@ file: Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced).zip
 game: ZAS (Europe) (Proto)
 file: ZAS (Europe) (Proto).zip
 
-game: Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1) (Demo) (Special Version)
-file: Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1) (Demo) (Special Version).zip
+game: Zelda no Densetsu - Yume o Miru Shima (Japan)
+file: Zelda no Densetsu - Yume o Miru Shima (Japan).zip
 
 game: Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1)
 file: Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1).zip
 
-game: Zelda no Densetsu - Yume o Miru Shima (Japan)
-file: Zelda no Densetsu - Yume o Miru Shima (Japan).zip
+game: Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1) (Demo) (Special Version)
+file: Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1) (Demo) (Special Version).zip
 
 game: Zen - Intergalactic Ninja (Europe)
 file: Zen - Intergalactic Ninja (Europe).zip
@@ -5722,11 +5722,11 @@ file: Zool (Japan) (Proto).zip
 game: Zoop (Japan) (En)
 file: Zoop (Japan) (En).zip
 
-game: Zoop (USA, Europe) (Beta)
-file: Zoop (USA, Europe) (Beta).zip
-
 game: Zoop (USA, Europe)
 file: Zoop (USA, Europe).zip
+
+game: Zoop (USA, Europe) (Beta)
+file: Zoop (USA, Europe) (Beta).zip
 
 game: Zuigao Jimi (Top Secret) (Taiwan) (Multicart Rip) (Unl)
 file: Zuigao Jimi (Top Secret) (Taiwan) (Multicart Rip) (Unl).zip

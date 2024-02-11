@@ -1,11 +1,11 @@
 game: 1552 Tenka Tairan (Japan)
 file: 1552 Tenka Tairan (Japan).chd
 
-game: 3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1)
-file: 3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1).chd
-
 game: 3x3 Eyes - Sanjiyan Henjou (Japan)
 file: 3x3 Eyes - Sanjiyan Henjou (Japan).chd
+
+game: 3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1)
+file: 3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1).chd
 
 game: A.III. - A Ressha de Ikou III (Japan)
 file: A.III. - A Ressha de Ikou III (Japan).chd
@@ -49,14 +49,14 @@ file: Atlas, The - Renaissance Voyager (Japan).chd
 game: Aurora Quest - Otaku no Seiza in Another World (Japan)
 file: Aurora Quest - Otaku no Seiza in Another World (Japan).chd
 
+game: AV Tanjou (Japan) (Unl)
+file: AV Tanjou (Japan) (Unl).chd
+
 game: AV Tanjou (Japan) (Unl) (Alt 1)
 file: AV Tanjou (Japan) (Unl) (Alt 1).chd
 
 game: AV Tanjou (Japan) (Unl) (Alt 2)
 file: AV Tanjou (Japan) (Unl) (Alt 2).chd
-
-game: AV Tanjou (Japan) (Unl)
-file: AV Tanjou (Japan) (Unl).chd
 
 game: Avenger (Japan)
 file: Avenger (Japan).chd
@@ -97,11 +97,11 @@ file: Bishoujo Janshi Idol Pai (Japan) (Unl).chd
 game: Bishoujo Senshi Sailor Moon (Japan)
 file: Bishoujo Senshi Sailor Moon (Japan).chd
 
-game: Bishoujo Senshi Sailor Moon Collection (Japan) (Demo)
-file: Bishoujo Senshi Sailor Moon Collection (Japan) (Demo).chd
-
 game: Bishoujo Senshi Sailor Moon Collection (Japan)
 file: Bishoujo Senshi Sailor Moon Collection (Japan).chd
+
+game: Bishoujo Senshi Sailor Moon Collection (Japan) (Demo)
+file: Bishoujo Senshi Sailor Moon Collection (Japan) (Demo).chd
 
 game: Black Hole Assault (Japan)
 file: Black Hole Assault (Japan).chd
@@ -136,20 +136,20 @@ file: BuilderLand - The Story of Melba (Japan).chd
 game: Burai - Yatsudama no Yuushi Densetsu (Japan)
 file: Burai - Yatsudama no Yuushi Densetsu (Japan).chd
 
-game: Burai II - Yami Koutei no Gyakushuu (Japan) (Demo)
-file: Burai II - Yami Koutei no Gyakushuu (Japan) (Demo).chd
-
 game: Burai II - Yami Koutei no Gyakushuu (Japan)
 file: Burai II - Yami Koutei no Gyakushuu (Japan).chd
+
+game: Burai II - Yami Koutei no Gyakushuu (Japan) (Demo)
+file: Burai II - Yami Koutei no Gyakushuu (Japan) (Demo).chd
 
 game: Buster Bros. (USA)
 file: Buster Bros. (USA).chd
 
-game: CAL II (Japan) (Alt)
-file: CAL II (Japan) (Alt).chd
-
 game: CAL II (Japan)
 file: CAL II (Japan).chd
+
+game: CAL II (Japan) (Alt)
+file: CAL II (Japan) (Alt).chd
 
 game: CAL III - Kanketsu-hen (Japan)
 file: CAL III - Kanketsu-hen (Japan).chd
@@ -196,14 +196,14 @@ file: Chou Jikuu Yousai Macross 2036 (Japan).chd
 game: Color Wars (Japan)
 file: Color Wars (Japan).chd
 
+game: Cosmic Fantasy - Bouken Shounen Yuu (Japan)
+file: Cosmic Fantasy - Bouken Shounen Yuu (Japan).chd
+
 game: Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1)
 file: Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1).chd
 
 game: Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2)
 file: Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2).chd
-
-game: Cosmic Fantasy - Bouken Shounen Yuu (Japan)
-file: Cosmic Fantasy - Bouken Shounen Yuu (Japan).chd
 
 game: Cosmic Fantasy 2 - Bouken Shounen Ban (Japan)
 file: Cosmic Fantasy 2 - Bouken Shounen Ban (Japan).chd
@@ -259,14 +259,14 @@ file: Doraemon - Nobita no Dorabian Night (Japan).chd
 game: Double Dragon II - The Revenge (Japan)
 file: Double Dragon II - The Revenge (Japan).chd
 
+game: Doukyuusei (Japan) (Rev 3)
+file: Doukyuusei (Japan) (Rev 3).chd
+
 game: Doukyuusei (Japan) (Rev 3) (Alt 1)
 file: Doukyuusei (Japan) (Rev 3) (Alt 1).chd
 
 game: Doukyuusei (Japan) (Rev 3) (Alt 2)
 file: Doukyuusei (Japan) (Rev 3) (Alt 2).chd
-
-game: Doukyuusei (Japan) (Rev 3)
-file: Doukyuusei (Japan) (Rev 3).chd
 
 game: Doukyuusei (Japan) (Rev 4)
 file: Doukyuusei (Japan) (Rev 4).chd
@@ -331,14 +331,14 @@ file: Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan).chd
 game: Eiyuu Sangokushi (Japan)
 file: Eiyuu Sangokushi (Japan).chd
 
+game: Emerald Dragon (Japan)
+file: Emerald Dragon (Japan).chd
+
 game: Emerald Dragon (Japan) (Demo)
 file: Emerald Dragon (Japan) (Demo).chd
 
 game: Emerald Dragon (Japan) (Rev 1)
 file: Emerald Dragon (Japan) (Rev 1).chd
-
-game: Emerald Dragon (Japan)
-file: Emerald Dragon (Japan).chd
 
 game: Exile - Toki no Hasama e (Japan)
 file: Exile - Toki no Hasama e (Japan).chd
@@ -361,11 +361,11 @@ file: F1 Circus Special - Pole to Win (Japan) (FABT).chd
 game: F1 Team Simulation - Project F (Japan)
 file: F1 Team Simulation - Project F (Japan).chd
 
-game: Faceball (Japan) (Demo)
-file: Faceball (Japan) (Demo).chd
-
 game: Faceball (Japan)
 file: Faceball (Japan).chd
+
+game: Faceball (Japan) (Demo)
+file: Faceball (Japan) (Demo).chd
 
 game: Faerie Dust Story - Meikyuu no Elfeene (Japan)
 file: Faerie Dust Story - Meikyuu no Elfeene (Japan).chd
@@ -376,11 +376,11 @@ file: Fantastic Night Dreams - Cotton (Japan) (En,Ja).chd
 game: Fantastic Night Dreams - Cotton (USA)
 file: Fantastic Night Dreams - Cotton (USA).chd
 
-game: Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Demo)
-file: Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Demo).chd
-
 game: Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan)
 file: Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan).chd
+
+game: Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Demo)
+file: Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Demo).chd
 
 game: Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin)
 file: Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin).chd
@@ -394,11 +394,11 @@ file: Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 7).chd
 game: Far East of Eden - Tengai Makyou II - Manji Maru (Japan)
 file: Far East of Eden - Tengai Makyou II - Manji Maru (Japan).chd
 
-game: Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)
-file: Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).chd
-
 game: Farjius no Jakoutei - Neo Metal Fantasy (Japan)
 file: Farjius no Jakoutei - Neo Metal Fantasy (Japan).chd
+
+game: Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)
+file: Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).chd
 
 game: Faussete Amour (Japan)
 file: Faussete Amour (Japan).chd
@@ -469,11 +469,11 @@ file: Genocide (Japan).chd
 game: Gensou Tairiku Auleria (Japan)
 file: Gensou Tairiku Auleria (Japan).chd
 
-game: Ginga Fukei Densetsu Sapphire (Japan) (Reprint)
-file: Ginga Fukei Densetsu Sapphire (Japan) (Reprint).chd
-
 game: Ginga Fukei Densetsu Sapphire (Japan)
 file: Ginga Fukei Densetsu Sapphire (Japan).chd
+
+game: Ginga Fukei Densetsu Sapphire (Japan) (Reprint)
+file: Ginga Fukei Densetsu Sapphire (Japan) (Reprint).chd
 
 game: Ginga Ojousama Densetsu Yuna (Japan) (Demo)
 file: Ginga Ojousama Densetsu Yuna (Japan) (Demo).chd
@@ -508,11 +508,11 @@ file: Godzilla Bakutou Retsuden (Japan).chd
 game: Goetzendiener (Japan)
 file: Goetzendiener (Japan).chd
 
-game: Golden Axe (Japan) (Alt)
-file: Golden Axe (Japan) (Alt).chd
-
 game: Golden Axe (Japan)
 file: Golden Axe (Japan).chd
+
+game: Golden Axe (Japan) (Alt)
+file: Golden Axe (Japan) (Alt).chd
 
 game: Gradius II - Gofer no Yabou (Japan)
 file: Gradius II - Gofer no Yabou (Japan).chd
@@ -523,11 +523,11 @@ file: GS (Ghost Sweeper) Mikami (Japan).chd
 game: Gulclight TDF 2 (Japan)
 file: Gulclight TDF 2 (Japan).chd
 
-game: Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)
-file: Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).chd
-
 game: Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)
 file: Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan).chd
+
+game: Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)
+file: Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).chd
 
 game: Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan)
 file: Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan).chd
@@ -577,11 +577,11 @@ file: Human Sports Festival (Japan).chd
 game: Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan)
 file: Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan).chd
 
-game: Hyper Dyne - SideArms Special (Japan) (Alt)
-file: Hyper Dyne - SideArms Special (Japan) (Alt).chd
-
 game: Hyper Dyne - SideArms Special (Japan)
 file: Hyper Dyne - SideArms Special (Japan).chd
+
+game: Hyper Dyne - SideArms Special (Japan) (Alt)
+file: Hyper Dyne - SideArms Special (Japan) (Alt).chd
 
 game: Hyper Wars (Japan) (SAAS)
 file: Hyper Wars (Japan) (SAAS).chd
@@ -715,11 +715,11 @@ file: Lady Phantom (Japan) (FABT).chd
 game: Langrisser - Hikari no Matsuei (Japan)
 file: Langrisser - Hikari no Matsuei (Japan).chd
 
-game: Laplace no Ma (Japan) (Demo)
-file: Laplace no Ma (Japan) (Demo).chd
-
 game: Laplace no Ma (Japan)
 file: Laplace no Ma (Japan).chd
+
+game: Laplace no Ma (Japan) (Demo)
+file: Laplace no Ma (Japan) (Demo).chd
 
 game: Laser Soft Visual Collection Vol. 1 - Cosmic Fantasy Visual-shuu (Japan)
 file: Laser Soft Visual Collection Vol. 1 - Cosmic Fantasy Visual-shuu (Japan).chd
@@ -742,11 +742,11 @@ file: Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).chd
 game: Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)
 file: Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).chd
 
-game: Legion (Japan) (Rev 4)
-file: Legion (Japan) (Rev 4).chd
-
 game: Legion (Japan)
 file: Legion (Japan).chd
+
+game: Legion (Japan) (Rev 4)
+file: Legion (Japan) (Rev 4).chd
 
 game: Lemmings (Japan)
 file: Lemmings (Japan).chd
@@ -775,11 +775,11 @@ file: Lords of the Rising Sun (USA).chd
 game: Lords of Thunder (USA)
 file: Lords of Thunder (USA).chd
 
-game: Mad Stalker - Full Metal Force (Japan) (Demo)
-file: Mad Stalker - Full Metal Force (Japan) (Demo).chd
-
 game: Mad Stalker - Full Metal Force (Japan)
 file: Mad Stalker - Full Metal Force (Japan).chd
+
+game: Mad Stalker - Full Metal Force (Japan) (Demo)
+file: Mad Stalker - Full Metal Force (Japan) (Demo).chd
 
 game: Madou Monogatari I - Honoo no Sotsuenji (Japan)
 file: Madou Monogatari I - Honoo no Sotsuenji (Japan).chd
@@ -805,11 +805,11 @@ file: Mahjong on the Beach (Japan).chd
 game: Mahjong Sword - Princess Quest Gaiden (Japan)
 file: Mahjong Sword - Princess Quest Gaiden (Japan).chd
 
-game: Mahjong Vanilla Syndrome (Japan) (Alt)
-file: Mahjong Vanilla Syndrome (Japan) (Alt).chd
-
 game: Mahjong Vanilla Syndrome (Japan)
 file: Mahjong Vanilla Syndrome (Japan).chd
+
+game: Mahjong Vanilla Syndrome (Japan) (Alt)
+file: Mahjong Vanilla Syndrome (Japan) (Alt).chd
 
 game: Makai Eiyuuden - Shape Shifter (Japan)
 file: Makai Eiyuuden - Shape Shifter (Japan).chd
@@ -847,11 +847,11 @@ file: Metal Angel 2 (Japan).chd
 game: Metamor Jupiter (Japan)
 file: Metamor Jupiter (Japan).chd
 
-game: Meteor Blaster DX (USA) (Unl) (Rerelease)
-file: Meteor Blaster DX (USA) (Unl) (Rerelease).chd
-
 game: Meteor Blaster DX (USA) (Unl)
 file: Meteor Blaster DX (USA) (Unl).chd
+
+game: Meteor Blaster DX (USA) (Unl) (Rerelease)
+file: Meteor Blaster DX (USA) (Unl) (Rerelease).chd
 
 game: Might and Magic (Japan)
 file: Might and Magic (Japan).chd
@@ -874,11 +874,11 @@ file: Mitsubachi Gakuen (Japan).chd
 game: Monster Lair (USA)
 file: Monster Lair (USA).chd
 
-game: Monster Maker - Yami no Ryuukishi (Japan) (Alt)
-file: Monster Maker - Yami no Ryuukishi (Japan) (Alt).chd
-
 game: Monster Maker - Yami no Ryuukishi (Japan)
 file: Monster Maker - Yami no Ryuukishi (Japan).chd
+
+game: Monster Maker - Yami no Ryuukishi (Japan) (Alt)
+file: Monster Maker - Yami no Ryuukishi (Japan) (Alt).chd
 
 game: Moonlight Lady (Japan)
 file: Moonlight Lady (Japan).chd
@@ -892,11 +892,11 @@ file: Motteke Tamago (Japan).chd
 game: Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)
 file: Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).chd
 
-game: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)
-file: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease).chd
-
 game: Mysterious Song (USA) (En,Fr,Es) (Unl)
 file: Mysterious Song (USA) (En,Fr,Es) (Unl).chd
+
+game: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)
+file: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease).chd
 
 game: Mystic Formula (Japan)
 file: Mystic Formula (Japan).chd
@@ -991,11 +991,11 @@ file: Pomping World (Japan).chd
 game: Pop'n Magic (Japan)
 file: Pop'n Magic (Japan).chd
 
-game: PopfulMail (Japan) (Demo)
-file: PopfulMail (Japan) (Demo).chd
-
 game: PopfulMail (Japan)
 file: PopfulMail (Japan).chd
+
+game: PopfulMail (Japan) (Demo)
+file: PopfulMail (Japan) (Demo).chd
 
 game: Populous - The Promised Lands (Japan)
 file: Populous - The Promised Lands (Japan).chd
@@ -1027,11 +1027,11 @@ file: Pro Yakyuu Super, The (Japan) (FABT).chd
 game: Pro Yakyuu, The (Japan)
 file: Pro Yakyuu, The (Japan).chd
 
-game: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)
-file: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd
-
 game: Psychic Detective Series Vol. 3 - Aya (Japan)
 file: Psychic Detective Series Vol. 3 - Aya (Japan).chd
+
+game: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)
+file: Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd
 
 game: Psychic Detective Series Vol. 4 - Orgel (Japan)
 file: Psychic Detective Series Vol. 4 - Orgel (Japan).chd
@@ -1108,11 +1108,11 @@ file: Rayxanber III (Japan).chd
 game: Record of Lodoss War (Japan)
 file: Record of Lodoss War (Japan).chd
 
-game: Record of Lodoss War II (Japan) (Demo)
-file: Record of Lodoss War II (Japan) (Demo).chd
-
 game: Record of Lodoss War II (Japan)
 file: Record of Lodoss War II (Japan).chd
+
+game: Record of Lodoss War II (Japan) (Demo)
+file: Record of Lodoss War II (Japan) (Demo).chd
 
 game: Red Alert (Japan)
 file: Red Alert (Japan).chd
@@ -1150,11 +1150,11 @@ file: ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan).chd
 game: ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan)
 file: ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan).chd
 
-game: ROM^2 Karaoke Volume 1 (Japan) (Alt)
-file: ROM^2 Karaoke Volume 1 (Japan) (Alt).chd
-
 game: ROM^2 Karaoke Volume 1 (Japan)
 file: ROM^2 Karaoke Volume 1 (Japan).chd
+
+game: ROM^2 Karaoke Volume 1 (Japan) (Alt)
+file: ROM^2 Karaoke Volume 1 (Japan) (Alt).chd
 
 game: ROM^2 Karaoke Volume 2 (Japan)
 file: ROM^2 Karaoke Volume 2 (Japan).chd
@@ -1201,11 +1201,11 @@ file: Seiryuu Densetsu - Monbit (Japan) (Rev 4).chd
 game: Seisenshi Denshou - Jantaku no Kishi (Japan)
 file: Seisenshi Denshou - Jantaku no Kishi (Japan).chd
 
-game: Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo)
-file: Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo).chd
-
 game: Seiya Monogatari - Anearth Fantasy Stories (Japan)
 file: Seiya Monogatari - Anearth Fantasy Stories (Japan).chd
+
+game: Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo)
+file: Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo).chd
 
 game: Sengoku Kantou Sangokushi (Japan)
 file: Sengoku Kantou Sangokushi (Japan).chd
@@ -1297,11 +1297,11 @@ file: Solid Force (Japan).chd
 game: Sorcerian (Japan)
 file: Sorcerian (Japan).chd
 
-game: Sotsugyou - Graduation (Japan) (Rev 1)
-file: Sotsugyou - Graduation (Japan) (Rev 1).chd
-
 game: Sotsugyou - Graduation (Japan)
 file: Sotsugyou - Graduation (Japan).chd
+
+game: Sotsugyou - Graduation (Japan) (Rev 1)
+file: Sotsugyou - Graduation (Japan) (Rev 1).chd
 
 game: Sotsugyou II - Neo Generation (Japan)
 file: Sotsugyou II - Neo Generation (Japan).chd
@@ -1339,11 +1339,11 @@ file: Star Parodier (Japan).chd
 game: Startling Odyssey (Japan)
 file: Startling Odyssey (Japan).chd
 
-game: Startling Odyssey II - Maryuu Sensou (Japan) (Demo)
-file: Startling Odyssey II - Maryuu Sensou (Japan) (Demo).chd
-
 game: Startling Odyssey II - Maryuu Sensou (Japan)
 file: Startling Odyssey II - Maryuu Sensou (Japan).chd
+
+game: Startling Odyssey II - Maryuu Sensou (Japan) (Demo)
+file: Startling Odyssey II - Maryuu Sensou (Japan) (Demo).chd
 
 game: Steam-Heart's (Japan)
 file: Steam-Heart's (Japan).chd
@@ -1372,11 +1372,11 @@ file: Super CD-ROM^2 Taiken Soft Shuu (Japan).chd
 game: Super Daisenryaku (Japan)
 file: Super Daisenryaku (Japan).chd
 
-game: Super Darius (Japan) (Alt)
-file: Super Darius (Japan) (Alt).chd
-
 game: Super Darius (Japan)
 file: Super Darius (Japan).chd
+
+game: Super Darius (Japan) (Alt)
+file: Super Darius (Japan) (Alt).chd
 
 game: Super Darius II (Japan)
 file: Super Darius II (Japan).chd
@@ -1450,6 +1450,9 @@ file: TerraForming (Japan).chd
 game: Todd's Adventures in Slime World (Japan)
 file: Todd's Adventures in Slime World (Japan).chd
 
+game: Tokimeki Memorial (Japan)
+file: Tokimeki Memorial (Japan).chd
+
 game: Tokimeki Memorial (Japan) (Rev 1)
 file: Tokimeki Memorial (Japan) (Rev 1).chd
 
@@ -1458,9 +1461,6 @@ file: Tokimeki Memorial (Japan) (Rev 2) (FABT).chd
 
 game: Tokimeki Memorial (Japan) (Rev 3)
 file: Tokimeki Memorial (Japan) (Rev 3).chd
-
-game: Tokimeki Memorial (Japan)
-file: Tokimeki Memorial (Japan).chd
 
 game: Top o Nerae! GunBuster Vol. 1 (Japan)
 file: Top o Nerae! GunBuster Vol. 1 (Japan).chd
@@ -1501,23 +1501,23 @@ file: Ultra Box Soukan-gou (Japan).chd
 game: Urusei Yatsura - Stay with You (Japan)
 file: Urusei Yatsura - Stay with You (Japan).chd
 
+game: Valis II (Japan)
+file: Valis II (Japan).chd
+
 game: Valis II (Japan) (Alt 1)
 file: Valis II (Japan) (Alt 1).chd
 
 game: Valis II (Japan) (Alt 2)
 file: Valis II (Japan) (Alt 2).chd
 
-game: Valis II (Japan)
-file: Valis II (Japan).chd
-
 game: Valis II (USA)
 file: Valis II (USA).chd
 
-game: Valis III (Japan) (Alt)
-file: Valis III (Japan) (Alt).chd
-
 game: Valis III (Japan)
 file: Valis III (Japan).chd
+
+game: Valis III (Japan) (Alt)
+file: Valis III (Japan) (Alt).chd
 
 game: Valis III (USA)
 file: Valis III (USA).chd
@@ -1558,11 +1558,11 @@ file: Wonder Boy III - Monster Lair (Japan) (Rev 3).chd
 game: Wonder Boy III - Monster Lair (Japan) (Rev 4)
 file: Wonder Boy III - Monster Lair (Japan) (Rev 4).chd
 
-game: World Heroes 2 (Japan) (Demo) (SACS)
-file: World Heroes 2 (Japan) (Demo) (SACS).chd
-
 game: World Heroes 2 (Japan)
 file: World Heroes 2 (Japan).chd
+
+game: World Heroes 2 (Japan) (Demo) (SACS)
+file: World Heroes 2 (Japan) (Demo) (SACS).chd
 
 game: Wrestle Angels - Double Impact (Japan)
 file: Wrestle Angels - Double Impact (Japan).chd
@@ -1591,17 +1591,17 @@ file: YaWaRa! A Fashionable Judo Girl! (Japan).chd
 game: Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan)
 file: Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan).chd
 
-game: Ys Book I & II (USA) (Alt)
-file: Ys Book I & II (USA) (Alt).chd
-
 game: Ys Book I & II (USA)
 file: Ys Book I & II (USA).chd
 
-game: Ys I & II (Japan) (Alt)
-file: Ys I & II (Japan) (Alt).chd
+game: Ys Book I & II (USA) (Alt)
+file: Ys Book I & II (USA) (Alt).chd
 
 game: Ys I & II (Japan)
 file: Ys I & II (Japan).chd
+
+game: Ys I & II (Japan) (Alt)
+file: Ys I & II (Japan) (Alt).chd
 
 game: Ys III - Wanderers from Ys (USA)
 file: Ys III - Wanderers from Ys (USA).chd

@@ -10,6 +10,9 @@ file: Aa Harimanada (Japan).zip
 game: Addams Family, The (World)
 file: Addams Family, The (World).zip
 
+game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En)
+file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En).zip
+
 game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-04-27)
 file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-04-27).zip
 
@@ -25,26 +28,26 @@ file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-
 game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-04)
 file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-04).zip
 
-game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06) (Alt)
-file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06) (Alt).zip
-
 game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06)
 file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06).zip
+
+game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06) (Alt)
+file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06) (Alt).zip
 
 game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-07)
 file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-07).zip
 
-game: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En)
-file: Adventures of Batman & Robin, The (USA, Europe, Brazil) (En).zip
+game: Aerial Assault (World)
+file: Aerial Assault (World).zip
 
 game: Aerial Assault (World) (Rev 1)
 file: Aerial Assault (World) (Rev 1).zip
 
-game: Aerial Assault (World)
-file: Aerial Assault (World).zip
-
 game: Aladdin (Japan)
 file: Aladdin (Japan).zip
+
+game: Aladdin (USA, Europe, Brazil) (En)
+file: Aladdin (USA, Europe, Brazil) (En).zip
 
 game: Aladdin (USA, Europe, Brazil) (En) (Beta) (1993-12-28)
 file: Aladdin (USA, Europe, Brazil) (En) (Beta) (1993-12-28).zip
@@ -54,9 +57,6 @@ file: Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-11).zip
 
 game: Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-13)
 file: Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-13).zip
-
-game: Aladdin (USA, Europe, Brazil) (En)
-file: Aladdin (USA, Europe, Brazil) (En).zip
 
 game: Alien 3 (Japan)
 file: Alien 3 (Japan).zip
@@ -70,11 +70,11 @@ file: Alien Syndrome (Europe).zip
 game: Alien Syndrome (Japan)
 file: Alien Syndrome (Japan).zip
 
-game: Andre Agassi Tennis (USA) (Beta)
-file: Andre Agassi Tennis (USA) (Beta).zip
-
 game: Andre Agassi Tennis (USA)
 file: Andre Agassi Tennis (USA).zip
+
+game: Andre Agassi Tennis (USA) (Beta)
+file: Andre Agassi Tennis (USA) (Beta).zip
 
 game: Arcade Classics (USA)
 file: Arcade Classics (USA).zip
@@ -118,11 +118,11 @@ file: Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16).zi
 game: Asterix and the Secret Mission (Europe) (En,Fr,De)
 file: Asterix and the Secret Mission (Europe) (En,Fr,De).zip
 
-game: Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta) (1991-08-10)
-file: Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta) (1991-08-10).zip
-
 game: Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En)
 file: Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En).zip
+
+game: Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta) (1991-08-10)
+file: Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta) (1991-08-10).zip
 
 game: Ax Battler - Golden Axe Densetsu (Japan)
 file: Ax Battler - Golden Axe Densetsu (Japan).zip
@@ -130,11 +130,11 @@ file: Ax Battler - Golden Axe Densetsu (Japan).zip
 game: Ayrton Senna's Super Monaco GP II (Japan)
 file: Ayrton Senna's Super Monaco GP II (Japan).zip
 
-game: Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta)
-file: Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta).zip
-
 game: Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En)
 file: Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En).zip
+
+game: Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta)
+file: Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta).zip
 
 game: Baku Baku (Europe)
 file: Baku Baku (Europe).zip
@@ -166,11 +166,14 @@ file: Battletoads (Japan, Europe) (En).zip
 game: Battletoads (USA)
 file: Battletoads (USA).zip
 
+game: Beavis and Butt-Head (USA, Europe)
+file: Beavis and Butt-Head (USA, Europe).zip
+
 game: Beavis and Butt-Head (USA, Europe) (Beta)
 file: Beavis and Butt-Head (USA, Europe) (Beta).zip
 
-game: Beavis and Butt-Head (USA, Europe)
-file: Beavis and Butt-Head (USA, Europe).zip
+game: Berenstain Bears' Camping Adventure, The (USA)
+file: Berenstain Bears' Camping Adventure, The (USA).zip
 
 game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)
 file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28).zip
@@ -190,11 +193,11 @@ file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27).zip
 game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)
 file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01).zip
 
-game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt)
-file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt).zip
-
 game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)
 file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11).zip
+
+game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt)
+file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt).zip
 
 game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)
 file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12).zip
@@ -217,20 +220,20 @@ file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24).zip
 game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)
 file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25).zip
 
-game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt)
-file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt).zip
-
 game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)
 file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26).zip
 
-game: Berenstain Bears' Camping Adventure, The (USA)
-file: Berenstain Bears' Camping Adventure, The (USA).zip
+game: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt)
+file: Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt).zip
 
 game: Berlin no Kabe (Japan)
 file: Berlin no Kabe (Japan).zip
 
 game: Bishoujo Senshi Sailor Moon S (Japan)
 file: Bishoujo Senshi Sailor Moon S (Japan).zip
+
+game: Bonkers Wax Up! (USA, Europe)
+file: Bonkers Wax Up! (USA, Europe).zip
 
 game: Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)
 file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31).zip
@@ -259,20 +262,17 @@ file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05).zip
 game: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07)
 file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07).zip
 
-game: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt)
-file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt).zip
-
 game: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08)
 file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08).zip
+
+game: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt)
+file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt).zip
 
 game: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11)
 file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11).zip
 
 game: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12)
 file: Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12).zip
-
-game: Bonkers Wax Up! (USA, Europe)
-file: Bonkers Wax Up! (USA, Europe).zip
 
 game: Bram Stoker's Dracula (Europe)
 file: Bram Stoker's Dracula (Europe).zip
@@ -283,11 +283,11 @@ file: Bram Stoker's Dracula (USA).zip
 game: BreakThru! (USA) (Proto)
 file: BreakThru! (USA) (Proto).zip
 
-game: Bubble Bobble (USA) (Beta)
-file: Bubble Bobble (USA) (Beta).zip
-
 game: Bubble Bobble (USA)
 file: Bubble Bobble (USA).zip
+
+game: Bubble Bobble (USA) (Beta)
+file: Bubble Bobble (USA) (Beta).zip
 
 game: Bugs Bunny in Double Trouble (USA, Europe)
 file: Bugs Bunny in Double Trouble (USA, Europe).zip
@@ -334,6 +334,9 @@ file: Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe, Brazil) (En,Fr,
 game: Chessmaster, The (USA, Europe, Brazil) (En)
 file: Chessmaster, The (USA, Europe, Brazil) (En).zip
 
+game: Chicago Syndicate (USA, Brazil) (En)
+file: Chicago Syndicate (USA, Brazil) (En).zip
+
 game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-05-05)
 file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-05-05).zip
 
@@ -370,11 +373,11 @@ file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-26).zip
 game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-28)
 file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-28).zip
 
-game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29) (Alt)
-file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29) (Alt).zip
-
 game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29)
 file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29).zip
+
+game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29) (Alt)
+file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29) (Alt).zip
 
 game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-30)
 file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-30).zip
@@ -400,23 +403,20 @@ file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-19).zip
 game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-20)
 file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-20).zip
 
-game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21) (Alt)
-file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21) (Alt).zip
-
 game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21)
 file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21).zip
 
-game: Chicago Syndicate (USA, Brazil) (En)
-file: Chicago Syndicate (USA, Brazil) (En).zip
+game: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21) (Alt)
+file: Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21) (Alt).zip
 
 game: Choplifter III (USA)
 file: Choplifter III (USA).zip
 
-game: Chuck Rock (World) (Beta)
-file: Chuck Rock (World) (Beta).zip
-
 game: Chuck Rock (World)
 file: Chuck Rock (World).zip
+
+game: Chuck Rock (World) (Beta)
+file: Chuck Rock (World) (Beta).zip
 
 game: Chuck Rock II - Son of Chuck (Europe, Brazil) (En)
 file: Chuck Rock II - Son of Chuck (Europe, Brazil) (En).zip
@@ -424,11 +424,11 @@ file: Chuck Rock II - Son of Chuck (Europe, Brazil) (En).zip
 game: Chuck Rock II - Son of Chuck (USA)
 file: Chuck Rock II - Son of Chuck (USA).zip
 
-game: CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22)
-file: CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22).zip
-
 game: CJ Elephant Fugitive (USA, Europe)
 file: CJ Elephant Fugitive (USA, Europe).zip
+
+game: CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22)
+file: CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22).zip
 
 game: Cliffhanger (USA)
 file: Cliffhanger (USA).zip
@@ -439,11 +439,11 @@ file: Clutch Hitter (USA).zip
 game: Coca-Cola Kid (Japan)
 file: Coca-Cola Kid (Japan).zip
 
-game: Columns (Japan) (En) (Rev 1)
-file: Columns (Japan) (En) (Rev 1).zip
-
 game: Columns (Japan) (En)
 file: Columns (Japan) (En).zip
+
+game: Columns (Japan) (En) (Rev 1)
+file: Columns (Japan) (En) (Rev 1).zip
 
 game: Columns (USA, Europe, Brazil) (En) (Rev 2)
 file: Columns (USA, Europe, Brazil) (En) (Rev 2).zip
@@ -466,11 +466,11 @@ file: Crazy Faces (Europe) (Proto).zip
 game: Crystal Warriors (USA, Europe)
 file: Crystal Warriors (USA, Europe).zip
 
-game: CutThroat Island (USA) (Beta)
-file: CutThroat Island (USA) (Beta).zip
-
 game: CutThroat Island (USA)
 file: CutThroat Island (USA).zip
+
+game: CutThroat Island (USA) (Beta)
+file: CutThroat Island (USA) (Beta).zip
 
 game: Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)
 file: Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).zip
@@ -481,14 +481,14 @@ file: David Robinson's Supreme Court (USA) (Auto Demo).zip
 game: Deep Duck Trouble Starring Donald Duck (USA, Europe)
 file: Deep Duck Trouble Starring Donald Duck (USA, Europe).zip
 
+game: Defenders of Oasis (USA, Europe)
+file: Defenders of Oasis (USA, Europe).zip
+
 game: Defenders of Oasis (USA, Europe) (Beta)
 file: Defenders of Oasis (USA, Europe) (Beta).zip
 
 game: Defenders of Oasis (USA, Europe) (Virtual Console)
 file: Defenders of Oasis (USA, Europe) (Virtual Console).zip
-
-game: Defenders of Oasis (USA, Europe)
-file: Defenders of Oasis (USA, Europe).zip
 
 game: Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)
 file: Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).zip
@@ -529,11 +529,11 @@ file: Doraemon - Noranosuke no Yabou (Japan).zip
 game: Doraemon - Waku Waku Pocket Paradise (Japan)
 file: Doraemon - Waku Waku Pocket Paradise (Japan).zip
 
-game: Double Dragon (USA, Europe) (Beta)
-file: Double Dragon (USA, Europe) (Beta).zip
-
 game: Double Dragon (USA, Europe)
 file: Double Dragon (USA, Europe).zip
+
+game: Double Dragon (USA, Europe) (Beta)
+file: Double Dragon (USA, Europe) (Beta).zip
 
 game: Dr. Franken (Europe) (Demo)
 file: Dr. Franken (Europe) (Demo).zip
@@ -541,35 +541,38 @@ file: Dr. Franken (Europe) (Demo).zip
 game: Dr. Robotnik's Mean Bean Machine (USA, Europe)
 file: Dr. Robotnik's Mean Bean Machine (USA, Europe).zip
 
-game: Dragon - The Bruce Lee Story (Europe) (Beta)
-file: Dragon - The Bruce Lee Story (Europe) (Beta).zip
-
 game: Dragon - The Bruce Lee Story (Europe)
 file: Dragon - The Bruce Lee Story (Europe).zip
+
+game: Dragon - The Bruce Lee Story (Europe) (Beta)
+file: Dragon - The Bruce Lee Story (Europe) (Beta).zip
 
 game: Dragon - The Bruce Lee Story (USA)
 file: Dragon - The Bruce Lee Story (USA).zip
 
-game: Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console)
-file: Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console).zip
-
 game: Dragon Crystal - Tsurani no Meikyuu (Japan)
 file: Dragon Crystal - Tsurani no Meikyuu (Japan).zip
 
-game: Dragon Crystal (USA, Europe) (Virtual Console)
-file: Dragon Crystal (USA, Europe) (Virtual Console).zip
+game: Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console)
+file: Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console).zip
 
 game: Dragon Crystal (USA, Europe)
 file: Dragon Crystal (USA, Europe).zip
 
+game: Dragon Crystal (USA, Europe) (Virtual Console)
+file: Dragon Crystal (USA, Europe) (Virtual Console).zip
+
 game: Dunk Kids (Japan)
 file: Dunk Kids (Japan).zip
+
+game: Dynamite Headdy (Japan)
+file: Dynamite Headdy (Japan).zip
 
 game: Dynamite Headdy (Japan) (Beta)
 file: Dynamite Headdy (Japan) (Beta).zip
 
-game: Dynamite Headdy (Japan)
-file: Dynamite Headdy (Japan).zip
+game: Dynamite Headdy (USA, Europe)
+file: Dynamite Headdy (USA, Europe).zip
 
 game: Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)
 file: Dynamite Headdy (USA, Europe) (Beta) (1994-06-15).zip
@@ -579,9 +582,6 @@ file: Dynamite Headdy (USA, Europe) (Beta) (1994-07-01).zip
 
 game: Dynamite Headdy (USA, Europe) (Beta) (1994-07-05)
 file: Dynamite Headdy (USA, Europe) (Beta) (1994-07-05).zip
-
-game: Dynamite Headdy (USA, Europe)
-file: Dynamite Headdy (USA, Europe).zip
 
 game: Earthworm Jim (Europe)
 file: Earthworm Jim (Europe).zip
@@ -595,14 +595,14 @@ file: Ecco - The Tides of Time (USA, Europe, Brazil) (En).zip
 game: Ecco The Dolphin (Japan)
 file: Ecco The Dolphin (Japan).zip
 
+game: Ecco The Dolphin (USA, Europe, Brazil) (En)
+file: Ecco The Dolphin (USA, Europe, Brazil) (En).zip
+
 game: Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 1) (1993-06-14)
 file: Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 1) (1993-06-14).zip
 
 game: Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 2) (July, 1993)
 file: Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 2) (July, 1993).zip
-
-game: Ecco The Dolphin (USA, Europe, Brazil) (En)
-file: Ecco The Dolphin (USA, Europe, Brazil) (En).zip
 
 game: Ecco The Dolphin II (Japan)
 file: Ecco The Dolphin II (Japan).zip
@@ -682,11 +682,11 @@ file: Frogger (USA) (Proto).zip
 game: From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan)
 file: From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan).zip
 
-game: G-LOC - Air Battle (Japan) (Rev 1)
-file: G-LOC - Air Battle (Japan) (Rev 1).zip
-
 game: G-LOC - Air Battle (Japan)
 file: G-LOC - Air Battle (Japan).zip
+
+game: G-LOC - Air Battle (Japan) (Rev 1)
+file: G-LOC - Air Battle (Japan) (Rev 1).zip
 
 game: G-LOC - Air Battle (USA, Europe, Brazil) (En)
 file: G-LOC - Air Battle (USA, Europe, Brazil) (En).zip
@@ -724,11 +724,11 @@ file: Gear Works (USA).zip
 game: George Foreman's KO Boxing (USA, Europe)
 file: George Foreman's KO Boxing (USA, Europe).zip
 
-game: GG Aleste (Japan) (En) (Aleste Collection)
-file: GG Aleste (Japan) (En) (Aleste Collection).zip
-
 game: GG Aleste (Japan) (En)
 file: GG Aleste (Japan) (En).zip
+
+game: GG Aleste (Japan) (En) (Aleste Collection)
+file: GG Aleste (Japan) (En) (Aleste Collection).zip
 
 game: GG Aleste 3 (Japan) (En) (Aleste Collection)
 file: GG Aleste 3 (Japan) (En) (Aleste Collection).zip
@@ -757,11 +757,11 @@ file: Gojira - Kaijuu Daishingeki (Japan).zip
 game: GP Rider (Japan)
 file: GP Rider (Japan).zip
 
-game: GP Rider (World) (Beta) (1994-01-04)
-file: GP Rider (World) (Beta) (1994-01-04).zip
-
 game: GP Rider (World)
 file: GP Rider (World).zip
+
+game: GP Rider (World) (Beta) (1994-01-04)
+file: GP Rider (World) (Beta) (1994-01-04).zip
 
 game: Greendog - The Beached Surfer Dude! (USA, Brazil) (En)
 file: Greendog - The Beached Surfer Dude! (USA, Brazil) (En).zip
@@ -805,11 +805,11 @@ file: Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan).zip
 game: Hyper Pro Yakyuu '92 (Japan)
 file: Hyper Pro Yakyuu '92 (Japan).zip
 
-game: In the Wake of Vampire (Japan) (En) (Virtual Console)
-file: In the Wake of Vampire (Japan) (En) (Virtual Console).zip
-
 game: In the Wake of Vampire (Japan) (En)
 file: In the Wake of Vampire (Japan) (En).zip
+
+game: In the Wake of Vampire (Japan) (En) (Virtual Console)
+file: In the Wake of Vampire (Japan) (En) (Virtual Console).zip
 
 game: Incredible Crash Dummies, The (World)
 file: Incredible Crash Dummies, The (World).zip
@@ -925,14 +925,17 @@ file: Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).zip
 game: Last Action Hero (USA)
 file: Last Action Hero (USA).zip
 
+game: Legend of Illusion Starring Mickey Mouse (USA, Europe)
+file: Legend of Illusion Starring Mickey Mouse (USA, Europe).zip
+
 game: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)
 file: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22).zip
 
-game: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt)
-file: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt).zip
-
 game: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)
 file: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30).zip
+
+game: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt)
+file: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt).zip
 
 game: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)
 file: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11).zip
@@ -943,14 +946,11 @@ file: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)
 game: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)
 file: Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17).zip
 
-game: Legend of Illusion Starring Mickey Mouse (USA, Europe)
-file: Legend of Illusion Starring Mickey Mouse (USA, Europe).zip
+game: Lemmings (World)
+file: Lemmings (World).zip
 
 game: Lemmings (World) (Beta)
 file: Lemmings (World) (Beta).zip
-
-game: Lemmings (World)
-file: Lemmings (World).zip
 
 game: Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)
 file: Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).zip
@@ -960,6 +960,9 @@ file: Lion King, The (Europe).zip
 
 game: Lion King, The (Japan)
 file: Lion King, The (Japan).zip
+
+game: Lion King, The (USA)
+file: Lion King, The (USA).zip
 
 game: Lion King, The (USA) (Beta) (1994-08-03)
 file: Lion King, The (USA) (Beta) (1994-08-03).zip
@@ -979,17 +982,14 @@ file: Lion King, The (USA) (Beta) (1994-08-14).zip
 game: Lion King, The (USA) (Beta) (1994-08-16)
 file: Lion King, The (USA) (Beta) (1994-08-16).zip
 
-game: Lion King, The (USA) (Beta) (1994-08-17) (Alt)
-file: Lion King, The (USA) (Beta) (1994-08-17) (Alt).zip
-
 game: Lion King, The (USA) (Beta) (1994-08-17)
 file: Lion King, The (USA) (Beta) (1994-08-17).zip
 
+game: Lion King, The (USA) (Beta) (1994-08-17) (Alt)
+file: Lion King, The (USA) (Beta) (1994-08-17) (Alt).zip
+
 game: Lion King, The (USA) (Beta) (1994-08-20)
 file: Lion King, The (USA) (Beta) (1994-08-20).zip
-
-game: Lion King, The (USA)
-file: Lion King, The (USA).zip
 
 game: Lost World, The - Jurassic Park (USA)
 file: Lost World, The - Jurassic Park (USA).zip
@@ -1015,11 +1015,11 @@ file: Madou Monogatari I - 3-Tsu no Madoukyuu (Japan).zip
 game: Madou Monogatari II - Arle 16-Sai (Japan)
 file: Madou Monogatari II - Arle 16-Sai (Japan).zip
 
-game: Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A)
-file: Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A).zip
-
 game: Madou Monogatari III - Kyuukyoku Joou-sama (Japan)
 file: Madou Monogatari III - Kyuukyoku Joou-sama (Japan).zip
+
+game: Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A)
+file: Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A).zip
 
 game: Magic Knight Rayearth (Japan)
 file: Magic Knight Rayearth (Japan).zip
@@ -1075,11 +1075,11 @@ file: Mickey Mouse no Mahou no Crystal (Japan).zip
 game: Mickey's Ultimate Challenge (USA)
 file: Mickey's Ultimate Challenge (USA).zip
 
-game: Micro Machines (USA, Europe) (Beta) (1993-10-22)
-file: Micro Machines (USA, Europe) (Beta) (1993-10-22).zip
-
 game: Micro Machines (USA, Europe)
 file: Micro Machines (USA, Europe).zip
+
+game: Micro Machines (USA, Europe) (Beta) (1993-10-22)
+file: Micro Machines (USA, Europe) (Beta) (1993-10-22).zip
 
 game: Micro Machines 2 - Turbo Tournament (Europe)
 file: Micro Machines 2 - Turbo Tournament (Europe).zip
@@ -1087,11 +1087,11 @@ file: Micro Machines 2 - Turbo Tournament (Europe).zip
 game: Mighty Morphin Power Rangers - The Movie (USA, Europe, Brazil) (En)
 file: Mighty Morphin Power Rangers - The Movie (USA, Europe, Brazil) (En).zip
 
-game: Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)
-file: Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16).zip
-
 game: Mighty Morphin Power Rangers (USA, Europe)
 file: Mighty Morphin Power Rangers (USA, Europe).zip
+
+game: Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)
+file: Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16).zip
 
 game: MLBPA Baseball (USA)
 file: MLBPA Baseball (USA).zip
@@ -1108,11 +1108,11 @@ file: Monster World II - Dragon no Wana (Japan).zip
 game: Mortal Kombat - Shinken Kourin Densetsu (Japan)
 file: Mortal Kombat - Shinken Kourin Densetsu (Japan).zip
 
-game: Mortal Kombat (USA, Europe) (Beta)
-file: Mortal Kombat (USA, Europe) (Beta).zip
-
 game: Mortal Kombat (USA, Europe)
 file: Mortal Kombat (USA, Europe).zip
+
+game: Mortal Kombat (USA, Europe) (Beta)
+file: Mortal Kombat (USA, Europe) (Beta).zip
 
 game: Mortal Kombat 3 (Europe)
 file: Mortal Kombat 3 (Europe).zip
@@ -1123,20 +1123,23 @@ file: Mortal Kombat II (World).zip
 game: Ms. Pac-Man (USA)
 file: Ms. Pac-Man (USA).zip
 
-game: Nazo Puyo - Arle no Roux (Japan) (Beta)
-file: Nazo Puyo - Arle no Roux (Japan) (Beta).zip
-
 game: Nazo Puyo - Arle no Roux (Japan)
 file: Nazo Puyo - Arle no Roux (Japan).zip
 
-game: Nazo Puyo (Japan) (Rev 1)
-file: Nazo Puyo (Japan) (Rev 1).zip
+game: Nazo Puyo - Arle no Roux (Japan) (Beta)
+file: Nazo Puyo - Arle no Roux (Japan) (Beta).zip
 
 game: Nazo Puyo (Japan)
 file: Nazo Puyo (Japan).zip
 
+game: Nazo Puyo (Japan) (Rev 1)
+file: Nazo Puyo (Japan) (Rev 1).zip
+
 game: Nazo Puyo 2 (Japan)
 file: Nazo Puyo 2 (Japan).zip
+
+game: NBA Action Starring David Robinson (USA, Brazil) (En)
+file: NBA Action Starring David Robinson (USA, Brazil) (En).zip
 
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-11-28)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-11-28).zip
@@ -1189,11 +1192,11 @@ file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-21).
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-24)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-24).zip
 
-game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25) (Alt)
-file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25) (Alt).zip
-
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25).zip
+
+game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25) (Alt)
+file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25) (Alt).zip
 
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-26)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-26).zip
@@ -1201,11 +1204,11 @@ file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-26).
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-27)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-27).zip
 
-game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28) (Alt)
-file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28) (Alt).zip
-
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28).zip
+
+game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28) (Alt)
+file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28) (Alt).zip
 
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-01)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-01).zip
@@ -1216,20 +1219,17 @@ file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-02).
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-03)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-03).zip
 
-game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04) (Alt)
-file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04) (Alt).zip
-
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04).zip
+
+game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04) (Alt)
+file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04) (Alt).zip
 
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-05)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-05).zip
 
 game: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-08)
 file: NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-08).zip
-
-game: NBA Action Starring David Robinson (USA, Brazil) (En)
-file: NBA Action Starring David Robinson (USA, Brazil) (En).zip
 
 game: NBA Jam - Tournament Edition (World)
 file: NBA Jam - Tournament Edition (World).zip
@@ -1246,14 +1246,17 @@ file: NBA Jam (USA) (Rev 1).zip
 game: Neko Daisuki! (Japan)
 file: Neko Daisuki! (Japan).zip
 
+game: NFL '95 (USA)
+file: NFL '95 (USA).zip
+
 game: NFL '95 (USA) (Beta) (1994-08-08)
 file: NFL '95 (USA) (Beta) (1994-08-08).zip
 
-game: NFL '95 (USA) (Beta) (1994-08-25) (Alt)
-file: NFL '95 (USA) (Beta) (1994-08-25) (Alt).zip
-
 game: NFL '95 (USA) (Beta) (1994-08-25)
 file: NFL '95 (USA) (Beta) (1994-08-25).zip
+
+game: NFL '95 (USA) (Beta) (1994-08-25) (Alt)
+file: NFL '95 (USA) (Beta) (1994-08-25) (Alt).zip
 
 game: NFL '95 (USA) (Beta) (1994-08-26)
 file: NFL '95 (USA) (Beta) (1994-08-26).zip
@@ -1270,29 +1273,29 @@ file: NFL '95 (USA) (Beta) (1994-09-08).zip
 game: NFL '95 (USA) (Beta) (1994-09-10)
 file: NFL '95 (USA) (Beta) (1994-09-10).zip
 
-game: NFL '95 (USA) (Beta) (1994-09-11) (Alt)
-file: NFL '95 (USA) (Beta) (1994-09-11) (Alt).zip
-
 game: NFL '95 (USA) (Beta) (1994-09-11)
 file: NFL '95 (USA) (Beta) (1994-09-11).zip
+
+game: NFL '95 (USA) (Beta) (1994-09-11) (Alt)
+file: NFL '95 (USA) (Beta) (1994-09-11) (Alt).zip
 
 game: NFL '95 (USA) (Beta) (1994-09-12)
 file: NFL '95 (USA) (Beta) (1994-09-12).zip
 
-game: NFL '95 (USA) (Beta) (1994-09-14) (Alt)
-file: NFL '95 (USA) (Beta) (1994-09-14) (Alt).zip
-
 game: NFL '95 (USA) (Beta) (1994-09-14)
 file: NFL '95 (USA) (Beta) (1994-09-14).zip
 
-game: NFL '95 (USA)
-file: NFL '95 (USA).zip
+game: NFL '95 (USA) (Beta) (1994-09-14) (Alt)
+file: NFL '95 (USA) (Beta) (1994-09-14) (Alt).zip
 
 game: NFL Quarterback Club (World)
 file: NFL Quarterback Club (World).zip
 
 game: NFL Quarterback Club 96 (USA)
 file: NFL Quarterback Club 96 (USA).zip
+
+game: NHL All-Star Hockey (USA)
+file: NHL All-Star Hockey (USA).zip
 
 game: NHL All-Star Hockey (USA) (Beta) (1994-12-15)
 file: NHL All-Star Hockey (USA) (Beta) (1994-12-15).zip
@@ -1330,6 +1333,9 @@ file: NHL All-Star Hockey (USA) (Beta) (1995-01-20).zip
 game: NHL All-Star Hockey (USA) (Beta) (1995-01-21)
 file: NHL All-Star Hockey (USA) (Beta) (1995-01-21).zip
 
+game: NHL All-Star Hockey (USA) (Beta) (1995-01-24)
+file: NHL All-Star Hockey (USA) (Beta) (1995-01-24).zip
+
 game: NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)
 file: NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2).zip
 
@@ -1339,14 +1345,8 @@ file: NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3).zip
 game: NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt)
 file: NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt).zip
 
-game: NHL All-Star Hockey (USA) (Beta) (1995-01-24)
-file: NHL All-Star Hockey (USA) (Beta) (1995-01-24).zip
-
 game: NHL All-Star Hockey (USA) (Beta) (1995-01-25)
 file: NHL All-Star Hockey (USA) (Beta) (1995-01-25).zip
-
-game: NHL All-Star Hockey (USA)
-file: NHL All-Star Hockey (USA).zip
 
 game: NHL Hockey (USA, Europe)
 file: NHL Hockey (USA, Europe).zip
@@ -1414,11 +1414,11 @@ file: Panzer Dragoon Mini (Japan).zip
 game: Paperboy (USA, Europe)
 file: Paperboy (USA, Europe).zip
 
-game: Paperboy 2 (USA) (Beta)
-file: Paperboy 2 (USA) (Beta).zip
-
 game: Paperboy 2 (USA)
 file: Paperboy 2 (USA).zip
+
+game: Paperboy 2 (USA) (Beta)
+file: Paperboy 2 (USA) (Beta).zip
 
 game: Pengo (Europe)
 file: Pengo (Europe).zip
@@ -1462,11 +1462,11 @@ file: Pocket Jansou (Japan).zip
 game: Poker Face Paul's Blackjack (USA)
 file: Poker Face Paul's Blackjack (USA).zip
 
-game: Poker Face Paul's Cribbage (USA) (Proto) (Source Code)
-file: Poker Face Paul's Cribbage (USA) (Proto) (Source Code).zip
-
 game: Poker Face Paul's Cribbage (USA) (Proto)
 file: Poker Face Paul's Cribbage (USA) (Proto).zip
+
+game: Poker Face Paul's Cribbage (USA) (Proto) (Source Code)
+file: Poker Face Paul's Cribbage (USA) (Proto) (Source Code).zip
 
 game: Poker Face Paul's Gin (USA)
 file: Poker Face Paul's Gin (USA).zip
@@ -1495,11 +1495,11 @@ file: Predator 2 (USA, Europe).zip
 game: Primal Rage (USA, Europe)
 file: Primal Rage (USA, Europe).zip
 
-game: Prince of Persia (USA, Europe) (Beta)
-file: Prince of Persia (USA, Europe) (Beta).zip
-
 game: Prince of Persia (USA, Europe)
 file: Prince of Persia (USA, Europe).zip
+
+game: Prince of Persia (USA, Europe) (Beta)
+file: Prince of Persia (USA, Europe) (Beta).zip
 
 game: Pro Yakyuu '91, The (Japan)
 file: Pro Yakyuu '91, The (Japan).zip
@@ -1525,11 +1525,11 @@ file: Putt & Putter (USA, Europe, Brazil) (En).zip
 game: Puyo Puyo (Japan) (En,Ja)
 file: Puyo Puyo (Japan) (En,Ja).zip
 
-game: Puyo Puyo Tsuu (Japan) (Virtual Console)
-file: Puyo Puyo Tsuu (Japan) (Virtual Console).zip
-
 game: Puyo Puyo Tsuu (Japan)
 file: Puyo Puyo Tsuu (Japan).zip
+
+game: Puyo Puyo Tsuu (Japan) (Virtual Console)
+file: Puyo Puyo Tsuu (Japan) (Virtual Console).zip
 
 game: Puzzle & Action - Ichidanto-R (Japan)
 file: Puzzle & Action - Ichidanto-R (Japan).zip
@@ -1567,6 +1567,9 @@ file: Riddick Bowe Boxing (USA).zip
 game: Rise of the Robots (USA, Europe)
 file: Rise of the Robots (USA, Europe).zip
 
+game: Ristar (World)
+file: Ristar (World).zip
+
 game: Ristar (World) (Beta) (1994-09-09)
 file: Ristar (World) (Beta) (1994-09-09).zip
 
@@ -1581,9 +1584,6 @@ file: Ristar (World) (Beta) (1994-11-01).zip
 
 game: Ristar (World) (Beta) (1994-11-02)
 file: Ristar (World) (Beta) (1994-11-02).zip
-
-game: Ristar (World)
-file: Ristar (World).zip
 
 game: Road Rash (Europe)
 file: Road Rash (Europe).zip
@@ -1618,11 +1618,11 @@ file: Scratch Golf (USA).zip
 game: SD Gundam - Winner's History (Japan)
 file: SD Gundam - Winner's History (Japan).zip
 
-game: Sega Game Pack 4 in 1 (Europe) (Beta)
-file: Sega Game Pack 4 in 1 (Europe) (Beta).zip
-
 game: Sega Game Pack 4 in 1 (Europe)
 file: Sega Game Pack 4 in 1 (Europe).zip
+
+game: Sega Game Pack 4 in 1 (Europe) (Beta)
+file: Sega Game Pack 4 in 1 (Europe) (Beta).zip
 
 game: Sensible Soccer - European Champions (Europe)
 file: Sensible Soccer - European Champions (Europe).zip
@@ -1630,11 +1630,11 @@ file: Sensible Soccer - European Champions (Europe).zip
 game: Shadam Crusader - Harukanaru Oukoku (Japan)
 file: Shadam Crusader - Harukanaru Oukoku (Japan).zip
 
-game: Shanghai II (Japan) (Rev A)
-file: Shanghai II (Japan) (Rev A).zip
-
 game: Shanghai II (Japan)
 file: Shanghai II (Japan).zip
+
+game: Shanghai II (Japan) (Rev A)
+file: Shanghai II (Japan) (Rev A).zip
 
 game: Shaq Fu (USA)
 file: Shaq Fu (USA).zip
@@ -1644,6 +1644,9 @@ file: Shikinjou (Japan).zip
 
 game: Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console)
 file: Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console).zip
+
+game: Shining Force - The Sword of Hajya (USA)
+file: Shining Force - The Sword of Hajya (USA).zip
 
 game: Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)
 file: Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27).zip
@@ -1657,26 +1660,23 @@ file: Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27).zip
 game: Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)
 file: Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08).zip
 
-game: Shining Force - The Sword of Hajya (USA)
-file: Shining Force - The Sword of Hajya (USA).zip
-
 game: Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)
 file: Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan).zip
-
-game: Shining Force Gaiden - Final Conflict (Japan) (Virtual Console)
-file: Shining Force Gaiden - Final Conflict (Japan) (Virtual Console).zip
 
 game: Shining Force Gaiden - Final Conflict (Japan)
 file: Shining Force Gaiden - Final Conflict (Japan).zip
 
+game: Shining Force Gaiden - Final Conflict (Japan) (Virtual Console)
+file: Shining Force Gaiden - Final Conflict (Japan) (Virtual Console).zip
+
 game: Shining Force Gaiden II - Jashin no Kakusei (Japan)
 file: Shining Force Gaiden II - Jashin no Kakusei (Japan).zip
 
-game: Shinobi (World) (Rev A) (Virtual Console)
-file: Shinobi (World) (Rev A) (Virtual Console).zip
-
 game: Shinobi (World) (Rev A)
 file: Shinobi (World) (Rev A).zip
+
+game: Shinobi (World) (Rev A) (Virtual Console)
+file: Shinobi (World) (Rev A) (Virtual Console).zip
 
 game: Shinobi II - The Silent Fury (World)
 file: Shinobi II - The Silent Fury (World).zip
@@ -1711,14 +1711,17 @@ file: Solitaire FunPak (USA).zip
 game: Solitaire Poker (USA, Europe)
 file: Solitaire Poker (USA, Europe).zip
 
-game: Sonic & Tails (Japan) (En) (Sample)
-file: Sonic & Tails (Japan) (En) (Sample).zip
-
 game: Sonic & Tails (Japan) (En)
 file: Sonic & Tails (Japan) (En).zip
 
+game: Sonic & Tails (Japan) (En) (Sample)
+file: Sonic & Tails (Japan) (En) (Sample).zip
+
 game: Sonic & Tails 2 (Japan)
 file: Sonic & Tails 2 (Japan).zip
+
+game: Sonic Blast (World)
+file: Sonic Blast (World).zip
 
 game: Sonic Blast (World) (Beta) (1996-05-31)
 file: Sonic Blast (World) (Beta) (1996-05-31).zip
@@ -1738,20 +1741,17 @@ file: Sonic Blast (World) (Beta) (1996-08-27).zip
 game: Sonic Blast (World) (Beta) (1996-09-02)
 file: Sonic Blast (World) (Beta) (1996-09-02).zip
 
-game: Sonic Blast (World)
-file: Sonic Blast (World).zip
+game: Sonic Chaos (USA, Europe, Brazil) (En)
+file: Sonic Chaos (USA, Europe, Brazil) (En).zip
 
 game: Sonic Chaos (USA, Europe, Brazil) (En) (Beta) (1993-05-17)
 file: Sonic Chaos (USA, Europe, Brazil) (En) (Beta) (1993-05-17).zip
 
-game: Sonic Chaos (USA, Europe, Brazil) (En)
-file: Sonic Chaos (USA, Europe, Brazil) (En).zip
+game: Sonic Drift (Japan) (En)
+file: Sonic Drift (Japan) (En).zip
 
 game: Sonic Drift (Japan) (En) (Demo)
 file: Sonic Drift (Japan) (En) (Demo).zip
-
-game: Sonic Drift (Japan) (En)
-file: Sonic Drift (Japan) (En).zip
 
 game: Sonic Drift 2 (World)
 file: Sonic Drift 2 (World).zip
@@ -1761,6 +1761,9 @@ file: Sonic Labyrinth (USA, Europe) (Virtual Console).zip
 
 game: Sonic Labyrinth (World)
 file: Sonic Labyrinth (World).zip
+
+game: Sonic Spinball (USA, Europe, Brazil) (En)
+file: Sonic Spinball (USA, Europe, Brazil) (En).zip
 
 game: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-07)
 file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-07).zip
@@ -1801,11 +1804,11 @@ file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-21).zip
 game: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-27)
 file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-27).zip
 
-game: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29) (Alt)
-file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29) (Alt).zip
-
 game: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29)
 file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29).zip
+
+game: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29) (Alt)
+file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29) (Alt).zip
 
 game: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-03)
 file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-03).zip
@@ -1822,35 +1825,32 @@ file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-25).zip
 game: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-30)
 file: Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-30).zip
 
-game: Sonic Spinball (USA, Europe, Brazil) (En)
-file: Sonic Spinball (USA, Europe, Brazil) (En).zip
+game: Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)
+file: Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En).zip
 
 game: Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08)
 file: Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08).zip
 
-game: Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)
-file: Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En).zip
+game: Sonic The Hedgehog (Japan, USA) (En)
+file: Sonic The Hedgehog (Japan, USA) (En).zip
 
 game: Sonic The Hedgehog (Japan, USA) (En) (Beta)
 file: Sonic The Hedgehog (Japan, USA) (En) (Beta).zip
 
-game: Sonic The Hedgehog (Japan, USA) (En)
-file: Sonic The Hedgehog (Japan, USA) (En).zip
+game: Sonic The Hedgehog (World) (Rev 1)
+file: Sonic The Hedgehog (World) (Rev 1).zip
 
 game: Sonic The Hedgehog (World) (Rev 1) (Virtual Console)
 file: Sonic The Hedgehog (World) (Rev 1) (Virtual Console).zip
 
-game: Sonic The Hedgehog (World) (Rev 1)
-file: Sonic The Hedgehog (World) (Rev 1).zip
+game: Sonic The Hedgehog 2 (World)
+file: Sonic The Hedgehog 2 (World).zip
 
 game: Sonic The Hedgehog 2 (World) (Auto Demo)
 file: Sonic The Hedgehog 2 (World) (Auto Demo).zip
 
 game: Sonic The Hedgehog 2 (World) (Virtual Console)
 file: Sonic The Hedgehog 2 (World) (Virtual Console).zip
-
-game: Sonic The Hedgehog 2 (World)
-file: Sonic The Hedgehog 2 (World).zip
 
 game: Soukoban (Japan)
 file: Soukoban (Japan).zip
@@ -1873,6 +1873,9 @@ file: Spirou (Europe) (Proto).zip
 game: Sports Illustrated - Championship Football & Baseball (USA)
 file: Sports Illustrated - Championship Football & Baseball (USA).zip
 
+game: Sports Trivia - Championship Edition (USA)
+file: Sports Trivia - Championship Edition (USA).zip
+
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13).zip
 
@@ -1882,14 +1885,17 @@ file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16).zip
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt).zip
-
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20).zip
 
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt).zip
+
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21).zip
+
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23).zip
 
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2).zip
@@ -1897,14 +1903,14 @@ file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2).zip
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23).zip
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27).zip
 
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27).zip
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29).zip
 
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2).zip
@@ -1912,23 +1918,23 @@ file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2).zip
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29).zip
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30).zip
 
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30).zip
-
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03).zip
+
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04).zip
 
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04).zip
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05).zip
 
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2).zip
@@ -1936,17 +1942,14 @@ file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2).zip
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05).zip
-
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06).zip
 
-game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt)
-file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt).zip
-
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07).zip
+
+game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt)
+file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt).zip
 
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11).zip
@@ -1960,8 +1963,8 @@ file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13).zip
 game: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)
 file: Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28).zip
 
-game: Sports Trivia - Championship Edition (USA)
-file: Sports Trivia - Championship Edition (USA).zip
+game: Sports Trivia (USA)
+file: Sports Trivia (USA).zip
 
 game: Sports Trivia (USA) (Beta) (1995-03-08)
 file: Sports Trivia (USA) (Beta) (1995-03-08).zip
@@ -1972,11 +1975,11 @@ file: Sports Trivia (USA) (Beta) (1995-03-09).zip
 game: Sports Trivia (USA) (Beta) (1995-03-16)
 file: Sports Trivia (USA) (Beta) (1995-03-16).zip
 
-game: Sports Trivia (USA) (Beta) (1995-04-25) (Alt)
-file: Sports Trivia (USA) (Beta) (1995-04-25) (Alt).zip
-
 game: Sports Trivia (USA) (Beta) (1995-04-25)
 file: Sports Trivia (USA) (Beta) (1995-04-25).zip
+
+game: Sports Trivia (USA) (Beta) (1995-04-25) (Alt)
+file: Sports Trivia (USA) (Beta) (1995-04-25) (Alt).zip
 
 game: Sports Trivia (USA) (Beta) (1995-04-27)
 file: Sports Trivia (USA) (Beta) (1995-04-27).zip
@@ -1984,20 +1987,17 @@ file: Sports Trivia (USA) (Beta) (1995-04-27).zip
 game: Sports Trivia (USA) (Beta) (1995-05-04)
 file: Sports Trivia (USA) (Beta) (1995-05-04).zip
 
-game: Sports Trivia (USA)
-file: Sports Trivia (USA).zip
-
 game: Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)
 file: Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).zip
 
 game: Star Trek Generations - Beyond the Nexus (USA)
 file: Star Trek Generations - Beyond the Nexus (USA).zip
 
-game: Star Wars (USA, Europe) (Alt)
-file: Star Wars (USA, Europe) (Alt).zip
-
 game: Star Wars (USA, Europe)
 file: Star Wars (USA, Europe).zip
+
+game: Star Wars (USA, Europe) (Alt)
+file: Star Wars (USA, Europe) (Alt).zip
 
 game: Stargate (World)
 file: Stargate (World).zip
@@ -2014,11 +2014,11 @@ file: Street Hero (USA) (Proto 2).zip
 game: Streets of Rage (World)
 file: Streets of Rage (World).zip
 
-game: Streets of Rage 2 (World) (Beta)
-file: Streets of Rage 2 (World) (Beta).zip
-
 game: Streets of Rage 2 (World)
 file: Streets of Rage 2 (World).zip
+
+game: Streets of Rage 2 (World) (Beta)
+file: Streets of Rage 2 (World) (Beta).zip
 
 game: Striker (Europe) (En,Fr,De,Es,It)
 file: Striker (Europe) (En,Fr,De,Es,It).zip
@@ -2028,6 +2028,9 @@ file: Super Battletank (USA).zip
 
 game: Super Columns (Japan)
 file: Super Columns (Japan).zip
+
+game: Super Columns (USA, Europe)
+file: Super Columns (USA, Europe).zip
 
 game: Super Columns (USA, Europe) (Beta) (1994-11-11)
 file: Super Columns (USA, Europe) (Beta) (1994-11-11).zip
@@ -2050,9 +2053,6 @@ file: Super Columns (USA, Europe) (Beta) (1994-12-28).zip
 game: Super Columns (USA, Europe) (Beta) (1995-01-06)
 file: Super Columns (USA, Europe) (Beta) (1995-01-06).zip
 
-game: Super Columns (USA, Europe)
-file: Super Columns (USA, Europe).zip
-
 game: Super Golf (Japan)
 file: Super Golf (Japan).zip
 
@@ -2071,11 +2071,11 @@ file: Super Monaco GP (Japan, Korea) (Ja).zip
 game: Super Monaco GP (USA, Europe, Brazil) (En)
 file: Super Monaco GP (USA, Europe, Brazil) (En).zip
 
-game: Super Off Road (USA, Europe) (Beta)
-file: Super Off Road (USA, Europe) (Beta).zip
-
 game: Super Off Road (USA, Europe)
 file: Super Off Road (USA, Europe).zip
+
+game: Super Off Road (USA, Europe) (Beta)
+file: Super Off Road (USA, Europe) (Beta).zip
 
 game: Super Smash T.V. (World)
 file: Super Smash T.V. (World).zip
@@ -2086,11 +2086,11 @@ file: Super Space Invaders (USA, Europe).zip
 game: Super Star Wars - Return of the Jedi (USA, Europe)
 file: Super Star Wars - Return of the Jedi (USA, Europe).zip
 
-game: Superman - The Man of Steel (Europe) (Beta)
-file: Superman - The Man of Steel (Europe) (Beta).zip
-
 game: Superman - The Man of Steel (Europe)
 file: Superman - The Man of Steel (Europe).zip
+
+game: Superman - The Man of Steel (Europe) (Beta)
+file: Superman - The Man of Steel (Europe) (Beta).zip
 
 game: Surf Ninjas (USA, Europe, Brazil) (En)
 file: Surf Ninjas (USA, Europe, Brazil) (En).zip
@@ -2104,11 +2104,11 @@ file: T2 - The Arcade Game (Japan) (En).zip
 game: T2 - The Arcade Game (USA, Europe)
 file: T2 - The Arcade Game (USA, Europe).zip
 
-game: Tails Adventure (World) (En,Ja) (Virtual Console)
-file: Tails Adventure (World) (En,Ja) (Virtual Console).zip
-
 game: Tails Adventure (World) (En,Ja)
 file: Tails Adventure (World) (En,Ja).zip
+
+game: Tails Adventure (World) (En,Ja) (Virtual Console)
+file: Tails Adventure (World) (En,Ja) (Virtual Console).zip
 
 game: Tails no Skypatrol (Japan)
 file: Tails no Skypatrol (Japan).zip
@@ -2140,6 +2140,9 @@ file: Tarzan - Lord of the Jungle (Europe).zip
 game: Tatakae! Pro Yakyuu Twin League (Japan)
 file: Tatakae! Pro Yakyuu Twin League (Japan).zip
 
+game: Taz in Escape from Mars (USA, Europe, Brazil) (En)
+file: Taz in Escape from Mars (USA, Europe, Brazil) (En).zip
+
 game: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-05-11)
 file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-05-11).zip
 
@@ -2167,11 +2170,11 @@ file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-30).zip
 game: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-02)
 file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-02).zip
 
-game: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt)
-file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt).zip
-
 game: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05)
 file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05).zip
+
+game: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt)
+file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt).zip
 
 game: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-06)
 file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-06).zip
@@ -2182,11 +2185,11 @@ file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-09).zip
 game: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-10)
 file: Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-10).zip
 
-game: Taz in Escape from Mars (USA, Europe, Brazil) (En)
-file: Taz in Escape from Mars (USA, Europe, Brazil) (En).zip
-
 game: Taz-Mania (USA, Europe, Brazil) (En)
 file: Taz-Mania (USA, Europe, Brazil) (En).zip
+
+game: Tempo Jr. (World)
+file: Tempo Jr. (World).zip
 
 game: Tempo Jr. (World) (Beta) (1994-11-28)
 file: Tempo Jr. (World) (Beta) (1994-11-28).zip
@@ -2215,14 +2218,11 @@ file: Tempo Jr. (World) (Beta) (1995-02-06).zip
 game: Tempo Jr. (World) (Beta) (1995-02-15)
 file: Tempo Jr. (World) (Beta) (1995-02-15).zip
 
-game: Tempo Jr. (World)
-file: Tempo Jr. (World).zip
+game: Tengen World Cup Soccer (USA, Europe)
+file: Tengen World Cup Soccer (USA, Europe).zip
 
 game: Tengen World Cup Soccer (USA, Europe) (Beta)
 file: Tengen World Cup Soccer (USA, Europe) (Beta).zip
-
-game: Tengen World Cup Soccer (USA, Europe)
-file: Tengen World Cup Soccer (USA, Europe).zip
 
 game: Terminator 2 - Judgment Day (World)
 file: Terminator 2 - Judgment Day (World).zip
@@ -2254,11 +2254,11 @@ file: Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It).zip
 game: Urban Strike (USA)
 file: Urban Strike (USA).zip
 
-game: Vampire - Master of Darkness (USA) (Virtual Console)
-file: Vampire - Master of Darkness (USA) (Virtual Console).zip
-
 game: Vampire - Master of Darkness (USA)
 file: Vampire - Master of Darkness (USA).zip
+
+game: Vampire - Master of Darkness (USA) (Virtual Console)
+file: Vampire - Master of Darkness (USA) (Virtual Console).zip
 
 game: Virtua Fighter Animation (USA, Europe)
 file: Virtua Fighter Animation (USA, Europe).zip
@@ -2323,6 +2323,9 @@ file: World Cup USA 94 (USA, Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
 game: World Derby (Japan)
 file: World Derby (Japan).zip
 
+game: World Series Baseball '95 (USA)
+file: World Series Baseball '95 (USA).zip
+
 game: World Series Baseball '95 (USA) (Beta) (1994-06-29)
 file: World Series Baseball '95 (USA) (Beta) (1994-06-29).zip
 
@@ -2341,20 +2344,20 @@ file: World Series Baseball '95 (USA) (Beta) (1994-07-28).zip
 game: World Series Baseball '95 (USA) (Beta) (1994-07-29)
 file: World Series Baseball '95 (USA) (Beta) (1994-07-29).zip
 
-game: World Series Baseball '95 (USA)
-file: World Series Baseball '95 (USA).zip
+game: World Series Baseball (USA)
+file: World Series Baseball (USA).zip
 
 game: World Series Baseball (USA) (Rev 1)
 file: World Series Baseball (USA) (Rev 1).zip
-
-game: World Series Baseball (USA)
-file: World Series Baseball (USA).zip
 
 game: WWF Raw (USA, Europe)
 file: WWF Raw (USA, Europe).zip
 
 game: WWF Wrestlemania - Steel Cage Challenge (USA, Europe)
 file: WWF Wrestlemania - Steel Cage Challenge (USA, Europe).zip
+
+game: X-Men - Gamemaster's Legacy (USA, Europe)
+file: X-Men - Gamemaster's Legacy (USA, Europe).zip
 
 game: X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)
 file: X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10).zip
@@ -2365,8 +2368,8 @@ file: X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31).zip
 game: X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)
 file: X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06).zip
 
-game: X-Men - Gamemaster's Legacy (USA, Europe)
-file: X-Men - Gamemaster's Legacy (USA, Europe).zip
+game: X-Men - Mojo World (USA)
+file: X-Men - Mojo World (USA).zip
 
 game: X-Men - Mojo World (USA) (Beta) (1996-06-05)
 file: X-Men - Mojo World (USA) (Beta) (1996-06-05).zip
@@ -2388,9 +2391,6 @@ file: X-Men - Mojo World (USA) (Beta) (1996-06-28).zip
 
 game: X-Men - Mojo World (USA) (Beta) (1996-06-29)
 file: X-Men - Mojo World (USA) (Beta) (1996-06-29).zip
-
-game: X-Men - Mojo World (USA)
-file: X-Men - Mojo World (USA).zip
 
 game: X-Men (USA)
 file: X-Men (USA).zip
@@ -2422,8 +2422,8 @@ file: Zool - Ninja of the 'Nth' Dimension (USA).zip
 game: Zool no Yume Bouken (Japan)
 file: Zool no Yume Bouken (Japan).zip
 
-game: Zoop (USA) (Beta) (1995-08-11)
-file: Zoop (USA) (Beta) (1995-08-11).zip
-
 game: Zoop (USA)
 file: Zoop (USA).zip
+
+game: Zoop (USA) (Beta) (1995-08-11)
+file: Zoop (USA) (Beta) (1995-08-11).zip

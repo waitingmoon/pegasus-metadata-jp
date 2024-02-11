@@ -1,11 +1,11 @@
 game: [BIOS] Othello Multivision (Japan)
 file: [BIOS] Othello Multivision (Japan).zip
 
-game: 007 James Bond (Japan) (Othello Multivision) (Alt)
-file: 007 James Bond (Japan) (Othello Multivision) (Alt).zip
-
 game: 007 James Bond (Japan) (Othello Multivision)
 file: 007 James Bond (Japan) (Othello Multivision).zip
+
+game: 007 James Bond (Japan) (Othello Multivision) (Alt)
+file: 007 James Bond (Japan) (Othello Multivision) (Alt).zip
 
 game: 007 James Bond (Taiwan) (Othello Multivision) (Unl)
 file: 007 James Bond (Taiwan) (Othello Multivision) (Unl).zip
@@ -76,11 +76,11 @@ file: Chack'n Pop (Taiwan) (Unl).zip
 game: Challenge Derby (Japan) (Othello Multivision)
 file: Challenge Derby (Japan) (Othello Multivision).zip
 
-game: Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt)
-file: Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt).zip
-
 game: Challenge Derby (Japan) (Rev 1) (Othello Multivision)
 file: Challenge Derby (Japan) (Rev 1) (Othello Multivision).zip
+
+game: Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt)
+file: Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt).zip
 
 game: Champion Baseball (Japan, Australia, New Zealand) (Ja)
 file: Champion Baseball (Japan, Australia, New Zealand) (Ja).zip
@@ -148,11 +148,11 @@ file: Championship Lode Runner (Japan, Australia) (Ja).zip
 game: Championship Lode Runner (Taiwan) (Unl)
 file: Championship Lode Runner (Taiwan) (Unl).zip
 
-game: Choplifter (Japan, Australia) (Ja) (Beta)
-file: Choplifter (Japan, Australia) (Ja) (Beta).zip
-
 game: Choplifter (Japan, Australia) (Ja)
 file: Choplifter (Japan, Australia) (Ja).zip
+
+game: Choplifter (Japan, Australia) (Ja) (Beta)
+file: Choplifter (Japan, Australia) (Ja) (Beta).zip
 
 game: Choplifter (Korea) (En) (Unl)
 file: Choplifter (Korea) (En) (Unl).zip
@@ -172,26 +172,26 @@ file: Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).zip
 game: Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)
 file: Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).zip
 
-game: Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program) (Alt)
-file: Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program) (Alt).zip
-
 game: Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)
 file: Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).zip
 
-game: Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt)
-file: Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).zip
+game: Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program) (Alt)
+file: Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program) (Alt).zip
 
 game: Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)
 file: Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).zip
 
+game: Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt)
+file: Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).zip
+
 game: Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)
 file: Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).zip
 
-game: Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt)
-file: Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).zip
-
 game: Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)
 file: Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).zip
+
+game: Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt)
+file: Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).zip
 
 game: Circus Charlie (Korea) (Unl)
 file: Circus Charlie (Korea) (Unl).zip
@@ -229,11 +229,11 @@ file: Doki Doki Penguin Land (Japan).zip
 game: Doki Doki Penguin Land (Taiwan) (Unl)
 file: Doki Doki Penguin Land (Taiwan) (Unl).zip
 
-game: Dragon Wang (Japan) (Rev 1)
-file: Dragon Wang (Japan) (Rev 1).zip
-
 game: Dragon Wang (Japan)
 file: Dragon Wang (Japan).zip
+
+game: Dragon Wang (Japan) (Rev 1)
+file: Dragon Wang (Japan) (Rev 1).zip
 
 game: Dragon Wang (Taiwan) (Chinese Logo) (Unl)
 file: Dragon Wang (Taiwan) (Chinese Logo) (Unl).zip
@@ -286,11 +286,11 @@ file: Girl's Garden (Taiwan) (Unl).zip
 game: Golgo 13 (Japan)
 file: Golgo 13 (Japan).zip
 
-game: GP World (Japan) (Rev 1)
-file: GP World (Japan) (Rev 1).zip
-
 game: GP World (Japan)
 file: GP World (Japan).zip
+
+game: GP World (Japan) (Rev 1)
+file: GP World (Japan) (Rev 1).zip
 
 game: GP World (Taiwan) (Unl)
 file: GP World (Taiwan) (Unl).zip
@@ -328,11 +328,11 @@ file: Hang On II (Taiwan) (English Logo) (Unl).zip
 game: Home BASIC (Japan) (SC-3000) (Program)
 file: Home BASIC (Japan) (SC-3000) (Program).zip
 
-game: Home Mahjong (Japan) (Rev 1)
-file: Home Mahjong (Japan) (Rev 1).zip
-
 game: Home Mahjong (Japan)
 file: Home Mahjong (Japan).zip
+
+game: Home Mahjong (Japan) (Rev 1)
+file: Home Mahjong (Japan) (Rev 1).zip
 
 game: Home Mahjong (Taiwan) (Unl)
 file: Home Mahjong (Taiwan) (Unl).zip
@@ -391,11 +391,11 @@ file: Magical Kid Wiz (Taiwan) (Unl).zip
 game: Magical Tree (Taiwan) (Unl)
 file: Magical Tree (Taiwan) (Unl).zip
 
-game: Mahjong (Japan) (Rev 1)
-file: Mahjong (Japan) (Rev 1).zip
-
 game: Mahjong (Japan)
 file: Mahjong (Japan).zip
+
+game: Mahjong (Japan) (Rev 1)
+file: Mahjong (Japan) (Rev 1).zip
 
 game: Mahjong (Taiwan) (Unl)
 file: Mahjong (Taiwan) (Unl).zip
@@ -478,11 +478,11 @@ file: Ping Pong (Taiwan) (Unl).zip
 game: Pippols (Taiwan) (Unl)
 file: Pippols (Taiwan) (Unl).zip
 
-game: Pitfall II - The Lost Caverns (Japan) (Rev 1)
-file: Pitfall II - The Lost Caverns (Japan) (Rev 1).zip
-
 game: Pitfall II - The Lost Caverns (Japan)
 file: Pitfall II - The Lost Caverns (Japan).zip
+
+game: Pitfall II - The Lost Caverns (Japan) (Rev 1)
+file: Pitfall II - The Lost Caverns (Japan) (Rev 1).zip
 
 game: Pitfall II (Taiwan) (Chinese Logo) (Unl)
 file: Pitfall II (Taiwan) (Chinese Logo) (Unl).zip
@@ -535,11 +535,11 @@ file: Safari Race (Japan, Europe, Australia, New Zealand) (Ja).zip
 game: Safari Race (Taiwan) (Unl)
 file: Safari Race (Taiwan) (Unl).zip
 
-game: San-nin Mahjong (Japan) (Othello Multivision) (Alt)
-file: San-nin Mahjong (Japan) (Othello Multivision) (Alt).zip
-
 game: San-nin Mahjong (Japan) (Othello Multivision)
 file: San-nin Mahjong (Japan) (Othello Multivision).zip
+
+game: San-nin Mahjong (Japan) (Othello Multivision) (Alt)
+file: San-nin Mahjong (Japan) (Othello Multivision) (Alt).zip
 
 game: San-nin Mahjong (Taiwan) (Othello Multivision) (Unl)
 file: San-nin Mahjong (Taiwan) (Othello Multivision) (Unl).zip
@@ -595,11 +595,11 @@ file: Soukoban (Korea) (Unl).zip
 game: Soukoban (Taiwan) (Unl)
 file: Soukoban (Taiwan) (Unl).zip
 
-game: Space Armor (Japan) (Othello Multivision) (Alt)
-file: Space Armor (Japan) (Othello Multivision) (Alt).zip
-
 game: Space Armor (Japan) (Othello Multivision)
 file: Space Armor (Japan) (Othello Multivision).zip
+
+game: Space Armor (Japan) (Othello Multivision) (Alt)
+file: Space Armor (Japan) (Othello Multivision) (Alt).zip
 
 game: Space Armor (Japan) (Rev 1) (Othello Multivision)
 file: Space Armor (Japan) (Rev 1) (Othello Multivision).zip
@@ -619,11 +619,11 @@ file: Space Slalom (Japan).zip
 game: Star Force (Japan, Australia) (Ja)
 file: Star Force (Japan, Australia) (Ja).zip
 
-game: Star Force (Taiwan) (Unl) (Alt)
-file: Star Force (Taiwan) (Unl) (Alt).zip
-
 game: Star Force (Taiwan) (Unl)
 file: Star Force (Taiwan) (Unl).zip
+
+game: Star Force (Taiwan) (Unl) (Alt)
+file: Star Force (Taiwan) (Unl) (Alt).zip
 
 game: Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1)
 file: Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1).zip
@@ -655,11 +655,11 @@ file: Tank Battalion (Taiwan) (Unl).zip
 game: Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)
 file: Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).zip
 
-game: Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program) (Alt)
-file: Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program) (Alt).zip
-
 game: Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)
 file: Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).zip
+
+game: Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program) (Alt)
+file: Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program) (Alt).zip
 
 game: Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)
 file: Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).zip

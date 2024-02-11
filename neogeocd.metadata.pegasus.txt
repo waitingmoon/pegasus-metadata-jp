@@ -1,0 +1,332 @@
+game: 2020 Super Baseball (Japan) (En,Ja)
+file: 2020 Super Baseball (Japan) (En,Ja).chd
+
+game: ADK World (Japan)
+file: ADK World (Japan).chd
+
+game: Andro Dunos (France) (Unl)
+file: Andro Dunos (France) (Unl).chd
+
+game: Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (World) (En,Ja,Es,Pt)
+file: Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (World) (En,Ja,Es,Pt).chd
+
+game: ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)
+file: ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja).chd
+
+game: Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)
+file: Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).chd
+
+game: Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)
+file: Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).chd
+
+game: Bang^2 Busters (France) (En,Ja) (Unl)
+file: Bang^2 Busters (France) (En,Ja) (Unl).chd
+
+game: Baseball Stars 2 (Japan) (En,Ja)
+file: Baseball Stars 2 (Japan) (En,Ja).chd
+
+game: Baseball Stars Professional (Japan) (En,Ja)
+file: Baseball Stars Professional (Japan) (En,Ja).chd
+
+game: Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)
+file: Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).chd
+
+game: Breakers (Japan) (En,Ja)
+file: Breakers (Japan) (En,Ja).chd
+
+game: Burning Fight (Japan) (En,Ja)
+file: Burning Fight (Japan) (En,Ja).chd
+
+game: Choujin Gakuen - Gowcaizer (Japan) (En,Ja)
+file: Choujin Gakuen - Gowcaizer (Japan) (En,Ja).chd
+
+game: Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)
+file: Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja).chd
+
+game: Crossed Swords (Japan)
+file: Crossed Swords (Japan).chd
+
+game: Crossed Swords II (Japan) (En,Ja)
+file: Crossed Swords II (Japan) (En,Ja).chd
+
+game: Cyber-Lip (Japan) (En,Ja)
+file: Cyber-Lip (Japan) (En,Ja).chd
+
+game: Double Dragon (Export) (En,Ja)
+file: Double Dragon (Export) (En,Ja).chd
+
+game: Double Dragon (Japan) (En,Ja) (Rev 1)
+file: Double Dragon (Japan) (En,Ja) (Rev 1).chd
+
+game: Dunk Dream ~ Street Slam ~ Street Hoop (World)
+file: Dunk Dream ~ Street Slam ~ Street Hoop (World).chd
+
+game: Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)
+file: Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).chd
+
+game: Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)
+file: Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja).chd
+
+game: Fire Suplex ~ 3 Count Bout (World) (En,Ja)
+file: Fire Suplex ~ 3 Count Bout (World) (En,Ja).chd
+
+game: Flying Power Disc ~ Windjammers (Japan) (En,Ja)
+file: Flying Power Disc ~ Windjammers (Japan) (En,Ja).chd
+
+game: Football Frenzy (Japan) (En,Ja)
+file: Football Frenzy (Japan) (En,Ja).chd
+
+game: Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)
+file: Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).chd
+
+game: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)
+file: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1).chd
+
+game: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)
+file: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).chd
+
+game: Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)
+file: Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es).chd
+
+game: Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)
+file: Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).chd
+
+game: Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)
+file: Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja).chd
+
+game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)
+file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2).chd
+
+game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3)
+file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3).chd
+
+game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)
+file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt).chd
+
+game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)
+file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1).chd
+
+game: Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)
+file: Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).chd
+
+game: Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)
+file: Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1).chd
+
+game: Ghost Pilots (World)
+file: Ghost Pilots (World).chd
+
+game: Idol Mahjong - Final Romance 2 (Japan)
+file: Idol Mahjong - Final Romance 2 (Japan).chd
+
+game: Janshin Densetsu - Quest of Jongmaster (Japan)
+file: Janshin Densetsu - Quest of Jongmaster (Japan).chd
+
+game: Joy Joy Kid ~ Puzzled (World) (En,Ja)
+file: Joy Joy Kid ~ Puzzled (World) (En,Ja).chd
+
+game: King of Fighters '94, The (World) (En,Ja) (Rev 1)
+file: King of Fighters '94, The (World) (En,Ja) (Rev 1).chd
+
+game: King of Fighters '94, The (World) (En,Ja)
+file: King of Fighters '94, The (World) (En,Ja).chd
+
+game: King of Fighters '95, The (Japan) (En,Ja) (Rev 1)
+file: King of Fighters '95, The (Japan) (En,Ja) (Rev 1).chd
+
+game: King of Fighters '95, The (World) (En,Ja)
+file: King of Fighters '95, The (World) (En,Ja).chd
+
+game: King of Fighters '96 NeoGeo Collection, The (Japan)
+file: King of Fighters '96 NeoGeo Collection, The (Japan).chd
+
+game: King of Fighters '96, The (World) (En,Ja)
+file: King of Fighters '96, The (World) (En,Ja).chd
+
+game: King of Fighters '97, The (Japan) (En,Ja)
+file: King of Fighters '97, The (Japan) (En,Ja).chd
+
+game: King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)
+file: King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).chd
+
+game: King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (World) (En,Ja,Es,Pt)
+file: King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (World) (En,Ja,Es,Pt).chd
+
+game: Last Hope (Germany) (Unl)
+file: Last Hope (Germany) (Unl).chd
+
+game: Last Resort (Japan) (En,Ja)
+file: Last Resort (Japan) (En,Ja).chd
+
+game: League Bowling (Japan) (En,Ja)
+file: League Bowling (Japan) (En,Ja).chd
+
+game: Magical Drop 2 (Japan) (En,Ja)
+file: Magical Drop 2 (Japan) (En,Ja).chd
+
+game: Magician Lord (Japan) (En,Ja)
+file: Magician Lord (Japan) (En,Ja).chd
+
+game: Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan)
+file: Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan).chd
+
+game: Metal Slug (Japan) (En,Ja)
+file: Metal Slug (Japan) (En,Ja).chd
+
+game: Metal Slug 2 (World) (En,Ja)
+file: Metal Slug 2 (World) (En,Ja).chd
+
+game: Mutation Nation (Japan) (En,Ja)
+file: Mutation Nation (Japan) (En,Ja).chd
+
+game: Nam-1975 (Japan) (En,Ja)
+file: Nam-1975 (Japan) (En,Ja).chd
+
+game: Neo Drift Out - New Technology (Japan)
+file: Neo Drift Out - New Technology (Japan).chd
+
+game: Neo-Geo CD Special (Japan)
+file: Neo-Geo CD Special (Japan).chd
+
+game: Next Thing, The - King of the Monsters 2 (World) (En,Ja)
+file: Next Thing, The - King of the Monsters 2 (World) (En,Ja).chd
+
+game: Ninja Combat (Japan) (En,Ja)
+file: Ninja Combat (Japan) (En,Ja).chd
+
+game: Ninja Commando (Japan) (En,Ja)
+file: Ninja Commando (Japan) (En,Ja).chd
+
+game: Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)
+file: Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja).chd
+
+game: Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja)
+file: Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja).chd
+
+game: OverTop (Japan) (En,Ja)
+file: OverTop (Japan) (En,Ja).chd
+
+game: Power Spikes II (Japan) (En,Ja)
+file: Power Spikes II (Japan) (En,Ja).chd
+
+game: Pulstar (Japan) (En,Ja)
+file: Pulstar (Japan) (En,Ja).chd
+
+game: Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)
+file: Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja).chd
+
+game: Quiz King of Fighters (Japan)
+file: Quiz King of Fighters (Japan).chd
+
+game: Raguy ~ Blue's Journey (Japan) (En,Ja)
+file: Raguy ~ Blue's Journey (Japan) (En,Ja).chd
+
+game: Rally Chase (Japan) (En,Ja)
+file: Rally Chase (Japan) (En,Ja).chd
+
+game: RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)
+file: RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).chd
+
+game: Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt)
+file: Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt).chd
+
+game: Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt)
+file: Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt).chd
+
+game: Riding Hero (Japan) (En,Ja)
+file: Riding Hero (Japan) (En,Ja).chd
+
+game: Robo Army (Japan) (En,Ja)
+file: Robo Army (Japan) (En,Ja).chd
+
+game: Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es)
+file: Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es).chd
+
+game: Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es)
+file: Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es).chd
+
+game: Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (World) (En,Ja,Es,Pt)
+file: Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (World) (En,Ja,Es,Pt).chd
+
+game: Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (World) (En,Ja,Es,Pt)
+file: Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (World) (En,Ja,Es,Pt).chd
+
+game: Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)
+file: Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).chd
+
+game: Sengoku Denshou ~ Sengoku (Japan) (En,Ja)
+file: Sengoku Denshou ~ Sengoku (Japan) (En,Ja).chd
+
+game: Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja)
+file: Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja).chd
+
+game: Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (World) (En,Ja)
+file: Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (World) (En,Ja).chd
+
+game: Shinouken ~ Ragnagard (Japan) (En,Ja,Es)
+file: Shinouken ~ Ragnagard (Japan) (En,Ja,Es).chd
+
+game: Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)
+file: Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).chd
+
+game: Shougi no Tatsujin - Master of Syougi (Japan)
+file: Shougi no Tatsujin - Master of Syougi (Japan).chd
+
+game: Soccer Brawl (World)
+file: Soccer Brawl (World).chd
+
+game: Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)
+file: Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja).chd
+
+game: Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)
+file: Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja).chd
+
+game: Stakes Winner - GI Kanzen Seiha e no Michi (Japan)
+file: Stakes Winner - GI Kanzen Seiha e no Michi (Japan).chd
+
+game: Super Sidekicks - Tokuten-ou (Japan) (En,Ja)
+file: Super Sidekicks - Tokuten-ou (Japan) (En,Ja).chd
+
+game: Super Spy, The (Japan) (En,Ja)
+file: Super Spy, The (Japan) (En,Ja).chd
+
+game: Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)
+file: Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es).chd
+
+game: Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)
+file: Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt).chd
+
+game: Top Hunter - Roddy & Cathy (Japan) (En,Ja)
+file: Top Hunter - Roddy & Cathy (Japan) (En,Ja).chd
+
+game: Top Player's Golf (Japan) (En,Ja)
+file: Top Player's Golf (Japan) (En,Ja).chd
+
+game: Treasure of the Caribbean (France) (En,Ja) (Unl)
+file: Treasure of the Caribbean (France) (En,Ja) (Unl).chd
+
+game: Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja)
+file: Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja).chd
+
+game: Twinkle Star Sprites (Japan) (En,Ja)
+file: Twinkle Star Sprites (Japan) (En,Ja).chd
+
+game: Viewpoint (Japan)
+file: Viewpoint (Japan).chd
+
+game: World Heroes (Japan) (En,Ja)
+file: World Heroes (Japan) (En,Ja).chd
+
+game: World Heroes 2 (Japan) (En,Ja)
+file: World Heroes 2 (Japan) (En,Ja).chd
+
+game: World Heroes 2 Jet (Japan) (En,Ja)
+file: World Heroes 2 Jet (Japan) (En,Ja).chd
+
+game: World Heroes Perfect (Export) (En,Ja) (Rev 1)
+file: World Heroes Perfect (Export) (En,Ja) (Rev 1).chd
+
+game: World Heroes Perfect (World) (En,Ja)
+file: World Heroes Perfect (World) (En,Ja).chd
+
+game: Xeno Crisis (World) (Unl)
+file: Xeno Crisis (World) (Unl).chd

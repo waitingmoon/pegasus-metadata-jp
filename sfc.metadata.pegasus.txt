@@ -1,31 +1,59 @@
-game: '96 Zenkoku Koukou Soccer Senshuken (Japan)
+game: '96全国高校サッカー選手権
+sort_title: きゅうじゅうろくぜんこくこうこうさっかーせんしゅけん
 file: '96 Zenkoku Koukou Soccer Senshuken (Japan).zip
+publisher: 魔法
+description:
+  魔法より1996年3月22日にスーパーファミコン用ソフトとして発売された。全国4094校の中から1校を選びチームのキャプテンとなって全国大会優勝を目指す、高校サッカーをテーマにしたスポーツゲーム。試合形式をチームの全員を操作するか、キャプテンのみ操作するかのどちらかから選ぶことができる。選手の能力を決めて練習に励み、地区予選を勝ち抜くことで全国大会に出場し優勝を狙おう。
 
 game: [BIOS] Super NES CD-ROM - Boot ROM (Japan) (En) (v0.95) (Proto)
 file: [BIOS] Super NES CD-ROM - Boot ROM (Japan) (En) (v0.95) (Proto).zip
 
-game: 2020 Super Baseball (Japan)
+game: 2020年スーパーベースボール
+sort_title: にせんにじゅうねんすーぱーべーすぼーる
 file: 2020 Super Baseball (Japan).zip
+publisher: ケイ・アミューズメントリース
+description:
+  ケイ・アミューズメントリースより1993年3月12日にスーパーファミコン用ソフトとして発売された野球ゲーム。強化プロテクターを装着した選手達が人間の限界を超えた常識外れのプレイを駆使して勝敗を競う近未来野球ゲーム。12球団から好きなチームを選んでペナントを戦い、リーグ優勝を目指す。ホームランゾーンやファウルゾーンなど通常の野球ルールとは異なる、豪快な近未来の超ベースボールを楽しもう。
 
 game: 3 Ninjas Kick Back (USA)
 file: 3 Ninjas Kick Back (USA).zip
 
-game: 3-jigen Kakutou Ballz (Japan)
+game: 3次元格闘ボールズ
+sort_title: さんじげんかくとうぼーるず
 files:
   3-jigen Kakutou Ballz (Japan).zip
   3-jigen Kakutou Ballz (Japan) (Sample).zip
+publisher: メディアリング
+description:
+  メディアリングより1995年4月28日にスーパーファミコン用ソフトとして発売された3D対戦格闘アクションゲーム。全て球体で表現したユニークなキャラクター達がバトルを繰り広げる。ひろがる、飛び散るなど変幻自在の球体ならではの動きが満載。ピエロやサイなどそれぞれ特徴を捉えたユニークなキャラクターたちを操作して、前後左右に移動も可能な奥行きのあるステージを舞台に熱いバトルを繰り広げよう。
 
-game: 3x3 Eyes - Juuma Houkan (Japan)
+game: 3×3 EYES 獣魔奉還
+sort_title: さざんあいず2じゅうまほうかん
 file: 3x3 Eyes - Juuma Houkan (Japan).zip
+publisher: バンプレスト
+description:
+  バンプレストより1995年12月22日にスーパーファミコン用ソフトとして発売されたアクションゲーム。高田裕三の人気伝奇コミック『3×3EYES』を題材とするゲーム作品となる。主人公の八雲を操作し、消えたパイを探すべく冒険に旅立つ。謎の獣魔使いの登場など、ゲームオリジナルストーリーが展開し、選択肢によってシナリオが変化していくのが特徴。隠されたトラップを突破し、パイのもとへ向かおう。
 
-game: 3x3 Eyes - Seima Kourinden (Japan)
+game: 3×3 EYES 聖魔降臨伝
+sort_title: さざんあいず1せいまこうりんでん
 file: 3x3 Eyes - Seima Kourinden (Japan).zip
+publisher: ユタカ
+description:
+  ユタカより1992年7月28日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。漫画作品『3x3 EYES』が原作となる。八雲、パイ、ゲスト的に加わる仲間の3人でゲームを勧めるのだが、パーティの内八雲以外の2人が倒れると即ゲームオーバー。終盤に仲間になるグプターはレベル上げが必須なのだが、必要な経験値が非常に多い。他にも飛行機代が異常に高くて金欠による詰みもある。
 
-game: 4-nin Shougi (Japan)
+game: 4人将棋
+sort_title: よにんしょうぎ
 file: 4-nin Shougi (Japan).zip
+publisher: POW
+description:
+  POW(パウ)より1995年7月14日にスーパーファミコン用ソフトとして発売された。『4人将棋』とは太田満保氏が考案した4人同時に楽しむことが出来る将棋ゲームで将棋盤と将棋の駒を使って四人で遊ぶボードゲームの一種。本作ではその『4人将棋』を楽しむ事ができる。王将、飛車、金将、銀将、歩兵の5種類の駒を使い、相手の王将を詰めるのが目的。駒の動かし方は通常の将棋と変わらず、順番は時計回りに進行する。
 
-game: 46 Okunen Monogatari - Harukanaru Eden e (Japan)
+game: 46億年物語 はるかなるエデンへ
+sort_title: よんじゅうろくおくねんものがたりはるかなるえでんへ
 file: 46 Okunen Monogatari - Harukanaru Eden e (Japan).zip
+publisher: エニックス
+description:
+  エニックスより1992年12月21日にスーパーファミコン用ソフトとして発売されたアクションRPG。パソコンからの移植作。46億年前に地球が生まれ、35億年前に地球に誕生した生命(有機分子)である『あなた』は、30億年の時を経て魚類となり、異星人の介入を退けながら、地球の化身である「ガイア」に導かれて進化していく。敵を倒すと肉が出現して、それを食べると溜まる「EVO.P」を使って進化が可能となる。
 
 game: 7th Saga, The (USA)
 file: 7th Saga, The (USA).zip
@@ -80,7 +108,7 @@ file: ActRaiser (Germany).zip
 game: アクトレイザー
 sort_title: あくとれいざー1
 files:
-  Actraiser (Japan).zip
+  ActRaiser (Japan).zip
   ActRaiser (Japan) (Virtual Console).zip
 publisher: エニックス
 description:
@@ -214,25 +242,41 @@ publisher: コーエー
 description:
   コーエーより1993年4月2日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。『エアーマネジメント 大空に賭ける』の続編。前作との最大の相違点として、後の航空ビジネスで主流となった「ハブ&スポーク」の概念をゲームに導入。東南アジア・中東・ヨーロッパ・アフリカ・北アメリカ・南アメリカ・オセアニアの7エリア中、本社を置くエリアを含む6エリアでトップシェアを獲得するのが目的となる。
 
-game: Akagawa Jirou - Majotachi no Nemuri (Japan)
+game: 赤川次郎 魔女たちの眠り
+sort_title: あかがわじろうまじょたちのねむり
 files:
   Akagawa Jirou - Majotachi no Nemuri (Japan).zip
   Akagawa Jirou - Majotachi no Nemuri (Japan) (Rev 1).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1995年11月24日にスーパーファミコン用ソフトとして発売されたアドベンチャーゲーム。赤川次郎の小説『魔女たちのたそがれ』『魔女たちの長い眠り』を原作としたサウンドノベル作品。主人公の津田が謎の電話を受けた事を切っ掛けに外界から遮断された山奥の村で殺人事件に遭遇するという内容。画面に表示されている文章を読み、途中現れる選択肢によってストーリーが変化していく。
 
-game: Akazukin Chacha (Japan)
+game: 赤ずきんチャチャ
+sort_title: あかずきんちゃちゃ
 file: Akazukin Chacha (Japan).zip
+publisher: トミー
+description:
+  トミーより1996年8月9日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。魔法の国のうらら学園を舞台に見習い魔法使いのチャチャが仲間たちと巻き起こすドタバタを描いた学園ギャグ漫画『赤ずきんチャチャ』原作としたゲーム作品。原作でおなじみのチャチャ、リーヤ、しいねちゃんの3人が、異世界ぽぽんた国で大冒険を繰り広げる。アイテムの「ハート」でキャラクターはレベルアップをしていく。
 
-game: Akumajou Dracula (Japan)
+game: 悪魔城ドラキュラ
+sort_title: あくまじょうどらきゅら
 files:
   Akumajou Dracula (Japan).zip
   Akumajou Dracula (Japan) (Beta) (1991-06-14).zip
   Akumajou Dracula (Japan) (Castlevania Anniversary Collection).zip
   Akumajou Dracula (Japan) (Virtual Console).zip
+publisher: コナミ
+description:
+  コナミより1991年10月31日にスーパーファミコン用ソフトとして発売された横スクロール型アクションゲーム。同社の『悪魔城ドラキュラ』シリーズのSFC版第1弾となる。おどろおどろしい世界観をみごとに表現した美しいグラフィック、絶妙に再現されたムチの細かな動きのほか、隠し部屋や隠しアイテムといったやりこみ要素も満載。英雄の血を受け継ぐシモンとなり、鮮やかなムチさばきで魔物たちを倒そう。
 
-game: Akumajou Dracula XX (Japan)
+game: 悪魔城ドラキュラXX
+sort_title: あくまじょうどらきゅらXX
 files:
   Akumajou Dracula XX (Japan).zip
   Akumajou Dracula XX (Japan) (Castlevania Advance Collection).zip
+publisher: コナミ
+description:
+  コナミより1995年7月21日にスーパーファミコン用ソフトとして発売されたアクションゲーム。PCエンジンで人気を博した傑作ホラーアクション『悪魔城ドラキュラX　血の輪廻』が、ステージ構成やデモシーンなどを大きく変更するなどアレンジを加えてスーパーファミコンに移植された作品。主人公リヒター・ベルモンドを操作して、復活したドラキュラ伯爵の野望が渦巻く悪魔城を舞台に、聖なるムチを駆使して戦おう。
 
 game: Al Unser Jr.'s Road to the Top (Europe)
 file: Al Unser Jr.'s Road to the Top (Europe).zip
@@ -397,10 +441,9 @@ files:
   Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-04-11).zip
 
 game: Arcana (USA)
-file: Arcana (USA).zip
-
-game: Arcana (USA) (Beta)
-file: Arcana (USA) (Beta).zip
+files:
+  Arcana (USA).zip
+  Arcana (USA) (Beta).zip
 
 game: Archer Maclean's Super Dropzone (Europe)
 file: Archer Maclean's Super Dropzone (Europe).zip
@@ -422,19 +465,31 @@ files:
 game: Ardy Lightfoot (USA)
 file: Ardy Lightfoot (USA).zip
 
-game: Area 88 (Japan)
+game: エリア88
+sort_title: えりあ88
 file: Area 88 (Japan).zip
+publisher: CAPCOM
+description:
+  カプコンより1991年7月26日にスーパーファミコン用ソフトとして発売されたシューティングゲーム。新谷かおるの漫画『エリア88』をゲーム化したもので、業務用からの移植作品。主人公3名のいずれかを選択し「プロジェクト4」壊滅のため戦闘を行うという内容。各ステージで敵を追撃して賞金を稼ぎ、そのお金でミサイルなどの武器を買ったり新しい機体に買い換えたりして、どんどんパワーアップさせていく。
 
-game: Aretha (Japan)
+game: アレサ
+sort_title: あれさ1
 files:
   Aretha (Japan).zip
   Aretha (Japan) (Rev 1) (NP).zip
+publisher: やまのん
+description:
+  やのまんより1993年11月26日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『アレサシリーズ』の一作。ストーリーは軽快に進行し、わかりやすく、移動を始めとして操作性も良い。しかし、お使いイベントが多いシナリオに終始しており謎解きが無い。戦闘では最大で4方向に出現する敵を倒しては方向を切り替えて敵と戦闘しなければならない、戦闘ダメージが数値化しないなど、難点もある。
 
-game: Aretha II - Ariel no Fushigi na Tabi (Japan)
+game: アレサII アリエルの不思議な旅
+sort_title: あれさ2ありえるのふしぎなたび
 files:
   Aretha II - Ariel no Fushigi na Tabi (Japan).zip
   Aretha II - Ariel no Fushigi na Tabi (Japan) (Beta 1).zip
   Aretha II - Ariel no Fushigi na Tabi (Japan) (Beta 2).zip
+publisher: やまのん
+description:
+  やのまんより1994年12月2日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。SFC版の『アレサシリーズ』の続編。戦闘では前作と同様に最大で4方向に敵が出現するものの、正面に敵がいないことがあるので、側方からの襲撃や背後からの襲撃の場合、まずは方向を変えねばならない。また、戦闘ダメージが数値化され、こちらが打撃を与えた敵と、未だ打撃を与えていない敵が区別できるようになった。
 
 game: Arkanoid - Doh It Again (Japan) (En)
 file: Arkanoid - Doh It Again (Japan) (En).zip

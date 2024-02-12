@@ -1445,10 +1445,9 @@ game: College Football USA 97 (USA)
 file: College Football USA 97 (USA).zip
 
 game: College Slam (USA)
-file: College Slam (USA).zip
-
-game: College Slam (USA) (Beta)
-file: College Slam (USA) (Beta).zip
+files:
+  College Slam (USA).zip
+  College Slam (USA) (Beta).zip
 
 game: Columns (Japan) (NP)
 file: Columns (Japan) (NP).zip
@@ -1469,19 +1468,15 @@ game: Congo's Caper (Europe)
 file: Congo's Caper (Europe).zip
 
 game: Congo's Caper (USA)
-file: Congo's Caper (USA).zip
-
-game: Congo's Caper (USA) (Beta)
-file: Congo's Caper (USA) (Beta).zip
+files:
+  Congo's Caper (USA).zip
+  Congo's Caper (USA) (Beta).zip
 
 game: Contra III - The Alien Wars (USA)
-file: Contra III - The Alien Wars (USA).zip
-
-game: Contra III - The Alien Wars (USA) (Beta)
-file: Contra III - The Alien Wars (USA) (Beta).zip
-
-game: Contra III - The Alien Wars (USA) (Virtual Console)
-file: Contra III - The Alien Wars (USA) (Virtual Console).zip
+files:
+  Contra III - The Alien Wars (USA).zip
+  Contra III - The Alien Wars (USA) (Beta).zip
+  Contra III - The Alien Wars (USA) (Virtual Console).zip
 
 game: Contra III - The Alien Wars (World) (Contra Anniversary Collection)
 file: Contra III - The Alien Wars (World) (Contra Anniversary Collection).zip
@@ -1489,11 +1484,10 @@ file: Contra III - The Alien Wars (World) (Contra Anniversary Collection).zip
 game: Contra IV - The Alien Wars (USA) (Beta)
 file: Contra IV - The Alien Wars (USA) (Beta).zip
 
-game: Contra Spirits (Japan) (Demo)
-file: Contra Spirits (Japan) (Demo).zip
-
 game: Contra Spirits (Japan) (En)
-file: Contra Spirits (Japan) (En).zip
+files:
+  Contra Spirits (Japan) (En).zip
+  Contra Spirits (Japan) (Demo).zip
 
 game: Contra Spirits (World) (Contra Anniversary Collection)
 file: Contra Spirits (World) (Contra Anniversary Collection).zip
@@ -1559,10 +1553,9 @@ game: CutThroat Island (Europe)
 file: CutThroat Island (Europe).zip
 
 game: CutThroat Island (USA)
-file: CutThroat Island (USA).zip
-
-game: CutThroat Island (USA) (Beta)
-file: CutThroat Island (USA) (Beta).zip
+files:
+  CutThroat Island (USA).zip
+  CutThroat Island (USA) (Beta).zip
 
 game: CX4 (World) (Enhancement Chip)
 file: CX4 (World) (Enhancement Chip).zip
@@ -1601,17 +1594,25 @@ files:
   Daffy Duck - The Marvin Missions (USA).zip
   Daffy Duck - The Marvin Missions (USA) (Beta).zip
 
-game: Dai-3-ji Super Robot Taisen (Japan)
+game: 第3次スーパーロボット大戦
+sort_title: だい3じすーぱーろぼっとたいせん
 files:
   Dai-3-ji Super Robot Taisen (Japan).zip
   Dai-3-ji Super Robot Taisen (Japan) (Rev 1).zip
   Dai-3-ji Super Robot Taisen (Japan) (Rev 2).zip
   Dai-3-ji Super Robot Taisen (Japan) (Rev 3).zip
+publisher: バンプレスト
+description:
+  バンプレストより1993年7月23日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。SDで表現されたロボットたちが競演するクロスオーバー作品『スーパーロボット大戦シリーズ』の第3作目。本作では外宇宙から来た異星人とザビ家を指導者に迎え復活したディバイン・クルセイダーズ、それに対抗するロンド・ベル隊の三つ巴の戦いをテーマにしている。選択でのストーリー分岐も含めて全62話となる。
 
-game: Dai-4-ji Super Robot Taisen (Japan)
+game: 第4次スーパーロボット大戦
+sort_title: だい4じすーぱーろぼっとたいせん
 files:
   Dai-4-ji Super Robot Taisen (Japan).zip
   Dai-4-ji Super Robot Taisen (Japan) (Rev 1).zip
+publisher: バンプレスト
+description:
+  バンプレストより1995年3月17日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。SDで表現されたロボットたちが競演するクロスオーバー作品「スーパーロボット大戦」の「DC戦争シリーズ」の第4作目にして最終作。前作から、反撃時の行動選択やオリジナル主人公の設定などが追加。また、敵フェイズにおける行動を選べるマニュアルモード、追加された精神コマンドなど後のシリーズに受け継がれた。
 
 game: Daibakushou Jinsei Gekijou - Dokidoki Seishun Hen (Japan)
 file: Daibakushou Jinsei Gekijou - Dokidoki Seishun Hen (Japan).zip
@@ -2026,28 +2027,56 @@ files:
 game: Dragon Ball Z - Ultime Menace (France)
 file: Dragon Ball Z - Ultime Menace (France).zip
 
-game: Dragon Knight 4 (Japan)
+game: ドラゴンナイト4
+sort_title: どらごんないと4
 file: Dragon Knight 4 (Japan).zip
+publisher: バンプレスト
+description:
+  バンプレストより1996年12月27日にスーパーファミコン用ソフトとして発売されたシミュレーションRPG。パソコンで発売された『ドラゴンナイト』シリーズの第4作でその移植作。前作の十数年後の世界を舞台とし、主人公を前作主人公の息子とするなどして世界観を一新した。シナリオはテーマとしてタイムパラドックスがあり、主人公を変えてほぼ同一のマップ・シナリオを2周する。キャラクターデザインは竹井正樹が担当。
 
-game: Dragon Quest I & II (Japan)
+game: ドラゴンクエストI・II
+sort_title: どらごんくえすと1+2
 file: Dragon Quest I & II (Japan).zip
+publisher: エニックス
+description:
+  エニックスより1993年12月18日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。ファミコンで発売された『ドラゴンクエスト』と『ドラゴンクエストII 悪霊の神々』を1本のソフトとしてリメイク。グラフィック面では、毒の沼地の色が紫色になっていたり、町や城ごとに壁や床の模様、色などに変化を持たせるようになったり、マイラの村での木漏れ日、ロンダルキアへの洞窟の靄など特殊効果も採用。
 
-game: Dragon Quest III - Soshite Densetsu e... (Japan)
+game: ドラゴンクエストIII そして伝説へ…
+sort_title: どらごんくえすと3
 file: Dragon Quest III - Soshite Densetsu e... (Japan).zip
+publisher: エニックス
+description:
+  エニックスより1996年12月6日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。ファミコンで発売された「ドラゴンクエスト3」のリメイク作。「性格」や「すごろく場」が追加されたほか、アイテムが多数増加。単体攻撃武器のほかにブーメランやムチといったグループ攻撃武器や全体攻撃武器が追加された。また、オープニング、ダーマ神殿での「遊び人」への転職、隠しダンジョンが追加されている。
 
-game: Dragon Quest V - Tenkuu no Hanayome (Japan)
+game: ドラゴンクエストV 天空の花嫁
+sort_title: どらごんくえすと4
 file: Dragon Quest V - Tenkuu no Hanayome (Japan).zip
+publisher: エニックス
+description:
+  エニックスより1992年9月27日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ドラゴンクエストシリーズ』の第5作。親子3代に渡るストーリーや物語中盤に結婚という人生の重大なイベントがあることが特徴であり、モンスターを仲間にするシステムがシリーズで初めて導入された。人間の「情」を統一テーマとしており、人生をダイレクトに経験するストーリー展開が冴えわたっている。
 
-game: Dragon Quest VI - Maboroshi no Daichi (Japan)
+game: ドラゴンクエストVI 幻の大地
+sort_title: どらごんくえすと6
 file: Dragon Quest VI - Maboroshi no Daichi (Japan).zip
+publisher: エニックス
+description:
+  エニックスより1995年12月9日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ドラゴンクエストシリーズ』第6作目。もう一つの世界である「幻の大地」の存在を知り「自分探しの旅」に出た主人公が、大魔王を討伐し世界を救出する内容となっている。新しい転職システム、前作同様、モンスターを仲間に出来るシステム、2つの世界を何度も往復するシナリオなどが特徴となる。
 
-game: Dragon Slayer - Eiyuu Densetsu (Japan)
+game: ドラゴンスレイヤー 英雄伝説
+sort_title: どらごんすれいやーえいゆうでんせつ1
 files:
   Dragon Slayer - Eiyuu Densetsu (Japan).zip
   Dragon Slayer - Eiyuu Densetsu (Japan) (Rev 1) (NP).zip
+publisher: エポック社
+description:
+  エニックスより1992年2月14日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。「ドラゴンスレイヤーシリーズ」の第6作目で、その後に独立した『英雄伝説シリーズ』となる。英雄伝説シリーズの「イセルハーサ編」の第1作目となる本作ではイセルハーサを舞台とし、ファーレーン王国の王子セリオスが主人公となる。セリオスは出会った仲間たちと共に、摂政アクダムの野望を阻止するのが目的となる。
 
-game: Dragon Slayer - Eiyuu Densetsu II (Japan)
+game: ドラゴンスレイヤー 英雄伝説II
+sort_title: どらごんすれいやーえいゆうでんせつ2
 file: Dragon Slayer - Eiyuu Densetsu II (Japan).zip
+publisher: エポック社
+description:
+  エポック社より1993年6月4日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ドラゴンスレイヤー英雄伝説』の続編。全6章仕立てとなっており、前作から20年後のイセルハーサと、その地下に広がる国家ファーゲスタが舞台で、前作の主人公セリオスの息子アトラスの物語となる。MPを廃止し「呪文カプセル」を導入、値が大きいほど呪文の効果が上がる「呪文能力」というパラメータが設定された。
 
 game: Dragon View (USA)
 file: Dragon View (USA).zip
@@ -8738,10 +8767,9 @@ description:
   任天堂より1996年11月23日にスーパーファミコン用ソフトとして発売されたアクションゲーム。人気アクション『スーパードンキーコング』シリーズ第3弾。アクションゲームに謎解きの要素をミックス。謎の島「クレミス島」で行方不明になったドンキーとディディーを捜すため、ディクシーと新登場の赤ちゃんコング・ディンキーコングが大活躍する。クレミス島ではどんな冒険がディクシーたちを待っているのだろうか。
 
 game: Super Double Dragon (Europe)
-file: Super Double Dragon (Europe).zip
-
-game: Super Double Dragon (Europe) (Beta)
-file: Super Double Dragon (Europe) (Beta).zip
+files:
+  Super Double Dragon (Europe).zip
+  Super Double Dragon (Europe) (Beta).zip
 
 game: Super Double Dragon (USA)
 file: Super Double Dragon (USA).zip
@@ -8772,20 +8800,40 @@ files:
   Super E.D.F. (Japan) (En).zip
   Super E.D.F. (Japan) (En) (Switch Online).zip
 
-game: Super F1 Circus (Japan)
+game: スーパーF1サーカス
+sort_title: すーぱーえふわんさーかす1
 file: Super F1 Circus (Japan).zip
+publisher: 日本物産
+description:
+  日本物産より1992年7月24日にスーパーファミコン用ソフトとして発売されたレースゲーム。スピード感満点の操作感覚で絶大な人気を博したF1レースゲーム『F1サーカス』シリーズのスーパーファミコン版。緻密なグラフィックがスピード感とリアルな雰囲気を演出。1人のF1ドライバーとして世界を転戦してチャンピオンを目指すワールドチャンピオンシップモードなどの3モードで臨場感抜群のF1レースを体感しよう。
 
-game: Super F1 Circus 2 (Japan)
+game: スーパーF1サーカス2
+sort_title: すーぱーえふわんさーかす2
 file: Super F1 Circus 2 (Japan).zip
+publisher: 日本物産
+description:
+  日本物産より1993年7月29日にスーパーファミコン用ソフトとして発売されたレースゲーム。人気のF1レースゲーム『スーパーF1サーカス』の続編となる。本作では従来の見下ろし視点から3D視点に変更するなど、グラフィック面でパワーアップしている。また、1993年度の選手のデータを搭載しており、選手名も全て実名で登場する。各地のコースを転戦して優勝を目指すのが目的となる。
 
-game: Super F1 Circus 3 (Japan)
+game: スーパーF1サーカス3
+sort_title: すーぱーえふわんさーかす3
 file: Super F1 Circus 3 (Japan).zip
+publisher: 日本物産
+description:
+  日本物産より1994年7月15日にスーパーファミコン用ソフトとして発売されたレースゲーム。実在のチームやドライバーが登場する本格仕様のF1ゲーム『スーパーF1サーカス』シリーズ第3弾。基本システムはそのままに、新たに4人までの同時プレイが可能になり、より白熱した対戦が楽しめるように進化した。また、実際のヨーロッパGPに代わってゲームオリジナルのラテンGPを搭載している。
 
-game: Super F1 Circus Gaiden (Japan)
+game: スーパーF1サーカス外伝
+sort_title: すーぱーえふわんさーかすがいでん
 file: Super F1 Circus Gaiden (Japan).zip
+publisher: 日本物産
+description:
+  日本物産より1995年7月7日にスーパーファミコン用ソフトとして発売されたレースゲーム。大人気レースゲーム『スーパーF1サーカス』シリーズの外伝作品となる。GTカー、グループC、フォーミュラから車種を選び、それぞれのコースで優勝を目指す。ステップアップ、対戦モード、スポットエントリー、タイムアタックと多彩なモードを搭載。スピード感満点の高速スクロールと華麗なドリフト走行が堪能できる。
 
-game: Super F1 Circus Limited (Japan)
+game: スーパーF1サーカス リミテッド
+sort_title: すーぱーえふわんさーかすりみてっど
 file: Super F1 Circus Limited (Japan).zip
+publisher: 日本物産
+description:
+  日本物産より1992年10月23日にスーパーファミコン用ソフトとして発売されたレースゲーム。本作はスピード感抜群の人気F1レースゲーム『スーパーF1サーカス』の、システム面はそのままに、FOCAの認可を取り、チーム名やドライバー名が全て実名化されて登場する限定バージョンとなる。プレイヤーは弱小チームからスタートし、世界の頂点であるワールドチャンプを目指して世界各地を転戦していこう。
 
 game: Super Famicom Aging Program Ver. 1.00 (Japan) (En)
 file: Super Famicom Aging Program Ver. 1.00 (Japan) (En).zip
@@ -8845,62 +8893,120 @@ description:
 game: Super Final Match Tennis (Japan)
 file: Super Final Match Tennis (Japan).zip
 
-game: Super Fire Pro Wrestling - Queen's Special (Japan)
+game: スーパーファイヤープロレスリング クイーンズスペシャル
 file: Super Fire Pro Wrestling - Queen's Special (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1995年6月30日にスーパーファミコン用ソフトとして発売された本格女子プロレスゲーム。『ファイヤープロレスリング』シリーズの一作で、全日本女子プロレスの選手が実名で登場する。アジャコングや豊田真奈美などの人気レスラーはもちろん、OG軍団も参戦し壮絶なファイトを展開。側転、空中殺法などの多彩な技、コーナーポストのかけのぼりなど女子プロレスならではの華麗な戦いが楽しめる。
 
-game: Super Fire Pro Wrestling (Japan)
+game: スーパーファイヤープロレスリング
+sort_title: すーぱーふぁいやーぷろれすりんぐ1
 file: Super Fire Pro Wrestling (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1991年12月20日にスーパーファミコンで発売されたプロレスゲーム。『ファイヤープロレスリングシリーズ』初のスーパーファミコン版。本作ではスタミナが半分以下で倒れている相手を起こすと、頭に星が回るようになり、公式リーグ戦におけるコンティニュー数が無制限になった。ゲームモードは「公式リーグ戦」「エキシビジョンマッチ」「オープンリーグ戦」「イリミネーション」「レスリング道場」の5つ。
 
-game: Super Fire Pro Wrestling 2 (Japan)
+game: スーパーファイヤープロレスリング2
+sort_title: すーぱーふぁいやーぷろれすりんぐ2
 files:
   Super Fire Pro Wrestling 2 (Japan).zip
   Super Fire Pro Wrestling 2 (Japan) (Beta).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1992年12月25日にスーパーファミコン用ソフトとして発売されたプロレスゲーム。人気プロレスゲーム『スーパーファイヤープロレスリング』の続編。炎のカリスマ・沖田勝志など新たに8人が追加され、レスラーは総勢25人になり、試合開始前のパフォーマンスも可能になった。関節技をかけると一瞬にして腕や足を折る「クリティカル」が導入されるなど、よりエキサイティングな試合を楽しむことができる。
 
 game: Super Fire Pro Wrestling 3 (Japan) (Demo)
 file: Super Fire Pro Wrestling 3 (Japan) (Demo).zip
 
-game: Super Fire Pro Wrestling III - Easy Type (Japan)
+game: スーパーファイヤープロレスリングIII イージータイプ
+sort_title: すーぱーふぁいやーぷろれすりんぐ3いーじーたいぷ
 file: Super Fire Pro Wrestling III - Easy Type (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1994年2月4日にスーパーファミコン用ソフトとして発売されたプロレスゲーム。臨場感溢れる本格プレイが人気の『スーパーファイヤープロレスリング3　ファイナルバウト』のイージータイプ版。難易度をやさしくし、遊びやすくなっている。基本的なゲームシステムはそのままに、エディットモードを削除するかわりに、隠しキャラとして登場していたレスラーを最初から選ぶことができる。
 
-game: Super Fire Pro Wrestling III - Final Bout (Japan)
+game: スーパーファイヤープロレスリングIII ファイナルバウト
+sort_title: すーぱーふぁいやーぷろれすりんぐ3
 files:
   Super Fire Pro Wrestling III - Final Bout (Japan).zip
   Super Fire Pro Wrestling III - Final Bout (Japan) (Rev 1).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1993年12月28日にスーパーファミコン用ソフトとして発売されたプロレスゲーム。大人気プロレスゲーム『ファイヤープロレスリング』シリーズの続編。登場キャラクター数は56人と前作より大幅に増加したほか、レスラーの動きや技の数など、さまざまな改良が加えられている。また、4人同時プレイも楽しめるバトルロイヤルモードを新たに搭載している。
 
-game: Super Fire Pro Wrestling Special (Japan)
+game: スーパーファイヤープロレスリング スペシャル
+sort_title: すーぱーふぁいやーぷろれすりんぐすぺしゃる
 files:
   Super Fire Pro Wrestling Special (Japan).zip
   Super Fire Pro Wrestling Special (Japan) (Rev 1).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1994年12月22日にスーパーファミコン用ソフトとして発売されたアクションゲーム。大人気プロレスゲーム『スーパーファイヤープロレスリング』が様々な面でパワーアップしたスペシャルバージョンとなる。所属団体の概念が導入され、登場レスラーの人数も大幅に増加。また、1人の青年となり、プロレス最強を目指して壮絶な戦いを勝ち進む「ストーリーモード」を搭載している。
 
-game: Super Fire Pro Wrestling X (Japan)
+game: スーパーファイヤープロレスリングX
+sort_title: すーぱーふぁいやーぷろれすりんぐX
 file: Super Fire Pro Wrestling X (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1995年12月22日にスーパーファミコン用ソフトとして発売されたプロレスゲーム。様々な機種で大人気のプロレスゲーム『ファイプロ』シリーズの第10弾となる。グラフィックをより大きくリアルなものに一新し、臨場感と迫力満点のバトルを存分に楽しめる。ワールドチャンピオンシップ、ワンナイトドリームマッチ、ハイパーバトルロワイヤルなど熱い7つのモードで本格プロレスを楽しめる。
 
-game: Super Fire Pro Wrestling X Premium (Japan)
+game: スーパーファイヤープロレスリングX プレミアム
+sort_title: すーぱーふぁいやーぷろれすりんぐXぷれみあむ
 file: Super Fire Pro Wrestling X Premium (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1996年3月29日にスーパーファミコン用ソフトとして発売された本格プロレスゲーム。臨場感と迫力満点のバトルを存分に楽しむことができる『スーパーファイヤープロレスリングX』のパワーアップ版となる。大好評のエディットレスラーを登録できる数が大幅に増加。ワールドチャンピオンシップ、ワンナイトドリームマッチ、ハイパーバトルロワイヤルなど熱い各モードを堪能できる。
 
-game: Super Fishing Big Fight (Japan)
+game: スーパーフィッシング ビッグファイト
+sort_title: すーぱーふぃっしんぐびっぐふぁいと
 file: Super Fishing Big Fight (Japan).zip
+publisher: ナグザット
+description:
+  ナグザットより1994年12月16日にスーパーファミコン用ソフトとして発売された。リアルなブラックバス釣りを再現した本格釣りシミュレーション。シナリオモードのほか、プラクティスモードを搭載し、初心者でも気軽にプレイでき、ブラックバス以外にもイトウやアカメなど様々な釣りを楽しむことが可能。巧みなルアーアクションでブラックバスを釣り、バス釣り世界大会での優勝を目指すのが目的となる。
 
-game: Super Formation Soccer (Japan)
+game: スーパーフォーメーションサッカー
+sort_title: すーぱーふぉーめーしょんさっかー1
 file: Super Formation Soccer (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1991年12月13日にスーパーファミコン用ソフトとして発売された。世界の強豪16ヶ国が登場する、ゴール後方からの3D視点を採用した臨場感満点の本格サッカーゲーム。8通りと豊富なフォーメーションを採用し、華麗な個人技の数々もあますところなく再現している。また、2人同時プレイはプレイヤー同士の対戦とコンピュータ相手の協力プレイの2通りのプレイで楽しむことができる。
 
-game: Super Formation Soccer 94 - World Cup Edition (Japan)
+game: スーパーフォーメーションサッカー94 ワールドカップエディション
+sort_title: すーぱーふぉーめーしょんさっかー94a
 file: Super Formation Soccer 94 - World Cup Edition (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1994年6月17日にスーパーファミコン用ソフトとして発売された。94年度ワールドカップの試合形式を再現した、人気サッカーゲーム『フォーメーションサッカー』シリーズの続編。トーナメント戦、リーグ戦、好きな選手でチームを作ってプレイ出来るオールスターモードなど前作でも好評のモードに加えて、全日本チームを操ってワールドカップ出場を目指すアジア予選モードも楽しめる。
 
-game: Super Formation Soccer 94 - World Cup Final Data (Japan)
+game: スーパーフォーメーションサッカー94 ワールドカップファイナルデータ
+sort_title: すーぱーふぉーめーしょんさっかー94b
 file: Super Formation Soccer 94 - World Cup Final Data (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1994年9月22日にスーパーファミコン用ソフトとして発売された。人気サッカーゲーム『スーパーフォーメーションサッカー’94　ワールドカップエディション』に1994年のワールドカップの終了後の24ヵ国の選手のデータを収録し、リーグ戦やトーナメント、ワールドカップモードなど多彩なモードを搭載した。最大4人同時プレイを楽しむことができる。
 
-game: Super Formation Soccer 95 - della Serie A (Japan)
-file: Super Formation Soccer 95 - della Serie A (Japan).zip
+game: スーパーフォーメーションサッカー95 della セリエA
+sort_title: すーぱーふぉーめーしょんさっかー95
+files:
+  Super Formation Soccer 95 - della Serie A (Japan).zip
+  Super Formation Soccer 95 - della Serie A (Japan) (UCC Xaqua Version).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1995年3月31日にスーパーファミコン用ソフトとして発売された。3D風の画面構成でおなじみの『スーパーフォーメーションサッカー』シリーズが、セリエA版としてパワーアップ。操作方法やゲームシステムなどはそのままに、さまざまな状況下から試合を開始する「シチュエーションモード」を追加している。得点後のパフォーマンスやオフサイドルールなども追加されている。
 
-game: Super Formation Soccer 95 - della Serie A (Japan) (UCC Xaqua Version)
-file: Super Formation Soccer 95 - della Serie A (Japan) (UCC Xaqua Version).zip
-
-game: Super Formation Soccer 96 - World Club Edition (Japan)
+game: スーパーフォーメーションサッカー96 ワールドクラブエディション
+sort_title: すーぱーふぉーめーしょんさっかー96
 file: Super Formation Soccer 96 - World Club Edition (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1996年3月29日にスーパーファミコン用ソフトとして発売された。3D風の画面構成でおなじみの『スーパーフォーメーションサッカー』シリーズが、セリエA版としてパワーアップした作品。さまざまな状況下から試合を開始する、シチュエーションモードが加わっている。また、得点後のパフォーマンスやオフサイドルールなども追加されている。
 
-game: Super Formation Soccer II (Japan)
+game: スーパーフォーメーションサッカーII
+sort_title: すーぱーふぉーめーしょんさっかー2
 file: Super Formation Soccer II (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1993年6月11日にスーパーファミコン用ソフトとして発売されたサッカーゲーム。ゴール後方から眺めた感じの3Dタイプの視点が人気のサッカーゲーム第2弾。基本的なシステムなどは前作のをそのままに、全体的にスピードアップ。バックアップでは、セーブもできるようになった。マルチプレイヤー5対応で、4人までプレイできるようにもなっている。
 
 game: Super Full Metal (Europe) (It,Sv) (Proto)
 file: Super Full Metal (Europe) (It,Sv) (Proto).zip

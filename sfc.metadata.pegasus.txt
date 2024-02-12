@@ -8877,19 +8877,12 @@ game: Super Game Boy (Europe) (Beta) (1994-03-24)
 file: Super Game Boy (Europe) (Beta) (1994-03-24).zip
 
 game: Super Game Boy (Japan, USA) (En)
-file: Super Game Boy (Japan, USA) (En).zip
-
-game: Super Game Boy (Japan, USA) (En) (Beta) (1994-03-06)
-file: Super Game Boy (Japan, USA) (En) (Beta) (1994-03-06).zip
-
-game: Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23)
-file: Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23).zip
-
-game: Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23) (Alt)
-file: Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23) (Alt).zip
-
-game: Super Game Boy (Japan, USA) (En) (Rev 1)
-file: Super Game Boy (Japan, USA) (En) (Rev 1).zip
+files:
+  Super Game Boy (Japan, USA) (En).zip
+  Super Game Boy (Japan, USA) (En) (Beta) (1994-03-06).zip
+  Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23).zip
+  Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23) (Alt).zip
+  Super Game Boy (Japan, USA) (En) (Rev 1).zip
 
 game: Super Game Boy (World) (Rev 2)
 file: Super Game Boy (World) (Rev 2).zip
@@ -9792,10 +9785,9 @@ game: Syndicate (USA)
 file: Syndicate (USA).zip
 
 game: Syvalion (Europe)
-file: Syvalion (Europe).zip
-
-game: Syvalion (Europe) (Beta)
-file: Syvalion (Europe) (Beta).zip
+files:
+  Syvalion (Europe).zip
+  Syvalion (Europe) (Beta).zip
 
 game: Syvalion (Japan)
 file: Syvalion (Japan).zip
@@ -10110,10 +10102,9 @@ game: Thunder Spirits (USA)
 file: Thunder Spirits (USA).zip
 
 game: Tick, The (USA)
-file: Tick, The (USA).zip
-
-game: Time Slip (USA) (Beta)
-file: Time Slip (USA) (Beta).zip
+files:
+  Tick, The (USA).zip
+  Time Slip (USA) (Beta).zip
 
 game: Time Trax (Europe)
 file: Time Trax (Europe).zip
@@ -10169,10 +10160,9 @@ game: Tiny Toon Adventures - Buster Busts Loose! (Spain)
 file: Tiny Toon Adventures - Buster Busts Loose! (Spain).zip
 
 game: Tiny Toon Adventures - Buster Busts Loose! (USA)
-file: Tiny Toon Adventures - Buster Busts Loose! (USA).zip
-
-game: Tiny Toon Adventures - Buster Busts Loose! (USA) (Beta)
-file: Tiny Toon Adventures - Buster Busts Loose! (USA) (Beta).zip
+files:
+  Tiny Toon Adventures - Buster Busts Loose! (USA).zip
+  Tiny Toon Adventures - Buster Busts Loose! (USA) (Beta).zip
 
 game: Tiny Toon Adventures - Dotabata Daiundoukai (Japan)
 file: Tiny Toon Adventures - Dotabata Daiundoukai (Japan).zip
@@ -10181,13 +10171,10 @@ game: Tiny Toon Adventures - Wacky Sports Challenge (USA)
 file: Tiny Toon Adventures - Wacky Sports Challenge (USA).zip
 
 game: Tiny Toon Adventures - Wild & Wacky Sports (Europe)
-file: Tiny Toon Adventures - Wild & Wacky Sports (Europe).zip
-
-game: Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Beta)
-file: Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Beta).zip
-
-game: Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Rev 1)
-file: Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Rev 1).zip
+files:
+  Tiny Toon Adventures - Wild & Wacky Sports (Europe).zip
+  Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Beta).zip
+  Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Rev 1).zip
 
 game: Tiny Toon Adventures (Japan)
 files:
@@ -10198,10 +10185,9 @@ game: TKO Super Championship Boxing (Europe)
 file: TKO Super Championship Boxing (Europe).zip
 
 game: TKO Super Championship Boxing (USA)
-file: TKO Super Championship Boxing (USA).zip
-
-game: TKO Super Championship Boxing (USA) (Sample) (1992-08-xx)
-file: TKO Super Championship Boxing (USA) (Sample) (1992-08-xx).zip
+files:
+  TKO Super Championship Boxing (USA).zip
+  TKO Super Championship Boxing (USA) (Sample) (1992-08-xx).zip
 
 game: TNN Bass Tournament of Champions (USA)
 file: TNN Bass Tournament of Champions (USA).zip
@@ -10210,10 +10196,9 @@ game: Todd McFarlane's Spawn - The Video Game (Europe)
 file: Todd McFarlane's Spawn - The Video Game (Europe).zip
 
 game: Todd McFarlane's Spawn - The Video Game (USA)
-file: Todd McFarlane's Spawn - The Video Game (USA).zip
-
-game: Todd McFarlane's Spawn - The Video Game (USA) (Beta)
-file: Todd McFarlane's Spawn - The Video Game (USA) (Beta).zip
+files:
+  Todd McFarlane's Spawn - The Video Game (USA).zip
+  Todd McFarlane's Spawn - The Video Game (USA) (Beta).zip
 
 game: Tokimeki Memorial - Densetsu no Ki no Shita de (Japan)
 files:
@@ -10367,13 +10352,10 @@ game: Trinea (Japan)
 file: Trinea (Japan).zip
 
 game: Troddlers (Europe)
-file: Troddlers (Europe).zip
-
-game: Troddlers (Europe) (Beta) (1992-10-23)
-file: Troddlers (Europe) (Beta) (1992-10-23).zip
-
-game: Troddlers (Europe) (Beta) (1993-02-03)
-file: Troddlers (Europe) (Beta) (1993-02-03).zip
+files:
+  Troddlers (Europe).zip
+  Troddlers (Europe) (Beta) (1992-10-23).zip
+  Troddlers (Europe) (Beta) (1993-02-03).zip
 
 game: Troddlers (Japan) (En) (Proto) (1993-02-10)
 file: Troddlers (Japan) (En) (Proto) (1993-02-10).zip
@@ -10409,10 +10391,9 @@ game: True Lies (Japan) (En)
 file: True Lies (Japan) (En).zip
 
 game: True Lies (USA)
-file: True Lies (USA).zip
-
-game: True Lies (USA) (Beta)
-file: True Lies (USA) (Beta).zip
+files:
+  True Lies (USA).zip
+  True Lies (USA) (Beta).zip
 
 game: Trump Island (Japan)
 file: Trump Island (Japan).zip
@@ -10497,10 +10478,9 @@ game: Ultima - The Black Gate (USA)
 file: Ultima - The Black Gate (USA).zip
 
 game: Ultima - The False Prophet (USA)
-file: Ultima - The False Prophet (USA).zip
-
-game: Ultima - The False Prophet (USA) (Beta)
-file: Ultima - The False Prophet (USA) (Beta).zip
+files:
+  Ultima - The False Prophet (USA).zip
+  Ultima - The False Prophet (USA) (Beta).zip
 
 game: Ultima Gaiden - Kuro Kishi no Inbou (Japan)
 file: Ultima Gaiden - Kuro Kishi no Inbou (Japan).zip
@@ -10580,10 +10560,9 @@ game: Uniracers (USA)
 file: Uniracers (USA).zip
 
 game: Unirally (Europe)
-file: Unirally (Europe).zip
-
-game: Unirally (Europe) (Beta) (1994-11-29)
-file: Unirally (Europe) (Beta) (1994-11-29).zip
+files:
+  Unirally (Europe).zip
+  Unirally (Europe) (Beta) (1994-11-29).zip
 
 game: Universal Soldier (USA) (Proto)
 file: Universal Soldier (USA) (Proto).zip

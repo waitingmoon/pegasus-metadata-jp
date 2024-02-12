@@ -782,29 +782,61 @@ files:
  Bishoujo Janshi Suchie-Pai (Japan).zip
  Bishoujo Janshi Suchie-Pai (Japan) (Rev 1).zip 
 
-game: Bishoujo Senshi Sailor Moon - Another Story (Japan)
+game: 美少女戦士セーラームーン ANOTHER STORY
+sort_title: びしょうじょせんしせーらーむーんあなざーすとーりー
 file: Bishoujo Senshi Sailor Moon - Another Story (Japan).zip
+publisher: エンジェル
+description:
+ エンジェルより1995年9月22日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。10人のセーラー戦士がプレイキャラクターになる。「運命」をテーマとしており、ある目的のためにセーラー戦士達がこれまでに倒してきた敵を復活させて運命を変えようとする敵組織「ヘル・デスティニー」にセーラー戦士達が立ち向かう。原作者である武内直子が書き下ろしの完全なオリジナルストーリーを採用している。
 
-game: Bishoujo Senshi Sailor Moon (Japan)
+game: 美少女戦士セーラームーン
+sort_title: びしょうじょせんしせーらーむーん
 file: Bishoujo Senshi Sailor Moon (Japan).zip
+publisher: エンジェル
+description:
+ エンジェルより1993年8月27日にスーパーファミコン用ソフトとして発売されたベルトスクロールアクションゲーム。アニメやコミックで大人気の『美少女戦士セーラームーン』が登場する。セーラームーン、セーラーマーキュリー、セーラーマーズ、セーラージュピター、セーラーヴィーナスの5人から操作キャラを1人選び、パンチやキック、おなじみの必殺技を駆使して敵を倒していこう。
 
-game: Bishoujo Senshi Sailor Moon R (Japan)
+game: 美少女戦士セーラームーンR
+sort_title: びしょうじょせんしせーらーむーんR
 file: Bishoujo Senshi Sailor Moon R (Japan).zip
+publisher: バンダイ
+description:
+ バンダイより1993年12月29日にスーパーファミコン用ソフトとして発売された格闘アクションゲーム。人気アニメ『美少女戦士セーラームーンR』を題材にしたゲーム作品となる。セーラー戦士から操作するキャラを選び、向かってくる敵を倒して行く横スクロールアクションのストーリーモードと、ちびうさが主人公のちびうさモード、セーラー戦士同士で戦うことができる対戦格闘モードなど、多彩なモードを用意している。
 
-game: Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan)
+game: 美少女戦士セーラームーンS 場外乱闘!? 主役争奪戦
+sort_title: びしょうじょせんしせーらーむーんSじょうがいらんとうしゅやくそうだつせん
 file: Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan).zip
+publisher: エンジェル
+description:
+ エンジェルより1994年12月16日にスーパーファミコン用ソフトとして発売された対戦格闘アクションゲーム。人気アニメ『美少女戦士セーラームーンS』でおなじみのセーラー戦士たちが、主役争奪を目指して戦う。セーラームーン、ちびムーンが主人公のストーリーモードと、好きなキャラを選んで対戦できるVSモードを搭載。必殺技が簡単に出せるオートモードを設定可能など、初心者でも楽しめる作りになっている。
 
-game: Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan)
+game: 美少女戦士セーラームーンS こんどはパズルでおしおきよ!
+sort_title: びしょうじょせんしせーらーむーんSこんどはぱずるでおしおきよ
 file: Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan).zip
+publisher: バンダイ
+description:
+ バンダイより1994年7月15日にスーパーファミコン用ソフトとして発売された。アニメやコミックで人気の『美少女戦士セーラームーンS』が落ちものアクションパズルゲーム。最初からすでに積まれているブロックを、2個以上同じ色で隣り合わせに消していき、全部消せばクリアとなる。ブロックを消してゲージを溜めると、ゲージの量によりレベルの異なるキャラクター特有の必殺技を出すことができる。
 
-game: Bishoujo Senshi Sailor Moon S - Kurukkurin (Japan)
+game: 美少女戦士セーラームーンS くるっくりん
+sort_title: びしょうじょせんしせーらーむーんSくるっくりん
 file: Bishoujo Senshi Sailor Moon S - Kurukkurin (Japan).zip
+publisher: バンダイ
+description:
+ バンダイより1995年2月24日にスーパーファミコン用ソフトとして発売された対戦パズルゲーム。人気アニメ『美少女戦士セーラームーンS』のゲーム化作品。画面上のハートをめくって隣り合う同じ色のハートを消していき、相手より早くタリスマンを3つ獲得することが目的となる。それぞれキャラクターには必殺技が用意されており、選んだキャラクターによって異なる戦い方でパズルを楽しめる。
 
-game: Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic (Japan)
+game: 美少女戦士セーラームーンSuperS ふわふわパニック
+sort_title: びしょうじょせんしせーらーむーんSuperSふわふわぱにっく
 file: Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic (Japan).zip
+publisher: バンダイ
+description:
+ バンダイより1995年12月8日にスーパーファミコン用ソフトとして発売されたパズルゲーム。大人気アニメ『美少女戦士セーラームーンSuperS』のゲーム化作品でセーラームーンやセーラーちびムーンなど、おなじみのキャラクターたちが登場する。一定間隔で1列に並んで浮いてくる風船を同色を並べたり、光線で割ったりして消していく。パワーゲージをためることでそれぞれ固有の必殺技を使用することができる。
 
-game: Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen (Japan)
+game: 美少女戦士セーラームーンSuperS 全員参加!! 主役争奪戦
+sort_title: びしょうじょせんしせーらーむーんSuperSぜんいんさんかしゅやくそうだつせん
 file: Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen (Japan).zip
+publisher: エンジェル
+description:
+ エンジェルより1996年3月29日にスーパーファミコン用ソフトとして発売された対戦格闘アクションゲーム。大人気の『美少女戦士セーラームーンSuperS』のセーラー戦士たちが主役の座を賭けて戦う。戦闘開始時に能力値を割り振ることが可能。ムーン、マーキュリー、マーズ、ジュピター、ヴィーナス、ちびムーンとのバトルに勝ち抜き、ウラヌス、ネプチューン、プルート、サターンの4戦士に挑戦しよう。
 
 game: Bishoujo Wrestler Retsuden - Blizzard Yuki Rannyuu!! (Japan)
 file: Bishoujo Wrestler Retsuden - Blizzard Yuki Rannyuu!! (Japan).zip
@@ -2393,10 +2425,9 @@ game: Fighting Baseball (Japan)
 file: Fighting Baseball (Japan).zip
 
 game: Final Fantasy - Mystic Quest (USA)
-file: Final Fantasy - Mystic Quest (USA).zip
-
-game: Final Fantasy - Mystic Quest (USA) (Rev 1)
-file: Final Fantasy - Mystic Quest (USA) (Rev 1).zip
+files:
+ Final Fantasy - Mystic Quest (USA).zip
+ Final Fantasy - Mystic Quest (USA) (Rev 1).zip
 
 game: Final Fantasy II (USA, Europe) (Rev 1) (Virtual Console)
 file: Final Fantasy II (USA, Europe) (Rev 1) (Virtual Console).zip
@@ -2511,19 +2542,31 @@ files:
  Finalset (Japan).zip
  Finalset (Japan) (Beta).zip
 
-game: Fire Emblem - Monshou no Nazo (Japan)
+game: ファイアーエムブレム 紋章の謎
+sort_title: ふぁいあーえむぶれむもんしょうのなぞ
 files:
  Fire Emblem - Monshou no Nazo (Japan).zip
  Fire Emblem - Monshou no Nazo (Japan) (Rev 1).zip
+publisher: 任天堂
+description:
+ 任天堂より1994年1月21日にスーパーファミコン用ソフトとして発売されたシミュレーションRPG。ファミコンで発売された『ファイアーエムブレム 暗黒竜と光の剣』の続編で、『暗黒竜と光の剣』のリメイクを『第1部:暗黒戦争編 暗黒竜と光の剣』として、その後日談の『第2部:英雄戦争編 紋章の謎』を収録した2部構成である。今作より行動を終了したユニットを再行動させるユニット踊り子が初登場した。
 
-game: Fire Emblem - Seisen no Keifu (Japan)
+game: ファイアーエムブレム 聖戦の系譜
+sort_title: ふぁいあーえむぶれむせいせんのけいふ
 file: Fire Emblem - Seisen no Keifu (Japan).zip
+publisher: 任天堂
+description:
+ 任天堂より1996年5月14日にスーパーファミコン用ソフトとして発売されたシミュレーションRPG。ファイアーエムブレムシリーズ第4作目。「聖戦」と呼ばれる戦争によって平和がもたらされたという伝説の残るユグドラル大陸が物語の舞台。自国の平和や他国への侵攻を望む様々な国家が密接に関わり合い、国同士の間で起こる戦争が物語の中心となる。悲劇的な展開も特徴で、「戦争の悲惨さを伝えること」が製作の趣旨となる。
 
-game: Fire Emblem - Thracia 776 (Japan)
+game: ファイアーエムブレム トラキア776
+sort_title: ふぁいあーえむぶれむとらきあ776
 files:
  Fire Emblem - Thracia 776 (Japan).zip
  Fire Emblem - Thracia 776 (Japan) (NP).zip
  Fire Emblem - Thracia 776 (Japan) (Rev 1) (NP).zip
+ publisher: 任天堂
+ description:
+  任天堂より1999年9月1日にスーパーファミコン用(ニンテンドーパワー書き換え専)ソフトとして発売されたシミュレーションRPG。『ファイアーエムブレムシリーズ』第5作目で、前作『聖戦の系譜』の外伝となる。主人公のリーフ王子を操作し、レンスター王国復興のために戦いを挑む。新たに「疲労」「体格」「行動」などの要素が追加された。また、2000年1月21日にROMカセットソフトとしても発売されている。
 
 game: Fire Fighting (Japan)
 file: Fire Fighting (Japan).zip

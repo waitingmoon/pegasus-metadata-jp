@@ -8515,19 +8515,31 @@ file: Super Billiard - Championship Pool (Japan).zip
 game: Super Birdie Rush (Japan)
 file: Super Birdie Rush (Japan).zip
 
-game: Super Black Bass (Japan)
+game: スーパーブラックバス
+sort_title: すーぱーぶらっくばす1
 file: Super Black Bass (Japan).zip
+publisher: ホット・ビィ
+description:
+  ホット・ビィより1992年12月4日にスーパーファミコン用ソフトとして発売された釣りゲーム。湖の上をボートで走り回ってポイントを見つけ、制限時間内に釣り上げたブラックバスの重さで勝負する本格釣りとなる。ポイントによって、ルアーや糸を選択することができるので、戦略を立てて釣りを楽しむことができる。美しいグラフィックにより、ルアーにかかったバスとの格闘などを手に汗握る大迫力で堪能できる。
 
 game: Super Black Bass (USA)
 file: Super Black Bass (USA).zip
 
-game: Super Black Bass 2 (Japan)
+game: スーパーブラックバス2
+sort_title: すーぱーぶらっくばす2
 file: Super Black Bass 2 (Japan).zip
+publisher: スターフィッシュ
+description:
+  スターフィッシュより1994年9月23日にスーパーファミコン用ソフトとして発売された本格釣りゲーム。大迫力のブラックバス釣りを楽しめる『スーパーブラックバス』の続編となる。滑らかで力強い魚の動き、手に汗握るブラックバスとの格闘など、熱い駆け引きをリアルに再現。アメリカバスプロのハンク・パーカーに挑戦し、全米バスプロのチャンピオンシップを勝ち取ろう。魚をボート内の水槽でみることも可能となっている。
 
-game: Super Black Bass 3 (Japan)
+game: スーパーブラックバス3
+sort_title: すーぱーぶらっくばす3
 files:
   Super Black Bass 3 (Japan).zip
   Super Black Bass 3 (Japan) (Rev 1).zip
+publisher: スターフィッシュ
+description:
+  スターフィッシュより1995年12月29日にスーパーファミコン用ソフトとして発売された。大迫力のブラックバス釣りを楽しめる本格釣りシミュレーション『スーパーブラックバス』シリーズ第3弾。季節や時間から、風向き、天候、釣りのスタイルまで自由に設定できるバサーモードや、ジャパン・プロ・トーナメントを行うバスプロモードを始めとする多彩なモードで琵琶湖や河口湖など日本を舞台に釣りを楽しめる。
 
 game: スーパーボンバーマン ぱにっくボンバーW
 sort_title: すーぱーぼんばーまんぱにっくぼんばーわーるど
@@ -8696,22 +8708,34 @@ file: Super Donkey (Japan) (En) (Proto 1) (Zelda no Densetsu - Kamigami no Trifo
 game: Super Donkey (Japan) (En) (Proto 2)
 file: Super Donkey (Japan) (En) (Proto 2).zip
 
-game: Super Donkey Kong (Japan)
+game: スーパードンキーコング
+sort_title: すーぱーどんきーこんぐ1
 files:
   Super Donkey Kong (Japan).zip
   Super Donkey Kong (Japan) (Rev 1).zip 
   Super Donkey Kong (Japan) (Rev 1) (Virtual Console, Classic Mini, Switch Online).zip
+publisher: 任天堂
+description:
+  任天堂より1994年11月26日にスーパーファミコン用ソフトとして発売された横スクロール型アクションゲーム。パワフルなドンキーとすばしっこいディディー、2匹のゴリラが愛嬌たっぷりに大活躍する。6つのエリア、40ステージを収録。ゴリラのアクションも本物からモデリングしている。CG処理をほどこした背景をデジタルアニメーションのゴリラが動き回るシーンは、まるで映画を見ているよう。
 
-game: Super Donkey Kong 2 - Dixie & Diddy (Japan)
+game: スーパードンキーコング2 ディクシー&ディディー
+sort_title: すーぱーどんきーこんぐ2
 files:
   Super Donkey Kong 2 - Dixie & Diddy (Japan).zip
   Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1).zip
   Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1) (Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1995年11月21日にスーパーファミコン用ソフトとして発売されたアクションゲーム。人気アクション『スーパードンキーコング』シリーズのナンバリングタイトル第2作目。さらわれたドンキーコングをディディーとガールフレンドのディクシーが助け出す。よりリアルに美しくなったグラフィックから心に残るサウンドまで、全てがハイクオリティにパワーアップ。また、ニューアクションやイベントも充実している。
 
-game: Super Donkey Kong 3 - Nazo no Kremis-tou (Japan)
+game: スーパードンキーコング3 謎のクレミス島
+sort_title: すーぱーどんきーこんぐ3
 files:
   Super Donkey Kong 3 - Nazo no Kremis-tou (Japan).zip
   Super Donkey Kong 3 - Nazo no Kremis-tou (Japan) (Rev 1).zip
+publisher: 任天堂
+description:
+  任天堂より1996年11月23日にスーパーファミコン用ソフトとして発売されたアクションゲーム。人気アクション『スーパードンキーコング』シリーズ第3弾。アクションゲームに謎解きの要素をミックス。謎の島「クレミス島」で行方不明になったドンキーとディディーを捜すため、ディクシーと新登場の赤ちゃんコング・ディンキーコングが大活躍する。クレミス島ではどんな冒険がディクシーたちを待っているのだろうか。
 
 game: Super Double Dragon (Europe)
 file: Super Double Dragon (Europe).zip
@@ -8781,22 +8805,42 @@ file: Super Family Gelaende (Japan) (NP).zip
 game: Super Family Tennis (Japan)
 file: Super Family Tennis (Japan).zip
 
-game: Super Famista (Japan)
+game: スーパーファミスタ
+sort_title: すーぱーふぁみすた1
 file: Super Famista (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1992年03月27日にスーパーファミコン用ソフトとして発売された。ファミコンで好評を博したプロ野球ゲーム『ファミスタ』シリーズのスーパーファミコン版第1作。基本的な操作システムはそのままに、グラフィックの向上やチーム数の大幅増加など随所が進化。ドラフトで選手を獲得してから公式戦を行うドラフトモード、1つのチームで紅組、白組に分かれて戦う紅白戦モードも搭載している。
 
-game: Super Famista 2 (Japan)
+game: スーパーファミスタ2
+sort_title: すーぱーふぁみすた2
 file: Super Famista 2 (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1993年03月12日にスーパーファミコン用ソフトとして発売された。おなじみ野球ゲームの名作『ファミスタ』シリーズのスーパーファミコン版第2弾。ファミコン版から受け継がれてきた基本的なシステムや操作性の良さはそのままに、1992年シーズンのデータをもとにセ・パ12球団の魅力を余すところ無く再現している。プレイヤー自身がルーキーとしてチームに入団できるモードも楽しむことができる。
 
-game: Super Famista 3 (Japan)
+game: スーパーファミスタ3
+sort_title: すーぱーふぁみすた3
 file: Super Famista 3 (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1994年3月4日にスーパーファミコン用ソフトとして発売された。ファミコンで人気を博した野球ゲーム『ファミスタ』シリーズのスーパーファミコン版第3弾。94年のデータを基にしており、12球団にオリジナルチームも加えた16チームから6チームを選び、優勝を目指してリーグ戦を戦っていく。全国から有望新人を発掘してオリジナルチームをパワーアップさせることができる。
 
-game: Super Famista 4 (Japan)
+game: スーパーファミスタ4
+sort_title: すーぱーふぁみすた4
 files:
   Super Famista 4 (Japan).zip
   Super Famista 4 (Japan) (Rev 1).zip
+publisher: ナムコ
+description:
+  ナムコより1995年3月3日にスーパーファミコン用ソフトとして発売された。ファミコンで人気を博した野球ゲーム『ファミスタ』シリーズのSFC版第4弾。シンプルな操作性で単純明快なゲームシステムはそのままに、選手に好調・並・不調のバイオリズムが設定されたり、バッティング時のボールの高低などを導入するなど様々な新要素が追加されている。入団テストを受けられる新モードも搭載している。
 
-game: Super Famista 5 (Japan)
+game: スーパーファミスタ5
+sort_title: すーぱーふぁみすた5
 file: Super Famista 5 (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1996年2月29日にスーパーファミコン用ソフトとして発売された。大人気プロ野球ゲーム『スーパーファミスタ』第5弾。高低差を駆使した3D仕様を採用しており、本物さながらの手に汗握る試合を楽しむことができる。チームと球場を自由に選んで対戦する「一球勝負」、勝利試合の成績ごとに資金が追加され好きな選手を補強していく「夢のFA」など、多彩な8モードを搭載している。
 
 game: Super Final Match Tennis (Japan)
 file: Super Final Match Tennis (Japan).zip

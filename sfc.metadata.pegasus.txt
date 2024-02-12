@@ -2412,23 +2412,43 @@ files:
  Final Fantasy III (USA) (Beta).zip
  Final Fantasy III (USA) (Rev 1).zip
 
-game: Final Fantasy IV - Easy Type (Japan)
+game: ファイナルファンタジーIV イージータイプ
+sort_title: ふぁいなるふぁんたじー4いーじーたいぷ
 file: Final Fantasy IV - Easy Type (Japan).zip
+publisher: スクウェア
+description:
+ スクウェアより1991年7月19日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ファイナルファンタジー』シリーズ本編第4作目。本作からタイトルロゴのスタイルが一定となった。また、演出面の向上や戦闘シーンがリアルタイムになった「アクティブタイムバトルシステム」の導入などを特徴としている。本作では初心者向けに難易度を下げるため、全体的なバランスを見直した改訂版となる。
 
-game: Final Fantasy IV (Japan)
+game: ファイナルファンタジーIV
+sort_title: ふぁいなるふぁんたじー4
 files:
  Final Fantasy IV (Japan).zip
  Final Fantasy IV (Japan) (Rev 1).zip
  Final Fantasy IV (Japan) (Rev 1) (Virtual Console).zip
+publisher: スクウェア
+description:
+ スクウェアより1991年7月19日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ファイナルファンタジー』シリーズ本編第4作目。本作からタイトルロゴのスタイルが一定となった。また、演出面の向上や戦闘シーンがリアルタイムになった「アクティブタイムバトルシステム」の導入などを特徴としている。また、前作までの「魔法のレベル」の概念が無くなり、回数制からMPに統合された。
 
-game: Final Fantasy USA - Mystic Quest (Japan)
+game: ファイナルファンタジーUSA ミスティッククエスト
+sort_title: ふぁいなるふぁんたじーUSAみすてぃっくくえすと
 file: Final Fantasy USA - Mystic Quest (Japan).zip
+publisher: スクウェア
+description:
+ スクウェアより1993年9月10日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。同社の『ファイナルファンタジーシリーズ』の外伝的作品。主人公のザッシュを操作し、仲間たちと共に「フォーカスタワー」に君臨するダークキングを倒してクリスタルの力を復活させ4つの地域を救出する事を目的としている。戦闘時に属性が重要視されている事やテキストによるメッセージが少ない事などを特徴としている。
 
-game: Final Fantasy V (Japan)
+game: ファイナルファンタジーV
+sort_title: ふぁいなるふぁんたじー5
 file: Final Fantasy V (Japan).zip
+publisher: スクウェア
+description:
+ スクウェアより1992年12月6日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ファイナルファンタジーシリーズ』の本編第5作目。主人公バッツ、レナ、ファリス、ガラフ(前半)、クルル(後半)を操作し、クリスタルが破壊された事により甦ったエクスデスを倒して世界を救出する事を目的としている。『ファイナルファンタジー3』から継承されたジョブチェンジシステムが導入されている。
 
-game: Final Fantasy VI (Japan)
+game: ファイナルファンタジーVI
+sort_title: ふぁいなるふぁんたじー6
 file: Final Fantasy VI (Japan).zip
+publisher: スクウェア
+description:
+ スクウェアより1994年4月2日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。同社の『ファイナルファンタジーシリーズ』本編第6作目。様々な主人公を操作し、魔法の力が失われた世界を舞台にガストラ帝国を倒して世界征服の野望を阻止する事を目的としている。過去のシリーズでは戦闘手段のひとつでしかなかった「魔法」をストーリーの中心に持ち込んでおり、後の同シリーズにも引き継がれた。
 
 game: Final Fight (Europe)
 files:

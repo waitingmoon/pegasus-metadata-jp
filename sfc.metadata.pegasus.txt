@@ -2920,10 +2920,9 @@ game: Genjuu Ryodan (Japan) (NP)
 file: Genjuu Ryodan (Japan) (NP).zip
 
 game: Genocide 2 (Japan)
-file: Genocide 2 (Japan).zip
-
-game: Genocide 2 (Japan) (Beta)
-file: Genocide 2 (Japan) (Beta).zip
+files:
+  Genocide 2 (Japan).zip
+  Genocide 2 (Japan) (Beta).zip
 
 game: George Foreman's KO Boxing (Europe)
 file: George Foreman's KO Boxing (Europe).zip
@@ -2950,10 +2949,9 @@ game: Ghost Chaser Densei (Japan)
 file: Ghost Chaser Densei (Japan).zip
 
 game: Ghoul Patrol (Europe)
-file: Ghoul Patrol (Europe).zip
-
-game: Ghoul Patrol (Europe) (Beta)
-file: Ghoul Patrol (Europe) (Beta).zip
+files:
+  Ghoul Patrol (Europe).zip
+  Ghoul Patrol (Europe) (Beta).zip
 
 game: Ghoul Patrol (Japan)
 file: Ghoul Patrol (Japan).zip
@@ -2996,10 +2994,9 @@ game: Gods (Europe)
 file: Gods (Europe).zip
 
 game: Gods (USA)
-file: Gods (USA).zip
-
-game: Gods (USA) (Beta)
-file: Gods (USA) (Beta).zip
+files:
+  Gods (USA).zip
+  Gods (USA) (Beta).zip
 
 game: Gojira - Kaijuu Daikessen (Japan)
 files:
@@ -3157,10 +3154,9 @@ game: Hameln no Violin Hiki (Japan)
 file: Hameln no Violin Hiki (Japan).zip
 
 game: Hammer Lock Wrestling (USA)
-file: Hammer Lock Wrestling (USA).zip
-
-game: Hammer Lock Wrestling (USA) (Beta)
-file: Hammer Lock Wrestling (USA) (Beta).zip
+files:
+  Hammer Lock Wrestling (USA).zip
+  Hammer Lock Wrestling (USA) (Beta).zip
 
 game: Hana no Keiji - Kumo no Kanata ni (Japan)
 file: Hana no Keiji - Kumo no Kanata ni (Japan).zip
@@ -3193,10 +3189,9 @@ game: Harley's Humongous Adventure (Europe)
 file: Harley's Humongous Adventure (Europe).zip
 
 game: Harley's Humongous Adventure (USA)
-file: Harley's Humongous Adventure (USA).zip
-
-game: Harley's Humongous Adventure (USA) (Beta)
-file: Harley's Humongous Adventure (USA) (Beta).zip
+files:
+  Harley's Humongous Adventure (USA).zip
+  Harley's Humongous Adventure (USA) (Beta).zip
 
 game: Harvest Moon (Europe)
 file: Harvest Moon (Europe).zip
@@ -3205,10 +3200,9 @@ game: Harvest Moon (Germany)
 file: Harvest Moon (Germany).zip
 
 game: Harvest Moon (USA)
-file: Harvest Moon (USA).zip
-
-game: Harvest Moon (USA) (Beta)
-file: Harvest Moon (USA) (Beta).zip
+files:
+  Harvest Moon (USA).zip
+  Harvest Moon (USA) (Beta).zip
 
 game: Hashire Hebereke (Japan)
 file: Hashire Hebereke (Japan).zip
@@ -3409,10 +3403,9 @@ game: Hook (Japan)
 file: Hook (Japan).zip
 
 game: Hook (USA)
-file: Hook (USA).zip
-
-game: Hook (USA) (Beta)
-file: Hook (USA) (Beta).zip
+files:
+  Hook (USA).zip
+  Hook (USA) (Beta).zip
 
 game: Hoshi no Kirby 3 (Japan)
 file: Hoshi no Kirby 3 (Japan).zip
@@ -3460,19 +3453,17 @@ game: Hungry Dinosaurs (Europe)
 file: Hungry Dinosaurs (Europe).zip
 
 game: Hunt for Red October, The (Europe)
-file: Hunt for Red October, The (Europe).zip
-
-game: Hunt for Red October, The (Europe) (Beta)
-file: Hunt for Red October, The (Europe) (Beta).zip
+files:
+  Hunt for Red October, The (Europe).zip
+  Hunt for Red October, The (Europe) (Beta).zip
 
 game: Hunt for Red October, The (USA)
 file: Hunt for Red October, The (USA).zip
 
 game: Hurricanes (Europe)
-file: Hurricanes (Europe).zip
-
-game: Hurricanes (Europe) (Beta)
-file: Hurricanes (Europe) (Beta).zip
+files:
+  Hurricanes (Europe).zip
+  Hurricanes (Europe) (Beta).zip
 
 game: Hurricanes (USA)
 file: Hurricanes (USA).zip
@@ -3483,10 +3474,9 @@ files:
   Hyper Iria (Japan) (Sample) (1995-07-03).zip
 
 game: Hyper V-Ball (Europe)
-file: Hyper V-Ball (Europe).zip
-
-game: Hyper V-Ball (Europe) (Beta)
-file: Hyper V-Ball (Europe) (Beta).zip
+files:
+  Hyper V-Ball (Europe).zip
+  Hyper V-Ball (Europe) (Beta).zip
 
 game: Hyper V-Ball (USA)
 file: Hyper V-Ball (USA).zip
@@ -3504,10 +3494,9 @@ game: Idea no Hi (Japan)
 file: Idea no Hi (Japan).zip
 
 game: Ignition Factor, The (USA)
-file: Ignition Factor, The (USA).zip
-
-game: Ignition Factor, The (USA) (Beta)
-file: Ignition Factor, The (USA) (Beta).zip
+files:
+  Ignition Factor, The (USA).zip
+  Ignition Factor, The (USA) (Beta).zip
 
 game: Igo Club (Japan)
 files:
@@ -3521,13 +3510,10 @@ game: Ikari no Yousai (Japan)
 file: Ikari no Yousai (Japan).zip
 
 game: Illusion of Gaia (USA)
-file: Illusion of Gaia (USA).zip
-
-game: Illusion of Gaia (USA) (Beta 1)
-file: Illusion of Gaia (USA) (Beta 1).zip
-
-game: Illusion of Gaia (USA) (Beta 2)
-file: Illusion of Gaia (USA) (Beta 2).zip
+files:
+  Illusion of Gaia (USA).zip
+  Illusion of Gaia (USA) (Beta 1).zip
+  Illusion of Gaia (USA) (Beta 2).zip
 
 game: Illusion of Time (Europe)
 file: Illusion of Time (Europe).zip
@@ -3536,10 +3522,9 @@ game: Illusion of Time (France)
 file: Illusion of Time (France).zip
 
 game: Illusion of Time (Germany)
-file: Illusion of Time (Germany).zip
-
-game: Illusion of Time (Germany) (Rev 1)
-file: Illusion of Time (Germany) (Rev 1).zip
+files:
+  Illusion of Time (Germany).zip
+  Illusion of Time (Germany) (Rev 1).zip
 
 game: Illusion of Time (Spain)
 file: Illusion of Time (Spain).zip
@@ -3550,10 +3535,9 @@ files:
   Illvanian no Shiro (Japan) (Beta) (1994-08-23).zip
 
 game: Imperium (USA)
-file: Imperium (USA).zip
-
-game: Imperium (USA) (Beta)
-file: Imperium (USA) (Beta).zip
+files:
+  Imperium (USA).zip
+  Imperium (USA) (Beta).zip
 
 game: Inazuma Serve da! Super Beach Volley (Japan) (En)
 file: Inazuma Serve da! Super Beach Volley (Japan) (En).zip
@@ -3568,19 +3552,17 @@ game: Incredible Crash Dummies, The (Europe)
 file: Incredible Crash Dummies, The (Europe).zip
 
 game: Incredible Crash Dummies, The (USA)
-file: Incredible Crash Dummies, The (USA).zip
-
-game: Incredible Crash Dummies, The (USA) (Beta)
-file: Incredible Crash Dummies, The (USA) (Beta).zip
+files:
+  Incredible Crash Dummies, The (USA).zip
+  Incredible Crash Dummies, The (USA) (Beta).zip
 
 game: Incredible Hulk, The (Europe)
 file: Incredible Hulk, The (Europe).zip
 
 game: Incredible Hulk, The (USA)
-file: Incredible Hulk, The (USA).zip
-
-game: Incredible Hulk, The (USA) (Beta)
-file: Incredible Hulk, The (USA) (Beta).zip
+files:
+  Incredible Hulk, The (USA).zip
+  Incredible Hulk, The (USA) (Beta).zip
 
 game: Indiana Jones' Greatest Adventures (Europe)
 file: Indiana Jones' Greatest Adventures (Europe).zip
@@ -3668,10 +3650,9 @@ game: Izzy's Quest for the Olympic Rings (Europe)
 file: Izzy's Quest for the Olympic Rings (Europe).zip
 
 game: Izzy's Quest for the Olympic Rings (USA)
-file: Izzy's Quest for the Olympic Rings (USA).zip
-
-game: Izzy's Quest for the Olympic Rings (USA) (Beta)
-file: Izzy's Quest for the Olympic Rings (USA) (Beta).zip
+files:
+  Izzy's Quest for the Olympic Rings (USA).zip
+  Izzy's Quest for the Olympic Rings (USA) (Beta).zip
 
 game: J.League '96 Dream Stadium (Japan)
 file: J.League '96 Dream Stadium (Japan).zip
@@ -3753,13 +3734,10 @@ game: Jeff's Shoot'Em Up (USA) (Proto)
 file: Jeff's Shoot'Em Up (USA) (Proto).zip
 
 game: Jelly Boy (Europe)
-file: Jelly Boy (Europe).zip
-
-game: Jelly Boy (Europe) (Beta 1)
-file: Jelly Boy (Europe) (Beta 1).zip
-
-game: Jelly Boy (Europe) (Beta 2)
-file: Jelly Boy (Europe) (Beta 2).zip
+files:
+  Jelly Boy (Europe).zip
+  Jelly Boy (Europe) (Beta 1).zip
+  Jelly Boy (Europe) (Beta 2).zip
 
 game: Jelly Boy 2 (Japan) (Proto)
 file: Jelly Boy 2 (Japan) (Proto).zip
@@ -3906,28 +3884,23 @@ game: Joe & Mac (USA)
 file: Joe & Mac (USA).zip
 
 game: Joe & Mac 2 - Lost in the Tropics (USA)
-file: Joe & Mac 2 - Lost in the Tropics (USA).zip
-
-game: Joe & Mac 2 - Lost in the Tropics (USA) (Beta 1)
-file: Joe & Mac 2 - Lost in the Tropics (USA) (Beta 1).zip
-
-game: Joe & Mac 2 - Lost in the Tropics (USA) (Beta 2)
-file: Joe & Mac 2 - Lost in the Tropics (USA) (Beta 2).zip
+files:
+  Joe & Mac 2 - Lost in the Tropics (USA).zip
+  Joe & Mac 2 - Lost in the Tropics (USA) (Beta 1).zip
+  Joe & Mac 2 - Lost in the Tropics (USA) (Beta 2).zip
 
 game: Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De)
-file: Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De).zip
-
-game: Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) (Beta)
-file: Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) (Beta).zip
+files:
+  Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De).zip
+  Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) (Beta).zip
 
 game: John Madden Football '93 (Europe)
 file: John Madden Football '93 (Europe).zip
 
 game: John Madden Football '93 (USA)
-file: John Madden Football '93 (USA).zip
-
-game: John Madden Football '93 (USA) (Rev 1)
-file: John Madden Football '93 (USA) (Rev 1).zip
+files:
+  John Madden Football '93 (USA).zip
+  John Madden Football '93 (USA) (Rev 1).zip
 
 game: John Madden Football (USA)
 file: John Madden Football (USA).zip
@@ -4619,16 +4592,11 @@ game: Lion King, The (Japan)
 file: Lion King, The (Japan).zip
 
 game: Lion King, The (USA)
-file: Lion King, The (USA).zip
-
-game: Lion King, The (USA) (Beta 1)
-file: Lion King, The (USA) (Beta 1).zip
-
-game: Lion King, The (USA) (Beta 2)
-file: Lion King, The (USA) (Beta 2).zip
-
-game: Lion King, The (USA) (Beta 3)
-file: Lion King, The (USA) (Beta 3).zip
+files:
+  Lion King, The (USA).zip
+  Lion King, The (USA) (Beta 1).zip
+  Lion King, The (USA) (Beta 2).zip
+  Lion King, The (USA) (Beta 3).zip
 
 game: Lion King, The (World) (Disney Classic Games)
 file: Lion King, The (World) (Disney Classic Games).zip
@@ -8106,73 +8074,39 @@ game: Stable Star - Kyuusha Monogatari (Japan)
 file: Stable Star - Kyuusha Monogatari (Japan).zip
 
 game: Star Fox (Japan)
-file: Star Fox (Japan).zip
-
-game: Star Fox (Japan) (Rev 1)
-file: Star Fox (Japan) (Rev 1).zip
-
+files:
+  Star Fox (Japan).zip
+  Star Fox (Japan) (Rev 1).zip
+  
 game: Star Fox (USA)
-file: Star Fox (USA).zip
-
-game: Star Fox (USA) (Rev 1)
-file: Star Fox (USA) (Rev 1).zip
-
-game: Star Fox (USA) (Rev 2)
-file: Star Fox (USA) (Rev 2).zip
-
-game: Star Fox 2 (Japan) (Beta) (1994-04-15)
-file: Star Fox 2 (Japan) (Beta) (1994-04-15).zip
-
-game: Star Fox 2 (Japan) (Beta) (1994-05-01)
-file: Star Fox 2 (Japan) (Beta) (1994-05-01).zip
-
-game: Star Fox 2 (Japan) (Beta) (1994-05-06)
-file: Star Fox 2 (Japan) (Beta) (1994-05-06).zip
-
-game: Star Fox 2 (Japan) (Beta) (1994-05-13)
-file: Star Fox 2 (Japan) (Beta) (1994-05-13).zip
-
-game: Star Fox 2 (Japan) (Beta) (1994-08-31)
-file: Star Fox 2 (Japan) (Beta) (1994-08-31).zip
-
-game: Star Fox 2 (Japan) (Beta) (1994-12-28) (CES)
-file: Star Fox 2 (Japan) (Beta) (1994-12-28) (CES).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-06-08)
-file: Star Fox 2 (Japan) (Beta) (1995-06-08).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-06-22)
-file: Star Fox 2 (Japan) (Beta) (1995-06-22).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-06-28)
-file: Star Fox 2 (Japan) (Beta) (1995-06-28).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-07-25)
-file: Star Fox 2 (Japan) (Beta) (1995-07-25).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-08-31)
-file: Star Fox 2 (Japan) (Beta) (1995-08-31).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-09-12)
-file: Star Fox 2 (Japan) (Beta) (1995-09-12).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-09-13)
-file: Star Fox 2 (Japan) (Beta) (1995-09-13).zip
-
-game: Star Fox 2 (Japan) (Beta) (1995-09-20) (DEBUG)
-file: Star Fox 2 (Japan) (Beta) (1995-09-20) (DEBUG).zip
+files:
+  Star Fox (USA).zip
+  Star Fox (USA) (Rev 1).zip
+  Star Fox (USA) (Rev 2).zip
 
 game: Star Fox 2 (Japan) (Classic Mini, Switch Online)
-file: Star Fox 2 (Japan) (Classic Mini, Switch Online).zip
+files:
+  Star Fox 2 (Japan) (Classic Mini, Switch Online).zip
+  Star Fox 2 (Japan) (Beta) (1994-04-15).zip
+  Star Fox 2 (Japan) (Beta) (1994-05-01).zip
+  Star Fox 2 (Japan) (Beta) (1994-05-06).zip
+  Star Fox 2 (Japan) (Beta) (1994-05-13).zip
+  Star Fox 2 (Japan) (Beta) (1994-08-31).zip
+  Star Fox 2 (Japan) (Beta) (1994-12-28) (CES).zip
+  Star Fox 2 (Japan) (Beta) (1995-06-08).zip
+  Star Fox 2 (Japan) (Beta) (1995-06-22).zip
+  Star Fox 2 (Japan) (Beta) (1995-06-28).zip
+  Star Fox 2 (Japan) (Beta) (1995-07-25).zip
+  Star Fox 2 (Japan) (Beta) (1995-08-31).zip
+  Star Fox 2 (Japan) (Beta) (1995-09-12).zip
+  Star Fox 2 (Japan) (Beta) (1995-09-13).zip
+  Star Fox 2 (Japan) (Beta) (1995-09-20) (DEBUG).zip
 
 game: Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)
-file: Star Fox 2 (USA, Europe) (Classic Mini, Switch Online).zip
-
-game: Star Fox 2 (USA) (Beta) (1995-09-12)
-file: Star Fox 2 (USA) (Beta) (1995-09-12).zip
-
-game: Star Fox 2 (USA) (Beta) (1995-09-13)
-file: Star Fox 2 (USA) (Beta) (1995-09-13).zip
+files:
+  Star Fox 2 (USA, Europe) (Classic Mini, Switch Online).zip
+  Star Fox 2 (USA) (Beta) (1995-09-12).zip
+  Star Fox 2 (USA) (Beta) (1995-09-13).zip
 
 game: Star Glider (Japan) (Beta) (1992-09-23)
 file: Star Glider (Japan) (Beta) (1992-09-23).zip
@@ -8217,10 +8151,9 @@ game: Stargate (Japan)
 file: Stargate (Japan).zip
 
 game: Stargate (USA)
-file: Stargate (USA).zip
-
-game: Stargate (USA) (Beta)
-file: Stargate (USA) (Beta).zip
+files:
+  Stargate (USA).zip
+  Stargate (USA) (Beta).zip
 
 game: Starwing - Competition (Europe) (Competition Cart)
 file: Starwing - Competition (Europe) (Competition Cart).zip
@@ -8274,10 +8207,9 @@ game: Street Fighter Alpha 2 (USA)
 file: Street Fighter Alpha 2 (USA).zip
 
 game: Street Fighter II (Europe)
-file: Street Fighter II (Europe).zip
-
-game: Street Fighter II (Europe) (Virtual Console)
-file: Street Fighter II (Europe) (Virtual Console).zip
+files:
+  Street Fighter II (Europe).zip
+  Street Fighter II (Europe) (Virtual Console).zip
 
 game: Street Fighter II (Japan)
 files:
@@ -8286,25 +8218,17 @@ files:
   Street Fighter II (Japan) (Virtual Console).zip 
 
 game: Street Fighter II (USA)
-file: Street Fighter II (USA).zip
-
-game: Street Fighter II (USA) (Beta) (1992-04-03)
-file: Street Fighter II (USA) (Beta) (1992-04-03).zip
-
-game: Street Fighter II (USA) (Capcom Town)
-file: Street Fighter II (USA) (Capcom Town).zip
-
-game: Street Fighter II (USA) (Virtual Console)
-file: Street Fighter II (USA) (Virtual Console).zip
+files:
+  Street Fighter II (USA).zip
+  Street Fighter II (USA) (Beta) (1992-04-03).zip
+  Street Fighter II (USA) (Capcom Town).zip
+  Street Fighter II (USA) (Virtual Console).zip
 
 game: Street Fighter II Turbo (Europe)
-file: Street Fighter II Turbo (Europe).zip
-
-game: Street Fighter II Turbo (Europe) (Rev 1)
-file: Street Fighter II Turbo (Europe) (Rev 1).zip
-
-game: Street Fighter II Turbo (Europe) (Rev 1) (Virtual Console)
-file: Street Fighter II Turbo (Europe) (Rev 1) (Virtual Console).zip
+files:
+  Street Fighter II Turbo (Europe).zip
+  Street Fighter II Turbo (Europe) (Rev 1).zip
+  Street Fighter II Turbo (Europe) (Rev 1) (Virtual Console).zip
 
 game: Street Fighter II Turbo (Japan)
 files:
@@ -8312,13 +8236,10 @@ files:
   Street Fighter II Turbo (Japan) (Rev 1) (Virtual Console).zip
 
 game: Street Fighter II Turbo (USA)
-file: Street Fighter II Turbo (USA).zip
-
-game: Street Fighter II Turbo (USA) (Rev 1)
-file: Street Fighter II Turbo (USA) (Rev 1).zip
-
-game: Street Fighter II Turbo (USA) (Rev 1) (Virtual Console)
-file: Street Fighter II Turbo (USA) (Rev 1) (Virtual Console).zip
+files:
+  Street Fighter II Turbo (USA).zip
+  Street Fighter II Turbo (USA) (Rev 1).zip
+  Street Fighter II Turbo (USA) (Rev 1) (Virtual Console).zip
 
 game: Street Fighter Zero 2 (Japan)
 files:
@@ -8329,22 +8250,18 @@ game: Street Hockey '95 (USA) (Beta)
 file: Street Hockey '95 (USA) (Beta).zip
 
 game: Street Racer (Europe)
-file: Street Racer (Europe).zip
-
-game: Street Racer (Europe) (Rev 1)
-file: Street Racer (Europe) (Rev 1).zip
+files:
+  Street Racer (Europe).zip
+  Street Racer (Europe) (Rev 1).zip
 
 game: Street Racer (Japan) (En)
 file: Street Racer (Japan) (En).zip
 
 game: Street Racer (USA)
-file: Street Racer (USA).zip
-
-game: Street Racer (USA) (Beta 1)
-file: Street Racer (USA) (Beta 1).zip
-
-game: Street Racer (USA) (Beta 2)
-file: Street Racer (USA) (Beta 2).zip
+files:
+  Street Racer (USA).zip
+  Street Racer (USA) (Beta 1).zip
+  Street Racer (USA) (Beta 2).zip
 
 game: Street Sports - Jammit (USA)
 file: Street Sports - Jammit (USA).zip
@@ -8359,13 +8276,10 @@ game: Strike Gunner S.T.G (USA)
 file: Strike Gunner S.T.G (USA).zip
 
 game: Striker (Europe) (En,Fr,De,Es,It,Nl,Sv)
-file: Striker (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
-
-game: Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 1)
-file: Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 1).zip
-
-game: Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 2)
-file: Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 2).zip
+files:
+  Striker (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+  Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 1).zip
+  Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 2).zip
 
 game: Stunt Race FX (Europe)
 file: Stunt Race FX (Europe).zip

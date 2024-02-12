@@ -7074,43 +7074,61 @@ file: Rocketeer, The (USA).zip
 game: Rockfall (World) (Unl)
 file: Rockfall (World) (Unl).zip
 
-game: Rockman & Forte (Japan)
+game: ロックマン&フォルテ
+sort_title: ろっくまん&ふぉるて
 file: Rockman & Forte (Japan).zip
+publisher: CAPCOM
+description:
+  カプコンより1998年4月24日にスーパーファミコン用ソフトとして発売されたアクションゲーム。大人気『ロックマン』シリーズが新章に突入。おなじみロックマンに加え、ライバルのフォルテも操作可能。それぞれ特性の違うロックマンとフォルテの2人をステージごとにうまく使い分けることで、異なる攻略方法でステージを進むことができる。世界最強を名乗り、ロボットによる世界征服をたくらむキングを倒すのが目的となる。
 
-game: Rockman 7 - Shukumei no Taiketsu! (Japan)
+game: ロックマン7 宿命の対決!
+sort_title: ろっくまん7しゅくめいのたいけつ
 files:
   Rockman 7 - Shukumei no Taiketsu! (Japan).zip
   Rockman 7 - Shukumei no Taiketsu! (Japan) (Beta).zip
+publisher: CAPCOM
+description:
+  カプコンより1995年3月24日にスーパーファミコン用ソフトとして発売されたアクションゲーム。ボスを倒すごとにボスが使っていた武器を入手できる独自のシステムが人気のアクション『ロックマン』シリーズ第7弾となる。オープニングステージと4つの前半選択ステージ、4つの後半選択ステージを含む全14ステージで構成されている。プレイヤーは主人公ロックマンを操作し、脱獄したDr.ワイリーを倒すのが目的となる。
 
-game: Rockman X (Japan)
+game: ロックマンX
+sort_title: ろっくまんX1
 files:
   Rockman X (Japan).zip
   Rockman X (Japan) (Rev 1).zip
+  Rockman X (World) (Ja) (Mega Man X Legacy Collection).zip
+publisher: CAPCOM
+description:
+  カプコンより1993年12月17日にスーパーファミコン用ソフトとして発売されたアクションゲーム。ボスを倒すごとにボスが使っていた武器を入手できる独自のシステムが人気のアクション『ロックマン』が、舞台を100年後に移してSFCに登場。好評のゲームシステムはそのままに壁蹴りやダッシュなど新しい動作が可能に。主人公エックスを操作し、人間に近い思考回路のロボット「レプリロイド」の反乱に立ち向かう。
 
-game: Rockman X (World) (Ja) (Mega Man X Legacy Collection)
-file: Rockman X (World) (Ja) (Mega Man X Legacy Collection).zip
-
-game: Rockman X2 (Japan)
+game: ロックマンX2
+sort_title: ろっくまんX2
 files:
   Rockman X2 (Japan).zip
   Rockman X2 (Japan) (Beta 1).zip
   Rockman X2 (Japan) (Beta 2).zip
+  Rockman X2 (World) (Ja) (Mega Man X Legacy Collection).zip
+publisher: CAPCOM
+description:
+  カプコンより1994年12月16日にスーパーファミコン用ソフトとして発売されたアクションゲーム。多彩なアクションやハードな世界観が魅力の人気アクション『ロックマンX』の半年後を舞台にした続編。前作より大幅に進化した美しいグラフィックやBGMが、よりゲームを印象的に演出。主人公エックスを操作し大破した親友ゼロのボディパーツを集め、「カウンターハンター」と呼ばれる謎のロボットの正体を突き止めよう。
 
-game: Rockman X2 (World) (Ja) (Mega Man X Legacy Collection)
-file: Rockman X2 (World) (Ja) (Mega Man X Legacy Collection).zip
-
-game: Rockman X3 (Japan)
+game: ロックマンX3
+sort_title: ろっくまんX3
 files:
   Rockman X3 (Japan).zip
   Rockman X3 (Japan) (Beta) (1995-08-09).zip
   Rockman X3 (Japan) (Beta) (1995-08-23).zip
   Rockman X3 (Japan) (Beta) (1995-09-25).zip
+  Rockman X3 (World) (Ja) (Mega Man X Legacy Collection).zip
+publisher: CAPCOM
+description:
+  カプコンより1995年12月1日にスーパーファミコン用ソフトとして発売されたアクションゲーム。エックスとゼロ、2人の主人公が織りなすドラマチックなストーリーの人気アクションゲーム『ロックマンX』シリーズ第3弾。ゼロが使用可能になり、ライドアーマーの種類も増加、必要に応じてステージ中の転送機から呼び出せるようになった。ドップラー博士の悪事を粉砕すべく、エックスとゼロの戦いが再び始まる。
 
-game: Rockman X3 (World) (Ja) (Mega Man X Legacy Collection)
-file: Rockman X3 (World) (Ja) (Mega Man X Legacy Collection).zip
-
-game: Rockman's Soccer (Japan)
+game: ロックマンズサッカー
+sort_title: ろっくまんずさっかー
 file: Rockman's Soccer (Japan).zip
+publisher: CAPCOM
+description:
+  エニックスより1994年3月25日にスーパーファミコン用ソフトとして発売されたサッカーゲーム。大人気『ロックマン』のキャラクターが登場するゲームとなる。各キャラクターに「必殺シュート」が用意されている。ワイリーが率いるロボット軍団に占領されてしまったサッカー場を取り戻すため、様々なチームと戦っていくチャンピオンモードや、トーナメントモード、リーグモードなどを楽しむことができる。
 
 game: Rocko's Modern Life - Spunky's Dangerous Day (USA)
 file: Rocko's Modern Life - Spunky's Dangerous Day (USA).zip

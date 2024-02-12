@@ -77,18 +77,26 @@ file: ActRaiser (France).zip
 game: ActRaiser (Germany)
 file: ActRaiser (Germany).zip
 
-game: Actraiser (Japan)
+game: アクトレイザー
+sort_title: あくとれいざー1
 files:
   Actraiser (Japan).zip
   ActRaiser (Japan) (Virtual Console).zip
+publisher: エニックス
+description:
+  エニックスより1990年12月16日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。主人公である神を操作し、魔王サタンを倒して地上の人々を救出する事を目的としている。横スクロールのアクションパートと「クリエイションモード」という名のシミュレーションゲームパートが存在する事を特徴としている。
 
 game: ActRaiser (USA)
 files:
   ActRaiser (USA).zip
   ActRaiser (USA) (Arcade).zip
 
-game: ActRaiser 2 - Chinmoku e no Seisen (Japan)
+game: アクトレイザー2 沈黙への聖戦
+sort_title: あくとれいざー2ちんもくへのせいせん
 file: ActRaiser 2 - Chinmoku e no Seisen (Japan).zip
+publisher: エニックス
+description:
+  エニックスより1993年10月29日にスーパーファミコン用ソフトとして発売された。神様となり、サタンを倒して世界に平和を取り戻すアクションRPG『アクトレイザー』の続編。本作では純粋なアクションゲームとなった。プレイヤーは神となって横スクロールのステージを進み、剣と魔法を駆使して敵と戦っていく。前作よりもアクションの種類が豊富になり、多彩な動作を使い分けて進むことができる。
 
 game: Actraiser 2 (Europe) (En,Fr,De)
 file: Actraiser 2 (Europe) (En,Fr,De).zip
@@ -8462,28 +8470,39 @@ files:
   Super Black Bass 3 (Japan).zip
   Super Black Bass 3 (Japan) (Rev 1).zip
 
-game: Super Bomberman - Panic Bomber W (Japan)
+game: スーパーボンバーマン ぱにっくボンバーW
+sort_title: すーぱーぼんばーまんぱにっくぼんばーわーるど
 file: Super Bomberman - Panic Bomber W (Japan).zip
+publisher: ハドソン
+description:
+  ハドソンより1995年3月1日にスーパーファミコン用ソフトとして発売された爽快落ち物パズルゲーム。大人気の『ボンバーマン』をモチーフにしている。ボンバーマンが3個1組のL字型になった「コマ」をうまく落とし、同色のボンバーマンを縦・横・斜めのいずれかに3つ以上そろえると消すことができ、爆弾をうまく引火させれば、相手の邪魔をする「コゲボン」を送りこむことが可能となっている。
 
 game: Super Bomberman (Europe)
 file: Super Bomberman (Europe).zip
 
-game: Super Bomberman (Japan)
+game: スーパーボンバーマン
+sort_title: すーぱーぼんばーまん1
 file: Super Bomberman (Japan).zip
+publisher: ハドソン
+description:
+  ハドソンより1993年4月28日にスーパーファミコン用ソフトとして発売されたアクションゲーム。爆弾を配置して爆風で敵を倒す人気アクション『ボンバーマン』シリーズのスーパーファミコン版第1弾。白・黒ボンバーマンを操作して悪の科学者カラット・ダイヤモンドを倒すのを目的とした、通常の全6ワールドの「ノーマルモード」と、白熱の2人対戦を楽しめる「バトルモード」の2種類のモードを搭載している。
 
 game: Super Bomberman (USA)
-file: Super Bomberman (USA).zip
-
-game: Super Bomberman (USA) (Beta) (1993-05-11)
-file: Super Bomberman (USA) (Beta) (1993-05-11).zip
+files:
+  Super Bomberman (USA).zip
+  Super Bomberman (USA) (Beta) (1993-05-11).zip
 
 game: Super Bomberman 2 (Europe)
 file: Super Bomberman 2 (Europe).zip
 
-game: Super Bomberman 2 (Japan) (En)
+game: スーパーボンバーマン2
+sort_title: すーぱーぼんばーまん2
 files:
   Super Bomberman 2 (Japan) (En).zip
   Super Bomberman 2 (Japan) (Caravan You Taikenban).zip
+publisher: ハドソン
+description:
+  ハドソンより1994年4月28日にスーパーファミコン用ソフトとして発売されたアクションゲーム。爆弾を使って敵を倒していく人気アクション『スーパーボンバーマン』シリーズ第2弾。ボンバーマンを操作し、数々のステージをクリアしていく「ノーマルゲーム」モードと、大人数プレイが楽しい対戦ゲームの「バトルゲーム」モードを搭載。ゴールデンボンバーやサドンデス方式の採用で、4人同時プレイがより白熱する。
 
 game: Super Bomberman 2 (USA)
 files:
@@ -8495,16 +8514,28 @@ files:
   Super Bomberman 3 (Europe).zip
   Super Bomberman 3 (Europe) (Beta).zip
 
-game: Super Bomberman 3 (Japan)
+game: スーパーボンバーマン3
+sort_title: すーぱーぼんばーまん3
 file: Super Bomberman 3 (Japan).zip
+publisher: ハドソン
+description:
+  ハドソンより1995年4月28日にスーパーファミコン用ソフトとして発売されたアクションゲーム。爆弾を仕掛けて相手を倒す人気アクション『ボンバーマン』のSFC版第3弾となる。「みそボン」や「PKボンバー」などバトルが一層面白くなる新要素を搭載。ノーマルゲームのほか、最大5人で対戦を楽しめるバトルゲームも収録。プロフェッサー・バグラーに征服された5つの星を奪還するため数々のステージをクリアしていこう。
 
-game: Super Bomberman 4 (Japan)
+game: スーパーボンバーマン4
+sort_title: すーぱーぼんばーまん4
 file: Super Bomberman 4 (Japan).zip
+publisher: ハドソン
+description:
+  ハドソンより1996年4月26日にスーパーファミコン用ソフトとして発売されたアクションゲーム。爆弾を仕掛けて相手を倒す人気アクション『ボンバーマン』のSFC版第4弾。基本システムはそのままに、「ボンバースロー」「ボンバープッシュ」といった新アクションを導入したことで、更にバトルが白熱する。また、倒した敵キャラをそのまま乗り物として利用する「乗り物システム」も採用し、より戦略的なプレイが楽しめる。
 
-game: Super Bomberman 5 (Japan)
+game: スーパーボンバーマン5
+sort_title: すーぱーぼんばーまん5
 files:
   Super Bomberman 5 (Japan).zip
   Super Bomberman 5 (Japan) (Caravan Event Ban).zip
+publisher: ハドソン
+description:
+  ハドソンより1997年2月28日にスーパーファミコン用ソフトとして発売されたアクションゲーム。爆弾を仕掛けて相手を倒す人気アクション『ボンバーマン』のSFC版第5弾。最大5人同時プレイが可能なバトルゲームモードに、よりバトルを熱くさせる新要素「みそボンドッジシステム」を導入。また、お助けキャラのカンガルー「ルーイ」も再登場し、背中に乗ることで6種類のルーイのそれぞれ異なる能力を使用できる。
 
 game: Super Bombliss (Japan) (En)
 file: Super Bombliss (Japan) (En).zip

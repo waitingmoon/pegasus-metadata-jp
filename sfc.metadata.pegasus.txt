@@ -2748,32 +2748,48 @@ file: Game Saver (Europe) (v1.7) (Unl).zip
 game: Gamera - Gyaos Gekimetsu Sakusen (Japan)
 file: Gamera - Gyaos Gekimetsu Sakusen (Japan).zip
 
-game: Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan)
+game: がんばれゴエモン ゆき姫救出絵巻
+sort_title: がんばれごえもん1ゆきひめきゅうしゅつえまき
 files:
  Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan).zip
  Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta) (1991-05-31).zip
  Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Rev 1).zip
  Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Rev 2).zip
  Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Rev 2) (Virtual Console).zip
+publisher: コナミ
+description:
+ コナミより1991年7月19日にスーパーファミコン用ソフトとして発売されたアクションゲーム。正義の義賊ゴエモンが活躍する人気ゲーム『がんばれゴエモン』シリーズスーパーファミコン第1弾。2人で協力プレイが可能で、背負った方が移動を、もう1人が攻撃を担当する「おんぶシステム」を搭載。さらわれてしまったゆき姫を救出するために、おなじみゴエモンとエビス丸となって、日本全国を舞台に珍道中を繰り広げよう。
 
-game: Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan)
+game: がんばれゴエモン2 奇天烈将軍マッギネス
+sort_title: がんばれごえもん2きてれつしょうぐんまっぎねす
 files:
  Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan).zip
  Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan) (Virtual Console).zip
+publisher: コナミ
+description:
+ コナミより1993年12月22日にスーパーファミコン用ソフトとして発売されたアクションゲーム。正義の義賊ゴエモンが活躍する人気アクションゲーム『がんばれゴエモン』シリーズのSFC版第2弾。ゴエモン、エビス丸、サスケの武器や能力が異なる3人から1人選び、大江戸を乗っ取った奇天烈将軍マッギネスを倒すため冒険する。ボス戦では巨大ロボ「ゴエモンインパクト」に乗り、3D風のアクションを楽しめる。
 
-game: Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan)
+game: がんばれゴエモン3 獅子重禄兵衛のからくり卍固め
+sort_title: がんばれごえもん3ししじゅうろくべえのからくりまんじがため
 files:
  Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan).zip
  Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 1).zip
  Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 2).zip
  Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 2) (Virtual Console).zip
  Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample) (1994-10-24).zip
+publisher: コナミ
+description:
+ コナミより1994年12月16日にスーパーファミコン用ソフトとして発売されたアクションRPG。正義の義賊ゴエモンが活躍する『がんばれゴエモン』シリーズSFC版第3弾となる。ゴエモン、エビス丸、サスケ、ヤエの武器や能力の異なる4人から場面にあわせて操作するキャラを選び、進んでいく。本作ではアドベンチャー要素もあり、現代と未来の大江戸を舞台に、ゴエモンたちが大暴れする。はたして騒動の結末とは?
 
-game: Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)
+game: がんばれゴエモン きらきら道中 僕がダンサーになった理由
+sort_title: がんばれごえもんきらきらどうちゅうぼくがだんさーになったわけ
 files:
  Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan).zip
  Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 1).zip
  Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2).zip
+publisher: コナミ
+description:
+ コナミより1995年12月22日にスーパーファミコン用ソフトとして発売されたアクションゲーム。大好評の『がんばれゴエモン』シリーズSFC版第4弾。バラエティ豊かなボス戦はミニゲーム方式で展開し、クリア後もプレイ可能。実はインパクト星出身のインパクト星人であるというゴエモンインパクト。彼の故郷を救うため、冒険の舞台は江戸から宇宙へと飛び出し、ゴエモンたちがハチャメチャ珍道中を繰り広げる。
 
 game: Ganbare! Daiku no Gen-san (Japan)
 file: Ganbare! Daiku no Gen-san (Japan).zip

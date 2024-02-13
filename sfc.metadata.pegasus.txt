@@ -209,8 +209,12 @@ file: Adventures of Mighty Max, The (Europe).zip
 game: Adventures of Rocky and Bullwinkle and Friends, The (USA)
 file: Adventures of Rocky and Bullwinkle and Friends, The (USA).zip
 
-game: Adventures of the Rocketeer, The (Japan)
+game: ロケッティア
+sort_title: ろけってぃあ
 file: Adventures of the Rocketeer, The (Japan).zip
+publisher: アイ・ジー・エス
+description:
+  アイ・ジー・エスより1992年2月28日にスーパーファミコン用ソフトとして発売されたシューティングゲーム。ディズニー映画『ロケッティア』が原作。飛行機レース面から始まり、ロケットパックを背負った主人公が登場するシューティング、そしてアクションへとストーリー映画と同じ展開でゲームが進んでいく。写真取り込みのようなグラフィックがとても美しい。
 
 game: Adventures of Yogi Bear (USA)
 file: Adventures of Yogi Bear (USA).zip
@@ -241,8 +245,12 @@ file: Aerobiz Supersonic (USA).zip
 game: Aguri Suzuki F-1 Super Driving (Europe)
 file: Aguri Suzuki F-1 Super Driving (Europe).zip
 
-game: AIII S.V. - A Ressha de Ikou 3 - Super Version (Japan)
+game: A列車で行こう3 スーパーバージョン
+sort_title: えーれっしゃでいこう3すーぱーばーじょん
 file: AIII S.V. - A Ressha de Ikou 3 - Super Version (Japan).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1995年9月29日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。A列車で行こうシリーズの三作目。本作より大幅にシステムを変更、本格派箱庭ゲームとして以降のシリーズの基盤を作り上げた。鉄道会社の経営者となり、自社と地域の発展を目指す。事業内容は鉄道だけではなく、他の業種もあり、それらを合わせ経営していく事となる。登場車両は実在したものを採用している。
 
 game: Air Cavalry (Europe)
 file: Air Cavalry (Europe).zip
@@ -363,14 +371,22 @@ files:
   Alfred Chicken (Europe).zip
   Alfred Chicken (Europe) (Beta).zip
 
-game: Alice no Paint Adventure (Japan)
+game: アリスのペイントアドベンチャー
+sort_title: ありすのぺいんとあどべんちゃー
 file: Alice no Paint Adventure (Japan).zip
+publisher: エポック社
+description:
+  エポック社より1995年9月15日にスーパーファミコン用ソフトとして発売されたアドベンチャー&パズルゲーム。ディズニーの人気アニメ『不思議の国のアリス』を題材にしたゲーム作品。自由におはなし画面をクリックしてストーリーを進め、途中ミニゲームなども楽しめるメインのおはなしモードのほか、パイあて・おはなあわせ・ばらのいろぬりの3つのミニゲームも搭載。マウスに対応し、お絵かきも楽しむことができる。
 
 game: Alien 3 (Europe)
 file: Alien 3 (Europe).zip
 
-game: Alien 3 (Japan)
+game: エイリアン3
+sort_title: えいりあん3
 file: Alien 3 (Japan).zip
+publisher: アクレイムジャパン
+description:
+  アクレイムジャパンより1993年7月9日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。大ヒット映画『エイリアン3』を原作としたゲーム作品となる。宇宙の果てにある囚人惑星を舞台に、主人公リプリーとなり、「施設内の修理」「エイリアンの卵の駆除」など、様々なミッションを成功させるのが目的。火炎放射器や手榴弾などの武器を駆使してエイリアンを倒していこう。
 
 game: Alien 3 (USA)
 files:
@@ -387,7 +403,11 @@ game: Alien vs Predator (USA)
 file: Alien vs Predator (USA).zip
 
 game: Aliens vs. Predator (Japan)
+sort_title: えいりあんVSぷれでたー
 file: Aliens vs. Predator (Japan).zip
+publisher: アイ・ジー・エス
+description:
+  アイ・ジー・エスより1993年1月8日にスーパーファミコン用ソフトとして発売されたアクションゲーム。映画でおなじみの2大クリーチャー『エイリアン』と『プレデター』の夢の対決を描いたゲーム作品。プレイヤーはプレデターとなり、エイリアンが増殖しつつある惑星VEGA-4を舞台にエイリアンと戦いを繰り広げる。ステージ間にはまるで映画のような字幕つきのデモシーンが導入され、雰囲気を盛り上げる。
 
 game: All-American Championship Football (Europe)
 file: All-American Championship Football (Europe).zip
@@ -3585,14 +3605,22 @@ files:
   Hook (USA).zip
   Hook (USA) (Beta).zip
 
-game: Hoshi no Kirby 3 (Japan)
+game: 星のカービィ3
+sort_title: ほしのかーびぃ3
 file: Hoshi no Kirby 3 (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1998年3月27日にスーパーファミコン用ソフトとして発売されたアクションゲーム。かわいいカービィとグーイが大活躍する。1人プレイはもちろん、2人同時プレイも楽しめる。全5レベルは各6ステージ+ボスステージで構成。また、各ステージには楽しいイベントもかくされ、クリア条件で変わる2つのエンディングが存在する。5種類のミニゲーム、ゲームクリア後のおまけ要素なども充実している。
 
-game: Hoshi no Kirby Super Deluxe (Japan)
+game: 星のカービィ スーパーデラックス
+sort_title: ほしのかーびぃすーぱーでらっくす
 files:
   Hoshi no Kirby Super Deluxe (Japan).zip
   Hoshi no Kirby Super Deluxe (Japan) (Rev 1).zip
   Hoshi no Kirby Super Deluxe (Japan) (Rev 2).zip
+publisher: 任天堂
+description:
+  任天堂より1996年3月21日にスーパーファミコン用ソフトとして発売されたカービィのゲームが6つも入ったソフト。美しいCGを背景に、コピー能力をますますパワーアップさせたカービィが飛んだり跳ねたり大活躍する。そして最大の特長は、今までのシリーズではできなかった2人同時協力プレイができることが挙げられる。いつでも気軽に遊べる2種類のサブゲームもつけて贅沢三昧の仕上がりとなっている。
 
 game: Houkago in Beppin Jogakuin (Japan)
 file: Houkago in Beppin Jogakuin (Japan).zip
@@ -6006,17 +6034,33 @@ file: Ninjawarriors (USA).zip
 game: Ninjawarriors Again, The (Japan)
 file: Ninjawarriors Again, The (Japan).zip
 
-game: Nintama Rantarou (Japan)
+game: 忍たま乱太郎
+sort_title: にんたまらんたろう1
 file: Nintama Rantarou (Japan).zip
+publisher: カルチャーブレーン
+description:
+  カルチャーブレーンより1995年7月28日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。アニメやマンガで大人気の『忍たま乱太郎』を題材としたゲーム作品。それぞれ能力の異なる乱太郎、きり丸、しんべヱの3人を操作してバリエーション豊かなステージを進んで行く。100種類以上の細かいアクションが特徴で、ボス戦ではギャグ満載のRPG風のコマンド戦も楽しむことができる。
 
-game: Nintama Rantarou 2 (Japan)
+game: 忍たま乱太郎2
+sort_title: にんたまらんたろう2
 file: Nintama Rantarou 2 (Japan).zip
+publisher: カルチャーブレーン
+description:
+  カルチャーブレーンより1996年3月29日にスーパーファミコン用ソフトとして発売された痛快アクションゲーム。人気アニメ『忍たま乱太郎』を題材にしたSFCゲーム第2弾となる。忍術学園に通う忍たま3人組とくノ一教室のおてんば3人娘が大暴れする。アクション要素はもちろん、アドベンチャー要素も楽しむことができる。6人から操作するキャラを選び、様々な忍具や忍術を駆使してステージを進んで行こう。
 
-game: Nintama Rantarou 3 (Japan)
+game: 忍たま乱太郎3
+sort_title: にんたまらんたろう3
 file: Nintama Rantarou 3 (Japan).zip
+publisher: カルチャーブレーン
+description:
+  カルチャーブレーンより1997年2月28日にスーパーファミコン用ソフトとして発売されたアクションゲーム。人気アニメ『忍たま乱太郎』を題材にしたSFC版ゲーム第3弾。忍たま3人組を操作して、学園中を巻き込んだ大事件の犯人を見つけ出すのが目的。前作までの手裏剣や忍者刀などの基本技に加えて2段ジャンプやダッシュアタックなどを新たに採用。トラップや敵が待ち受けているステージをクリアしよう。
 
-game: Nintama Rantarou Special (Japan)
+game: 忍たま乱太郎すぺしゃる
+sort_title: にんたまらんたろうすぺしゃる
 file: Nintama Rantarou Special (Japan).zip
+publisher: カルチャーブレーン
+description:
+  カルチャーブレーンより1996年8月9日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。人気アニメ『忍たま乱太郎』を題材にしたゲーム作品となる。さらわれた団蔵を救うため、忍たまたちを操作して様々な忍術と忍具を駆使してドクタケ忍者と戦っていく。また、アドベンチャー要素もあり、ストーリーではいくつかの選択肢を選びながら進行していく。
 
 game: Nintendo Power Menu Program (Japan) (NP)
 files:
@@ -6314,16 +6358,11 @@ game: Pagemaster, The (Europe)
 file: Pagemaster, The (Europe).zip
 
 game: Pagemaster, The (USA)
-file: Pagemaster, The (USA).zip
-
-game: Pagemaster, The (USA) (Beta 1)
-file: Pagemaster, The (USA) (Beta 1).zip
-
-game: Pagemaster, The (USA) (Beta 2)
-file: Pagemaster, The (USA) (Beta 2).zip
-
-game: Pagemaster, The (USA) (Beta 3) (1994-08-29)
-file: Pagemaster, The (USA) (Beta 3) (1994-08-29).zip
+files:
+  Pagemaster, The (USA).zip
+  Pagemaster, The (USA) (Beta 1).zip
+  Pagemaster, The (USA) (Beta 2).zip
+  Pagemaster, The (USA) (Beta 3) (1994-08-29).zip
 
 game: Paladin's Quest (USA)
 file: Paladin's Quest (USA).zip
@@ -6358,43 +6397,91 @@ file: Parame ROM Cassette Vol. 4 (Japan) (Unl).zip
 game: Parame ROM Cassette Vol. 5 (Japan) (Unl)
 file: Parame ROM Cassette Vol. 5 (Japan) (Unl).zip
 
-game: Parlor! Mini - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini
+sort_title: ぱーらーみに1
 files:
   Parlor! Mini - Pachinko Jikki Simulation Game (Japan).zip
   Parlor! Mini - Pachinko Jikki Simulation Game (Japan) (Rev 1).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1996年4月26日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。厳選した人気パチンコ実機2機種を収録した本格パチンコ実機シミュレーション。『CR竜王伝説Z』と『CRギンギラパラダイス』を忠実に再現しており、大迫力の2画面スクロール機能や、8方向に可能な釘調整を始め機能も充実。ストーリーモードでは、難解な事件をパチンコでクリアしつつ4つの物語を解明していく。
 
-game: Parlor! Mini 2 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini 2
+sort_title: ぱーらーみに2
 file: Parlor! Mini 2 - Pachinko Jikki Simulation Game (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1996年6月28日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。厳選した人気パチンコ実機2機種を収録した本格パチンコ実機シミュレーション『Parlor!　mini』シリーズ第2弾。『CRヤジキタ』と『CRフルーツパッション』の2機種を忠実に再現しています。攻略モードと実践モードの2つのモードを搭載し、釘調節など機能も充実している。
 
-game: Parlor! Mini 3 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini 3
+sort_title: ぱーらーみに3
 file: Parlor! Mini 3 - Pachinko Jikki Simulation Game (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1996年9月27日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。厳選した人気実機2機種を収録した本格パチンコ実機シミュレーション『Parlor!　mini』シリーズ第3弾。パチンコメーカーの豊丸より、『CR競馬天国優駿篇5』と『ナナシー』の人気機種2台を完全収録。拡大の釘の状態が変化し、台を選ぶ楽しみが味わえるなど実践モードが進化している。
 
-game: Parlor! Mini 4 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini 4
+sort_title: ぱーらーみに4
 file: Parlor! Mini 4 - Pachinko Jikki Simulation Game (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1996年11月29日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。厳選した人気の実機2機種を収録した本格パチンコ実機シミュレーション『Parlor!　mini』シリーズ第4弾。『CRアラビアンハーレムEX1』、多彩なリーチパターンで人気の『CR大工の源さん』を忠実に再現。台の特徴を徹底研究する攻略モードと実戦感覚でプレイ出来る実践モードの2つのモードを楽しめる。
 
-game: Parlor! Mini 5 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini 5
+sort_title: ぱーらーみに5
 file: Parlor! Mini 5 - Pachinko Jikki Simulation Game (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1997年3月28日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。話題のマシンを厳選収録したパチンコ実機シミュレーション『パーラー!ミニ』シリーズ第5弾。『CRどろろん忍者くん』と『CRブレイクチャンスV』といった人気機種2台を搭載しており、細部まで忠実に再現されています。攻略モードとモードの2つのモードで本格パチンコが楽しめる。
 
-game: Parlor! Mini 6 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini 6
+sort_title: ぱーらーみに6
 file: Parlor! Mini 6 - Pachinko Jikki Simulation Game (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1997年5月30日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。厳選した人気の実機2機種を収録した本格パチンコ実機シミュレーション『Parlor!　mini』シリーズ第6弾。『ニューロードスター』『マジカルチェイサー』の2台を忠実に再現しており、ホールの興奮を気軽に体験できる。「攻略モード」と「実践モード」のおなじみ2モードを搭載している。
 
-game: Parlor! Mini 7 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini 7
+sort_title: ぱーらーみに7
 file: Parlor! Mini 7 - Pachinko Jikki Simulation Game (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1997年8月29日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。話題のマシンを厳選収録したパチンコ実機シミュレーション『パーラー!ミニ』シリーズ第7弾。『ケロケロジャンプ』『CRセブンドーフV』の2機種を忠実に再現している。台の特徴を徹底研究する攻略モード、ホールの特徴を設定してより実戦的な感覚でプレイできる実戦モードの2つのモードで、ホールの興奮が味わえる。
 
-game: Parlor! Parlor! (Japan)
+game: Parlor!パーラー!
+sort_title: ぱーらーぱーらー1
 file: Parlor! Parlor! (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1995年3月30日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。パチンコメーカー3社の協力により実在CR機や権利物など個性派6台を収録したパチンコ実機シミュレーション。8方向に調整自在な釘調整システム、玉の軌道を確認できるスローモード、大当たり確率が大幅にアップする「じゃんバリモード」を始めとする多彩な機能を搭載し、リアルな店内放送や効果音が興奮を盛り上げる。
 
-game: Parlor! Parlor! 2 (Japan)
+game: Parlor!パーラー!2
+sort_title: ぱーらーぱーらー2
 file: Parlor! Parlor! 2 (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1995年8月25日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。人気パチンコ実機シミュレーション『Parlor!パーラー!』に続編。京楽・三洋・豊丸・大一・マルホンの5社の協力で、計6機種のパチンコ台が実機そのままに楽しめるゲーム。クギが甘めの「新装開店制」や、お店や台のウワサが聞ける「天の声システム」などにより、パーラーの臨場感をそのまま味わうことができる。
 
-game: Parlor! Parlor! 3 (Japan)
+game: Parlor!パーラー!3
+sort_title: ぱーらーぱーらー3
 file: Parlor! Parlor! 3 (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1996年1月19日にスーパーファミコン用ソフトとして発売されたパチンコ・パチスロゲーム。人気パチンコ実機シミュレーション『Parlor!パーラー!』シリーズ第3弾。京楽・三洋・豊丸・奥村・太陽などパチンコメーカーの協力により、実在の6機種を忠実に再現。2画面スクロールなど基本システムは前作そのままに、データやグラフなど詳細データがより分かりやすく表示されるなど改良されている。
 
-game: Parlor! Parlor! 5 (Japan)
+game: Parlor!パーラー!5
+sort_title: ぱーらーぱーらー5
 file: Parlor! Parlor! 5 (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1996年3月29日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。人気パチンコ実機シミュレーション『Parlor!パーラー!』シリーズ第5弾。京楽、三洋、マルホンなどパチンコメーカーの協力により、『コマコマ倶楽部2』や『たぬ吉くん2』といった人気実機6機種を豪華収録。自由にパチンコを楽しめるフリーモードに加え、台の研究ができる攻略モードも楽しむことができる。
 
-game: Parlor! Parlor! IV CR (Japan)
+game: Parlor!パーラー!IV CR
+sort_title: ぱーらーぱーらー4
 file: Parlor! Parlor! IV CR (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1995年12月29日にスーパーファミコン用ソフトとして発売されたパチンコゲーム。大人気『Parlor!パーラー!』シリーズ第4弾で、パチンコメーカー6社の人気CR機6台が収録された本格パチンコシミュレーション。釘の調整や自動打ちの機能など好評のシステムはそのままに、実生活やゲーム内のパチンコ収支表が付けられる日記モードなどを新搭載することで、さらなるパワーアップを遂げている。
 
 game: Parodius (Europe)
 file: Parodius (Europe).zip
@@ -8920,17 +9007,33 @@ file: Super Famicom Aging Program Ver. 1.00 (Japan) (En).zip
 game: Super Famicom Box 4S Attraction (Japan)
 file: Super Famicom Box 4S Attraction (Japan).zip
 
-game: Super Famicom Wars (Japan) (NP)
+game: スーパーファミコンウォーズ
+sort_title: すーぱーふぁみこんうぉーず
 file: Super Famicom Wars (Japan) (NP).zip
+publisher: 任天堂
+description:
+  任天堂より1998年5月1日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。ファミコンで発売された戦争SLGの名作『ファミコンウォーズ』を、大幅にスケールアップしたリメイク移植作。ファミコン版に収録されていた17のマップのほかに、新たに27マップが追加。ヘルプ機能付きで、初心者でもすんなりと遊べるように配慮されている。また、本作はニンテンドウパワーでの書き換え専用ソフトとなる。
 
-game: Super Family Circuit (Japan)
+game: スーパーファミリーサーキット
+sort_title: すーぱーふぁみりーさーきっと
 file: Super Family Circuit (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1994年10月21日にスーパーファミコン用ソフトとして発売されたレースゲーム。ファミコンで人気を博した『ファミリーサーキット』のスーパーファミコン版。全部で28以上のコースが用意されており、さらにオリジナルコースを作ることも可能となっている。スプリントレースや耐久レースなど、様々なモードで楽しめる。多彩なセッティング機能で自分だけの最強マシンを作り上げ、優勝を目指そう。
 
-game: Super Family Gelaende (Japan) (NP)
+game: スーパーファミリーゲレンデ
+sort_title: すーぱーふぁみりーげれんで
 file: Super Family Gelaende (Japan) (NP).zip
+publisher: ナムコ
+description:
+  ナムコより1998年2月1日にスーパーファミコン用ソフトとして発売されたゲレンデを滑り降りるタイムで競うスキーゲーム。ミニゲームをしながら物語を楽しむストーリーモードなど、豊富なモードが用意されている。また、本作はニンテンドウパワーでの書き換え専用ソフトとなり、SFメモリの容量を16M、SRAMを64K使用する。
 
-game: Super Family Tennis (Japan)
+game: スーパーファミリーテニス
+sort_title: すーぱーふぁみりーてにす
 file: Super Family Tennis (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1993年6月25日にスーパーファミコン用ソフトとして発売された。ファミコンで人気を博したテニスゲーム『ファミリーテニス』シリーズがパワーアップしてスーパーファミコンに登場。プレイヤーは個性あふれる20人のテニス選手から1人を選び、トーナメント優勝を目指す。本格的なグラス・クレイ・ハードの各コートはもちろん、遊び心いっぱいの特設コートでもプレイを楽しもう。
 
 game: スーパーファミスタ
 sort_title: すーぱーふぁみすた1
@@ -9090,14 +9193,11 @@ description:
 game: Super Full Metal (Europe) (It,Sv) (Proto)
 file: Super Full Metal (Europe) (It,Sv) (Proto).zip
 
-game: Super Full Metal Planet (Europe) (En,It) (Proto 1)
-file: Super Full Metal Planet (Europe) (En,It) (Proto 1).zip
-
-game: Super Full Metal Planet (Europe) (En,It) (Proto 2)
-file: Super Full Metal Planet (Europe) (En,It) (Proto 2).zip
-
 game: Super Full Metal Planet (Europe) (En) (Proto)
-file: Super Full Metal Planet (Europe) (En) (Proto).zip
+files:
+  Super Full Metal Planet (Europe) (En) (Proto).zip
+  Super Full Metal Planet (Europe) (En,It) (Proto 1).zip
+  Super Full Metal Planet (Europe) (En,It) (Proto 2).zip
 
 game: Super Gachapon World - SD Gundam X (Japan)
 file: Super Gachapon World - SD Gundam X (Japan).zip
@@ -9170,11 +9270,19 @@ file: Super Gussun Oyoyo 2 (Japan).zip
 game: Super H.Q. - Criminal Chaser (Japan)
 file: Super H.Q. - Criminal Chaser (Japan).zip
 
-game: Super Hanafuda (Japan)
+game: スーパー花札
+sort_title: すーぱーはなふだ1
 file: Super Hanafuda (Japan).zip
+publisher: アイマックス
+description:
+  アイマックスより1994年8月5日にスーパーファミコン用ソフトとして発売された本格花札ゲーム。花札の中でも最もスリリングで人気もある「こいこい」を余すところなく再現している。月一回の大会で年間の成績を競うトーナメントモード、フリー対戦モードを搭載。ルール説明から分かりにくい専門用語の解説、役の点数計算や合わせ札表示をいつでも表示することができ、初心者でも安心してプレイを楽しめる。
 
-game: Super Hanafuda 2 (Japan)
+game: スーパー花札弐
+sort_title: すーぱーはなふだ2
 file: Super Hanafuda 2 (Japan).zip
+publisher: アイマックス
+description:
+  アイマックスより1995年10月20日にスーパーファミコン用ソフトとして発売されたパズルゲーム。好評を博した前作『スーパー花札』のパワーアップした続編となる。人気の「こいこい」のほか、新たに「花合わせ」を追加。「フリー対戦」や「リーグ戦」、「勝ち抜き戦」、「2P対戦」の多彩な4モードを搭載しており、個性豊かなキャラクターたちと対戦を楽しむことができる。
 
 game: Super High Impact (Japan) (En)
 file: Super High Impact (Japan) (En).zip
@@ -9278,13 +9386,21 @@ file: Super Koukou Yakyuu - Ikkyuu Nyuukon (Japan).zip
 game: Super Kyousouba - Kaze no Sylphid (Japan)
 file: Super Kyousouba - Kaze no Sylphid (Japan).zip
 
-game: Super Kyoutei (Japan)
+game: スーパー競艇
+sort_title: すーぱーきょうてい1
 files:
   Super Kyoutei (Japan).zip
   Super Kyoutei (Japan) (Rev 1).zip
+publisher: 日本物産
+description:
+  日本物産より1995年6月30日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。競艇選手となって教習所から始まり、トップレーサーを目指していく『競艇英雄列伝』をはじめ、勝負師となって一万を元手に設定した年数でどれだけ稼げるかを争う『ギャンブル王』、実際の競艇のレースを予想する『勝ち舟予想』といった、3つのゲームモードを搭載。競艇のおもしろさを様々なゲームモードで楽しめる。
 
-game: Super Kyoutei 2 (Japan)
+game: スーパー競艇2
+sort_title: すーぱーきょうてい2
 file: Super Kyoutei 2 (Japan).zip
+publisher: 日本物産
+description:
+  日本物産より1996年4月26日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。同社から発売された『スーパー競艇』の続編。プレイヤーは競艇選手となって6大レースの制覇を目指すのが目的となる。ストーリーモードの他にも勝ち船予想の研究や競艇に関する知識が学べるのも魅力。ゲームを通して、いろいろな角度から競艇が楽しめるのが特徴となっている。
 
 game: Super Kyuukyoku Harikiri Stadium (Japan)
 file: Super Kyuukyoku Harikiri Stadium (Japan).zip

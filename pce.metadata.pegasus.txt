@@ -107,10 +107,9 @@ game: Be Ball (Japan)
 file: Be Ball (Japan).zip
 
 game: Benkei Gaiden (Japan)
-file: Benkei Gaiden (Japan).zip
-
-game: Benkei Gaiden (Japan) (Wii Virtual Console)
-file: Benkei Gaiden (Japan) (Wii Virtual Console).zip
+files:
+  Benkei Gaiden (Japan).zip
+  Benkei Gaiden (Japan) (Wii Virtual Console).zip
 
 game: Bikkuriman World (Japan)
 file: Bikkuriman World (Japan).zip
@@ -137,10 +136,9 @@ game: Bomberman '93 - Special Version (Japan)
 file: Bomberman '93 - Special Version (Japan).zip
 
 game: Bomberman '93 (Japan)
-file: Bomberman '93 (Japan).zip
-
-game: Bomberman '93 (Japan) (Wii U Virtual Console)
-file: Bomberman '93 (Japan) (Wii U Virtual Console).zip
+files:
+  Bomberman '93 (Japan).zip
+  Bomberman '93 (Japan) (Wii U Virtual Console).zip
 
 game: Bomberman '93 (USA, Europe) (Wii U Virtual Console)
 file: Bomberman '93 (USA, Europe) (Wii U Virtual Console).zip
@@ -305,10 +303,9 @@ game: Detana!! TwinBee (Japan)
 file: Detana!! TwinBee (Japan).zip
 
 game: Devil Crash - Naxat Pinball (Japan)
-file: Devil Crash - Naxat Pinball (Japan).zip
-
-game: Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console)
-file: Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console).zip
+files:
+  Devil Crash - Naxat Pinball (Japan).zip
+  Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console).zip
 
 game: Devil's Crush (USA, Europe) (Wii U Virtual Console)
 file: Devil's Crush (USA, Europe) (Wii U Virtual Console).zip
@@ -332,10 +329,9 @@ game: Doraemon - Nobita no Dorabian Night (Japan)
 file: Doraemon - Nobita no Dorabian Night (Japan).zip
 
 game: Double Dungeons (Japan)
-file: Double Dungeons (Japan).zip
-
-game: Double Dungeons (Japan) (Wii U Virtual Console)
-file: Double Dungeons (Japan) (Wii U Virtual Console).zip
+files:
+  Double Dungeons (Japan).zip
+  Double Dungeons (Japan) (Wii U Virtual Console).zip
 
 game: Double Dungeons (USA, Europe) (Wii U Virtual Console)
 file: Double Dungeons (USA, Europe) (Wii U Virtual Console).zip
@@ -404,10 +400,9 @@ game: Falcon (USA)
 file: Falcon (USA).zip
 
 game: Fantasy Zone (Japan)
-file: Fantasy Zone (Japan).zip
-
-game: Fantasy Zone (Japan) (PC Engine Mini)
-file: Fantasy Zone (Japan) (PC Engine Mini).zip
+files:
+  Fantasy Zone (Japan).zip
+  Fantasy Zone (Japan) (PC Engine Mini).zip
 
 game: Fantasy Zone (USA)
 file: Fantasy Zone (USA).zip
@@ -455,10 +450,9 @@ game: Fushigi no Yume no Alice (Japan)
 file: Fushigi no Yume no Alice (Japan).zip
 
 game: Gai Flame (Japan)
-file: Gai Flame (Japan).zip
-
-game: Gai Flame (Japan) (Wii U Virtual Console)
-file: Gai Flame (Japan) (Wii U Virtual Console).zip
+files:
+  Gai Flame (Japan).zip
+  Gai Flame (Japan) (Wii U Virtual Console).zip
 
 game: Gaia no Monshou (Japan)
 file: Gaia no Monshou (Japan).zip
@@ -494,10 +488,9 @@ game: Gomola Speed (Japan)
 file: Gomola Speed (Japan).zip
 
 game: Gradius (Japan)
-file: Gradius (Japan).zip
-
-game: Gradius (Japan) (PC Engine Mini)
-file: Gradius (Japan) (PC Engine Mini).zip
+files:
+  Gradius (Japan).zip
+  Gradius (Japan) (PC Engine Mini).zip
 
 game: Gradius (World) (Wii U Virtual Console)
 file: Gradius (World) (Wii U Virtual Console).zip
@@ -566,10 +559,9 @@ game: Jackie Chan's Action Kung Fu (USA)
 file: Jackie Chan's Action Kung Fu (USA).zip
 
 game: Jaseiken Necromancer (Japan)
-file: Jaseiken Necromancer (Japan).zip
-
-game: Jaseiken Necromancer (Japan) (Wii Virtual Console)
-file: Jaseiken Necromancer (Japan) (Wii Virtual Console).zip
+files:
+  Jaseiken Necromancer (Japan).zip
+  Jaseiken Necromancer (Japan) (Wii Virtual Console).zip
 
 game: Jaseiken Necromancer (World) (Wii U Virtual Console)
 file: Jaseiken Necromancer (World) (Wii U Virtual Console).zip
@@ -626,10 +618,9 @@ game: Kore ga Pro Yakyuu '90 (Japan)
 file: Kore ga Pro Yakyuu '90 (Japan).zip
 
 game: Kung Fu, The (Japan)
-file: Kung Fu, The (Japan).zip
-
-game: Kung Fu, The (Japan) (Wii Virtual Console)
-file: Kung Fu, The (Japan) (Wii Virtual Console).zip
+files:
+  Kung Fu, The (Japan).zip
+  Kung Fu, The (Japan) (Wii Virtual Console).zip
 
 game: Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl)
 file: Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).zip
@@ -764,10 +755,9 @@ game: Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan)
 file: Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).zip
 
 game: Neutopia (Japan)
-file: Neutopia (Japan).zip
-
-game: Neutopia (Japan) (Wii U Virtual Console)
-file: Neutopia (Japan) (Wii U Virtual Console).zip
+files:
+  Neutopia (Japan).zip
+  Neutopia (Japan) (Wii U Virtual Console).zip
 
 game: Neutopia (USA, Europe) (Wii U Virtual Console)
 file: Neutopia (USA, Europe) (Wii U Virtual Console).zip
@@ -776,10 +766,9 @@ game: Neutopia (USA)
 file: Neutopia (USA).zip
 
 game: Neutopia II (Japan)
-file: Neutopia II (Japan).zip
-
-game: Neutopia II (Japan) (Wii U Virtual Console)
-file: Neutopia II (Japan) (Wii U Virtual Console).zip
+files:
+  Neutopia II (Japan).zip
+  Neutopia II (Japan) (Wii U Virtual Console).zip
 
 game: Neutopia II (USA, Europe) (Wii U Virtual Console)
 file: Neutopia II (USA, Europe) (Wii U Virtual Console).zip
@@ -866,37 +855,27 @@ game: Parodius Da! - Shinwa kara Owarai e (Japan)
 file: Parodius Da! - Shinwa kara Owarai e (Japan).zip
 
 game: PC Denjin - Punkic Cyborgs (Japan)
-file: PC Denjin - Punkic Cyborgs (Japan).zip
-
-game: PC Denjin - Punkic Cyborgs (Japan) (Beta)
-file: PC Denjin - Punkic Cyborgs (Japan) (Beta).zip
-
-game: PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console)
-file: PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console).zip
+files:
+  PC Denjin - Punkic Cyborgs (Japan).zip
+  PC Denjin - Punkic Cyborgs (Japan) (Beta).zip
+  PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console).zip
 
 game: PC Genjin - Pithecanthropus Computerurus (Japan)
-file: PC Genjin - Pithecanthropus Computerurus (Japan).zip
-
-game: PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)
-file: PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip
+files:
+  PC Genjin - Pithecanthropus Computerurus (Japan).zip
+  PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip
 
 game: PC Genjin 2 - Pithecanthropus Computerurus (Japan)
-file: PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip
-
-game: PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)
-file: PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip
-
-game: PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console)
-file: PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console).zip
+files:
+  PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip
+  PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip
+  PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console).zip
 
 game: PC Genjin 3 - Pithecanthropus Computerurus (Japan)
-file: PC Genjin 3 - Pithecanthropus Computerurus (Japan).zip
-
-game: PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample)
-file: PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).zip
-
-game: PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)
-file: PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip
+files:
+  PC Genjin 3 - Pithecanthropus Computerurus (Japan).zip
+  PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).zip
+  PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip
 
 game: PC Pachi-Slot - Idol Gambler (Japan) (Unl)
 file: PC Pachi-Slot - Idol Gambler (Japan) (Unl).zip
@@ -938,10 +917,9 @@ game: Power League III (Japan)
 file: Power League III (Japan).zip
 
 game: Power Sports (Japan)
-file: Power Sports (Japan).zip
-
-game: Power Sports (Japan) (Wii U Virtual Console)
-file: Power Sports (Japan) (Wii U Virtual Console).zip
+files:
+  Power Sports (Japan).zip
+  Power Sports (Japan) (Wii U Virtual Console).zip
 
 game: Power Tennis (Japan)
 file: Power Tennis (Japan).zip
@@ -1010,16 +988,14 @@ game: Sadakichi Seven - Hideyoshi no Ougon (Japan)
 file: Sadakichi Seven - Hideyoshi no Ougon (Japan).zip
 
 game: Saigo no Nindou - Ninja Spirit (Japan)
-file: Saigo no Nindou - Ninja Spirit (Japan).zip
-
-game: Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console)
-file: Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console).zip
+files:
+  Saigo no Nindou - Ninja Spirit (Japan).zip
+  Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console).zip
 
 game: Salamander (Japan)
-file: Salamander (Japan).zip
-
-game: Salamander (Japan) (PC Engine Mini)
-file: Salamander (Japan) (PC Engine Mini).zip
+files:
+  Salamander (Japan).zip
+  Salamander (Japan) (PC Engine Mini).zip
 
 game: Salamander (World) (Wii U Virtual Console)
 file: Salamander (World) (Wii U Virtual Console).zip
@@ -1076,10 +1052,9 @@ game: Soldier Blade - Special Version (Japan)
 file: Soldier Blade - Special Version (Japan).zip
 
 game: Soldier Blade (Japan)
-file: Soldier Blade (Japan).zip
-
-game: Soldier Blade (Japan) (Wii U Virtual Console)
-file: Soldier Blade (Japan) (Wii U Virtual Console).zip
+files:
+  Soldier Blade (Japan).zip
+  Soldier Blade (Japan) (Wii U Virtual Console).zip
 
 game: Soldier Blade (USA, Europe) (Wii U Virtual Console)
 file: Soldier Blade (USA, Europe) (Wii U Virtual Console).zip
@@ -1133,19 +1108,17 @@ game: Super Metal Crusher (Japan)
 file: Super Metal Crusher (Japan).zip
 
 game: Super Momotarou Dentetsu (Japan)
-file: Super Momotarou Dentetsu (Japan).zip
-
-game: Super Momotarou Dentetsu (Japan) (Alt)
-file: Super Momotarou Dentetsu (Japan) (Alt).zip
+files:
+  Super Momotarou Dentetsu (Japan).zip
+  Super Momotarou Dentetsu (Japan) (Alt).zip
 
 game: Super Momotarou Dentetsu II (Japan)
 file: Super Momotarou Dentetsu II (Japan).zip
 
 game: Super Star Soldier (Japan)
-file: Super Star Soldier (Japan).zip
-
-game: Super Star Soldier (Japan) (Wii U Virtual Console)
-file: Super Star Soldier (Japan) (Wii U Virtual Console).zip
+files:
+  Super Star Soldier (Japan).zip
+  Super Star Soldier (Japan) (Wii U Virtual Console).zip
 
 game: Super Star Soldier (USA, Europe) (Wii U Virtual Console)
 file: Super Star Soldier (USA, Europe) (Wii U Virtual Console).zip
@@ -1166,10 +1139,9 @@ game: Taito Chase H.Q. (Japan)
 file: Taito Chase H.Q. (Japan).zip
 
 game: Takahashi Meijin no Shin Bouken-jima (Japan)
-file: Takahashi Meijin no Shin Bouken-jima (Japan).zip
-
-game: Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console)
-file: Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console).zip
+files:
+  Takahashi Meijin no Shin Bouken-jima (Japan).zip
+  Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console).zip
 
 game: Takeda Shingen (Japan)
 file: Takeda Shingen (Japan).zip
@@ -1277,10 +1249,9 @@ game: Veigues - Tactical Gladiator (USA)
 file: Veigues - Tactical Gladiator (USA).zip
 
 game: Victory Run - Eikou no 13,000km (Japan)
-file: Victory Run - Eikou no 13,000km (Japan).zip
-
-game: Victory Run - Eikou no 13,000km (Japan) (Wii U Virtual Console)
-file: Victory Run - Eikou no 13,000km (Japan) (Wii U Virtual Console).zip
+files:
+  Victory Run - Eikou no 13,000km (Japan).zip
+  Victory Run - Eikou no 13,000km (Japan) (Wii U Virtual Console).zip
 
 game: Victory Run (USA, Europe) (Wii U Virtual Console)
 file: Victory Run (USA, Europe) (Wii U Virtual Console).zip
@@ -1307,10 +1278,9 @@ game: Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan)
 file: Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).zip
 
 game: Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan)
-file: Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).zip
-
-game: Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan) (Wii U Virtual Console)
-file: Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan) (Wii U Virtual Console).zip
+files:
+  Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).zip
+  Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan) (Wii U Virtual Console).zip
 
 game: Winning Shot (Japan)
 file: Winning Shot (Japan).zip
@@ -1355,10 +1325,9 @@ game: Youkai Douchuuki (Japan)
 file: Youkai Douchuuki (Japan).zip
 
 game: Zero4 Champ (Japan)
-file: Zero4 Champ (Japan).zip
-
-game: Zero4 Champ (Japan) (Alt)
-file: Zero4 Champ (Japan) (Alt).zip
+files:
+  Zero4 Champ (Japan).zip
+  Zero4 Champ (Japan) (Alt).zip
 
 game: Zipang (Japan)
 file: Zipang (Japan).zip

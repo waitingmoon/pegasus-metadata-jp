@@ -443,7 +443,7 @@ game: American Tail, An - Fievel Goes West (USA)
 file: American Tail, An - Fievel Goes West (USA).zip
 
 game: バズー!魔法世界
-publisher: ばずーまほうせかい
+sort_title: ばずーまほうせかい
 file: Ancient Magic - Bazoe! Mahou Sekai (Japan).zip
 publisher: ホット・ビィ
 description:
@@ -3332,7 +3332,7 @@ game: GP-1 RS - Rapid Stream (Japan) (En)
 file: GP-1 RS - Rapid Stream (Japan) (En).zip
 
 game: グラディウスIII
-publisher: ぐらでぃうす3
+sort_title: ぐらでぃうす3
 file: Gradius III (Japan) (En).zip
 publisher: コナミ
 description:

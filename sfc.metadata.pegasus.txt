@@ -72,17 +72,29 @@ file: Aaahh!!! Real Monsters (Europe).zip
 game: Aaahh!!! Real Monsters (USA)
 file: Aaahh!!! Real Monsters (USA).zip
 
-game: ABC Monday Night Football (Japan)
+game: ABCマンデーナイトフットボール
+sort_title: えーびーしーまんでーないとふっとぼーる
 file: ABC Monday Night Football (Japan).zip
+publisher: データイースト
+description:
+  データイーストより1993年11月26日にスーパーファミコン用ソフトとして発売された。アメリカの人気スポーツ番組の名前を冠した本格アメリカンフットボールゲーム。試合中のエキサイティングなプレイには司会者フランク・ギフォードが乱入し、番組同様に喋りながらシーンを再現してくれる。あらかじめ登録されている28チームや、プレイヤー自身が作成できるオリジナルチームを操作して優勝に導くのが目的となる。
 
 game: ABC Monday Night Football (USA)
 file: ABC Monday Night Football (USA).zip
 
-game: Accele Brid (Japan)
+game: アクセルブリッド
+sort_title: あくせるぶりっど
 file: Accele Brid (Japan).zip
+publisher: トミー
+description:
+  トミーより1993年11月26日にスーパーファミコン用ソフトとして発売された3Dアクションシューティングゲーム。ロボットに乗り込み戦う近未来の格闘レーススポーツ「アクセルブリッド」で優勝を目指す。主人公・銀影となり、愛機シルバーメアに乗り込みアクセルブリッドに参戦。状況に応じて自機を変形させ、ライバルたちと生き残りをかけてバトルを繰り広げる過酷な全6ステージをクリアしよう。
 
-game: Ace o Nerae! (Japan)
+game: エースをねらえ!
+sort_title: えーすをねらえ
 file: Ace o Nerae! (Japan).zip
+publisher: 日本テレネット
+description:
+  日本テレネットより1993年12月22日にスーパーファミコン用ソフトとして発売されたテニスゲーム。人気コミック『エースをねらえ!』を原作としたゲーム作品となる。原作を忠実に再現したストーリーを採用しているものの、試合結果が原作と違う場合など、その後のストーリーが変化していく。また、試合するときの視点がプレイヤーの動きに応じて変化し、フィールドが回転するなど臨場感も抜群。
 
 game: ACME Animation Factory (Europe)
 file: ACME Animation Factory (Europe).zip
@@ -90,11 +102,19 @@ file: ACME Animation Factory (Europe).zip
 game: ACME Animation Factory (USA)
 file: ACME Animation Factory (USA).zip
 
-game: Acrobat Mission (Japan) (En)
+game: アクロバットミッション
+sort_title: あくろばっとみっしょん
 file: Acrobat Mission (Japan) (En).zip
+publisher: テイチク
+description:
+  テイチクより1992年9月11日にスーパーファミコン用ソフトとして発売された縦スクロールシューティングゲーム。アーケードからの移植作品。火星に移住した人類が、謎の敵から第2の故郷である火星を守る計画、「アクロバットミッション」を完遂するのを目的としている。全5面の1周エンドで、背景や敵に接触しても一切ミスにはならず弾かれるのみで、敵弾に被弾して初めてミスとなる。
 
-game: Action Pachio (Japan)
+game: アクションパチ夫
+sort_title: あくしょんぱちお
 file: Action Pachio (Japan).zip
+publisher: ココナッツジャパン
+description:
+  ココナッツジャパンより1993年4月9日にスーパーファミコン用ソフトとして発売されたアクションゲーム。人気パチンコゲームシリーズのキャラクター「パチ夫くん」が活躍する。パチンコ玉のパチ夫くんとなり、丸くなっての高速回転移動や必殺の回転体当たりで襲い掛かってくる敵も返り討ちにして全6ステージを進んで行く。ボーナスステージではパチンコで遊ぶこともできる。
 
 game: ActRaiser (Europe)
 file: ActRaiser (Europe).zip
@@ -152,8 +172,12 @@ files:
 game: Addams Family, The (Europe) (En,Fr,De)
 file: Addams Family, The (Europe) (En,Fr,De).zip
 
-game: Addams Family, The (Japan)
+game: アダムス・ファミリー
+sort_title: あだむすふぁみりー
 file: Addams Family, The (Japan).zip
+publisher: ミサワエンターテインメント
+description:
+  テクノスジャパンより1992年10月23日にスーパーファミコン用ソフトとして発売されたアクションゲーム。人気ホラーコメディ映画『アダムス・ファミリー』を題材にしたゲーム作品となる。主人公である父親ゴメスを操作し、広大なアダムスマンションに閉じ込められた家族を救い出すために戦っていく。各ステージのボスを倒すことで家族を解放していき、妨害する敵はジャンプからの踏みつけや武器攻撃で倒していこう。
 
 game: Addams Family, The (USA)
 file: Addams Family, The (USA).zip
@@ -293,8 +317,12 @@ file: Aladdin (France).zip
 game: Aladdin (Germany)
 file: Aladdin (Germany).zip
 
-game: Aladdin (Japan)
+game: アラジン
+sort_title: あらじん
 file: Aladdin (Japan).zip
+publisher: CAPCOM
+description:
+  カプコンより1993年11月26日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。ディズニーの人気映画『アラジン』がモチーフのゲーム作品となる。細部まで描き込まれた美しいグラフィックが『アラジン』の世界を忠実に再現し、映画そのままのストーリーが展開される。分かりやすい操作方法で誰でも手軽にプレイ可能となる。主人公の青年アラジンを操作して全6ステージのクリアを目指そう。
 
 game: Aladdin (Spain)
 file: Aladdin (Spain).zip
@@ -307,16 +335,28 @@ files:
 game: Aladdin (World) (Disney Classic Games)
 file: Aladdin (World) (Disney Classic Games).zip
 
-game: Albert Odyssey (Japan)
+game: アルバートオデッセイ
+sort_title: あるばーとおでっせい1
 files:
   Albert Odyssey (Japan).zip
   Albert Odyssey (Japan) (Rev 1).zip
+publisher: サンソフト
+description:
+  サンソフトより1993年3月5日にスーパーファミコン用ソフトとして発売されたシミュレーションRPG。主人公の勇者アルバートを操作し、親友のノイマン、少女ソフィアと共に魔術師オズワルドによる世界征服を阻止する事を目的としたゲーム。村や町での移動はオーソドックスなコンピュータRPGタイプで、ワールドマップやダンジョン内での移動と戦闘がシミュレーションRPGタイプとなっている。
 
-game: Albert Odyssey 2 - Jashin no Taidou (Japan)
+game: アルバートオデッセイ2 邪神の胎動
+sort_title: あるばーとおでっせい2
 file: Albert Odyssey 2 - Jashin no Taidou (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1994年12月22日にスーパーファミコン用ソフトとして発売されたシミュレーションRPG。『アルバートオデッセイ』の続編。主人公のディーンを操作し、復活したオズワルドやグローバス王の野望を阻止する事を目的としている。基本的なゲームシステムは前作と同様であるが、戦闘中に仲間をすり抜けての移動が可能になった他、町への出入りを全員で行うようにするなど改良されている。
 
-game: Alcahest (Japan)
+game: アルカエスト
+sort_title: あるかえすと
 file: Alcahest (Japan).zip
+publisher: スクウェア
+description:
+  スクウェアより1993年12月17日にスーパーファミコン用ソフトとして発売されたアクションRPG。魔界神アルカエストの復活を阻止するため、剣士アレンが仲間と共に地下世界を冒険するステージクリアタイプとなる。それぞれ火、水、風、土の力を持つ4人のガーディアンの力を借りてアルカエストに挑む。経験値ではなくアイテムを入手することでキャラが強くなっていく独自のシステムを採用している。
 
 game: Alfred Chicken (Europe)
 files:
@@ -1628,13 +1668,21 @@ files:
 game: Daibakushou Jinsei Gekijou (Japan)
 file: Daibakushou Jinsei Gekijou (Japan).zip
 
-game: Daikaijuu Monogatari (Japan)
+game: 大貝獣物語
+sort_title: だいかいじゅうものがたり1
 files:
   Daikaijuu Monogatari (Japan).zip
   Daikaijuu Monogatari (Japan) (Rev 1).zip
+publisher: ハドソン
+description:
+  ハドソンより1994年12月22日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。ファミコンで発売された『貝獣物語』の続編。主人公である火の貝の勇者を操作し、大魔王ファットバジャーの復活を阻止して幻大陸「シェルドラド」を救出する事を目的としている。仲間が主人公の手助けをする「すけっと」システムを特徴としている他、残酷な表現を伴う暗いストーリー展開が話題となった。
 
-game: Daikaijuu Monogatari II (Japan)
+game: 大貝獣物語II
+sort_title: だいかいじゅうものがたり2
 file: Daikaijuu Monogatari II (Japan).zip
+publisher: ハドソン
+description:
+  ハドソンより1996年8月2日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。ファミコン用ソフト『貝獣物語』より続くシリーズ第3作目。幻大陸「シェルドラド」を舞台に主人公である火の貝の勇者を操作し、暗黒魔導師ダークを倒して世界を救出する事を目的としている。前作『大貝獣物語』で好評であった「わが町システム」や「スタンプラリー」、「すけっと」などのシステムを再び導入している。
 
 game: Daikoukai Jidai II (Japan)
 file: Daikoukai Jidai II (Japan).zip
@@ -1769,32 +1817,47 @@ files:
   Derby Jockey 2 (Japan).zip
   Derby Jockey 2 (Japan) (Rev 1).zip
 
-game: Derby Stallion 96 (Japan)
+game: ダービースタリオン96
+sort_title: だーびーすたりおん96
 file: Derby Stallion 96 (Japan).zip
+publisher: アスキー
+description:
+  アスキーより1996年3月15日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。『ダービースタリオンシリーズ』の第4作目。システムは、基本的に『ダービースタリオンIII』のものを踏襲している。本作では「面白配合」の概念がはじめて登場する。また、ライバル馬、騎手が実名化されファンファーレも実際にJRAで使用されているものになっている。サテラビュー対応ソフトとなる。
 
-game: Derby Stallion 98 (Japan) (NP)
+game: ダービースタリオン98
+sort_title: だーびーすたりおん98
 file: Derby Stallion 98 (Japan) (NP).zip
+publisher: アスキー
+description:
+  アスキーより1998年8月25日にスーパーファミコン用ソフトとして発売された競走馬育成シミュレーションゲーム。『ダービースタリオン96』をベースにした、1998年度データ版。レーシングプログラム(番組表)が最新のものに書き換えられているほか、各種イベントもリニューアルされている。また、隠しも含めた新種の種牡馬も南東か登録されている。また、本作はニンテンドウパワーでの書き換え専用ソフトとなる。
 
-game: Derby Stallion II (Japan)
+game: ダービースタリオンII
+sort_title: だーびーすたりおん2
 files:
   Derby Stallion II (Japan).zip
   Derby Stallion II (Japan) (Rev 1).zip
+publisher: アスキー
+description:
+  アスキーより1994年2月18日にスーパーファミコン用ソフトとして発売された競走馬育成シミュレーションゲーム。ファミコンで大人気だった『ダービースタリオン』の続編となる。牝馬の生産や出走が可能になり、牝馬限定のレースもできるようになっている。また、調教の種類も増加し、種牡馬も前作の64頭から100頭になっている。調教は週に2回まで行うことが可能。また、本作でブリーダーズカップがはじめて搭載された。
 
-game: Derby Stallion III (Japan)
+game: ダービースタリオンIII
+sort_title: だーびーすたりおん3
 files:
   Derby Stallion III (Japan).zip
   Derby Stallion III (Japan) (Rev 1).zip
   Derby Stallion III (Japan) (Rev 2).zip
   Derby Stallion III (Japan) (Rev 3).zip
+publisher: アスキー
+description:
+  アスキーより1995年1月20日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。競走馬を育成し、大レース制覇を目指す、同社の『ダービースタリオン』シリーズの第3弾。函館と中京が加わり、本作でJRAの全ての競馬場が揃った。サンデーサイレンスなどの新種牡馬の追加や、自分の馬を厩舎に預け、面倒な調教を調教師に任せられる『おまかせ厩舎』の導入など、前作より新規の要素が追加されている。
 
 game: Desert Fighter - Suna no Arashi Sakusen (Japan)
 file: Desert Fighter - Suna no Arashi Sakusen (Japan).zip
 
 game: Desert Fighter (Europe)
-file: Desert Fighter (Europe).zip
-
-game: Desert Fighter (Europe) (Beta)
-file: Desert Fighter (Europe) (Beta).zip
+files:
+  Desert Fighter (Europe).zip
+  Desert Fighter (Europe) (Beta).zip
 
 game: Desert Strike - Return to the Gulf (Europe)
 file: Desert Strike - Return to the Gulf (Europe).zip
@@ -1925,21 +1988,37 @@ file: Doom Troopers (USA).zip
 game: Doomsday Warrior (USA)
 file: Doomsday Warrior (USA).zip
 
-game: Doraemon - Nobita to Yousei no Kuni (Japan)
+game: ドラえもん のび太と妖精の国
+sort_title: どらえもん1
 files:
   Doraemon - Nobita to Yousei no Kuni (Japan).zip
   Doraemon - Nobita to Yousei no Kuni (Japan) (Rev 1).zip
+publisher: エポック社
+description:
+  エポック社より1993年2月19日にスーパーファミコン用ソフトとして発売されたアクションゲーム。大人気アニメ『ドラえもん』を原作とするゲーム作品となる。妖精の国を舞台にドラえもんとその仲間達が大冒険。ドラえもんを操作し、さらわれたのび太達や奪われたひみつ道具を取り返し、妖精の国を侵略する怪物たちを倒そう。アクションパートと情報を集めるアドベンチャーパートの繰り返しで物語が展開していく。
 
-game: Doraemon 2 - Nobita no Toys Land Daibouken (Japan)
+game: ドラえもん2 のび太のトイズランド大冒険
+sort_title: どらえもん2
 files:
   Doraemon 2 - Nobita no Toys Land Daibouken (Japan).zip
   Doraemon 2 - Nobita no Toys Land Daibouken (Japan) (Beta).zip
+publisher: エポック社
+description:
+  エポックより1993年12月17日にスーパーファミコン用ソフトとして発売された爽快アクションゲーム。藤子・F・不二雄原作の人気アニメ『ドラえもん』を題材にしたSFC版第2弾。フィールドや町を歩きまわり情報を探すRPG風パートと敵と戦うアクションパートで構成されている。ドラえもんやのび太などおなじみのキャラクター達が、おもちゃの世界「トイズランド」を舞台に冒険していく。
 
-game: Doraemon 3 - Nobita to Toki no Hougyoku (Japan)
+game: ドラえもん3 のび太と時の宝玉
+sort_title: どらえもん3
 file: Doraemon 3 - Nobita to Toki no Hougyoku (Japan).zip
+publisher: エポック社
+description:
+  エポック社より1994年12月16日にスーパーファミコン用ソフトとして発売されたアクションゲーム。アニメやコミックで大人気の『ドラえもん』をモチーフにしたSFCゲーム第3弾となる。4つ集めると願いがかなうという「時の宝玉」を巡って、歴史を変えようとたくらむ悪の組織「ジョーカー団」と戦うストーリー。おなじみのメンバーを操作し、それぞれ異なる得意な能力を駆使してステージを進んでいこう。
 
-game: Doraemon 4 - Nobita to Tsuki no Oukoku (Japan)
+game: ドラえもん4 のび太と月の王国
+sort_title: どらえもん4
 file: Doraemon 4 - Nobita to Tsuki no Oukoku (Japan).zip
+publisher: エポック社
+description:
+  エポック社より1995年12月15日にスーパーファミコン用ソフトとして発売されたアクションゲーム。おなじみ『ドラえもん』のSFC版ゲーム第4弾。ドラえもんたちが力を合わせて月の平和を取り戻すアクションゲームで、ステージ数は50以上とボリューム満点。操作キャラはドラえもん・のび太・ジャイアン・スネ夫・しずかちゃん・ドラミちゃんの6人で、各キャラ独特の武器や冒険の役に立つひみつ道具も多数登場する。
 
 game: DoReMi Fantasy - Milon no Dokidoki Daibouken (Japan)
 file: DoReMi Fantasy - Milon no Dokidoki Daibouken (Japan).zip

@@ -402,7 +402,7 @@ file: Alien vs Predator (Europe).zip
 game: Alien vs Predator (USA)
 file: Alien vs Predator (USA).zip
 
-game: Aliens vs. Predator (Japan)
+game: エイリアン VS. プレデター
 sort_title: えいりあんVSぷれでたー
 file: Aliens vs. Predator (Japan).zip
 publisher: アイ・ジー・エス
@@ -412,14 +412,26 @@ description:
 game: All-American Championship Football (Europe)
 file: All-American Championship Football (Europe).zip
 
-game: Amazing Spider-Man, The - Lethal Foes (Japan)
+game: スパイダーマン リーサルフォーズ
+sort_title: すぱいだーまんりーさるふぉーず
 file: Amazing Spider-Man, The - Lethal Foes (Japan).zip
+publisher: エポック社
+description:
+  エポック社より1995年3月17日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。アメコミの人気ヒーロー『スパイダーマン』を題材としたゲーム作品。スパイダーマンとなり、壁をよじ登り、天井に張りつき、クモ糸にぶらさがって高速移動するなど原作そのままの多彩なアクションを実現している。ニューヨークの街を舞台にしたステージを進み、悪の科学者ドクター・オクトパスの野望を叩き潰そう。
 
-game: America Oudan Ultra Quiz (Japan)
+game: アメリカ横断ウルトラクイズ
+publisher: あめりかおうだんうるとらくいず
 file: America Oudan Ultra Quiz (Japan).zip
+publisher: トミー
+description:
+  トミーより1992年11月20日にスーパーファミコン用ソフトとして発売されたクイズゲーム。日本テレビの人気クイズ番組『アメリカ横断ウルトラクイズ』のゲーム化作品。テレビ番組そのままに、東京ドームでの予選、機内テストに始まり、アメリカを横断、各都市でクイズが出題される。名物のバツゲームといったミニゲームも盛りだく沢山の内容。
 
-game: American Battle Dome (Japan)
+game: アメリカンバトルドーム
+sort_title: あめりかんばとるどーむ
 file: American Battle Dome (Japan).zip
+publisher: ツクダオリジナル
+description:
+  ツクダオリジナルより1995年12月8日にスーパーファミコン用ソフトとして発売された。アメリカ生まれの人気玩具『アメリカンバトルドーム』をもとにした、最大4人プレイが可能な3D対戦ピンボールゲーム。ピンボールの台を4つ付けたような台で、ボールを打ち合い、ゴールされた玉数が一番少ないプレイヤーが勝ちとなる。落ちてくるいくつものボールを相手のフリッパーの間を通してゴールに入れていこう。
 
 game: American Gladiators (USA)
 file: American Gladiators (USA).zip
@@ -430,32 +442,60 @@ file: American Tail, An - Fievel Goes West (Europe).zip
 game: American Tail, An - Fievel Goes West (USA)
 file: American Tail, An - Fievel Goes West (USA).zip
 
-game: Ancient Magic - Bazoe! Mahou Sekai (Japan)
+game: バズー!魔法世界
+publisher: ばずーまほうせかい
 file: Ancient Magic - Bazoe! Mahou Sekai (Japan).zip
+publisher: ホット・ビィ
+description:
+  ホット・ビィより1993年7月23日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。魔法が支配的地位を占める中世ヨーロッパ風の世界「イアルティス」を舞台として展開される物語。山田章博の描く幻想的な世界観、衝撃のシナリオが特徴。時間のかかる戦闘、高いエンカウント率、気を抜くとすぐに全滅するバトルバランス、ヒントもほとんどない難解なダンジョンなど非常に難易度が高い。
 
-game: Andre Agassi Tennis (Japan) (En)
+game: アンドレ・アガシ テニス
+sort_title: あんどれあがしてにす
 file: Andre Agassi Tennis (Japan) (En).zip
+publisher: 日本物産
+description:
+  日本物産より1994年3月31日にスーパーファミコン用ソフトとして発売された。数々のタイトルを受賞した名テニスプレイヤー、アンドレ・アガシが監修したテニスゲーム。プロまたはアマから操作レベルを選び、トーナメントとエキジビションの2つのモードで試合を行って、頂点を目指す。ボールマシンやコーチを相手に練習するモードも用意され、初心者から熟練者まで幅広く楽しむことができる。
 
 game: Andre Agassi Tennis (USA)
 file: Andre Agassi Tennis (USA).zip
 
-game: Angelique - Voice Fantasy (Japan)
+game: アンジェリーク ヴォイス・ファンタジー
+sort_title: あんじぇりーくう゛ぉいすふぁんたじー
 file: Angelique - Voice Fantasy (Japan).zip
+publisher: コーエー
+description:
+  コーエーより1996年3月29日にスーパーファミコン用ソフトとして発売された。次期女王候補として選ばれた二人の少女が、その資質を試すための試験に望む育成系シミュレーションゲーム。ゲームシステムは前作と変わらず、女王候補として指名されたアンジェリークとなって、未開の惑星を発展させていく。「ボイサーくん」とキャラの音声を収録したCDが同封されており、ゲームに合わせてキャラの音声を聞くことが出来る。
 
-game: Angelique (Japan)
+game: アンジェリーク
+sort_title: あんじぇりーく
 file: Angelique (Japan).zip
+publisher: コーエー
+description:
+  コーエーより1994年9月23日にスーパーファミコン用ソフトとして発売された。次期女王候補として選ばれた二人の少女が、その資質を試すための試験に望む育成系シミュレーションゲーム。プレイヤーは1人の女の子となり、女王様を目指す。試験を進めるには、守護聖と呼ばれる様々な属性を司る美青年達の力を借りることになるため、進行によっては恋愛状態ともなる。 女性向け恋愛ゲーム市場を開拓した作品。
 
-game: Angelique (Japan) (Premium Box)
+game: アンジェリーク プレミアムBOX
+sort_title: あんじぇりーくぷれみあむぼっくす
 file: Angelique (Japan) (Premium Box).zip
+publisher: コーエー
+description:
+  コーエーより1995年12月8日にスーパーファミコン用ソフトとして発売された恋愛シミュレーションゲーム。主人公アンジェリークとなって次期女王を選ぶ試験に挑戦し、守護聖と呼ばれる9人の男性の力を借りて大陸を育成していく。それぞれ異なる力を司る守護聖の力を借りてライバルのロザリアとともに惑星の大陸を育成するだけでなく、魅力あふれる守護聖との甘いロマンスを楽しむこともできる。
 
-game: Animal Buranden - Brutal (Japan)
+game: アニマル武乱伝 ブルータル
+sort_title: あにまるぶらんでんぶるーたる
 file: Animal Buranden - Brutal (Japan).zip
+publisher: ケムコ
+description:
+  ケムコより1994年12月22日にスーパーファミコン用ソフトとして発売された海外で人気の対戦格闘アクションゲーム。ネズミやクマ、ライオンなどのデフォルメされた8匹の動物が闘う。キャラクターに育成要素を取り入れており、試合に勝つことでレベルが上がり、それぞれ個性豊かな必殺技を習得していく。リプレイ機能なども備えているなど本格的な格闘バトルを楽しむことができる。
 
 game: Animaniacs (Europe)
 file: Animaniacs (Europe).zip
 
-game: Animaniacs (Japan)
+game: アニマニアクス
+sort_title: あにまにあくす
 file: Animaniacs (Japan).zip
+publisher: コナミ
+description:
+  コナミより1997年3月7日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。アメリカで人気のアニメ『アニマニアクス』を題材にしたゲーム作品。盗まれた映画のシナリオを取り戻すため、3人のキャラを操作しながら撮影所を舞台にしたステージを進んで行く。高速ダッシュに物投げ、肩ぐるまなど、多彩なアクションを駆使してトリッキーなギミック満載のステージをクリアしよう。
 
 game: Animaniacs (USA)
 files:
@@ -465,10 +505,14 @@ files:
 game: Another World (Europe)
 file: Another World (Europe).zip
 
-game: Aoki Densetsu Shoot! (Japan)
+game: 蒼き伝説シュート!
+sort_title: あおきでんせつしゅーと
 files:
   Aoki Densetsu Shoot! (Japan).zip
   Aoki Densetsu Shoot! (Japan) (Beta).zip
+publisher: KSS
+description:
+  KSSより1994年12月16日にスーパーファミコン用ソフトとして発売された。人気アニメ『蒼き伝説シュート!』を題材にしたサッカーゲーム。掛川高校サッカーチームを率いて全国一の激戦区・静岡県予選を突破して全国大会出場を目指すストーリーモードのほか、全19チームから好きなチームを選んでプレイ出来る対戦モードを搭載している。必殺技や名場面はビジュアルシーンが展開し、プレイを盛り上げる。
 
 game: Apocalypse II (Europe) (Proto 1)
 file: Apocalypse II (Europe) (Proto 1).zip
@@ -476,19 +520,35 @@ file: Apocalypse II (Europe) (Proto 1).zip
 game: Apocalypse II (Europe) (Proto 2) (1997-10-28)
 file: Apocalypse II (Europe) (Proto 2) (1997-10-28).zip
 
-game: Appleseed - Prometheus no Shintaku (Japan)
+game: アップルシード プロメテウスの神託
+sort_title: あっぷるしーどぷろめてうすのしんたく
 file: Appleseed - Prometheus no Shintaku (Japan).zip
+publisher: ヴィジット
+description:
+  ヴィジットより1994年8月26日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。士郎政宗の漫画『アップルシード』を原作としたゲーム作品となる。プレイヤーは、SWATの「デュナン」かあるいは相棒の「プリアレオス」のどちらかを選択し、進めていく。銃や爆弾など3種類の武器を場面にあわせて切り替え、テロリストたちと戦う。
 
-game: Aqutallion (Japan)
+game: アクタリオン
+sort_title: あくたりおん
 file: Aqutallion (Japan).zip
+publisher: テクモ
+description:
+  テクモより1993年11月5日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。世界征服をもくろむ「ホムンクルス」を倒すべく、主人子レンのメインパーティと、「クスエラ」と呼ばれる仲間たちのサブパーティを操り、冒険する。2パーティ切り替え制が特徴。また、2つ以上の魔法を組み合わせる、合体魔法を使うことができる。
 
-game: Arabian Nights - Sabaku no Seirei Ou (Japan)
+game: アラビアンナイト 砂漠の精霊王
+sort_title: あらびあんないとさばくのせいれいおう
 files:
   Arabian Nights - Sabaku no Seirei Ou (Japan).zip
-  Arabian Nights - Sabaku no Seirei Ou (Japan) (Beta).zip 
+  Arabian Nights - Sabaku no Seirei Ou (Japan) (Beta).zip
+publisher: タカラ
+description:
+  タカラより1996年6月14日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。アラブ風の世界で冒険するRPG。精霊王の力を封じた水晶を集めるという目的以外はほぼ自由行動となっており、プレイヤーの選択によって展開が決まるマルチシナリオ・マルチエンディングとなっている。戦闘シーンがクォータービューになっており、参戦者に特殊な効果を付与する結界のカードがあるのが特徴となっている。
 
-game: Araiguma Rascal (Japan)
+game: あらいぐまラスカル
+sort_title: あらいぐまらすかる
 file: Araiguma Rascal (Japan).zip
+publisher: メサイヤ
+description:
+  メサイヤより1994年3月25日にスーパーファミコン用ソフトとして発売されたアクションパズルゲーム。アニメ『あらいぐまラスカル』を題材にしたゲーム作品。6種類のビンをタテまたはヨコに3つ以上揃えて消していく。2人協力プレイも楽しめるノーマルモード、2人対戦を楽しめるVSゲームモード、障害物競走でタイムを競うコースゲームモードの3つのモードを搭載。かわいらしいラスカルが大活躍する。
 
 game: Arcade's Greatest Hits - The Atari Collection 1 (Europe)
 file: Arcade's Greatest Hits - The Atari Collection 1 (Europe).zip
@@ -508,8 +568,12 @@ files:
 game: Archer Maclean's Super Dropzone (Europe)
 file: Archer Maclean's Super Dropzone (Europe).zip
 
-game: Arcus Spirits (Japan)
+game: アークス・スピリッツ
+sort_title: あーくすすぴりっつ
 file: Arcus Spirits (Japan).zip
+publisher: サミー
+description:
+  サミーより1993年10月22日にスーパーファミコン用ソフトとして発売されたアクションRPG。パソコンからの移植作品。4人の主人公のなかからひとりを選び、悪の魔女を倒すためにダンジョンを突き進んでいく。複雑な謎やワナが数多く設けられている迷宮で、行く手を阻む敵を倒し強大な悪魔カストミラの復活を食い止めるのが目的。斜め45度から見下ろす視点で立体感ある画面を構成している。2人同時プレイが可能。
 
 game: Arcus Spirits (USA) (Proto)
 file: Arcus Spirits (USA) (Proto).zip
@@ -517,10 +581,14 @@ file: Arcus Spirits (USA) (Proto).zip
 game: Ardy Lightfoot (Europe)
 file: Ardy Lightfoot (Europe).zip
 
-game: Ardy Lightfoot (Japan)
+game: アルディ ライトフット
+sort_title: あるでぃらいとふっと
 files:
   Ardy Lightfoot (Japan).zip
-  Ardy Lightfoot (Japan) (Beta).zip 
+  Ardy Lightfoot (Japan) (Beta).zip
+publisher: アスキー
+description:
+  アスキーより1993年11月26日にスーパーファミコン用ソフトとして発売された爽快横スクロールアクションゲーム。駆け出しの冒険家アルディと相棒ペックが繰り広げる。ペックを投げつけることで攻撃したりアイテムを回収することが可能となる。プリズムランドに伝わる7つに分かれた虹のかけらをビスコンティ一味から取り戻すため、アルディとペックの息の合ったアクションでトラップ満載のステージを潜り抜けよう。
 
 game: Ardy Lightfoot (USA)
 file: Ardy Lightfoot (USA).zip
@@ -1092,11 +1160,15 @@ file: Brawl Brothers (USA).zip
 game: BreakThru! (USA)
 file: BreakThru! (USA).zip
 
-game: Breath of Fire - Ryuu no Senshi (Japan)
+game: ブレス・オブ・ファイア 龍の戦士
+sort_title: ぶれすおぶふぁいあ1
 files:
   Breath of Fire - Ryuu no Senshi (Japan).zip
   Breath of Fire - Ryuu no Senshi (Japan) (Rev 1).zip
-  Breath of Fire - Ryuu no Senshi (Japan) (Rev 1) (Switch Online).zip 
+  Breath of Fire - Ryuu no Senshi (Japan) (Rev 1) (Switch Online).zip
+publisher: CAPCOM
+description:
+  カプコンより1993年4月3日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ブレス オブ ファイアシリーズ』の第1作。カプコン初の本格派RPG。主人公である竜族のリュウを初め、仲間キャラクターが全て普通の人間ではない種族なのが特徴。仲間キャラクターはそれぞれ異なった個人アクションを持っている。フィールド上でアクションを使用でき、それにより冒険を有利に進められる。
 
 game: Breath of Fire (USA, Europe) (Switch Online)
 file: Breath of Fire (USA, Europe) (Switch Online).zip
@@ -1104,11 +1176,15 @@ file: Breath of Fire (USA, Europe) (Switch Online).zip
 game: Breath of Fire (USA)
 file: Breath of Fire (USA).zip
 
-game: Breath of Fire II - Shimei no Ko (Japan)
+game: ブレス・オブ・ファイアII 使命の子
+sort_title: ぶれすおぶふぁいあ2
 files:
   Breath of Fire II - Shimei no Ko (Japan).zip
   Breath of Fire II - Shimei no Ko (Japan) (Rev 1).zip
   Breath of Fire II - Shimei no Ko (Japan) (Rev 1) (Virtual Console, Switch Online).zip
+publisher: CAPCOM
+description:
+  カプコンより1993年4月3日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。『ブレス オブ ファイアシリーズ』の第1作。カプコン初の本格派RPG。主人公である竜族のリュウを初め、仲間キャラクターが全て普通の人間ではない種族なのが特徴。仲間キャラクターはそれぞれ異なった個人アクションを持っている。フィールド上でアクションを使用でき、それにより冒険を有利に進められる。
 
 game: Breath of Fire II (Europe)
 file: Breath of Fire II (Europe).zip
@@ -3255,8 +3331,12 @@ file: GP-1 (USA).zip
 game: GP-1 RS - Rapid Stream (Japan) (En)
 file: GP-1 RS - Rapid Stream (Japan) (En).zip
 
-game: Gradius III (Japan) (En)
+game: グラディウスIII
+publisher: ぐらでぃうす3
 file: Gradius III (Japan) (En).zip
+publisher: コナミ
+description:
+  コナミより1990年12月21日にスーパーファミコン用ソフトとして発売された横スクロール型シューティングゲーム。アーケードゲーム『グラディウス3』をベースにしたアレンジ移植版。ボスキャラクターの縮小や、一部のステージやボスが削除されている一方、一部武装の変更や追加、青カプセルの復活、低くなった難易度、ステージの短縮、オートパワーアップモードやコンティニューの追加などの変更が加えられている。
 
 game: Gradius III (USA)
 file: Gradius III (USA).zip
@@ -3267,24 +3347,44 @@ files:
   Granhistoria - Genshi Sekaiki (Japan) (Rev 1).zip
   Granhistoria - Genshi Sekaiki (Japan) (Sample).zip
 
-game: Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan)
+game: ザ・グレイトバトル外伝2 祭りだワッショイ
+sort_title: ざぐれいとばとるがいでん2
 files:
   Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan).zip
   Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan) (Beta).zip
+publisher: バンプレスト
+description:
+  バンプレストより1994年1月28日にスーパーファミコン用ソフトとして発売されたアクションゲーム。ウルトラマン、ガンダムなどのおなじみヒーロー達が登場する人気シリーズ『ザ・グレイトバトル』の外伝作品第2弾となる。お祭りをテーマにしたにぎやかな内容で、祭りの平和を取り戻すためフェスティバル大帝の野望を打ち砕くのが目的。ミニゲームを制してバトルを有利に進めよう。
 
-game: Great Battle II, The - Last Fighter Twin (Japan)
+game: ザ・グレイトバトルII ラストファイターツイン
+sort_title: ざぐれいとばとる2
 file: Great Battle II, The - Last Fighter Twin (Japan).zip
+publisher: バンプレスト
+description:
+  バンプレストより1992年3月27日にスーパーファミコン用ソフトとして発売されたアクションゲーム。SD化されたガンダムやウルトラマン、仮面ライダーなどおなじみヒーロー達が活躍するゲーム『ザ・グレイトバトル』シリーズ第2弾のベルトスクロールアクション。全て集めるとどんな願いも叶えてくれる「ガシャポンカプセル」を探し出し、世界に平和を取り戻そう。
 
-game: Great Battle III, The (Japan)
+game: ザ・グレイトバトルIII
+sort_title: ざぐれいとばとる3
 file: Great Battle III, The (Japan).zip
+publisher: バンプレスト
+description:
+  バンプレストより1993年3月26日にスーパーファミコン用ソフトとして発売されたアクションゲーム。SDにデフォルメされた人気ヒーロー達が豪華共演する人気ベルトスクロールアクション『ザ・グレイトバトル』シリーズ第3弾。剣と魔法の世界を舞台にガンダムF91、仮面ライダーブラックRX、ウルトラマングレート、ゲームオリジナルキャラ・ファイターロアの4人を操作し、魔法使いザンエルの野望を打ち砕こう。
 
-game: Great Battle IV, The (Japan)
+game: ザ・グレイトバトルIV
+sort_title: ざぐれいとばとる4
 files:
   Great Battle IV, The (Japan).zip
   Great Battle IV, The (Japan) (Beta).zip
+publisher: バンプレスト
+description:
+  バンプレストより1994年12月17日にスーパーファミコン用ソフトとして発売されたアクションゲーム。ウルトラマンやガンダム、仮面ライダーなどおなじみのヒーロー達が多数登場する人気横スクロールアクションシリーズ第4弾。2段ジャンプやテレポートなどそれぞれ特殊能力を持つ4人のヒーローを使い分け、ステージを進んで行こう。ステージの最後には巨大ロボ戦が控えており、大迫力のバトルが展開される。
 
-game: Great Battle V, The (Japan)
+game: ザ・グレイトバトルV
+sort_title: ざぐれいとばとる5
 file: Great Battle V, The (Japan).zip
+publisher: バンプレスト
+description:
+  バンプレストより1995年12月22日にスーパーファミコン用ソフトとして発売されたアクションゲーム。SDにデフォルメされた人気ヒーロー達が豪華共演する人気アクション『ザ・グレイトバトル』シリーズ第5弾。メインの横スクロールアクションステージに加え、ガンシューティングステージも楽しめる。ロア、ゴッドガンダム、仮面ライダーBLACK　RX、ウルトラマンの4人のヒーローを操作しダダ軍団と対決しよう。
 
 game: Great Circus Mystery Starring Mickey & Minnie, The (Europe)
 file: Great Circus Mystery Starring Mickey & Minnie, The (Europe).zip
@@ -3295,8 +3395,12 @@ file: Great Circus Mystery Starring Mickey & Minnie, The (USA).zip
 game: Great Waldo Search, The (USA)
 file: Great Waldo Search, The (USA).zip
 
-game: GS Mikami - Joreishi wa Nice Body (Japan)
+game: GS美神 除霊師はナイスバディ
+sort_title: ごーすとすいーぱーみかみじょれいしはないすばでぃ
 file: GS Mikami - Joreishi wa Nice Body (Japan).zip
+publisher: バナレックス
+description:
+  バナレックスより1993年9月23日にスーパーファミコン用ソフトとして発売された痛快横スクロールアクションゲーム。人気アニメ『GS美神』を原作としたゲーム作品となる。原作の囲気を活かしたアクションとグラフィックを再現している。主人公の美神令子となり、武器の「神通棍」を駆使して襲い掛かる悪霊や化け物を倒して7つの宝石を見つけ出し、時価数百億円という秘宝を手に入れるのが目的となる。
 
 game: GT Racing (Japan)
 file: GT Racing (Japan).zip

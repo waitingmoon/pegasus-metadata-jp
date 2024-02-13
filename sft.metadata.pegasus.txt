@@ -1,38 +1,90 @@
-game: Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)
+game: 美少女戦士セーラームーン セーラースターズ ふわふわパニック2
+sort_title: びしょうじょせんしせーらーむーん5ふわふわぱにっく2
 file: Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年9月27日にスーパーファミコン用ソフトとして発売された。大人気アニメ『美少女戦士セーラームーン』を題材にした、スーパーファミコン用拡張機器『スーファミターボ』専用のパズルゲーム。画面下から浮かんでくる風船を、フィールド上がいっぱいになる前に割っていく。おはなしモード、対戦モード、パズルモードの3モードを搭載。各キャラ特有の必殺技を駆使して風船を次々割っていこう。
 
-game: Crayon Shin-chan - Nagagutsu Dobon!! (Japan)
+game: クレヨンしんちゃん 長ぐつドボン!!
+sort_title: くれよんしんちゃんながぐつドボン
 file: Crayon Shin-chan - Nagagutsu Dobon!! (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年9月27日にスーパーファミコン用ソフトとして発売された。人気アニメ『クレヨンしんちゃん』を題材にした、SFC用拡張機器『スーファミターボ』専用の対戦アクションパズルゲーム。プレイヤーはしんちゃんとなり水たまりの水をバシャバシャ相手に引っ掛け、ニセのしんちゃんを倒すのが目的となる。ステージ上には不思議な仕掛けやアイテムがいっぱいで、最大3人までの同時プレイが可能となっている。
 
-game: Gegege no Kitarou - Youkai Donjara (Japan)
+game: ゲゲゲの鬼太郎 妖怪ドンジャラ
+sort_title: げげげのきたろうようかいどんじゃら
 file: Gegege no Kitarou - Youkai Donjara (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年7月19日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の痛快ドンジャラゲーム。人気アニメ『ゲゲゲの鬼太郎』をモチーフにしたゲーム作品となる。最大4人プレイが可能で、牌並べや面倒な計算は全てコンピュータにお任せして誰でも手軽にドンジャラを楽しむことができる。「パタパタじんとり」などミニゲームも搭載している。
 
-game: Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)
+game: 激走戦隊カーレンジャー 全開!レーサー戦士
+sort_title: げきそうせんたいかーれんじゃーぜんかいれーさーせんし
 file: Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年8月23日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の横スクロールアクションゲーム。人気特撮番組『激走戦隊カーレンジャー』を題材にしたゲーム作品となる。おなじみ5人のヒーローたちから1人を選び、パンチやキック、それぞれの専用武器を駆使してステージを進み、宇宙暴走族ボーゾックに立ち向かっていく。
 
-game: Poi Poi Ninja World (Japan)
+game: ぽいぽい忍者ワールド
+sort_title: ぽいぽいにんじゃわーるど
 file: Poi Poi Ninja World (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年6月28日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用のアクションパズルゲーム。忍者となって爆弾や手裏剣をぽいぽい投げ合い相手の陣地を破壊したり敵を倒したりする。最大4人同時プレイが可能で、友達と手に汗握る対戦を楽しむことができる。ほかにも自分でステージマップを作成できるなどやり込み要素も満載。
 
-game: SD Gundam Generation - Axis Senki (Japan)
+game: SDガンダムジェネレーション アクシズ戦記
+sort_title: えすでぃーがんだむじぇねれーしょん3
 file: SD Gundam Generation - Axis Senki (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年8月23日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の戦略シミュレーションゲーム。後の『SDガンダム Gジェネレーション』シリーズのルーツとなる。ゲームソフト毎に題材をしたガンダムシリーズが決まっているが、育てたパイロットとユニットを対戦モードで使えば作品の枠を超えて対戦が出来る。本作では『機動戦士ガンダムΖΖ』をベースに再現。
 
-game: SD Gundam Generation - Babylonia Kenkoku Senki (Japan)
+game: SDガンダムジェネレーション バビロニア建国戦記
+sort_title: えすでぃーがんだむじぇねれーしょん4
 file: SD Gundam Generation - Babylonia Kenkoku Senki (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年8月23日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用戦略シミュレーションゲーム。後の『SDガンダム Gジェネレーション』シリーズのルーツ。ゲームソフト毎に題材をしたガンダムシリーズが決まっているが、育てたパイロットとユニットを対戦モードで使えば作品の枠を超えて対戦が出来る。本作では『機動戦士ガンダム 逆襲のシャア』『機動戦士ガンダムF91』をベースに再現。
 
-game: SD Gundam Generation - Colony Kakutouki (Japan)
+game: SDガンダムジェネレーション コロニー格闘記
+sort_title: えすでぃーがんだむじぇねれーしょん6
 file: SD Gundam Generation - Colony Kakutouki (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年9月27日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の戦略シミュレーションゲーム。後の『SDガンダム Gジェネレーション』シリーズのルーツとなる。ゲームソフト毎に題材をしたガンダムシリーズが決まっているが、育てたパイロットとユニットを対戦モードで使えば作品の枠を超えて対戦が出来る。本作では『機動武闘伝Gガンダム』をベースに再現。
 
-game: SD Gundam Generation - Gryps Senki (Japan)
+game: SDガンダムジェネレーション グリプス戦記
+sort_title: えすでぃーがんだむじぇねれーしょん2
 file: SD Gundam Generation - Gryps Senki (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年7月26日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の戦略シミュレーションゲーム。後の『SDガンダム Gジェネレーション』シリーズのルーツとなる。ゲームソフト毎に題材をしたガンダムシリーズが決まっているが、育てたパイロットとユニットを対戦モードで使えば作品の枠を超えて対戦が出来る。本作では『機動戦士Ζガンダム』をベースに再現。
 
-game: SD Gundam Generation - Ichinen Sensouki (Japan)
+game: SDガンダムジェネレーション 一年戦争記
+sort_title: えすでぃーがんだむじぇねれーしょん1
 file: SD Gundam Generation - Ichinen Sensouki (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年7月26日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の戦略シミュレーションゲーム。後の『SDガンダム Gジェネレーション』シリーズのルーツとなる。ゲームソフト毎に題材をしたガンダムシリーズが決まっているが、育てたパイロットとユニットを対戦モードで使えば作品の枠を超えて対戦が出来る。本作では『機動戦士ガンダム』をベースに再現。
 
-game: SD Gundam Generation - Zanscare Senki (Japan)
+game: SDガンダムジェネレーション ザンスカール戦記
+sort_title: えすでぃーがんだむじぇねれーしょん5
 file: SD Gundam Generation - Zanscare Senki (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年9月27日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の戦略シミュレーションゲーム。後の『SDガンダム Gジェネレーション』シリーズのルーツとなる。ゲームソフト毎に題材をしたガンダムシリーズが決まっているが、育てたパイロットとユニットを対戦モードで使えば作品の枠を超えて対戦が出来る。本作では『機動戦士Vガンダム』をベースに再現。
 
-game: SD Ultra Battle - Seven Densetsu (Japan)
+game: SDウルトラバトル セブン伝説
+sort_title: えすでぃーうるとらばとる2
 file: SD Ultra Battle - Seven Densetsu (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年6月28日にスーパーファミコン用ソフトとして発売された対戦格闘アクションゲーム。大人気TV番組『ウルトラマン』を題材にした、SFC用拡張機器『スーファミターボ』専用のゲームとなる。ウルトラセブン、キングジョー、エレキングの3体から1体を選び、宇宙のヒーローを目指して戦う。2P対戦で相手に勝てば、相手の必殺技を奪うことができるなどユニークなシステムを採用している。
 
-game: SD Ultra Battle - Ultraman Densetsu (Japan)
+game: SDウルトラバトル ウルトラマン伝説
+sort_title: えすでぃーうるとらばとる1
 file: SD Ultra Battle - Ultraman Densetsu (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1996年6月28日に発売されたスーパーファミコン用の周辺機器のスーファミターボ用の対戦格闘アクションゲーム。大人気TV番組『ウルトラマン』を題材にしたゲーム作品となる。ウルトラマン、バルタン星人、レッドキングの3体から1体を選び、宇宙のヒーローを目指して戦っていく。キャラの使った技が成長し、強さが変化していくなど育成要素も楽しむことができる。

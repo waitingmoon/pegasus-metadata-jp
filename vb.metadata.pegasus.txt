@@ -4,26 +4,46 @@ file: 3-D Tetris (USA).zip
 game: Bound High (Japan) (En) (Proto)
 file: Bound High (Japan) (En) (Proto).zip
 
-game: Galactic Pinball (Japan, USA) (En)
+game: ギャラクティックピンボール
+sort_title: ぎゃらくてぃっくぴんぼーる
 file: Galactic Pinball (Japan, USA) (En).zip
+publisher: 任天堂
+description:
+  果てしなく広がる宇宙空間での戦いを舞台とした4つのピンボール台を収録したソフトで、本作はピンボールというタイトルが付いているが、ボールではなくパックを使用している。各台には様々なシステムが搭載されている。本来奥行きが存在する「ピンボール台」をハードの特徴を用いて再現しているだけではなく、ゲーム的にパックが空中を飛んで立体的な仕掛けを通過すると行ったゲーム的な仕掛けもなされている。
 
 game: Golf (USA)
 file: Golf (USA).zip
 
-game: Insmouth no Yakata (Japan)
+game: インスマウスの館
+sort_title: いんすまうすのやかた
 file: Insmouth no Yakata (Japan).zip
+publisher: アイマックス
+description:
+  バーチャルボーイでアイマックスから発売されたアクションシューティングゲーム。深い闇に包まれた館の中から、制限時間内に脱出する事が目的の3Dダンジョン風のアドベンチャーシューティングゲーム。倒しても襲い来るインスマウスを倒しながら逃げていくことになる。
 
 game: Jack Bros. (USA)
 file: Jack Bros. (USA).zip
 
-game: Jack Bros. no Meiro de Hiihoo! (Japan)
+game: ジャック・ブラザースの迷路でヒーホー!
+sort_title: じゃっくぶらざーすのめいろでひーほー
 file: Jack Bros. no Meiro de Hiihoo! (Japan).zip
+publisher: アトラス
+description:
+  同社の女神転生シリーズに登場する雪だるまのような姿をした「ジャックフロスト」、カボチャの頭をした「ジャックランタン」、コートを着たガイコツのような「ジャック・リパー」が登場するステージクリア型のアクションゲーム。ステージ内に散らばった鍵を全て集めると下のフロアに進める。左上の残り時間が体力に相当し、敵やトラップの攻撃を受けると残り時間が減ってしまう。
 
-game: Mario Clash (Japan, USA) (En)
+game: マリオクラッシュ
+sort_title: まりおくらっしゅ
 file: Mario Clash (Japan, USA) (En).zip
+publisher: 任天堂
+description:
+  任天堂から発売されたバーチャルボーイ用のゲームソフト。マリオが「クラッシュハウス」という高い塔にいる敵を、ノコノコの甲羅で退治するゲーム。一般的なマリオシリーズと違い、Bボタンを押すとジャンプする。なお、マリオシリーズでは数少ない宮本茂が関っていないゲームである。ステージは足場が手前と奥に分かれており、別の足場へは土管を使って行き来することができる。
 
-game: Mario's Tennis (Japan, USA) (En)
+game: マリオズテニス
+sort_title: まりおずてにす
 file: Mario's Tennis (Japan, USA) (En).zip
+publisher: 任天堂
+description:
+  1995年7月21日に任天堂から発売されたバーチャルボーイ用ソフト。開発元が異なるためシリーズには含まれないが、マリオ達がテニスをプレイする作品は本作が最初。プレイヤーキャラクターとして、『スーパーマリオカート』で登場したクッパ以外の全7人(マリオ、ルイージ、ピーチ、ヨッシー、キノピオ、ノコノコ、ドンキーコングJr.)を使用することができる。
 
 game: Nester's Funky Bowling (USA)
 file: Nester's Funky Bowling (USA).zip
@@ -34,59 +54,115 @@ file: Niko-chan Battle (Japan) (Proto).zip
 game: Panic Bomber (USA)
 file: Panic Bomber (USA).zip
 
-game: Red Alarm (Japan)
+game: レッドアラーム
+sort_title: れっどあらーむ
 file: Red Alarm (Japan).zip
+publisher: T&Eソフト
+description:
+  1995年7月21日にT&Eソフトよりバーチャルボーイ用ソフトとして発売された。3Dのシューティングゲームとして、上下左右通常移動・旋回は勿論のこと、シューティングでありながらゲーム中いつでもシフトチェンジによる速度調整と静止・後退や、360度視点変更が可能でまさに自由に空間を飛びまわりながら戦闘を行える。
 
 game: Red Alarm (USA)
 file: Red Alarm (USA).zip
 
-game: SD Gundam - Dimension War (Japan)
+game: SDガンダム ディメンションウォー
+sort_title: えすでぃーがんだむでぃめんしょんうぉー
 file: SD Gundam - Dimension War (Japan).zip
+publisher: バンダイ
+description:
+  1995年12月22日にバンダイから発売されたバーチャルボーイ用シミュレーションゲーム。基本システムはオーソドックスなシミュレーションゲームとなっており、モビルスーツや戦艦のユニットを操作して、敵のユニットを全滅させればステージクリアとなる。なお、初期設定では戦闘バトルが「オート」設定になっているが、バーチャルボーイならではの臨場感ある”立体アクションバトル”が楽しめるようになっている。
 
-game: Space Invaders - Virtual Collection (Japan)
+game: スペースインベーダー バーチャルコレクション
+sort_title: すぺーすいんべーだーばーちゃるこれくしょん
 file: Space Invaders - Virtual Collection (Japan).zip
+publisher: タイトー
+description:
+  1995年12月1日にタイトーからバーチャルボーイでタイトーから発売されたシューティングゲーム。スペースインベーダーのバーチャルボーイ版で、通常のインベーダーゲームをプレイできる「ORIGINAL 2D」モードに加え、バーチャルボーイの特性を利用した「VIRTUAL 3D」モードが追加されているのが特徴。また、1面を何秒でクリアできるかを競う「CHALLENGE」モードを収録している。
 
 game: Space Pinball (Japan) (En) (Proto)
 file: Space Pinball (Japan) (En) (Proto).zip
 
-game: Space Squash (Japan)
+game: スペーススカッシュ
+sort_title: すぺーすすかっしゅ
 file: Space Squash (Japan).zip
+publisher: ココナッツジャパン
+description:
+  タイトルの通りスポーツのスカッシュのようにボールを打ち合っていくゲームで、奥にいる相手に向かってボールを打っていく。キャラクターにはライフが存在しており、弾が当たることでライフが減って1点取ることが出来、3点先取した方の勝ちとなる。また、ステージの最後にはボスが出現する。
 
-game: T&E Virtual Golf (Japan)
+game: T&E ヴァーチャルゴルフ
+sort_title: てぃーあんどいーう゛ぁーちゃるごるふ
 file: T&E Virtual Golf (Japan).zip
+publisher: T&Eソフト
+description:
+  1995年8月11日にT&Eソフトが発売したバーチャルボーイ用ソフト。ゲームモードは「ストローク」「トーナメント」がある。「ストローク」ではトレーニングラウンドとしてホールの選択が自由に行えるようになっている。ゲームの本編である「トーナメント」では総勢48人で順位を競う。勝敗は18ホール(最終決勝日のみ)のトータルスコアで優勝が決定される。
 
-game: Teleroboxer (Japan, USA) (En)
+game: テレロボクサー
+sort_title: てれろぼくさー
 file: Teleroboxer (Japan, USA) (En).zip
+publisher: 任天堂
+description:
+  人類の動きに同調して動くロボット技術「テレロボティクス」が生まれた22世紀を舞台にしたボクシングゲーム。ロボットを遠隔操作して戦わせるスポーツであるテレロボクシングのプレイヤー、テレロボクサーにとなって伝説のチャンピオンのKOを目指して戦っていく。左右のLRボタンでパンチを繰り出すことが出来、左右の十字キーを駆使してガードやスウェーを行っていく。
 
-game: Tobidase! Panibon (Japan)
+game: とびだせ! ぱにボン
+sort_title: とびだせぱにぼん
 file: Tobidase! Panibon (Japan).zip
+publisher: ハドソン
+description:
+  1995年7月21日にハドソンから発売された、バーチャルボーイ用ゲームソフト。バーチャルボーイ初の落ち物パズルでパズル画面は中央に立体視された敵、その左右にフィールドがある。通常は平面的だが大ダメージなどでいろんなものが飛び出す派手な演出がある。ハードの制約から赤と黒しか表現できないため、専用のつぶキャラ5組から一つ選んでプレイすることになる。
 
-game: V-Tetris (Japan)
+game: V・テトリス
+sort_title: ばーちゃるてとりす
 file: V-Tetris (Japan).zip
+publisher: BPS
+description:
+  1995年8月25日にビーピーエスより発売されたバーチャルボーイ用ゲームソフト。定番ゲームであるテトリスのバーチャルボーイ版。立体を生かした仕様もあり、フィールドを左右にロールさせて任意の区切りの部分でだけ消去を行える「ゲームモードC」でのプレイ時には裏回りしているフィールドが奥側に裏返って見える。
 
-game: Vertical Force (Japan)
+game: バーティカルフォース
+sort_title: ばーてぃかるふぉーす
 file: Vertical Force (Japan).zip
+publisher: ハドソン
+description:
+  1995年8月12日にハドソンより発売されたバーチャルボーイ用ソフト。縦スクロールタイプのシューティングゲームで画面には上空と低空の2つのラインがあり、この立体空間を行き来することで敵の砲弾を回避することができる。また、独自の思考で攻撃をサポートしてくれるAIも登場する。
 
 game: Vertical Force (USA)
 file: Vertical Force (USA).zip
 
-game: Virtual Bowling (Japan)
+game: バーチャルボウリング
+sort_title: ばーちゃるぼうりんぐ
 file: Virtual Bowling (Japan).zip
+publisher: アテナ
+description:
+  1995年12月22日にアテナから発売されたバーチャルボーイ専用のゲームソフト。バーチャルボーイ特有の立体空間の中で3Dボウリングを楽しめる。ゲームモードは「スタンダードモード」「トーナメントモード」「トレーニングモード」の3つ。ゲームプレイ時には利き腕の選択やボールの重さなど細かく調整することができる。
 
-game: Virtual Boy Wario Land (Japan, USA) (En)
+game: ワリオランド アワゾンの秘宝
+sort_title: わりおらんどあわぞんのひほう
 file: Virtual Boy Wario Land (Japan, USA) (En).zip
+publisher: 任天堂
+description:
+  『ワリオランド』シリーズの2作目。外伝的な位置付けではあるが、ワリオランド作品の1つである。ワリオは探検帽を被っており、変身する種類も前作とほぼ能力が同じでブルワリオ・ジェットワリオ(イーグルワリオ)・ドラゴンワリオ(シードラゴンワリオ)・チビワリオ。3種の能力全てを強化された状態で使える「キングドラゴンワリオ」にも変身できる。「デュアルディスプレイシステム」によって独特の奥行き感を楽しめる。
 
-game: Virtual Fishing (Japan)
+game: バーチャルフィッシング
+sort_title: ばーちゃるふぃっしんぐ
 file: Virtual Fishing (Japan).zip
+publisher: パック・イン・ビデオ
+description:
+  バーチャルボーイならではの奥行感で、大自然の中でのキャスティングや、水中での魚とのスリリングなバトルを楽しむ、釣りアクションゲーム。ニジマス、ブラックバス、イワナ、ヤマメ、ナマズ、サーモンの6種類の釣り大会で優勝すると、規定の数を釣り上げる時間を競うタイムアタックモードに挑戦することができるようになる。また、フリーモードでは17種類の魚たちが住んでいる釣り場が楽しめる。
 
-game: Virtual Lab (Japan)
+game: バーチャルラボ
+sort_title: ばーちゃるらぼ
 file: Virtual Lab (Japan).zip
+publisher: Jウイング
+description:
+  1995年12月8日にJウイングから発売されたバーチャルボーイ専用ゲームソフト。画面上方から落ちてくる筒状の形をした究極生物「ミュー」を繋いでいき、キャップ状の形をしたミューを開口部に繋いでいって全て閉じることで消すことが出来る落ちものパズルゲーム。
 
 game: Virtual League Baseball (USA)
 file: Virtual League Baseball (USA).zip
 
-game: Virtual Pro Yakyuu '95 (Japan)
+game: バーチャルプロ野球'95
+sort_title: ばーちゃるぷろやきゅう95
 file: Virtual Pro Yakyuu '95 (Japan).zip
+publisher: ケムコ
+description:
+  日本野球機構から実名全12球団と選手を収録、それに加えてオリジナルの6球団の計18球団が登場する。モードは1試合コンピュータ対戦するオープン戦、3リーグの中から1チームを選んでリーグ戦を行いリーグ優勝すると3リーグの優勝チームでの総当たり戦に進出して優勝すれば日本一になれるミニペナントレース、アメリカ、ヨーロッパ、日本と国際色豊かな3リーグ選抜から1チームを選んで他と戦うオールスターがある。
 
 game: Waterworld (USA)
 file: Waterworld (USA).zip

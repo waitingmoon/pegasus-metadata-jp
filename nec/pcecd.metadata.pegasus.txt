@@ -1673,7 +1673,7 @@ game: Psychic Detective Series Vol. 3 - Aya (Japan)
 files:
   Psychic Detective Series Vol. 3 - Aya (Japan).chd
   Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd
-publisher: データウェスト
+publisher: データウエスト
 description:
   データウエストより1992年11月20日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンでシリーズ化されていたミステリーアドベンチャーの移植作品となる。人の心に潜入する能力を持つ探偵の主人公「降矢木和哉」が巻き込まれる奇怪な事件を解決するのが目的となる。「見る」「聞く」などのコマンドを選択していくことで聞き込み操作を進めて事件を解決していこう。
 

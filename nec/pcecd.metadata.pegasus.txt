@@ -293,6 +293,12 @@ file: CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).chd
 game: CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl)
 file: CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).chd
 
+game: Chiki Chiki Boys (Japan)
+file: Chiki Chiki Boys (Japan).chd
+publisher: NEC
+description:
+  NECより1994年7月15日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。アーケードからの移植作品。楽園の都、アルル王国の血筋をひく双子の少年達を操作し、アルル王国の再興を目指し、古くから言い伝えられるドラゴンブルーアイズを探し出すのが目的となる。剣術が得意な兄と魔法が得意な弟のどちらかを選ぶことが出来る。全9ステージで構成されている。
+
 game: Chou Aniki (Japan) (FAAT, FACT)
 file: Chou Aniki (Japan) (FAAT, FACT).chd
 publisher: メサイヤ
@@ -1005,6 +1011,9 @@ file: Jack Nicklaus Turbo Golf (USA).chd
 
 game: Jack Nicklaus' World Tour Golf - 162 Holes (Japan)
 file: Jack Nicklaus' World Tour Golf - 162 Holes (Japan).chd
+publisher: ビクター
+description:
+  ビクターより1990年9月14日にPCエンジンのCD-ROM2専用ソフトとして発売されたゴルフゲーム。ゴルフ界の帝王「ジャック・ニクラウス」が、このゲームのために選んでくれた特選コースと世界各国の名門コース、合わせて162ホールをプレイすることができる。また、ホールごとに「ジャック・ニクラウス」のアドバイスが得られるのが特徴となっている。
 
 game: 雀偵物語
 sort_title: じゃんていものがたり1
@@ -1904,6 +1913,9 @@ file: ROM^2 Karaoke Volume 5 (Japan).chd
 
 game: Ruin - Kami no Isan (Japan)
 file: Ruin - Kami no Isan (Japan).chd
+publisher: ビクター
+description:
+  ビクターより1993年11月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。プレイヤーは最大4人のキャラクターでパーティを組んで戦っていく。主人公キャラクターはプレイヤーが操作する必要があるが、それ以外のキャラクターはコンピューターが担当してくれる。フィールドマップは存在せず、マップ画面に表示される場所を選んで移動することになる。
 
 game: Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT)
 files:

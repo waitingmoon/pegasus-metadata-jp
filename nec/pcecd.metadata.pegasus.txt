@@ -5,7 +5,8 @@ publisher: アスク講談社
 description:
   アスク講談社より1993年7月16日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。プレイヤーは戦略、作戦、戦闘を続けていくことで領土を拡張しながら進めていく。ロングシナリオでは天下統一を目的としており、ショートシナリオでは合戦をメインにしている。本作では実在の武将以外にも、オリジナルの武将を作ってプレイすることも可能となっている。
 
-game: 3x3 Eyes - Sanjiyan Henjou (Japan)
+game: 3×3 EYES 三只眼變成
+sort_title: さざんあいずさんじやんへんじょう
 files:
   3x3 Eyes - Sanjiyan Henjou (Japan).chd
   3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1).chd
@@ -13,40 +14,46 @@ publisher: NEC
 description:
   NECより1994年7月8日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作。高田裕三によるマンガ『3×3 EYES』を題材としたゲーム作品となる。アニメ制作集団『南町奉行所』がシナリオ段階から参加。完全オリジナルのストーリーが繰り広げられ、アニメと同等の作画を提供している。秒間14コマのアニメーションは、ストーリーを華やかに彩っている。
 
-game: A.III. - A Ressha de Ikou III (Japan)
+game: A列車で行こう III
+sort_title: えーれっしゃでいこう3
 file: A.III. - A Ressha de Ikou III (Japan).chd
 publisher: アートディンク
 description:
   アートディンクより1993年6月11日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。A列車で行こうシリーズの三作目。本作より大幅にシステムを変更、本格派箱庭ゲームとして以降のシリーズの基盤を作り上げた。鉄道会社の経営者となり、自社と地域の発展を目指す。事業内容は鉄道だけではなく、他の業種もあり、それらを合わせ経営していく事となる。
 
-game: Addams Family, The (USA)
-file: Addams Family, The (USA).chd
+#game: Addams Family, The (USA)
+#file: Addams Family, The (USA).chd
 
-game: Advanced V.G. (Japan)
+game: アドヴァンスト ヴァリアブル・ジオ V.G.
+sort_title: あどう゛ぁんすとう゛ぁりあぶるじお
 file: Advanced V.G. (Japan).chd
 publisher: TGL
 description:
   TGLより1994年7月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。最強のウェイトレスを決めるため美少女達が戦いを繰り広げる、PCで人気の対戦格闘アクション『ヴァリアブル・ジオ』シリーズのPCエンジン版。個性豊かな9人から操作キャラクターを選び、格闘大会を勝ち抜いて優勝を目指す。
 
-game: Adventure Quiz - Capcom World + Hatena no Daibouken (Japan)
+game: アドベンチャークイズ カプコンワールド ハテナの大冒険
+sort_title: あどべんちゃーくいずかぷこんわーるどはてなのだいぼうけん
 file: Adventure Quiz - Capcom World + Hatena no Daibouken (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年6月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたクイズゲーム。『カプコンワールド』と『ハテナの大冒険』の2つのアーケード用ゲームをカップリングし、PCエンジンへ移植した作品となる。2作ともスゴロク形式になっており、フィールドを進み、止まったマスによってクイズやイベントなどが発生していくシステムとなっている。
 
-game: Ai Chou Aniki (Japan) (SADS, SAES)
+game: 愛・超兄貴
+sort_title: あいちょうあにき
 file: Ai Chou Aniki (Japan) (SADS, SAES).chd
 publisher: メサイヤ
 description:
   メサイヤより1995年2月24日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。『超兄貴』から2年後という設定で、イダテンがビルダー星系の不穏な動き察知、単身調査に向かうが消息を絶ち、それを知ったベンテンに派遣されたアドンとサムソンが、ボ帝ビルの妻であるボ帝コンシャス打倒へ向かう。様々なポージングとそれに対応した汗と気合いを飛ばすことによって敵を撃破する仕様。
 
-game: Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)
+game: 悪魔城ドラキュラX 血の輪廻
+sort_title: あくまじょうどらきゅらXちのろんど
 file: Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).chd
 publisher: コナミ
 description:
   コナミより1993年10月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。タイトルの「X」は、本作が悪魔城ドラキュラシリーズ通算10作目であることに由来する。アニメーションによるデモシーンやキャラクターボイスなどが初めて導入された。キャラクターのイラストや設定もシリーズ初のアニメ風になったが、ゲーム自体は従来通りのシリアスなゴシックホラーアクションとなる。
 
-game: Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT)
+game: アルナムの牙 獣族十二神徒伝説
+sort_title: あるなむのきばじゅうぞくじゅうにしんとでんせつ
 files:
   Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT).chd
   Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT).chd
@@ -54,118 +61,138 @@ publisher: ライトスタッフ
 description:
   ライトスタッフより1994年12月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。人種差別をテーマにした作品で、主人公「ケンブ」を操作し、アルナムと呼ばれる世界に突如出現した肉叢(ししむら)から人類を救出する事が目的となる。イラストレーターの木村明広が企画・総監督を務めている。お金は戦闘で倒した肉叢の数などによって換金所でお金と交換するシステムとなる。
 
-game: Alshark (Japan)
+game: アルシャーク
+sort_title: あるしゃーく
 file: Alshark (Japan).chd
 publisher: ビクター
 description:
   ビクターより1994年8月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。主人公のシオン・アスマーンが住むコスマの町に落ちた巨大隕石の謎を解く所から物語が始まる。通常の戦闘シーンはコマンド選択式となっているが、宇宙空間での戦闘シーンはシューティングゲームとなっているのが特徴。キャラクターデザインに木村明広、シナリオに飯淳、音楽は佐藤天平が担当している。
 
-game: Ane-san (Japan)
+game: 姐
+sort_title: あねさん
 file: Ane-san (Japan).chd
 publisher: NEC
 description:
   NECより1995年2月24日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたベルトスクロールアクションゲーム。愛、チカ、マコトの3名のいずれかを操作し、行方不明となった愛の姉である優子を捜すために関東各地の敵チームと戦っていく。登場人物が全てレディースであり抗争をテーマとした異色の作品となっている。ステージクリア後にアイテムが購入できる事や2種類のボーナスゲームが収録されている。
 
-game: Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)
+game: 蒼き狼と白き牝鹿 元朝秘史
+sort_title: あおきおおかみのしろきめじか げんちょうひし
 file: Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).chd
 publisher: コーエー
 description:
   コーエーより1993年9月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。チンギス・ハーンの生涯を描いた『蒼き狼と白き牝鹿』シリーズの続編。基本システムはそのままに、新たに文化圏と気候の概念が導入された。ヨーロッパをも含むユーラシア大陸全土の覇権を争うという設定はそのままで、戦闘シーンの一新、子孫を作る「オルド」のシステムなどをパワーアップしている。
 
-game: Asuka 120% Maxima - Burning Fest. Maxima (Japan)
+game: あすか120%マキシマ BURNING Fest.
+sort_title: あすか120%まきしまばーにんぐふぇすと
 file: Asuka 120% Maxima - Burning Fest. Maxima (Japan).chd
 publisher: NEC
 description:
   NECより1995年7月28日にPCエンジン用ソフトとして発売された対戦型格闘アクションゲーム。パソコンからの移植作で、キャラクターが全員女性なのが特徴。クラブ対抗の予算争奪格闘大会「部対抗予算争奪メガファイト」が舞台となっており、各部員はそれぞれのクラブの特長を活かした技を駆使して戦う。PCE版ではビジュアルシーンの他にプレイキャラを4人追加し、合計10人となった上、新たな必殺技が加わっている。
 
-game: Atlas, The - Renaissance Voyager (Japan)
+game: ジ・アトラス ルネッサンス・ボイジャー
+sort_title: じあとらするねっさんすぼいじゃー
 file: Atlas, The - Renaissance Voyager (Japan).chd
 publisher: アートディンク
 description:
   アートディンクより1994年3月4日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。大航海時代ヨーロッパ中心の視点から、世界に関する情報を集めて世界地図の完成を目指す。プレイヤーが直接世界の発見に関与する事ができず、それを請け負う冒険家に全てが一任されているのが特徴で、プレイヤーに提示されるのは冒険家の持ち帰った情報で作られる世界地図だけとなる。
 
-game: Aurora Quest - Otaku no Seiza in Another World (Japan)
+game: オーロラクエスト おたくの星座 in Another World
+sort_title: おーろらくえすと
 file: Aurora Quest - Otaku no Seiza in Another World (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1993年12月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたRPG。男は「おたくちゃん」と蔑まれる時代。女神マーヤは、女神の親衛隊「オーロラ五人娘」を地球に遣わすが、彼女らは野獣を操りおたくちゃんをいじめるようになる。こうした状況に「本物の男」という物をみせるために、一人の男が旅立つ。ストーリーは本宮ひろ志、キャラクター・デザインは江口寿史が担当。
 
-game: AV Tanjou (Japan) (Unl)
+game: AV誕生
+sort_title: えーぶいたんじょう
 files:
   AV Tanjou (Japan) (Unl).chd
   AV Tanjou (Japan) (Unl) (Alt 1).chd
   AV Tanjou (Japan) (Unl) (Alt 2).chd
+publisher: ハッカーインターナショナル
 
-game: Avenger (Japan)
+game: アヴェンジャー
+sort_title: あう゛ぇんじゃー
 file: Avenger (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1990年12月7日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。プレイヤーが操る自機は戦闘ヘリとなる。機首を左右に振ることで5方向に攻撃が可能で、攻撃方向を固定することもできる。全5ステージの中には2つの作戦を選択できるステージがあり、その後の展開が選択肢によって変えられるのが特徴となっている。
 
-game: Babel (Japan)
+game: バベル
+sort_title: ばべる
 file: Babel (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年3月27日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。ボイス付きのアニメーションシーンが多用されているほか、銃や手榴弾のような近代兵器が多数登場するなど、ファンタジー色を廃しているのが特徴となる。また経験値の概念がなく、イベントを経るたびにレベルが上がって成長するシステムになっている。
 
-game: Baby Jo - The Super Hero (Japan)
+game: ベイビー・ジョー ザ・スーパーヒーロー
+sort_title: べいびーじょざすーぱーひーろー
 file: Baby Jo - The Super Hero (Japan).chd
 publisher: マイクロワールド
 description:
   マイクロワールドより1992年8月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。アメリカのパソコンからの移植作品。プレイヤーは家から遠く離れた田舎で迷子になった赤ん坊のジョーをママのところへ帰すことが目的となる。出現するアイテムも、ガラガラや哺乳ビン、オムツなど、赤ん坊に由来したものとなっており、このゲームの雰囲気を盛り上げている。
 
-game: Bakuden - Unbalance Zone (Japan)
+game: 爆伝 アンバランスゾーン
+sort_title: ばくでんあんばらんすぞーん
 file: Bakuden - Unbalance Zone (Japan).chd
 publisher: ソニー
 description:
   ソニーより1994年4月22日にPCエンジン用ソフトとして発売されたアドベンチャーゲーム。キャラクタデザインに赤塚不二夫、総監督に爆風スランプといった豪華なスタッフを起用し、製作されたゲーム作品。主人公は無気力、無表情、無感動と三拍子そろった少年の宅人。壊れてしまった世界、アンバランスゾーンを音楽の力を使って修復することが目的となる。
 
-game: Bakushou Yoshimoto Shinkigeki (Japan) (FABT)
+game: 爆笑吉本新喜劇
+sort_title: ばくしょうよしもとしんきげき
 file: Bakushou Yoshimoto Shinkigeki (Japan) (FABT).chd
 publisher: ハドソン
 description:
   ハドソンより1994年1月3日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。吉本興業に所属するお笑い芸人によって舞台上で演じられる喜劇『吉本新喜劇』を題材としたゲーム作品となる。プレイヤーは主人公の間寛平を操り、ステージを進めていく。ステージのところどころにミニゲームが用意されていて、吉本新喜劇おなじみのギャグが連発されるのが特徴となる。
 
-game: Basted (Japan)
+game: バステッド
+sort_title: ばすてっど
 file: Basted (Japan).chd
 publisher: NEC
 description:
   NECより1994年10月21日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。主人公の「ライザ」と「アニタ」を操作し、マリスーン王国を舞台に「復元のシーナ」と呼ばれる秘宝を巡っての争いを解決する事が目的となる。通常パートと戦闘パートで構成されており、戦闘は全てイベントバトルで敗北すると即座にゲームオーバーとなる。戦闘は「ライザ」と「アニタ」のどちらかを選択する。
 
-game: Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)
+game: 上海III ドラゴンズアイ
+sort_title: しゃんはい3どらごんずあい
 file: Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).chd
 publisher: アスク講談社
 description:
   アスク講談社より1992年12月18日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたパズルゲーム。画面上に積み上げられた麻雀牌のなかから2つの同じ牌を取り除いていく『上海』をさらにパワーアップした作品となる。最大で5人まで同時プレイが可能な4つのモードと、『ドラゴンズアイ』という新ゲームが追加され、マスターとスレイヤーに分かれた対戦も可能となっている。
 
-game: Bazar de Gozarre no Game de Gozarre (Japan)
+game: バザールでござーるのゲームでござーる
+sort_title: ばざーるでござーるのげーむでござーる
 file: Bazar de Gozarre no Game de Gozarre (Japan).chd
 publisher: NEC
 description:
   NECより1996年7月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたパズルゲーム。NECの販売促進キャンペーンのCMに登場していたサルの人気キャラクター「バザール・デ・ゴザール」を主人公としたゲーム作品。ひたすら歩くだけの「バザール」に、あらかじめ用意された複数の動作指示を行っていく。「バザール」が指示通りに行動し、トラップをくぐり抜け、ゴールにたどり着けばクリアとなる。
 
-game: Beyond Shadowgate (USA)
-file: Beyond Shadowgate (USA).chd
+#game: Beyond Shadowgate (USA)
+#file: Beyond Shadowgate (USA).chd
 
-game: Bikini Girls (USA) (Unl)
-file: Bikini Girls (USA) (Unl).chd
+#game: Bikini Girls (USA) (Unl)
+#file: Bikini Girls (USA) (Unl).chd
 
-game: Bikkuriman Daijikai (Japan)
+game: ビックリマン大事界
+sort_title: びっくりまんだいじかい
 file: Bikkuriman Daijikai (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1988年12月23日にPCエンジンのCD-ROM2ソフトとして発売されたデータベースソフト。菓子のおまけシール『ビックリマン』のキャラクターデータが収録されたソフトとなる。プレイヤーはクイズによってデータを広げていくことが可能となっている。ノーマルキャラクターは最初から見られるが、ビックリマンについてのクイズに答えないと、それ以外のキャラクターは見ることができない仕組みとなっている。
 
-game: Bishoujo Janshi Idol Pai (Japan) (Unl)
+game: 美少女雀士アイドルパイ
+sort_title: びしょうじょじゃんしあいどるぱい
 file: Bishoujo Janshi Idol Pai (Japan) (Unl).chd
 
-game: Bishoujo Senshi Sailor Moon (Japan)
+game: 美少女戦士セーラームーン
+sort_title: びしょうじょせんしせーらーむーん
 file: Bishoujo Senshi Sailor Moon (Japan).chd
 publisher: バンプレスト
 description:
   バンプレストより1994年8月5日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。武内直子によるアニメ『美少女戦士セーラームーン』を題材としたゲーム作品となる。Rのエイルとアン編とブラックムーン編の間を描いたオリジナルストーリーとなる。アニメ版をベースに、アニメでは描かれなかった原作第1期の設定を使用して、ブラックムーン編へ続くように物語が描かれている。
 
-game: Bishoujo Senshi Sailor Moon Collection (Japan)
+game: 美少女戦士セーラームーンコレクション
+sort_title: びしょうじょせんしせーらーむーんこれくしょん
 files:
   Bishoujo Senshi Sailor Moon Collection (Japan).chd
   Bishoujo Senshi Sailor Moon Collection (Japan) (Demo).chd
@@ -173,19 +200,22 @@ publisher: バンプレスト
 description:
   バンプレストより1994年11月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたミニゲーム集。クイズなどのミニゲームをクリアして、セーラー戦士のビジュアルを集めるゲームとなっている。ビジュアルが用意されているセーラー戦士はセーラームーン、セーラーマーキュリー、セーラーマーズ、セーラージュピター、セーラーヴィーナスの5人となる。1人につきビジュアルは約20点収録されいる。
 
-game: Black Hole Assault (Japan)
+game: ブラックホールアサルト
+sort_title: ぶらっくほーるあさると
 file: Black Hole Assault (Japan).chd
 publisher: マイクロネット
 description:
   マイクロネットより1993年7月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された格闘アクションゲーム。メガCDからの移植作品。『ヘビーノバ』の続編的なゲームとなっている。ロボット同士がキック、パンチ、投げを駆使し、1対1の一本勝負で対決していく。2種類の機体のうち1つを選ぶ対COM戦と、8種類の機体から選択できる2P対戦の2つのモードが用意されている。
 
-game: Blood Gear (Japan)
+game: ブラッド・ギア
+sort_title: ぶらっどぎあ
 file: Blood Gear (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1994年10月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。プレイヤーはパワードギアというロボット兵器を操作して戦っていく。アクション画面、移動場所を決定するマップ画面、情報収集や買い物を行う街でゲームは構成されている。プレイヤーキャラクターのロボットの強化に特徴がある。
 
-game: Bomberman - Panic Bomber (Japan) (FAAT)
+game: ボンバーマン ぱにっくボンバー
+sort_title: ぼんばーまんぱにっくぼんばー
 files:
   Bomberman - Panic Bomber (Japan) (FAAT).chd
   Bomberman - Panic Bomber (Japan) (FABT).chd
@@ -193,43 +223,50 @@ publisher: ハドソン
 description:
   ハドソンより1994年12月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された落ちものパズルゲーム。アーケードからの移植作品。『ボンバーマン』シリーズの特徴である爆弾を爆発させる要素を上手に取り入れている。ゲームの形態は今までの『ボンバーマン』シリーズと異なるものの、シリーズ特有の爽快感はパズルゲームになってもしっかり受け継がれている。
 
-game: Bomberman '94 (Japan) (Demo)
+game: ボンバーマン'94 体験版
+sort_title: ぼんばーまん94たいけんばん
 file: Bomberman '94 (Japan) (Demo).chd
 
-game: Bonanza Bros. (Japan)
+game: ボナンザブラザーズ
+sort_title: ぼなんざぶらざーず
 file: Bonanza Bros. (Japan).chd
 publisher: NEC
 description:
   NECより1992年7月31日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。アーケードからの移植作品。プレイヤーは泥棒兄弟である主人公の二人「ROBO」と「MOBO」を操作し、バッドタウン内の不正の証拠を見つけ出すのが目的となる。3分のタイムリミット中にステージ内に配置された物品をすべて取り、屋上にスタンバイした飛行船での脱出を目指す。
 
-game: Bonk III - Bonk's Big Adventure (USA)
-file: Bonk III - Bonk's Big Adventure (USA).chd
+#game: Bonk III - Bonk's Big Adventure (USA)
+#file: Bonk III - Bonk's Big Adventure (USA).chd
 
-game: Brandish (Japan)
+game: ブランディッシュ
+sort_title: ぶらんでぃっしゅ
 file: Brandish (Japan).chd
 publisher: NEC
 description:
   NECより1994年6月17日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。同じ特徴を持つ複数のマップを1ステージとして6つステージに分かれている。女魔道士ドーラと対峙した際、魔法による爆発の衝撃で地底で倒れていた流浪の剣士アレス。地底にはとてつもなく広い空間が存在しており、見れば彼方に巨大な塔が地上へと伸びていた。アレスは地上へと脱出すべく、塔の頂上を目指す。
 
-game: Browning (Japan)
+game: ブロウニング
+sort_title: ぶろうにんぐ
 file: Browning (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年2月7日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。プレイヤーは、近未来を舞台にブロウニングと呼ばれるメカを操作して5つのステージを攻略するのが目的となる。ゲーム中に流れるビジュアルシーンでは、日本語字幕つきの英語のセリフが使用されるなど、硬派な世界観が特徴となっている。
 
-game: BuilderLand - The Story of Melba (Japan)
+game: ビルダーランド
+sort_title: びるだーらんど
 file: BuilderLand - The Story of Melba (Japan).chd
 publisher: マイクロワールド
 description:
   マイクロワールドより1992年4月1日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションパズルゲーム。プレイヤーは主人公「メルバ」を操作し、妻を救出するのが目的となる。メルバは一度前進すると後ろへは下がれなくなるので注意が必要。メルバの独特の挙動を操作しながら、ブロックや階段などのアイテムを利用してステージを進めていく。各ステージにはボスキャラクターが待ち構えている。
 
-game: Burai - Yatsudama no Yuushi Densetsu (Japan)
+game: ブライ 八玉の勇士伝説
+sort_title: ぶらい1
 file: Burai - Yatsudama no Yuushi Densetsu (Japan).chd
 publisher: リバーヒルソフト
 description:
   リバーヒルソフトより1991年8月6日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。シナリオ・ゲームデザインは飯島健男、キャラクターデザイン・原画は荒木伸吾・姫野美智、音楽はSHOW-YAと当時、第一線で活躍していた様々な分野のクリエイターが集結して製作された。戦闘はフロントビューで能力値は光る玉で表現されており、ダメージを受けるとひびが入って割れていくのが特徴。
 
-game: Burai II - Yami Koutei no Gyakushuu (Japan)
+game: ブライII 闇皇帝の逆襲
+sort_title: ぶらい2
 files:
   Burai II - Yami Koutei no Gyakushuu (Japan).chd
   Burai II - Yami Koutei no Gyakushuu (Japan) (Demo).chd
@@ -237,10 +274,11 @@ publisher: リバーヒルソフト
 description:
   リバーヒルソフトより1992年12月18日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『ブライ 八玉の勇士伝説』の続編となる。ストーリーも前作からの続きとなっており、八玉の勇士のエピソードを5章までに描き、6章からは闇皇帝との新たなる戦いがスタートしている。8つのシナリオから成るオムニバス形式を採用している。本作では画面構成や戦闘システムも大きく変更されている。
 
-game: Buster Bros. (USA)
-file: Buster Bros. (USA).chd
+#game: Buster Bros. (USA)
+#file: Buster Bros. (USA).chd
 
-game: CAL II (Japan)
+game: CAL II
+sort_title: きゃる2
 files:
   CAL II (Japan).chd
   CAL II (Japan) (Alt).chd
@@ -248,88 +286,104 @@ publisher: NEC
 description:
   NECより1993年3月31日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作品。卒業式のとき、時の女神アイオーンに彼女(結城美加)を誘拐された主人公は、愛の女神ヴィーナスの力とサイフを借りて時の世界へ美加を救出に行くといったストーリー。バソコン版で収録されていたアダルトシーンはカットされ、皆口裕子や冬馬由美といった有名声優が起用された。
 
-game: CAL III - Kanketsu-hen (Japan)
+game: CALL III 完結編
+sort_title: きゃる3
 file: CAL III - Kanketsu-hen (Japan).chd
 publisher: NEC
 description:
   NECより1994年3月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。『CAL2』の続編。主人公は、ヴィーナスとその分身である結城美加を救出するため、再び時の世界へ向かう。心を失った神々とは対照的に熱いハートを持つワタルが真実の愛を貫いていく。シリーズの完結編であり、いままでの謎が解明されていく。
 
-game: Camp California (USA)
-file: Camp California (USA).chd
+#game: Camp California (USA)
+#file: Camp California (USA).chd
 
-game: Campaign Version - Daisenryaku II (Japan)
+game: キャンペーン版 大戦略II
+sort_title: きゃんぺーんばーじょんだいせんりゃく2
 file: Campaign Version - Daisenryaku II (Japan).chd
 publisher: マイクロキャビン
 description:
   マイクロキャビンより1992年5月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。戦略シミュレーション『大戦略シリーズ』の一作で、『スーパー大戦略』のグレードアップ版。キャンペーンモードではマップを次々にクリアし、最後の敵を倒すのが目的となる。次のマップでは、マップクリア時のユニットを引き続き使用できる。また、本作ではユニットに艦船が追加されている。
 
-game: Cardangels (Japan)
+game: カードエンジェルス
+sort_title: かーどえんじぇるす
 file: Cardangels (Japan).chd
 publisher: フジコム
 description:
   フジコムより1994年12月9日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたカードゲーム。ゲームのメインモードではプレイヤーが主人公の3人娘となり、4種類のカードゲームで女の子と対決していく内容となる。また、メインモードでクリアした女の子の中から、さらに対戦相手を選択してプレイができる「フリープレイ」モードも用意されている。
 
-game: CD Battle - Hikari no Yuusha-tachi (Japan)
+game: CDバトル 光の勇者たち
+sort_title: しーでぃーばとるひかりのゆうしゃたち
 file: CD Battle - Hikari no Yuusha-tachi (Japan).chd
 publisher: キングレコード
 description:
   キングレコードより1993年3月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された対戦ゲーム。音楽CDなどからデータを取り出してそれぞれがキャラクターを作成して戦わせるゲーム作品となる。基本的には友人と2人で遊ぶように作られており、自分のお気に入りのCDから生まれたキャラクターと友人のCDから生まれたキャラクターとで白熱した戦いを繰り広げることができる。
 
-game: CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl)
+game: CD美少女パチンコ 球魔四姉妹
+sort_title: しーでぃーびしょうじょぱちんこきゅうまよんしまい
 file: CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl).chd
 
-game: CD Denjin - Rockabilly Tengoku (Japan)
+game: CD電人 ロカビリー天国
+sort_title: しーでぃーでんじんろかびりーてんごく
 file: CD Denjin - Rockabilly Tengoku (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1993年7月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。『原人シリーズ』第6作目で『PC電人』の続編。CD電人「ゲンヘッド」を操作し、敵を倒しながらステージを進んでいき、待ち受けるボスを倒すことでステージクリアとなる。最終ボスであるワンタントンを倒すことが目的となる。本作からオプションの仲間との分離、合体が可能となった。
 
-game: CD Hanafuda - Bishoujo Fan Club (Japan) (Unl)
+game: CD花札 美少女ファンクラブ
+sort_title: しーでぃーはなふだびしょうじょふぁんくらぶ
 file: CD Hanafuda - Bishoujo Fan Club (Japan) (Unl).chd
 
-game: CD Mahjong - Bishoujo Chuushinha (Japan) (Unl)
+game: CD麻雀 美少女中心派
+sort_title: しーでぃーまーじゃんびしょうじょちゅうしんは
 file: CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).chd
 
-game: CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl)
+game: CDパチスロ 美少女ギャンブラー
+sort_title: しーでぃーぱちすろびしょうじょぎゃんぶらー
 file: CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).chd
 
-game: Chiki Chiki Boys (Japan)
+game: チキチキボーイズ
+sort_title: ちきちきぼーいず
 file: Chiki Chiki Boys (Japan).chd
 publisher: NEC
 description:
   NECより1994年7月15日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。アーケードからの移植作品。楽園の都、アルル王国の血筋をひく双子の少年達を操作し、アルル王国の再興を目指し、古くから言い伝えられるドラゴンブルーアイズを探し出すのが目的となる。剣術が得意な兄と魔法が得意な弟のどちらかを選ぶことが出来る。全9ステージで構成されている。
 
-game: Chou Aniki (Japan) (FAAT, FACT)
+game: 超兄貴
+sort_title: ちょうあにき
 file: Chou Aniki (Japan) (FAAT, FACT).chd
 publisher: メサイヤ
 description:
   メサイヤより1992年12月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。天界の命を受けた主人公の「イダテン」および「ベンテン」を操作し、プロテイン採掘プラントを乱立させ近隣星系を無差別侵攻している「ボ帝ビル」を倒す事が目的となる。登場キャラクターや背景などにおいて筋肉美を強調した世界観を特徴としている。システムはMDソフト『ジノーグ』を元にしている。
 
-game: Chou Eiyuu Densetsu - Dynastic Hero (Japan)
+game: 超英雄伝説ダイナスティックヒーロー
+sort_title: ちょうえいゆうでんせつだいなすてぃっくひーろー
 file: Chou Eiyuu Densetsu - Dynastic Hero (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1994年5月20日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。『ワンダーボーイ5 モンスターワールド3』の世界観を変更したアレンジ移植作。かぶと虫族の勇者ダイナスが、平和を乱すトカゲ族に立ち向かう。トカゲ族の王サラマンダを倒し、さらわれた森の精霊リリファを助け出すのが目的となる。旅の途中でてんとう虫やみつばちなど4人のキャラを仲間にできる。
 
-game: Chou Jikuu Yousai Macross - Eien no Love Song (Japan)
+game: 超時空要塞マクロス 永遠のラヴソング
+sort_title: ちょうじくうようさいまくろすPCECDb
 file: Chou Jikuu Yousai Macross - Eien no Love Song (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1992年12月4日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された戦術シミュレーションゲーム。テレビアニメ『超時空要塞マクロス』を題材としたゲーム作品。『超時空要塞マクロス2036』の続編で、2037年が舞台。ふたたびカムジン一派によりプラド基幹艦隊が呼び寄せられ、謎のメルトランディ軍も参戦する。また、ゲーム上で「愛・おぼえていますか」が使われたのはこれが最初となる。
 
-game: Chou Jikuu Yousai Macross 2036 (Japan)
+game: 超時空要塞マクロス2036
+sort_title: ちょうじくうようさいまくろすPCECDa
 file: Chou Jikuu Yousai Macross 2036 (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1992年4月3日にPCエンジンのCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。人気SFアニメ『超時空要塞マクロス』シリーズを基にしたゲーム作品となる。自機は、アニメと同じくシチュエーションに応じて、ファイター、ガウォーク、バトロイドの3形態に変形する。武器はショットのほかに特殊攻撃が使えるが、特殊攻撃はスコアによって、より強力なものを獲得できる。
 
-game: Color Wars (Japan)
+game: カラーウォーズ
+sort_title: からーうぉーず
 file: Color Wars (Japan).chd
 publisher: ココナッツジャパン
 description:
   ココナッツジャパンより1992年7月10日にPCエンジンのCD-ROM2専用ソフトとして発売されたテーブルゲーム。4色のボールを使った立体リバーシとなる。ルールとしては最後に自分のボールが一番多く残っている人が勝者となる。16本のピンに4段までボールを積むことができ、自分のボールで縦、横、斜めに相手のボールを挟めれば、それを自分のボールとして獲得することができる。
 
-game: Cosmic Fantasy - Bouken Shounen Yuu (Japan)
+game: コズミックファンタジー 冒険少年ユウ
+sort_title: こずみっくふぁんたじー1
 files:
   Cosmic Fantasy - Bouken Shounen Yuu (Japan).chd
   Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1).chd
@@ -338,103 +392,124 @@ publisher: 日本テレネット
 description:
   日本テレネットより1989年12月21日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。PCエンジンオリジナルRPG『コズミック・ファンタジー』シリーズの第1作目。登場人物たちも個性的で人気があり、キャラクター音声の導入や時々挿入されるビジュアルなどで作品への感情移入を高めているのが特徴となる。オープニングは西村知美が歌う「光の海の中へ」が起用されている。
 
-game: Cosmic Fantasy 2 - Bouken Shounen Ban (Japan)
+game: コズミックファンタジー2 冒険少年バン
+sort_title: こずみっくふぁんたじー2
 file: Cosmic Fantasy 2 - Bouken Shounen Ban (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1991年4月5日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『コズミック・ファンタジー』シリーズの第2作目。アクセスタイムが短縮され、マップも2倍になるなど、内容はグレードアップされた。シナリオは4部構成となる。新キャラクターのバンとリムが主人公となり、第1部でバン、第2部でリムが登場し、第3部では2人が出会うような流れになっている。
 
-game: Cosmic Fantasy 2 (USA)
-file: Cosmic Fantasy 2 (USA).chd
+#game: Cosmic Fantasy 2 (USA)
+#file: Cosmic Fantasy 2 (USA).chd
 
-game: Cosmic Fantasy 3 - Bouken Shounen Rei (Japan)
+game: コズミックファンタジー3 冒険少年レイ
+sort_title: こずみっくふぁんたじー3
 file: Cosmic Fantasy 3 - Bouken Shounen Rei (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年9月25日にPCエンジン用ソフトとして発売されたロールプレイングゲーム。PCエンジンオリジナルRPG『コズミック・ファンタジー』シリーズの第3作目。フィールド上のシステムと戦闘がかなり改良されている。過去、そして現代へと時空を超えたストーリー展開が本作の魅力となる。新キャラクターのレイ、マイ、ダイゴたちが1作目の25年前の世界を舞台に大活躍する。
 
-game: Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan)
+game: コズミックファンタジー4 銀河少年伝説 激闘編
+sort_title: こずみっくふぁんたじー4b
 file: Cosmic Fantasy 4 - Ginga Shounen Densetsu - Gekitou-hen (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1994年11月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『コズミック・ファンタジー』シリーズの第4作目の下巻。本作の主役はコズミック・ハンターのバンとなる。物語はバンの故郷・惑星イデアをベースに冒険が展開していく。PCエンジンの人気RPG『コズミック・ファンタジー』シリーズの第1部完結編にあたる作品となる。
 
-game: Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan)
+game: コズミックファンタジー4 銀河少年伝説 突入編
+sort_title: こずみっくふぁんたじー4a
 file: Cosmic Fantasy 4 - Ginga Shounen Densetsu - Totsunyuu-hen (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1994年6月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『コズミック・ファンタジー』シリーズの第4作目の上巻。本作ではシリーズ初のアドベンチャーパート、リアルタイムの戦闘システム、そして上下2巻の構成など、積極的に新しい試みがなされた内容となっている。ユウとサヤ、もんものチームが、上巻にあたる本作『突入編』で大活躍する。
 
-game: Cyber City Oedo 808 - Kemono no Alignment (Japan)
+game: CYBER CITY OEDO 808 獣の属性
+sort_title: さいばーしてぃーおおえどけもののあらいんめんと
 file: Cyber City Oedo 808 - Kemono no Alignment (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1991年3月15日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。メディアミックス作品『電脳都市OEDO808』のゲーム作品。舞台は近未来の都市で世界のトップとなった日本の中心地「OEDO」。7年ぶりにOEDOに戻ってきた主人公のセンゴクが、電脳警察の一員となり、対立する組織や電脳犯罪者と戦っていく。近未来のサイバーパンクな雰囲気の世界観が特徴となる。
 
-game: Daisenpuu Custom (Japan)
+game: 大旋風カスタム
+sort_title: だいせんぷうかすたむ
 file: Daisenpuu Custom (Japan).chd
 publisher: NEC
 description:
   NECより1991年7月26日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。アーケードからの移植作品。本作ではヘルパーと呼ばれる支援機の存在が特徴となっており、ヘルパーは自機を援護射撃してくれるだけでなく、敵に特攻させることも可能となっている。このPCエンジン版ではアーケードには存在しない、オリジナルボスも追加されている。
 
-game: Davis Cup Tennis, The (Japan)
+game: ザ・デビステニスカップ
+sort_title: ざでびすてにすかっぷ
 file: Davis Cup Tennis, The (Japan).chd
 publisher: マイクロワールド
 description:
   マイクロワールドより1992年4月1日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたテニスゲーム。デビスカップとは、毎年アメリカで開催される男子テニスの国別対抗戦の事。本作では、そのデニスカップで32人のトッププレイヤーたちを相手に勝ち進み、優勝するのが目的となる。また、プレイヤーには6つの能力値があり、ポイントを振り分けることで好きなキャラクターに設定することができる。
 
-game: De-Ja (Japan)
+game: デ・ジャ
+sort_title: でじゃ
 file: De-Ja (Japan).chd
 publisher: NEC
 description:
   NECより1996年7月12日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作品。考古学者の龍介は、謎の杖をめぐる事件に巻き込まれていく。システムが簡略化されているので、アイコンを選択すれば行動を決定できるようになっているのが特徴。PCエンジンの移植にあたり、グラフィックは全て一新されている。
 
-game: Dead of the Brain 1&2 (Japan)
+game: デッド・オブ・ザ・ブレイン1&2
+sort_title: でっどおぶざぶれいん1&2
 file: Dead of the Brain 1&2 (Japan).chd
 publisher: NEC
 description:
   NECより1999年6月3日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンゲームの『デッド・オブ・ザ・ブレイン 死霊の叫び』と『デッド・オブ・ザ・ブレイン 2』を移植の上、同時収録している。ホラーゲームの一種であり、選択肢を総当たりする従来のシステムに画面内クリックを導入した内容となる。また、敵との戦闘時には・シューティングゲームへ移行するのも特徴。
 
-game: Death Bringer - The Knight of Darkness (Japan)
+game: デスブリンガー
+sort_title: ですぶりんがー
 file: Death Bringer - The Knight of Darkness (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1990年4月27日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。パソコンからの移植作品。フィールド、街、ダンジョンなどすべてが3D表示となっており、戦闘時は2Dのトップビュー画面に切り替わるシステムとなる。主人公のほかに8人の人物が登場し、最大4人のパーティで行動していく。
 
-game: Dekoboko Densetsu - Hashiru Wagamanmaa (Japan)
+game: デコボコ伝説 走るワガマンマー
+sort_title: でこぼこでんせつはしるわがまんまー
 file: Dekoboko Densetsu - Hashiru Wagamanmaa (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1990年11月2日にPCエンジンのCD-ROM2専用ソフトとして発売された障害レースゲーム。愛車デコボッカーを操作して全10ステージを走り抜くのが目的となる。結果によって得点と賞金が獲得できるので、チューニングをしてさらにマシンをパワーアップすることもできる。また、マルチタップとパッドを繋げば、最大5人までプレイすることも可能となっている。
 
-game: Dennou Tenshi - Digital Ange (Japan)
+game: 電脳天使 デジタルアンジュ
+sort_title: でんのうてんしでじたるあんじゅ
 file: Dennou Tenshi - Digital Ange (Japan).chd
 publisher: 徳間書店
 description:
   徳間書店より1994年11月16日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作。恋愛シミュレーションゲーム『初恋物語』の劇中作品から生まれた、漫画作品『電脳天使』を題材としたゲーム作品となる。主人公が拾ったフロッピーディスクから天使が現れるところから物語が始まる。プレイヤーの選択次第で結末が変わっていくマルチエンディングを採用している。
 
-game: Develo - Starter Kit - Assembler-hen (Japan)
+game: でべろ スターターキット アセンブラ編
+sort_title: でべろすたーたーきっとあせんぶらへん
 file: Develo - Starter Kit - Assembler-hen (Japan).chd
+publisher: 徳間書店
 
-game: Develo - Starter Kit - BASIC-hen (Japan)
+game: でべろ スターターキット BASIC編
+sort_title: でべろすたーたーきっとべーしっくへん
 file: Develo - Starter Kit - BASIC-hen (Japan).chd
+publisher: 徳間書店
 
-game: Develo Magazine Vol. 1 (Japan)
+game: Develo Magazine Vol.1
+sort_title: でべろまがじん1
 file: Develo Magazine Vol. 1 (Japan).chd
+publisher: 徳間書店
 
-game: Doraemon - Nobita no Dorabian Night (Japan)
+game: ドラえもん のび太のドラビアンナイト
+sort_title: どらえもんのびたのどらびあんないと
 file: Doraemon - Nobita no Dorabian Night (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年5月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。アニメ、ドラえもんの映画作品『ドラえもん のび太のドラビアンナイト』を題材としたゲーム作品となる。映画のストーリーに沿って作られているが、映画版と若干の違いもある。本作のスーパーCD-ROM2版ではヒューカード版と違い、キャラクターボイスや映画で使用された楽曲などが追加されている。
 
-game: Double Dragon II - The Revenge (Japan)
+game: ダブルドラゴンII THE REVENGE
+sort_title: だぶるどらごん2
 file: Double Dragon II - The Revenge (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年3月12日にPCエンジン用ソフトとして発売されたアクションゲーム。アーケード版からの移植作となる。主人公のビリーとジミーが経営していた道場が何者かに荒らされ、ビリーの恋人のマリアンが殺されてしまった。復讐に燃えるビリーとジミーを操り、マリアンの仇を討つのが目的となる。本作は2人同時プレイが最大の特徴となる。PCエンジン版では音声付きのビジュアルデモが付加されている。
 
-game: Doukyuusei (Japan) (Rev 3)
+game: 同級生
+sort_title: どうきゅうせい
 files:
   Doukyuusei (Japan) (Rev 3).chd
   Doukyuusei (Japan) (Rev 3) (Alt 1).chd
@@ -444,112 +519,130 @@ publisher: NEC
 description:
   NECより1995年11月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作品。夏休みの前半部分をナンパ資金調達のアルバイトに明け暮れた主人公が、8月10日から8月31日までの間に街や学園をナンパして回るというものであるが、話が進むにつれ、各ヒロインが持つ悩みやコンプレックスといった問題に主人公が向き合っていく。
 
-game: Down Load 2 (Japan)
+game: ダウンロード2
+sort_title: だうんろーど2
 file: Down Load 2 (Japan).chd
 publisher: NEC
 description:
   NECより1991年3月29日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。『ダウンロード』の続編。近未来を舞台に主人公のシドが、政府の機密データを奪い返すべく大活躍する。自機は4種類の武器を装備していて、自由に変更ができる。これらの武器はアイテムを取ることで3段階のパワーアップが可能となっている。また、キャラクターデザインは板橋しゅうほうが担当している。
 
-game: Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)
+game: ダウンタウン熱血行進曲 それゆけ大運動会
+sort_title: だうんたうんねっけつこうしんきょくそれゆけだいうんどうかい
 file: Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1992年12月11日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。ファミコンで発売された『ダウンタウン熱血行進曲』の移植作品。くにおくんと熱血高校のメンバーが大騒ぎする運動会となる。殴る蹴る何でもOKの4つの格闘競技で優勝を争う。木刀、メリケンサック、爆弾などのアイテムがステージに落ちている。PCエンジン版ではキャラクターに音声がついている。
 
-game: Downtown Nekketsu Monogatari (Japan)
+game: ダウンタウン熱血物語
+sort_title: だうんたうんねっけつものがたり
 file: Downtown Nekketsu Monogatari (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年12月24日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。ファミコンで発売された『ダウンタウン熱血物語』の移植作品。本作では敵キャラクターを倒すことでお金を獲得して、お店でアイテムを入手し、ステータスを上げていく、というロールプレイングゲームの要素が加えられている。PCエンジン版では声優によるボイスの追加やBGMのアレンジが行われている。
 
-game: Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT)
+game: ドラゴンボールZ 偉大なる孫悟空伝説
+sort_title: どらごんぼーるZいだいなるそんごくうでんせつ
 file: Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT).chd
 publisher: バンダイ
 description:
   バンダイより1994年11月11日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。鳥山明の漫画『ドラゴンボール』を題材としたゲーム作品。原作のスピーディーな戦いを再現することに主眼に置いた半オートでアクションが展開するシステム「プレイング・アニメーション」を採用。TVアニメ版の主題歌を使用したオープニングの再現や、アニメと同じ声優陣によるフルボイスを実現している。
 
-game: Dragon Half (Japan)
+game: ドラゴンハーフ
+sort_title: どらごんはーふ
 file: Dragon Half (Japan).chd
 publisher: マイクロキャビン
 description:
   マイクロキャビンより1994年9月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたボードゲーム。見田竜介による漫画『ドラゴンハーフ』を題材としたゲーム作品となる。プレイヤーはクリアに必要なアイテムを集めて大魔王を封印することが目的となる。原作のムードを活かしたコミカルなイベントが多数用意されている。戦闘はカードバトル方式で、OVAの声優陣によるボイスが追加されている。
 
-game: Dragon Knight & Graffiti (Japan)
+game: ドラゴンナイト&グラフィティ
+sort_title: どらごんないと&ぐらふぃてぃ
 file: Dragon Knight & Graffiti (Japan).chd
 publisher: NEC
 description:
   NECより1995年3月31日にPCエンジン用ソフトとして発売された3DダンジョンRPG。エルフより発売されたアダルトゲーム『ドラゴンナイト』の移植作品となる。街や女神の塔を行ったり来たりしながらゲームが進んでいく。美少女RPGとして人気の『ドラゴンナイト』だが、PCエンジン版では、オリジナルモードとカップリングされての移植となっている。
 
-game: Dragon Knight II (Japan)
+game: ドラゴンナイトII
+sort_title: どらごんないと2
 file: Dragon Knight II (Japan).chd
 publisher: NEC
 description:
   NECより1992年8月7日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された3DダンジョンRPG。エルフより発売されたアダルトゲーム『ドラゴンナイト2』の移植作品となる。プレイヤーは主人公「ヤマトタケル」となり、魔女サーニャの呪いによってモンスターにされた美少女たちを救うため、迷宮と化した塔に挑戦する。美少女たちの呪いを解くと、お礼に宿屋へ訪ねてきてくれる。
 
-game: Dragon Knight III (Japan)
+game: ドラゴンナイトIII
+sort_title: どらごんないと3
 file: Dragon Knight III (Japan).chd
 publisher: NEC
 description:
   NECより1994年7月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『ドラゴンナイト』シリーズの第3作目。シリーズ共通の主人公『ヤマトタケル』の出生の謎が解き明かされていくストーリーとなる。本作より3DダンジョンRPGから、フィールドタイプのRPGと変更になっている。また、本作では過去シリーズ2作のメインキャラクターがすべて登場する。
 
-game: Dragon Slayer - The Legend of Heroes (Japan)
+game: ドラゴンスレイヤー 英雄伝説
+sort_title: どらごんすれいやーえいゆうでんせつ1
 file: Dragon Slayer - The Legend of Heroes (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1991年10月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。「ドラゴンスレイヤーシリーズ」の第6作目で、その後に独立した『英雄伝説シリーズ』の「イセルハーサ編」の第1作目となる本作ではイセルハーサを舞台とし、ファーレーン王国の王子セリオスが主人公となる。セリオスは出会った仲間たちと共に、摂政アクダムの野望を阻止するのが目的となる。
 
-game: Dragon Slayer - The Legend of Heroes (USA)
-file: Dragon Slayer - The Legend of Heroes (USA).chd
+#game: Dragon Slayer - The Legend of Heroes (USA)
+#file: Dragon Slayer - The Legend of Heroes (USA).chd
 
-game: Dragon Slayer - The Legend of Heroes II (Japan)
+game: ドラゴンスレイヤー 英雄伝説II
+sort_title: どらごんすれいやーえいゆうでんせつ2
 file: Dragon Slayer - The Legend of Heroes II (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年12月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。ドラゴンスレイヤー英雄伝説の続編。全6章仕立てとなっており、前作から20年後のイセルハーサと、その地下に広がる国家ファーゲスタが舞台で前作の主人公セリオスの息子アトラスの物語となる。MPを廃止し「呪文カプセル」を導入、値が大きいほど呪文の効果が上がる「呪文能力」が設定された。
 
-game: Dungeon Explorer II (Japan)
+game: ダンジョンエクスプローラーII
+sort_title: だんじょんえくすぷろーらー2
 file: Dungeon Explorer II (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1993年3月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。最大5人までの同時プレイが人気を呼んだアクションRPGシリーズの第2弾。前作から半世紀後、コーネリアの地に再び現れた「魔王ブレード」と「闇の魔導師」を倒すべく8人の勇者たちが集結する。冒険の途中には、新たな仲間との出会いや、死神とのカードゲームなどイベントも多数用意されている。
 
-game: Dungeon Explorer II (USA)
-file: Dungeon Explorer II (USA).chd
+#game: Dungeon Explorer II (USA)
+#file: Dungeon Explorer II (USA).chd
 
-game: Dungeon Master - Theron's Quest (Japan)
+game: ダンジョン・マスター セロンズ・クエスト
+sort_title: だんじょんますたーせろんずくえすと
 file: Dungeon Master - Theron's Quest (Japan).chd
 publisher: ビクター
 description:
   ビクターより1992年9月18日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。3D表示のダンジョンを探検していく3DダンジョンRPGとなる。本作では時間経過がリアルタイムで進行していく点が特徴となる。食事をしないと死んでしまう、持ち物の重さで行動が制限されるなど、リアルな設定となっている。また、行動はすべてアイコンで指示していくこととなる。
 
-game: Dungeon Master - Theron's Quest (USA)
-file: Dungeon Master - Theron's Quest (USA).chd
+#game: Dungeon Master - Theron's Quest (USA)
+#file: Dungeon Master - Theron's Quest (USA).chd
 
-game: Duo Comic - Bakuretsu Hunter (Japan)
+game: DUO COMIC 爆れつハンター
+sort_title: でゅおこみっくばくれつはんたー
 file: Duo Comic - Bakuretsu Hunter (Japan).chd
+publisher: メディアワークス
 
-game: Dynastic Hero, The (USA)
-file: Dynastic Hero, The (USA).chd
+#game: Dynastic Hero, The (USA)
+#file: Dynastic Hero, The (USA).chd
 
-game: Efera & Jiliora - The Emblem from Darkness (Japan)
+game: エフェラ&ジリオラ ジ・エンブレム フロム ダークネス
+sort_title: えふぇら&じりおらじえんぶれむふろむだーくねす
 file: Efera & Jiliora - The Emblem from Darkness (Japan).chd
 publisher: ブレイングレイ
 description:
   ブレイングレイより1991年12月13日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションRPG。ひかわ玲子のファンタジー小説『女戦士エフェラ&ジリオラ』を題材としたゲーム作品となる。プレイヤーはゲームスタート時にエフェラとジリオラのいずれかを選択し、そのキャラクターを操作してストーリーを進めていく。エフェラとジリオラを2人でそれぞれ操作する、2人同時プレイモードも用意されている。
 
-game: Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan)
+game: 栄冠は君に 高校野球全国大会
+sort_title: えいかんはきみにこうこうやきゅうぜんこくたいかい
 file: Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan).chd
 publisher: アートディンク
 description:
   アートディンクより1994年7月15日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。全国高等学校野球選手権大会を題材としたゲーム作品となる。日本全国に存在する全ての高等学校が再現されており、その中から任意の一校を選び甲子園での優勝を目指す。プレイヤーは野球部の監督という設定になっており、試合に勝つためのチーム作りなどマネジメント能力が問われる。
 
-game: Eiyuu Sangokushi (Japan)
+game: 英雄三国志
+sort_title: えいゆうさんごくし
 file: Eiyuu Sangokushi (Japan).chd
 publisher: アイレム
 description:
   アイレムより1993年3月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。複雑なシステムが多いシミュレーションゲームの中で、本作はシンプルなシステムを採用。初心者にもプレイしやすい内容となっている。史実を基にした「シナリオモード」と、架空の「もしもモード」といったモードが用意されている。ゲーム終了時点で、一定の点数以上獲得すると、シナリオクリアとなる。
 
-game: Emerald Dragon (Japan)
+game: エメラルドドラゴン
+sort_title: えめらるどどらごん
 files:
   Emerald Dragon (Japan).chd
   Emerald Dragon (Japan) (Demo).chd
@@ -558,25 +651,28 @@ publisher: NEC
 description:
   NECより1994年1月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。パソコンからの移植作品。壮大でドラマティックなストーリーが、龍族の青年アトルシャンと人間の少女タムリンの交流をベースに展開するRPG。パソコン版でユーザーに不評だった部分は今回の移植にあたり大きく変更、満足度の高い仕上がりとなっている。シナリオも追加・修正されている。
 
-game: Exile - Toki no Hasama e (Japan)
+game: エグザイル 時の狭間へ
+sort_title: えぐざいる1
 file: Exile - Toki no Hasama e (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1991年3月29日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションRPG。パソコンからの移植作。会話画面はトップビュー視点だが、アクションは横スクロールとなる。主人公サドラーを操作して数々の敵を倒し経験値を得てレベルアップさせ、各ストーリーのイベントをクリア、またはボスキャラを倒すことで進めていく。ゲーム中のアイテムとして麻薬・ドラッグ類が登場するのも特徴。
 
-game: Exile - Wicked Phenomenon (USA)
-file: Exile - Wicked Phenomenon (USA).chd
+#game: Exile - Wicked Phenomenon (USA)
+#file: Exile - Wicked Phenomenon (USA).chd
 
-game: Exile (USA)
-file: Exile (USA).chd
+#game: Exile (USA)
+#file: Exile (USA).chd
 
-game: Exile II - Janen no Jishou (Japan)
+game: エグザイルII 邪念の事象
+sort_title: えぐざいる2
 file: Exile II - Janen no Jishou (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年9月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。『エグザイル 時の狭間へ』の続編。基本システムは前作と同じとなっており、前作の半年後から始まる。前作同様、宗教色を前面に押し出した難解なストーリーが特徴となる。前作では主人公のサドラーしか操作できなかったが、本作では5人のキャラクターから選択が可能となっている。
 
-game: F1 Circus Special - Pole to Win (Japan) (FAAT, FACT)
+game: F1サーカス・スペシャル ポールトゥウイン
+sort_title: えふわんさーかすすぺしゃるぽーるとぅういん
 files:
   F1 Circus Special - Pole to Win (Japan) (FAAT, FACT).chd
   F1 Circus Special - Pole to Win (Japan) (FABT).chd
@@ -584,13 +680,15 @@ publisher: 日本物産
 description:
   日本物産より1992年6月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたレースゲーム。『F1サーカス』シリーズの一作で、チーム・ロータス監修作品となる。ゲーム中でもチーム・ロータス、および当時所属ドライバーのミカ・ハッキネンとジョニー・ハーバートが実名で登場する。効果音をサーキットで収録し、よりリアルな効果音となっている。
 
-game: F1 Team Simulation - Project F (Japan)
+game: F1チームシミュレーション プロジェクトF
+sort_title: えふわんちーむしみゅれーしょんぷろじぇくとF
 file: F1 Team Simulation - Project F (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年9月4日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。監督としてF1-チームを経営して優勝に導くことを目指す。プレイヤーは、F-1チームの監督となり、コンストラクターズ・チャンピオンになることが目的となる。マネージメント関係や、マシンの開発、レースの作戦など、指示を細かく出すことができるのが本作の特徴となる。
 
-game: Faceball (Japan)
+game: フェイスボール
+sort_title: ふぇいすぼーる
 files:
   Faceball (Japan).chd
   Faceball (Japan) (Demo).chd
@@ -598,23 +696,25 @@ publisher: リバーヒルソフト
 description:
   リバーヒルソフトより1993年11月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。プレイヤーはボールやキノコなどの形をしたフェイスと呼ばれるキャラを操作し、立体迷路のなかで、最大4人で対戦していく。ゲームモードは銃撃戦のバトルモードと、制限時間内で救出した仲間の数を競うレースモードが用意されている。
 
-game: Faerie Dust Story - Meikyuu no Elfeene (Japan)
+game: 迷宮のエルフィーネ
+sort_title: めいきゅうのえるふぃーね
 file: Faerie Dust Story - Meikyuu no Elfeene (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1990年7月6日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。アイドルの「とろりん」こと西村知美を主人公としたゲーム作品となる。「とろりん」がフェアリーランドの平和を取り戻すために活躍する。「とろりん」の歌がゲーム中には4曲も収録されていて、曲の中にはゲームのナゾを解くヒントが隠されている。
 
-game: Fantastic Night Dreams - Cotton (Japan) (En,Ja)
+game: コットン
+sort_title: こっとん
 file: Fantastic Night Dreams - Cotton (Japan) (En,Ja).chd
 publisher: ハドソン
 description:
   ハドソンより1993年2月12日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。アーケードからの移植作。プレイヤーは主役である魔法使いの少女「コットン」を操作し、ゲームクリアを目指す。ビジュアルや設定においてSF的・硬質的なモチーフが多くを占めていた当時、本作は世界観やキャラクターがポップなファンタジー的モチーフで統一されているのが特徴となる。
 
-game: Fantastic Night Dreams - Cotton (USA)
-file: Fantastic Night Dreams - Cotton (USA).chd
+#game: Fantastic Night Dreams - Cotton (USA)
+#file: Fantastic Night Dreams - Cotton (USA).chd
 
 game: 天外魔境 風雲カブキ伝
-sort_title: てんがいまきょうPCE3
+sort_title: てんがいまきょうPCECD3
 files:
   Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan).chd
   Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Demo).chd
@@ -623,7 +723,7 @@ description:
   ハドソンより1993年7月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。天外魔境シリーズの外伝。『天外魔境II 卍MARU』のキャラクターであるカブキ団十郎を操作し、邪教集団「大門教」の教主「魔王ガープ」によって連れ去られた京都の女たちを救出する事が目的となる。ヒロインの阿国の声優に女優の牧瀬里穂を迎え、ゲームにミュージカル要素を取り入れている。
 
 game: 天外魔境 ZIRIA
-sort_title: てんがいまきょうPCE1
+sort_title: てんがいまきょうPCECD1
 files:
   Far East of Eden - Tengai Makyou - Ziria (Japan) (Hibaihin).chd
   Far East of Eden - Tengai Makyou - Ziria (Japan) (Rev 6).chd
@@ -633,13 +733,14 @@ description:
   ハドソンより1989年6月30日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。世界初のCD-ROMを媒体としたRPG。「外国人から観た誤った日本観」をコンセプトとする「ジパング」という架空の国を舞台にした天外魔境シリーズの1作目。アニメーション処理された映像表現や声優による音声、メインテーマを含む3曲を坂本龍一が作曲など、当時としては規格外の演出を実現している。
 
 game: 天外魔境II 卍MARU
-sort_title: てんがいまきょうPCE2
+sort_title: てんがいまきょうPCECD2
 file: Far East of Eden - Tengai Makyou II - Manji Maru (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年3月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『天外魔境 ZIRIA』、架空の国ジパングを舞台にした『天外魔境シリーズ』の第2作目。「火の一族」の末裔である主人公の「戦国卍丸」を操作し、暗黒ランとそれを操る「根の一族」を倒す事が目的となる。オーケストラの音楽、声優による音声、ムービーなどが収録された大作RPGとなっている。
 
-game: Farjius no Jakoutei - Neo Metal Fantasy (Japan)
+game: ファージアスの邪皇帝
+sort_title: ふぁーじあすのじゃこうてい
 files:
   Farjius no Jakoutei - Neo Metal Fantasy (Japan).chd
   Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).chd
@@ -647,19 +748,22 @@ publisher: ヒューマン
 description:
   ヒューマンより1992年8月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。ゲーム雑誌で連載されていた読者参加型ゲーム『ファージアスの邪皇帝』を題材としたゲーム作品。ファンタジーとSFの要素を融合させたネオ・メタル・ファンタジーとされており、剣と魔法による戦いを描きながらも、ロボットのようなメカ兵器が登場する。
 
-game: Faussete Amour (Japan)
+game: フォーセットアムール
+sort_title: ふぉーせっとあむーる
 file: Faussete Amour (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年3月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。主人公のコルクが黒魔術集団ホーリーキャスクに連れ去られた姉メリヤを救出に向かう。コルクは通常時は鎧を着けているがダメージを受けると下着だけとなってしまい、更にダメージを受けると裸となって1ミスになる。全7ステージで構成されておりビジュアルシーンが美しいのが特徴。
 
-game: Fiend Hunter (Japan)
+game: フィーンドハンター
+sort_title: ふぃーんどはんたー
 file: Fiend Hunter (Japan).chd
 publisher: ライトスタッフ
 description:
   ライトスタッフより1993年4月16日にPCエンジン用ソフトとして発売されたアクションRPG。多彩に用意されたアクションを駆使してフィールドを進んでいき、敵の魔獣に出会ったところで戦闘となる。キャラクターの動きを非常にリアルに表現している点が特徴となる。レベルアップはパラメーター制で、フィーンドを倒したときに手に入るアイテムを消費することで行う。また、キャラクターデザインは木村明広が担当している。
 
-game: Fighting Street (Japan) (Rev 4)
+game: ファイティングストリート
+sort_title: ふぁいてぃんぐすとりーと
 files:
   Fighting Street (Japan) (Rev 4).chd
   Fighting Street (Japan) (Rev 5).chd
@@ -667,61 +771,69 @@ publisher: ハドソン
 description:
   ハドソンより1988年12月4日にPCエンジンのCD-ROM2専用ソフトとして発売された格闘アクションゲーム。アーケードゲーム『ストリートファイター』の移植作品。大ヒット作品となる『ストリートファイター2』の前身となる。ストリートファイター2で登場する、リュウ、ケンの2人のキャラクターや、必殺技となる波動拳、昇龍拳、竜巻旋風脚などは、既にこの時から確立されている。
 
-game: Fighting Street (USA)
-file: Fighting Street (USA).chd
+#game: Fighting Street (USA)
+#file: Fighting Street (USA).chd
 
-game: Final Zone II (Japan)
+game: ファイナルゾーンII
+sort_title: ふぁいなるぞーん2
 file: Final Zone II (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1990年3月23日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションゲーム。近未来を舞台に天才科学者アレフ・ロイマンが率いる秘密組織ZODSとの戦いを描いている。5人のキャラクターの中から一人を選び、新世代パワード・スーツに身を包んで戦いを挑んでいく。キャラクター5人の武装がそれぞれ違っているのが特徴となる。
 
-game: Final Zone II (USA)
-file: Final Zone II (USA).chd
+#game: Final Zone II (USA)
+#file: Final Zone II (USA).chd
 
-game: Flash Hiders (Japan)
+game: フラッシュハイダース
+sort_title: ふらっしゅはいだーす
 file: Flash Hiders (Japan).chd
 publisher: ライトスタッフ
 description:
   ライトスタッフより1993年12月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された対戦格闘アクションゲーム。大規模戦争後の荒廃した世界を舞台に、「ウォレス」、「メイジア」、「ボランゾ」などの種族から主人公を選択し、年に一度開催される武術大会「バトルタイクーン」において優勝を目指す。シナリオモードでプレイヤーが操作しない「オートバトル」が選択できるのが特徴となっている。
 
-game: Forgotten Worlds (Japan)
+game: フォゴットンワールド
+sort_title: ふぉごっとんわーるど
 file: Forgotten Worlds (Japan).chd
 publisher: NEC
 description:
   NECより1992年3月27日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。アーケードゲーム『ロストワールド』の移植作品。プレイヤーの銃とプレイヤーの周囲を飛ぶサテライトで攻撃していく。自機を360度回転させれば、全方向に攻撃することが可能となっている。敵を倒してゼニーを集め、アイテム屋では銃やサテライトを新しく買い換えることができるのが特徴となる。
 
-game: Forgotten Worlds (USA) (En,Ja)
-file: Forgotten Worlds (USA) (En,Ja).chd
+#game: Forgotten Worlds (USA) (En,Ja)
+#file: Forgotten Worlds (USA) (En,Ja).chd
 
-game: Formation Soccer 95 della Serie A (Japan)
+game: フォーメーションサッカー95 della セリエA
+sort_title: ふぉーめーしょんさっかー95でっらせりえA
 file: Formation Soccer 95 della Serie A (Japan).chd
 publisher: ヒューマン
 description:
   ヒューマンより1995年4月7日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたサッカーゲーム。『フォーメーションサッカーシリーズの』一作。本作のゲームの舞台はサッカー王国イタリアのプロリーグ「セリエA」となる。トップビュータイプのゲームとなっており、選手を切り替える必要がないシンプルな操作方法が特徴となっている。4人までの対戦が可能となっており、練習モードも用意されている。
 
-game: Fushigi no Umi no Nadia - The Secret of Blue Water (Japan)
+game: ふしぎの海のナディア
+sort_title: ふしぎのうみのなでぃあ
 file: Fushigi no Umi no Nadia - The Secret of Blue Water (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1993年1月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。TVアニメ『ふしぎの海のナディア』を題材としたゲーム作品。沈むノーチラス号から脱出し動く島で生活するジャンたちが、突然現れた「神秘の島」を冒険していく本編の「島編」にあたる、アナザーエピソードとなる。おまけとしてクイズゲームが収録されており、物語本編にまつわるクイズを進行していく。
 
-game: FX Unit Yuki - The Henshin Engine (USA) (Unl)
-file: FX Unit Yuki - The Henshin Engine (USA) (Unl).chd
+#game: FX Unit Yuki - The Henshin Engine (USA) (Unl)
+#file: FX Unit Yuki - The Henshin Engine (USA) (Unl).chd
 
-game: Gain Ground SX (Japan)
+game: ゲイングランドSX
+sort_title: げいんぐらんどSX
 file: Gain Ground SX (Japan).chd
 publisher: NEC
 description:
   NECより1992年12月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。アーケードからの移植作。すべてのキャラを脱出させるか、敵を全滅させることでステージはクリアとなる。全4ラウンドは、それぞれ10のステージで構成されている。スタート時に選べるキャラクターは、アスラ、ジョニー、ベティの3人だけだが、途中で全てのキャラクターが揃うようになる。1人プレイ専用。
 
-game: Galaxy Deka Gayvan (Japan)
+game: ギャラクシー刑事ガイバン
+sort_title: ぎゃらくしーでかがいばん
 file: Galaxy Deka Gayvan (Japan).chd
 publisher: インテック
 description:
   インテックより1993年10月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたコメディアクションゲーム。プレイヤーは主人公キャラクターである「ガイバン」と「ミッチー」の2人を操作し、ステージを進めていく。2人同時プレイも可能となっており、お笑い風のビジュアルの中でストーリーが進んでいくのが特徴となる。また、横スクロールのメインモードのほかに、1対1の対戦モードも用意されている
 
-game: Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT)
+game: 餓狼伝説2 新たなる戦い
+sort_title: がろうでんせつ2
 files:
   Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT).chd
   Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS).chd
@@ -729,7 +841,8 @@ publisher: ハドソン
 description:
   ハドソンより1994年3月12日にPCエンジンのアーケードカード専用ソフトとして発売されたアクションゲーム。アーケードからの移植作品。キャラクターのサイズやパターン、アルゴリズムなどをほぼ再現しており移植度は非常に高い。PCエンジンは拡大縮小機能がないため、手前ライン用と奥ライン用の2種類のサイズで全てのキャラクターパターンを用意することでライン移動時の縮小を再現している。
 
-game: Garou Densetsu Special (Japan) (FABT)
+game: 餓狼伝説SPECIAL
+sort_title: がろうでんせつすぺしゃる
 files:
   Garou Densetsu Special (Japan) (FABT).chd
   Garou Densetsu Special (Japan) (Demo).chd
@@ -737,28 +850,32 @@ publisher: ハドソン
 description:
   ハドソンより1994年12月2日にPCエンジンのアーケードカード専用ソフトとして発売された格闘アクションゲーム。『餓狼伝説シリーズ』の一作。『餓狼伝説』で倒したギース・ハワードが生きていた事を知ったテリー・ボガードおよびアンディ・ボガード兄弟による復讐劇と、ギース亡き後に暗黒街を仕切っていたヴォルフガング・クラウザーに対するギースの復讐劇を題材としている。本作では総勢15名から選択する形となった。
 
-game: Gate of Thunder (Japan) (FACT, FADT)
+game: ゲート オブ サンダー
+sort_title: げーとおぶさんだー
 file: Gate of Thunder (Japan) (FACT, FADT).chd
 publisher: ハドソン
 description:
   ハドソンより1992年2月21日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。主人公の「ホーク」および「エスティー」を操作し、超犯罪組織「オベロン」による惑星アリエスの資源奪還襲撃を阻止する事が目的となる。惑星スラシュ上空・敵前線基地内・鉱石採掘洞窟内・敵中継基地・兵器格納庫・機動要塞上空・要塞内部など全7ステージクリアを目指す。
 
-game: Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)
-file: Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA).chd
+#game: Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)
+#file: Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA).chd
 
-game: Genocide (Japan)
+game: ジェノサイド
+sort_title: じぇのさいど
 file: Genocide (Japan).chd
 publisher: ブレイングレイ
 description:
   ブレイングレイより1992年6月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。パソコンからの移植作。自機の「トレーサー」を操作し、暴走し始めた中央処理装置「MESIA」から人類を救出する事が目的となる。ゲーム途中からプレイヤーキャラクターの頭上に浮遊している球状の武器「ベティ」が利用可能。また、ステージの間にはストーリーを説明するデモシーンが挿入される。
 
-game: Gensou Tairiku Auleria (Japan)
+game: 幻蒼大陸オーレリア
+sort_title: げんそうたいりくおーれりあ
 file: Gensou Tairiku Auleria (Japan).chd
 publisher: タイトー
 description:
   タイトーより1993年2月26日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションRPG。本作はPCエンジンオリジナルタイトルとなる。ストーリーを楽しむためのゲームシステムが丁寧に仕上がっており、バランスが良く、現在のエリアで最強まで経験値を積めばモンスターが出現しなくなる。シナリオは全6章立ての構成となっており、4人のプレイヤーキャラはいつでも変更できるのが特徴となる。
 
-game: Ginga Fukei Densetsu Sapphire (Japan)
+game: 銀河婦警伝説サファイア
+sort_title: ぎんがふけいでんせつさふぁいあ
 files:
   Ginga Fukei Densetsu Sapphire (Japan).chd
   Ginga Fukei Densetsu Sapphire (Japan) (Reprint).chd
@@ -766,7 +883,8 @@ publisher: ハドソン
 description:
   ハドソンより1995年11月24日にPCエンジンのアーケードカード専用ソフトとして発売されたシューティングゲーム。人類は反重力物質「ネメシス」の発見により、時間渡航「タイム・トラベル」が可能となる。その結果、非合法での渡航犯罪が増え、政府によって「対時間渡航犯罪捜査局」が創設された。「対時間渡航犯罪捜査局」に配属された4人の美少女たちと、巧妙な時空犯罪テロリストとの闘いが幕を開ける。
 
-game: Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)
+game: 銀河お嬢様伝説ユナ
+sort_title: ぎんがおじょうさまでんせつゆな1
 files:
   Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT).chd
   Ginga Ojousama Densetsu Yuna (Japan) (FAFT).chd
@@ -775,45 +893,52 @@ publisher: ハドソン
 description:
   ハドソンより1992年10月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。銀河お嬢様コンテストで優勝した神楽坂優奈が、普通の女の子からアイドルに転身する。その後、ユナの前に現れた光の使徒が、闇から宇宙を守る使命を彼女が負っていることを告げ、ユナが大奮闘する。戦闘はコマンド選択方式を採用している。監督は人気メカデザイナーの明貴美加氏が担当している。
 
-game: Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT)
+game: 銀河お嬢様伝説ユナ2 永遠のプリンセス
+sort_title: ぎんがおじょうさまでんせつゆな2
 files:
   Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT).chd
-  inga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT).chd
+  Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT).chd
 publisher: ハドソン
 description:
   ハドソンより1995年6月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。人気ゲーム『銀河お嬢様伝説ユナ』シリーズの第2弾で、登場人物が全員美少女という設定となる。月の遺跡へ社会見学に行ったユナは遺跡の異変に巻き込まれて、地下へ転落。そこで、不思議な少女と出会うことから、新たな冒険がスタートする。本作でもカードバトルによる戦闘シーンを楽しむことができる。
 
-game: Ginga Ojousama Densetsu Yuna HuVIDEO CD (Japan)
+game: 銀河お嬢様伝説ユナ HuVIDEO CD
+sort_title: ぎんがおじょうさまでんせつゆなHuVIDEOCD
 file: Ginga Ojousama Densetsu Yuna HuVIDEO CD (Japan).chd
 
-game: Go! Go! Birdie Chance (Japan)
+game: Go! Go! バーディーチャンス
+sort_title: ごーごーばーでぃちゃんす
 file: Go! Go! Birdie Chance (Japan).chd
 publisher: NEC
 description:
   NECより1996年6月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたゴルフゲーム。美少女ゴルファーを育成するシミュレーションと実際にプレイするアクションタイプのゴルフといった2つの要素を楽しむ事ができる。育成モードでは主人公の3人の女の子たちは、一人一人、性格や技能が違い、それぞれに合った育成が必要となる。また、試合結果でストーリーが変わるマルチシナリオを採用している。
 
-game: God Panic - Shijou Saikyou no Gundan (Japan)
+game: ゴッドパニック 史上最強軍団
+sort_title: ごっどぱにっくしじょうさいきょうぐんだん
 file: God Panic - Shijou Saikyou no Gundan (Japan).chd
 publisher: テイチク
 description:
   テイチクより1992年11月27日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。プレイヤーが操る自機は、アイテムを使って5段階に強化していくことが可能となっている。全編がギャグで構成されており、お笑い要素たっぷりの内容となっている。ステージごとに、ロックや日本の歴史などギャグのテーマが設定されていて、そのテーマにあわせた突飛な敵が続々と登場してくるのが特徴。
 
-game: Godzilla (USA)
-file: Godzilla (USA).chd
+#game: Godzilla (USA)
+#file: Godzilla (USA).chd
 
-game: Godzilla Bakutou Retsuden (Japan)
+game: ゴジラ 爆闘列伝
+sort_title: ごじらばくとうれつでん
 file: Godzilla Bakutou Retsuden (Japan).chd
 publisher: 東宝
 description:
   東宝より1994年2月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された対戦格闘アクションゲーム。東宝の特撮怪獣映画『ゴジラシリーズ』を題材としたゲーム作品。プレイヤーはゴジラ映画に登場する怪獣を操作し、対戦相手となる怪獣達と戦っていく。対戦相手に応じてゴジラのデザインが代わるのが特徴となる。後の『ゴジラ 怪獣大決戦』にシステム、キャラクターデザイン、BGMを流用している。
 
-game: Goetzendiener (Japan)
+game: ゲッツェンディーナー
+sort_title: げっつぇんでぃーなー
 file: Goetzendiener (Japan).chd
 publisher: NEC
 description:
   NECより1994年11月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。主人公であるキシュ・リム・ミーサ姫は魔神復活の生贄として、絶海の孤島にそびえる魔王の城に拉致される。王族のみが持てる貴宝珠の剣を与えられた勇者が派遣されるが、魔王と相討ちとなる。意識を取り戻したミーサは、魔王と勇者の死体を見て状況を把握し、魔王の城からひとりで脱出することを決意する。
 
-game: Golden Axe (Japan)
+game: ゴールデンアックス
+sort_title: ごーるでんあっくす
 files:
   Golden Axe (Japan).chd
   Golden Axe (Japan) (Alt).chd
@@ -821,25 +946,29 @@ publisher: 日本テレネット
 description:
   日本テレネットより1990年3月10日にPCエンジンのCD-ROM2専用ソフトとして発売されたベルトスクロールアクションゲーム。アーケードからの移植作。ファンタジー世界を舞台に3人の性別・種族が異なる戦士からキャラを選び、剣術と魔法を駆使して敵を倒しながら各ステージを進み、最終ボス「デス=アダー」を打ち倒すのが目的となる。声優によるキャラクターボイスやビジュアルがステージ開始前に流れるのが特徴。
 
-game: Gradius II - Gofer no Yabou (Japan)
+game: グラディウスII ゴーファーの野望
+sort_title: ぐらでぃうす2ごーふぁーのやぼう
 file: Gradius II - Gofer no Yabou (Japan).chd
 publisher: コナミ
 description:
   コナミより1992年12月18日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロール型シューティングゲーム。『グラディウス』の続編で、アーケードからの移植作。オリジナルステージとして遺跡ステージを追加して全9ステージ構成となっており、新規制作によるオープニングデモやEDが各難易度に合わせて用意されている。また、追加された遺跡ステージやEDなどでは新規ボイスも使用されている。
 
-game: GS (Ghost Sweeper) Mikami (Japan)
+game: GS美神
+sort_title: ごーすとすいーぱーみかみ
 file: GS (Ghost Sweeper) Mikami (Japan).chd
 publisher: バンプレスト
 description:
   バンプレストより1994年7月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。椎名高志による漫画『GS美神』を原作としたゲーム作品。除霊師・美神令子とアシスタントの横島忠夫がメインキャラクターとなる。原作の雰囲気を忠実に再現したシナリオは、3つが用意されており、いずれもカードバトルで敵と戦うようになっているが、カードバトルのみのモードも用意されている。
 
-game: Gulclight TDF 2 (Japan)
+game: ガルクライトTDF2
+sort_title: がるくらいとTDF2
 file: Gulclight TDF 2 (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1991年1月25日にPCエンジンのCD-ROM2専用ソフトとして発売された近未来SF戦略シミュレーションゲーム。地球防衛軍(TDF)と突然襲ってきた宇宙怪獣『プラネット・イーター』との戦いを描いている。キャンペーン型のゲームとなり、TDF側ユニットの3機のガルアタッカーは、合体して巨大ロボット『ガルクライト』となり、戦闘することも可能となっている。
 
-game: Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)
+game: ぎゅわんぶらあ自己中心派 激闘36雀士
+sort_title: ぎゅわんぶらあじこちゅうしんはげきとう36じゃんし
 files:
   Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan).chd
   Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).chd
@@ -847,19 +976,22 @@ publisher: ハドソン
 description:
   ハドソンより1989年11月24日にPCエンジンのCD-ROM2専用ソフトとして発売された麻雀ゲーム。片山まさゆき原作の麻雀マンガ『ぎゅわんぶらあ自己中心派』を題材にしたゲーム作品。原作でおなじみのキャラが大活躍。ゲームモードはトーナメントモード戦、タコ討伐戦、フリー対戦といった3つのモードが用意されている。原作に登場した36人の雀士を相手に、4人打ち麻雀をプレイすることができる。
 
-game: Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan)
+game: ぎゅわんぶらあ自己中心派 麻雀パズルコレクション
+sort_title: ぎゅわんぶらあじこちゅうしんはまーじゃんぱずるこれくしょん
 file: Gyuwambler Jiko Chuushinha - Mahjong Puzzle Collection (Japan).chd
 publisher: タイトー
 description:
   タイトーより1992年2月28日にPCエンジンのCD-ROM2専用ソフトとして発売されたパズルゲーム。片山まさゆき原作の麻雀マンガ『ぎゅわんぶらあ自己中心派』を題材にしたゲーム作品。同じ絵柄の麻雀牌2枚を1組として線を作り、お互いの線で囲んだ牌を取り除いていくで進めていく。線は2回まで曲げること可能となる。他にも解き方を教えてくれる指導機能やRPG風のツアーモードも用意されている。
 
-game: Hataraku Shoujo - Tekipaki Working Love (Japan)
+game: はたらく☆少女 てきぱきワーキンラブ
+sort_title: はたらくしょうじょてきぱきわーきんらぶ
 file: Hataraku Shoujo - Tekipaki Working Love (Japan).chd
 publisher: NEC
 description:
   NECより1997年3月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。漫画家の竹本泉が原作・脚本・絵コンテなどを担当したゲーム作品。時は2216年、市民のあらゆる依頼を受け付ける行政機関・その他省を舞台に、ヒカル・ナオミ・エダルトの3人の職員の、奇妙な依頼との奮闘を描いたSFコメディ。プレイヤーは3人の上司となって指示を出し、依頼の解決を目指す。
 
-game: Hatsukoi Monogatari (Japan) (Rev 1)
+game: 初恋物語
+sort_title: はつこいものがたり
 files:
   Hatsukoi Monogatari (Japan) (Rev 1).chd
   Hatsukoi Monogatari (Japan) (Rev 2).chd
@@ -867,70 +999,82 @@ publisher: 徳間書店
 description:
   徳間書店より1994年4月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された恋愛シミュレーションゲーム。プレイヤーは予め定められた1ヵ月間でヒロインとの初恋を実らせるのが目的となる。ヒロインへ行う、自分の行動によってステータスが変化し、初恋の行方が変わっていくという、マルチエンディングを採用している。また、本作では小、中、高校生の3つの時代から相手の選択ができるのが特徴となる。
 
-game: Hawiian Island Girls (USA) (Unl)
-file: Hawiian Island Girls (USA) (Unl).chd
+#game: Hawiian Island Girls (USA) (Unl)
+#file: Hawiian Island Girls (USA) (Unl).chd
 
-game: Hawk F-123 (Japan)
+game: HAWK F-123
+sort_title: ほーくF-123
 file: Hawk F-123 (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1992年3月13日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。プレイヤーは、最新鋭の戦闘機を操りながら、敵軍隊を倒し、敵基地中枢にあるメインコンピュータを破壊することが目的となる。基本アイテムだけでなく、取るとストックされる特殊アイテムが用意されているのが特徴となる。
 
-game: Hellfire S - The Another Story (Japan)
+game: ヘルファイアーS
+sort_title: へるふぁいあーS
 file: Hellfire S - The Another Story (Japan).chd
 publisher: NEC
 description:
   NECより1991年4月12日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。アーケードからの移植作品。プレイヤーが操る自機の攻撃力はアイテムを取ることで最高6段階までパワーアップさせることができる。また、上下、前方、後方、斜めに4方向、と攻撃方向を4種類に切り替えることが可能となっている。また、本作ではアニメーション・ムービーが追加され、ストーリーが追加されている。
 
-game: Henshin Engine (USA) (Demo) (Unl)
-file: Henshin Engine (USA) (Demo) (Unl).chd
+#game: Henshin Engine (USA) (Demo) (Unl)
+#file: Henshin Engine (USA) (Demo) (Unl).chd
 
-game: Hi-Leg Fantasy (Japan) (Unl)
+game: ハイレグファンタジー
+sort_title: はいれぐふぁんたじー
 file: Hi-Leg Fantasy (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
-game: High Grenadier (Japan)
+game: ハイグレネーダー
+sort_title: はいぐれねーだー
 file: High Grenadier (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1991年4月12日にPCエンジンのCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。近未来の地球が舞台となる。プレイヤーが指揮する軍所属の部隊に12人の司令官を配置し、敵の無人兵器と戦っていく。司令官たちにはそれぞれ得意分野があり、その特性を見極めて部隊を編成しないと能力が発揮されず、戦いが不利になるので注意が必要となる。
 
-game: Hihou Densetsu - Chris no Bouken (Japan)
+game: 秘宝伝説 クリスの冒険
+sort_title: ひほうでんせつくりすのぼうけん
 file: Hihou Densetsu - Chris no Bouken (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1991年12月13日にPCエンジンのCD-ROM2専用ソフトとして発売された冒険アクションゲーム。プレイヤーは主人公「クリス」を操作し、行方不明になった父を捜し出すため、古代インディオ文明の謎に挑戦していく。攻略していくステージには、制限時間が設けられているので注意が必要となる。また、キャラクターデザインはうるし原智志が担当している。
 
-game: Himitsu no Hanazono (Japan)
+game: 秘密の花園
+sort_title: ひみつのはなぞの
 file: Himitsu no Hanazono (Japan).chd
 publisher: 徳間書店
 description:
   徳間書店より1993年12月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコン版からの移植作品。在校生の主人公が、花乃園高校で起こった殺人事件を調査するというストーリー。ゲーム中、プレイヤーは3人のパートナーの中から1人を選ぶことになるが、このパートナーの選択によって展開が変わっていくのが特徴となる。
 
-game: Horror Story (Japan)
+game: ホラーストーリー
+sort_title: ほらーすとーりー
 file: Horror Story (Japan).chd
 publisher: NEC
 description:
   NECより1993年2月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。アーケードからの移植作品。時代や国が混在するパラレルワールドを舞台としたゲーム作品となる。プレイヤーは妖怪やお化けなどの魔物たちと戦いながらステージを進めていく。2段階のジャンプが特徴で、高いところから頭を踏めば、強力な敵も一撃で倒す事が可能となっている。また、2人同時プレイもできる。
 
-game: Hu PGA Tour - PowerGolf 2 - Golfer (Japan)
+game: パワーゴルフ2 ゴルファー
+sort_title: ぱわーごるふ2
 file: Hu PGA Tour - PowerGolf 2 - Golfer (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1994年3月4日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたゴルフゲーム。『パワーゴルフ』の続編。日本に実在する有名10コースをプレイすることができる。操作はシンプルだが、風向きや芝目を読むなど、かなり頭をひねる細かい要素が詰まっている。ホールごとに実写取り込みのビジュアルシーンが入っていて、リアルなムードを感じさせてくれる。
 
-game: Human Sports Festival (Japan)
+game: ヒューマンスポースフェスティバル
+sort_title: ひゅーまんすぽーつふぇすてぃばる
 file: Human Sports Festival (Japan).chd
 publisher: ヒューマン
 description:
   ヒューマンより1992年2月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたオムニバスソフト。『フォーメーションサッカー』の92年版、『ファイナルマッチテニス』のレディース版、そしてゴルフと3つのスポーツゲームが1つのソフトに入っているソフト。ゴルフには4つのモードが用意されており、ホールの練習ができるレッスンモードも搭載している。
 
-game: Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan)
+game: 百物語 本当にあった怖い話
+sort_title: ひゃくものがたりほんとうにあったこわいはなし
 file: Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1995年8月4日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。百物語を題材とした作品であり、ホラー小説『ほんとにあった怖い話』に寄せられた一般投稿による実話怪談を元にした文章に背景と効果音を使用したサウンドノベルとなっている。怪談の語り手として知られる稲川淳二が監修を行っている。写実的な背景や音声を実現し、全百話というボリュームを実現している。
 
-game: Hyper Dyne - SideArms Special (Japan)
+game: サイドアーム・スペシャル
+sort_title: さいどあーむすぺしゃる
 files:
   Hyper Dyne - SideArms Special (Japan).chd
   Hyper Dyne - SideArms Special (Japan) (Alt).chd
@@ -938,7 +1082,8 @@ publisher: NEC
 description:
   NECより1989年12月15日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。アーケードからの移植作品。ヒューカード版とほぼ同じ「スタンダード版」と「BC(ビフォークライスト)版」を収録している。BC版は、先に作られたスタンダードとは大きくシステムやゲーム性が異なっており、全く別ゲームと言える内容のため、実質2ゲームの収録と言える内容となる。
 
-game: Hyper Wars (Japan) (SAAS)
+game: ハイパーウォーズ
+sort_title: はいぱーうぉーず
 files:
   Hyper Wars (Japan) (SAAS).chd
   Hyper Wars (Japan) (SABS).chd
@@ -946,38 +1091,42 @@ publisher: ハドソン
 description:
   ハドソンより1994年11月5日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。ゲーム雑誌で連載された読者参加型企画を題材としたゲーム作品。バトルビーストを対戦させて勝ち抜くことが目的となる。バトルビーストの搭乗者と契約するところから始まり、ファクトリーでのビースト合成、テストフィールドのテストバトルを経てトーナメントバトルに参加するまでが一連の流れとなる。
 
-game: Hypernova Blast (USA) (Unl)
-file: Hypernova Blast (USA) (Unl).chd
+#game: Hypernova Blast (USA) (Unl)
+#file: Hypernova Blast (USA) (Unl).chd
 
-game: Iga Ninden Gaiou (Japan)
+game: 伊賀忍伝 凱王
+sort_title: いがにんでんがいおう
 file: Iga Ninden Gaiou (Japan).chd
 publisher: 日本物産
 description:
   日本物産より1993年12月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。鎖国と封建社会が続く現代の日本という架空世界が舞台となるゲーム作品。プレイヤーが操作する主人公「凱王」の攻撃方法は、刀や手裏剣等のほかにも広範囲を攻撃できる電磁忍法がある。忍者が活躍するアクションに、SF風のテイストが加わり、独特の世界観を生み出しているのが特徴となる。
 
-game: ImageFight II - Operation Deepstriker (Japan)
+game: イメージファイトII
+sort_title: いめーじふぁいと2
 file: ImageFight II - Operation Deepstriker (Japan).chd
 publisher: アイレム
 description:
   アイレムより1992年12月18日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された縦スクロールシューティングゲーム。『イメージファイト』の続編。前作から3年後、2051年の世界を舞台に自機である軌道戦闘機OF-1「ダイダロス」および後継機のOF-3「ガルーダ」を操作し、仮想現実ステージ「イメージファイト」を通過後に「エイリアンフォース」を倒して地球を救出する事が目的となる。
 
-game: Implode (USA) (Unl)
-file: Implode (USA) (Unl).chd
+#game: Implode (USA) (Unl)
+#file: Implode (USA) (Unl).chd
 
-game: In Magical Adventure - Fray CD - Xak Gaiden (Japan)
+game: フレイCD サーク外伝
+sort_title: ふれいCDさーくがいでん
 file: In Magical Adventure - Fray CD - Xak Gaiden (Japan).chd
 publisher: マイクロキャビン
 description:
   マイクロキャビンより1994年3月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。パソコンからの移植で『サークシリーズ』のスピンオフ作品。主人公のフレイア・ジェルバーンを操り、命の恩人であるラトク・カートへの恩返しをするためラトクの後を追って旅をする。魔法の杖から発する魔法弾でモンスターを倒しながら進んでいく。また途中の町ではRPG風の会話も用意されている。
 
-game: Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi (Japan)
+game: 井上麻美 この星にたったひとりのキミ
+sort_title: いのうえまみこのほしにたったひとりのきみ
 file: Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年12月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。ハドソンの企画ミスCD-ROM2「みつばち学園」内での一般公募モデルの人気投票で優勝しアイドルとなった『井上麻美』のゲーム作品となる。主人公の高校1年生の男の子は、夢の中の女の子にそっくりの同級生・麻美ちゃんが好きになるといったゲーム内容。
 
-game: Insanity (USA) (Unl)
-file: Insanity (USA) (Unl).chd
+#game: Insanity (USA) (Unl)
+#file: Insanity (USA) (Unl).chd
 
 game: IQ Panic (Japan)
 file: IQ Panic (Japan).chd
@@ -985,14 +1134,14 @@ publisher: アイ・ジー・エス
 description:
   アイ・ジー・エスより1992年2月21日にPCエンジンのCD-ROM2専用ソフトとして発売されたクイズゲーム。10種類のジャンルに分かれた問題数が1万5千問以上用意されている。戦闘がクイズで行われるロールプレイング風のモードと、5人同時プレイで遊べるクイズ番組風のモードがの2つが本作のメインゲームモードとなっている。
 
-game: It Came from the Desert (USA)
-file: It Came from the Desert (USA).chd
+#game: It Came from the Desert (USA)
+#file: It Came from the Desert (USA).chd
 
 game: J-Thunder - Tsumetai Hada wa Shoujo o Nurasu (Japan) (Unl)
 file: J-Thunder - Tsumetai Hada wa Shoujo o Nurasu (Japan) (Unl).chd
 
-game: J. B. Harold Murder Club (USA) (En,Ja)
-file: J. B. Harold Murder Club (USA) (En,Ja).chd
+#game: J. B. Harold Murder Club (USA) (En,Ja)
+#file: J. B. Harold Murder Club (USA) (En,Ja).chd
 
 game: J. B. Harold Series 1 - Murder Club (Japan)
 file: J. B. Harold Series 1 - Murder Club (Japan).chd
@@ -1006,8 +1155,8 @@ publisher: NEC
 description:
   NECより1994年12月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたサッカーゲーム。Jリーグの選手データが、ひとりひとり緻密に設定されているのが特徴となる。ゲームモードは全部で5つのモードが用意されており、どのゲームモードでも、1P&2P対COM、1P&2P対3P&4Pなどの変則プレイを含めた6通りのプレイスタイルを選択する事ができる。
 
-game: Jack Nicklaus Turbo Golf (USA)
-file: Jack Nicklaus Turbo Golf (USA).chd
+#game: Jack Nicklaus Turbo Golf (USA)
+#file: Jack Nicklaus Turbo Golf (USA).chd
 
 game: Jack Nicklaus' World Tour Golf - 162 Holes (Japan)
 file: Jack Nicklaus' World Tour Golf - 162 Holes (Japan).chd
@@ -1043,19 +1192,21 @@ publisher: アトラス
 description:
   アトラスより1993年4月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。雀偵シリーズの第3弾。魔女ウラドラーの地球侵略を阻止するためにセイバーエンジェルの3人組みが戦っていく。3人の女の子が主人公となっているが、10歳の女の子がステッキを使って変身したり、女子高生が露出度の高いメカスーツを装着して登場する等、主人公キャラクターの設定がより奇抜になっている。
 
-game: Jessie Jaeger in Cleopatra's Curse (World) (Unl)
-file: Jessie Jaeger in Cleopatra's Curse (World) (Unl).chd
+#game: Jessie Jaeger in Cleopatra's Curse (World) (Unl)
+#file: Jessie Jaeger in Cleopatra's Curse (World) (Unl).chd
 
-game: Jim Power in Mutant Planet (Japan)
+game: ジム・パワー
+sort_title: じむぱわー
 file: Jim Power in Mutant Planet (Japan).chd
 publisher: マイクロワールド
 description:
   マイクロワールドより1993年3月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたフランス生まれのアクションゲーム。プレイヤーは筋骨隆々の主人公「ジム」を操作し、ミュータントにさらわれた大統領の娘サマンサを救出するために戦っていく。独特なリアルなグラフィックが特徴となっており、ユニークな敵キャラクターも楽しむことができる。
 
-game: John Madden Duo CD Football (USA) (RE)
-file: John Madden Duo CD Football (USA) (RE).chd
+#game: John Madden Duo CD Football (USA) (RE)
+#file: John Madden Duo CD Football (USA) (RE).chd
 
-game: Juuouki (Japan) (Rev 4)
+game: 獣王記
+sort_title: じゅうおうき
 files:
   Juuouki (Japan) (Rev 4).chd
   Juuouki (Japan) (Rev 5).chd
@@ -1063,7 +1214,8 @@ publisher: NEC
 description:
   NECより1989年9月22日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションゲーム。プレイヤーは神々の怒りを買ったことで石碑に封印されていた獣人族の戦士となり、地底より復活した魔神の討伐と主神ゼウスの娘である女神アテナの救出が目的となる。ゲーム開始直後、主神ゼウスによって封印を解かれる所からゲームが始まる。獣人はゲーム中に様々な獣へと変身しパワーアップする。
 
-game: Kabuki Ittouryoudan (Japan) (FAAT)
+game: カブキ一刀涼談
+sort_title: かぶきいっとうりょうだん
 files:
   Kabuki Ittouryoudan (Japan) (FAAT).chd
   Kabuki Ittouryoudan (Japan) (FABT).chd
@@ -1071,31 +1223,36 @@ publisher: ハドソン
 description:
   ハドソンより1995年2月24日にPCエンジンのアーケードカード専用ソフトとして発売された対戦型格闘アクションゲーム。『天外魔境シリーズ』の一作。『天外魔境 風雲カブキ伝』に登場するキャラクターを中心に、シリーズのキャラクターが登場する。プレイヤーは8名の主人公から1名を選択し、黒魔術師「ラダ・エム・アンク」によって復活した風雲カブキ伝のラスボス「ガープ」を倒してジパングを救出する事が目的となる。
 
-game: Kagami no Kuni no Legend (Japan)
+game: 鏡の国のレジェンド
+sort_title: かがみのくにのれじぇんど
 file: Kagami no Kuni no Legend (Japan).chd
 publisher: ビクター
 description:
   ビクターより1989年10月27日にPCエンジンのCD-ROM2専用ソフトとして発売されたコマンド選択式アドベンチャーゲーム。タレントの酒井法子をフィーチャーした作品であり、鏡の国に誘拐された酒井法子を救うために、ファンの男の子が鏡の国を冒険する内容となっている。実写取り込みによる画像と声で酒井が出演している事や、CD-ROMの大容量による静止画を駆使した酒井の歌唱シーンが流れる演出面などが特徴。
 
-game: Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan)
+game: 改造町人シュビビンマン3 異界のプリンセス
+sort_title: かいぞうちょうじんしゅびびんまん3
 file: Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1992年2月28日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションゲーム。『改造町人シュビビンマンシリーズ』の第3作目。ハワイ旅行に出かけていた改造町人である主人公の太助およびキャピ子が、異界からワープしてきたクレハ姫一行による攻撃を受けて戦いに巻き込まれる。通常攻撃が剣に戻り、ビジュアルシーンが多数収録されている事や多数の声優が参加している事などを特徴としている。
 
-game: Kakutou Haou Densetsu - Algunos (Japan)
+game: 格闘覇王伝説 アルガノス
+sort_title: かくとうはおうでんせつあるがのす
 file: Kakutou Haou Densetsu - Algunos (Japan).chd
 publisher: インテック
 description:
   インテックより1994年1月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された対戦型格闘アクションゲーム。プレイヤーは10人のキャラクターの中から1人を選び、戦っていくこととなる。操作方法はオーソドックスな格闘ゲームのスタイルとなっている。ストーリーモードでは10人それぞれに異なるストーリーが用意されているのことが特徴となる。また、バトルモードでは2人対戦も可能となっている。
 
-game: Kawa no Nushitsuri - Shizen-ha (Japan)
+game: 川のぬし釣り 自然派
+sort_title: かわのぬしつりしぜんは
 file: Kawa no Nushitsuri - Shizen-ha (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1989年3月17日にPCエンジンのCD-ROM2専用ソフトとして発売されたRPG。ファミコンで発売された『川のぬし釣り』に自然音・効果音や魚図鑑機能などの強化を施したリメイク版となる。釣り好きの主人公が、妹の病気を治すため川のぬしを探して旅に出る、釣りゲームにRPG要素を取り入れたゲームとなり、移動中に様々な野生動物たちとのコマンド戦闘で戦うといった独自のシステムが満載。
 
-game: Kaze Kiri - Ninja Action (Japan)
+game: 風霧
+sort_title: かぜきり
 file: Kaze Kiri - Ninja Action (Japan).chd
 publisher: ナグザット
 description:
@@ -1104,19 +1261,22 @@ description:
 game: Kaze no Densetsu Xanadu (Japan) (Demo)
 file: Kaze no Densetsu Xanadu (Japan) (Demo).chd
 
-game: Kiaidan 00 (Japan)
+game: キアイダン00
+sort_title: きあいだんだぶるおー
 file: Kiaidan 00 (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年10月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。1970年代ロボットアニメを意識した作りとなっている。ゲームは複数のステージに分割されており、1ステージがアニメの1話分に相当するような流れとなっている。各ステージのには敵ボスが配置されており、一定以上のダメージを与えた後は「必殺技」を使うことで敵ボスを倒すことが出来る。
 
-game: Kick Boxing, The (Japan)
+game: ザ・キックボクシング
+sort_title: ざきっくぼくしんぐ
 file: Kick Boxing, The (Japan).chd
 publisher: マイクロワールド
 description:
   マイクロワールドより1992年7月31日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたキックボクシングゲーム。プレイヤーは選手をトレーニングし、試合を勝ち進みチャンピオンを目指す。本作は簡単な操作で多種類の技が繰り出せる爽快感や選手のなめらかな動きなどが特徴となる。また、成長した選手のデータはセーブすることも可能となっている。
 
-game: Kisou Louga (Japan) (FABT)
+game: 機装ルーガ
+sort_title: きそうるーが1
 files:
   Kisou Louga (Japan) (FABT).chd
   Kisou Louga (Japan) (Demo).chd
@@ -1124,43 +1284,50 @@ publisher: 工画堂スタジオ
 description:
   工画堂スタジオより1993年12月3日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションRPG。パソコンで人気だった『シュヴァルツシルトシリーズ』の流れを汲んでおり、古代文明の遺産をめぐる戦いを描く。戦闘をしてもユニットは成長しないが、武器や防具のパワーアップによって能力をアップしていくことが可能となる。ストーリーが丁寧に作られており、美しいビジュアルも特徴となる。
 
-game: Kisou Louga II - The Ends of Shangrila (Japan)
+game: 機装ルーガII The Ends of Shangrila
+sort_title: きそうるーが2
 file: Kisou Louga II - The Ends of Shangrila (Japan).chd
 publisher: 工画堂スタジオ
 description:
   NECより1995年5月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。古代文明の遺跡をめぐる戦いを描いた前作『機装ルーガ』から4年後にあたる続編となる。基本的にゲームの進め方は前作のスタイルを踏襲している。メインの戦闘が武器をパワーアップしていく方法から、RPGのように戦闘終了後、経験値を得てレベルアップしていく方法に変更となっている。
 
-game: KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan)
+game: KO世紀 ビースト三獣士 ガイア復活 完結編
+sort_title: けーおーせいきびーすとさんじゅうしがいあふっかつかんけつへん
 file: KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1994年6月17日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。パソコンからの移植作。未来の地球を舞台に、半獣半人のミュータント「ビースト」の冒険を描いたアニメ『KO世紀ビースト三獣士』を題材としたゲーム作品。PCエンジン版はパソコン版のシナリオを完全にした形で移植。フィールド画面は新しく描き起こされ、戦闘システムも変更された。
 
-game: Kuusou Kagaku Sekai Gulliver Boy (Japan)
+game: 空想科学世界ガリバーボーイ
+sort_title: くうそうかがくせかいがりばーぼーい
 file: Kuusou Kagaku Sekai Gulliver Boy (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1995年5月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。メディアミックス作品『空想科学世界ガリバーボーイ』のゲーム版となる。世界征服を目論むイスパニア王ジュドーに父親を殺されたガリバーは、父の仇を討ち、また世界を救うために仲間たちとともに立ち上がる。金銭は敵を倒して得るのではなく、貿易を行って金銭を得るというシステムが特徴となる。
 
-game: L-Dis (Japan)
+game: エルディス
+sort_title: えるでぃす
 file: L-Dis (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1991年4月5日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。「すぅぱぁたあ坊」に乗り込んだ主人公のターくんを操作し、異世界へと連れ去られた幼馴染のユーちゃんを捜し出す事が目的となる。ゲームシステムはパワーアップタイプの横スクロールシューティングとなり、キャラクターボイスを担当する声優によってコミカルに喋る台詞が特徴となっている。
 
-game: Lady Phantom (Japan) (FABT)
+game: レディファントム
+sort_title: れでぃふぁんとむ
 file: Lady Phantom (Japan) (FABT).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1991年11月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。ファントムメディアという人型兵器を操る5人の美少女が大活躍する。行動力の高いキャラクターほど、素早く行動できるといったシステムの工夫がされている為、ターン制という概念は存在しない。ビジュアルシーンにはアニメーションが多く利用されている。
 
-game: Langrisser - Hikari no Matsuei (Japan)
+game: ラングリッサー 光輝の末裔
+sort_title: らんぐりっさーひかりのまつえい
 file: Langrisser - Hikari no Matsuei (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1993年8月6日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションRPG。無限の力が得られるという剣『ラングリッサー』。今は秘剣として封じられ、パルディア王家の手により、悪しき者どもから守られていた。だが、皇帝ディゴスがラングリッサーを狙い、パルディアに侵攻してきた事から物語が始まる。本作ではシリーズ全編を通して、唯一エンディングに歌が収録されている。
 
-game: Laplace no Ma (Japan)
+game: ラプラスの魔
+sort_title: らぷらすのま
 files:
   Laplace no Ma (Japan).chd
   Laplace no Ma (Japan) (Demo).chd
@@ -1168,22 +1335,25 @@ publisher: ヒューマン
 description:
   ヒューマンより1993年3月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『ゴーストハンターシリーズ』の第1弾となる。1920年代のアメリカ合衆国を舞台としており、奇怪な事件が続発していたニューカムの街に建つウェザートップ館の謎を解く事が目的となる。戦闘中にモンスターの写真を撮影し、それを町で売ることで金を得るというシステムを採用している。
 
-game: Laser Soft Visual Collection Vol. 1 - Cosmic Fantasy Visual-shuu (Japan)
+game: コズミック・ファンタジー ビジュアル集
+sort_title: こずみっくふぁんたじーびじゅあるしゅう
 file: Laser Soft Visual Collection Vol. 1 - Cosmic Fantasy Visual-shuu (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1993年2月12日にPCエンジンのCD-ROM2専用ソフトとして発売されたビジュアルシーン集。『コズミック・ファンタジー1』と『コズミック・ファンタジー2』に使われたビジュアルルシーンが全カット収録されている。ストーリーが理解しやすいよう、ビジュアルの合間にナレーションが挟み込まれているのが特徴となる。
 
-game: Laser Soft Visual Collection Vol. 2 - Valis Visual-shuu (Japan)
+game: ヴァリス ビジュアル集
+sort_title: う゛ぁりすびじゅあるしゅう
 file: Laser Soft Visual Collection Vol. 2 - Valis Visual-shuu (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1993年2月19日にPCエンジンのCD-ROM2専用ソフトとして発売されたビジュアルシーン集。アクションゲーム『ヴァリス2』『ヴァリス3』『ヴァリス4』に挿入されたビジュアルシーンを全カット収録している。ビジュアルシーンの間には、ストーリーの流れを把握しやすいように、簡単なストーリー説明が入っているのが特徴となる。
 
-game: Last Alert (USA)
-file: Last Alert (USA).chd
+#game: Last Alert (USA)
+#file: Last Alert (USA).chd
 
-game: Last Armageddon (Japan) (Rev 5)
+game: ラスト・ハルマゲドン
+sort_title: らすとはるまげどん
 files:
   Last Armageddon (Japan) (Rev 5).chd
   Last Armageddon (Japan) (Rev 6).chd
@@ -1191,19 +1361,22 @@ publisher: ブレイングレイ
 description:
   ブレイングレイより1990年8月31日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。人類滅亡後の地球を舞台に、生き残ったモンスターと突如として現れたエイリアンとの抗争を描いているゲーム作品。アイテムを購入する店舗が存在しなく、モンスター自身が道具・武具の作成をしなければならない事や、レベルアップする事でキャラクターの容姿が変化していく事などが特徴となる。
 
-game: Legend of Xanadu - Kaze no Densetsu Xanadu (Japan)
+game: 風の伝説ザナドゥ
+sort_title: かぜのでんせつざなどぅ1
 file: Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).chd
 publisher: 日本ファルコム
 description:
   日本ファルコムより1994年2月18日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。日本ファルコムが初めて家庭用ゲーム機に向けて開発した作品となる。フィールドではトップビューだが、各章の最後にあるボスステージではサイドビューとなる。RPGで一般的なレベルと言う概念はなく、熟練度等によって成長していく。全12章で構成された豪華なシナリオ、豪華な演出が特徴となる。
 
-game: Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)
+game: 風の伝説ザナドゥII
+sort_title: かぜのでんせつざなどぅ2
 file: Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).chd
 publisher: 日本ファルコム
 description:
   日本ファルコムより1995年6月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。『風の伝説ザナドゥ』の続編。前作の邪竜ダルダンティスとクレーネジュエルとの壮絶な戦いから3年後を描いており、全8章で構成されている。全章を通してストーリーは二転三転する。戦闘シーンではアクション性が高くなり各キャラクター別にコマンド入力での必殺技が可能となっている。
 
-game: Legion (Japan)
+game: レギオン
+sort_title: れぎおん
 files:
   Legion (Japan).chd
   Legion (Japan) (Rev 4).chd
@@ -1211,13 +1384,15 @@ publisher: 日本テレネット
 description:
   日本テレネットより1990年9月21日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。本作は次に進むステージを自分で決定する可能となっている。プレイヤーが選んだ順番によって、その後の展開やエンディングが変化していくのが特徴となる。3種類のアイテムを獲得することで、自機のパワーアップが可能となる。また、強力な特殊攻撃も使う事ができる。
 
-game: Lemmings (Japan)
+game: レミングス
+sort_title: れみんぐす
 file: Lemmings (Japan).chd
 publisher: サンソフト
 description:
   サンソフトより1992年11月28日にPCエンジンのスーパーCD-ROM専用ソフトとして発売されたパズルゲーム。一直線に進み続けるレミング達に様々な号令を出し、出口まで導く名作ゲーム『レミングス』。ステージごとに設定されたノルマの数のレミングを助ければステージクリアとなるシステムを採用。そのまま進んでは死んでしまうレミングス達に、壁を登る、穴を掘るなど様々な命令を下して出口まで導いていく。
 
-game: Linda^3 (Japan) (Rev 1)
+game: リンダキューブ
+sort_title: りんだきゅーぶ
 files:
   Linda^3 (Japan) (Rev 1).chd
   Linda^3 (Japan) (Rev 2).chd
@@ -1225,31 +1400,34 @@ publisher: NEC
 description:
   NECより1995年10月13日にPCエンジン用ソフトとして発売されたロールプレイングゲーム。ジャンルは「サイコスリラー+ハンティングRPG」と表記されている。8年という制限時間の中で、全120種類に及ぶ動物を収集する事がゲームの目的となる。A、B、C、Dの4シナリオが存在し、それぞれ全く違うストーリー展開となる。このうち特にA、Bのシナリオは猟奇的な表現が含まれている。
 
-game: Local Girls of Hawaii, The (USA) (Unl)
-file: Local Girls of Hawaii, The (USA) (Unl).chd
+#game: Local Girls of Hawaii, The (USA) (Unl)
+#file: Local Girls of Hawaii, The (USA) (Unl).chd
 
-game: Loom (Japan)
+game: ルーム
+sort_title: るーむ
 file: Loom (Japan).chd
 publisher: ビクター
 description:
   ビクターより1992年9月25日にPCエンジンのスーパーCD-ROM2専用用ソフトとして発売されたファンタジーアドベンチャーゲーム。ルーカスフィルム制作ゲーム作品となる。白鳥になったルーム人を捜し出すことが目的となる。プレイヤーが画面をクリックすることで、主人公のポピンが様々な行動を取る。ポピンのその行動によって、ストーリーを進めていく事となる。
 
-game: Loom (USA)
-file: Loom (USA).chd
+#game: Loom (USA)
+#file: Loom (USA).chd
 
-game: Lord of Wars (Japan)
+game: ロードオブウォーズ
+sort_title: ろーどおぶうぉーず
 file: Lord of Wars (Japan).chd
 publisher: システムソフト
 description:
   システムソフトより1991年11月29日にPCエンジンのCD-ROM2専用ソフトとして発売されたウォー・シミュレーションゲーム。パソコンからの移植作品。舞台は人間の競争力を刺激するために創られた島『コンクエスト島』。スクエアにより構成されたマップ中において、与えられた戦車等を用いて、各マップの攻撃目標を撃破し、コンクエスト島を制圧する事が目的となる。美しいセピア調の描画方法が特徴となる。
 
-game: Lords of the Rising Sun (USA)
-file: Lords of the Rising Sun (USA).chd
+#game: Lords of the Rising Sun (USA)
+#file: Lords of the Rising Sun (USA).chd
 
-game: Lords of Thunder (USA)
-file: Lords of Thunder (USA).chd
+#game: Lords of Thunder (USA)
+#file: Lords of Thunder (USA).chd
 
-game: Mad Stalker - Full Metal Force (Japan)
+game: マッドストーカー フルメタルフォース
+sort_title: まっどすとーかーふるめたるふぉーす
 files:
   Mad Stalker - Full Metal Force (Japan).chd
   Mad Stalker - Full Metal Force (Japan) (Demo).chd
@@ -1257,52 +1435,60 @@ publisher: NEC
 description:
   NECより1994年9月15日にPCエンジンのアーケードカード専用ソフトとして発売されたアクションゲーム。パソコンからの移植作品。近未来都市を舞台にスレイブギアと呼ばれるロボット兵器で戦っていく。ボスとの闘いは1対1の対戦形式。他に対コンピュータ戦と2P対戦が可能なVSモードも用意されている。PCエンジン版ではCD-DA対応の音源を使っている他、アニメーションやキャラクターの追加が行われている。
 
-game: Madou Monogatari I - Honoo no Sotsuenji (Japan)
+game: 魔導物語I 炎の卒園児
+sort_title: まどうものがたり1
 file: Madou Monogatari I - Honoo no Sotsuenji (Japan).chd
 publisher: NEC
 description:
   NECより1996年12月13日にPCエンジンのアーケードカード専用ソフトとして発売されたロールプレイングゲーム。MSX版で人気の3DダンジョンRPGをアレンジ移植した作品。本作ではCDメディアの容量を活かし、キャラクターボイスがついているのが特徴で、他にもPCエンジン版のみ優しさが一定以上でないと先に進めないギミックがある。主人公の声はSCD版の『ぷよぷよCD』と同じく三石琴乃が担当している。
 
-game: Magical Dinosaur Tour (USA)
-file: Magical Dinosaur Tour (USA).chd
+#game: Magical Dinosaur Tour (USA)
+#file: Magical Dinosaur Tour (USA).chd
 
-game: Magical Saurus Tour (Japan)
+game: マジカルサウルスツアー
+sort_title: まじかるさうるすつあー
 file: Magical Saurus Tour (Japan).chd
 publisher: ビクター
 description:
   ビクターより1990年8月24日にPCエンジンのCD-ROM2専用ソフトとして発売されたデータベースソフト。分かりやすいアニメーションで恐竜の生態をパノラマ画面で観察し、また、恐竜の進化の歴史も理解していくことができる。他にも恐竜に関する面白い情報も収録している。本作にゲーム性はほとんどないが、恐竜について、見て楽しみながら学ぶ事ができるソフトとなっている。
 
-game: Magicoal (Japan)
+game: マジクール
+sort_title: まじくーる
 file: Magicoal (Japan).chd
 publisher: NEC
 description:
   NECより1993年10月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。イースのような見下ろし型のゲーム画面で、男女の魔法使いを操作していく。グラフィックと音楽が高い水準で、まとまっており、誰でも楽しむ事ができる作品。ただし、ゲームの進行はステージクリア型となっており、一度クリアしたマップに後戻りできない。二人同時プレイも可能となっている。
 
-game: Mahjong Clinic Special (Japan)
+game: 麻雀クリニックSPECIAL
+sort_title: まーじゃんくりにっくすぺしゃる
 file: Mahjong Clinic Special (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年9月24日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。アーケードからの移植作品。クリニックの院長と麻雀勝負をして、勝つと秘蔵のコミックス形式になっているカルテを見せてもらうことが可能となる。アドベンチャー要素の強いゲーム作品となっており、ショートシナリオを次々に解決していく事となる。また、ビジュアルシーンが豊富に用意されているのも特徴となる。
 
-game: Mahjong Lemon Angel (Japan)
+game: 麻雀レモンエンジェル
+sort_title: まーじゃんれもんえんじぇる
 file: Mahjong Lemon Angel (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1994年2月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。アーケードからの移植作品。アダルトアニメ『くりいむレモンシリーズ』から派生したテレビアニメ『レモンエンジェル』を題材としたゲーム作品となる。『レモンエンジェル』のメンバーである、トモ、エリカ、ミキの3名から1名を選択し麻雀を行い、勝利する事でストーリーが進んでいくようになっている。
 
-game: Mahjong on the Beach (Japan)
+game: 麻雀オンザビーチ
+sort_title: まーじゃんおんざびーち
 file: Mahjong on the Beach (Japan).chd
 publisher: NEC
 description:
   NECより1993年9月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。追跡モード、対局モード、ピンナップの3種類のモードがあり、追跡モードは白鷺静香とのハワイ旅行を同級生の黒田志津香に邪魔され、ビーチを離れてしまった静香をハワイの街で探す中で複数の日本人の女性と出会い、麻雀で対戦し、静香を追い続ける内容となる。キャラクターデザインは漫画家の遊人が担当している。
 
-game: Mahjong Sword - Princess Quest Gaiden (Japan)
+game: マージャン・ソード プリンセス・クエスト外伝
+sort_title: まーじゃんそーどぷりんせすくえすとがいでん
 file: Mahjong Sword - Princess Quest Gaiden (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1995年8月11日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。RPGのようなストーリー性のあるゲーム内容が特徴となる。ゲームモードは女戦士ルティアが、伝説の剣「マージャンソード」を探す旅に出るストーリーモードと、ストーリーモードで倒した敵と自由に対局できるバトルモードの2つが用意されている。
 
-game: Mahjong Vanilla Syndrome (Japan)
+game: まーじゃんバニラシンドローム
+sort_title: まーじゃんばにらしんどろーむ
 files:
   Mahjong Vanilla Syndrome (Japan).chd
   Mahjong Vanilla Syndrome (Japan) (Alt).chd
@@ -1310,121 +1496,139 @@ publisher: 日本物産
 description:
   日本物産より1991年10月25日にPCエンジンのCD-ROM2専用ソフトとして発売された麻雀ゲーム。アーケードの麻雀ゲーム『まーじゃんバニラシンドローム』の移植作品。プレイヤーは異世界に迷い込んだ主人公「諸星康介」となり、異世界で番人を名乗る美少女「バニラ」と麻雀対決を行いながら、異世界への扉の鍵を入手する。その鍵で様々な異世界を渡り歩きながら、出口(元の世界に戻る鍵)を探索していく。
 
-game: Makai Eiyuuden - Shape Shifter (Japan)
+game: 魔界英雄伝 シェイプシフター
+sort_title: まかいえいゆうでんしぇいぷしふたー
 file: Makai Eiyuuden - Shape Shifter (Japan).chd
 publisher: ビクター
 description:
   ビクターより1992年9月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。海外の作品からの移植作品。アドベンチャーの要素を盛り込んでおり、謎を解かなければ先に進めない箇所が存在している。プレイヤーキャラクターは、レベルアップすることによって黒ヒョウ、サメ、ドラゴンなどに変身できることが本作の特徴となっている。
 
-game: Mamono Hunter Youko - Makai kara no Tenkousei (Japan)
+game: 魔物ハンター妖子 魔界からの転校生
+sort_title: まものはんたーようこPCECD1
 file: Mamono Hunter Youko - Makai kara no Tenkousei (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1992年3月13日にPCエンジンのCD-ROM2専用ソフトとして発売されたデジタルコミックアドベンチャーゲーム。メディアミックス作品『魔物ハンター妖子』のゲーム版となる。プレイヤーは記憶喪失の少年・ショウマとなり、魔物ハンターの真野妖子と、成り行き上同行する事になった千賀子を異世界・幻夢界へと誘う。当初は1作だけで完結する予定が、CD-ROM2の容量上、前編のみの収録となっている。
 
-game: Mamono Hunter Youko - Tooki Yobigoe (Japan)
+game: 魔物ハンター妖子 遠き呼び声
+sort_title: まものはんたーようこPCECD2
 file: Mamono Hunter Youko - Tooki Yobigoe (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1993年1月8日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたデジタルコミックアドベンチャーゲーム。メディアミックス作品『魔物ハンター妖子』のゲーム版となる。『魔界からの転校生』の後編で、全5話で構成されている。見る楽しさに重点がおかれていて、ビジュアルは前作以上にクオリティが高い。難易度は低めの設定となっており、ストーリーがテンポ良く進むのが特徴となる。
 
-game: Manhole, The (Japan)
+game: マンホール
+sort_title: まんほーる
 file: Manhole, The (Japan).chd
 publisher: サンソフト
 description:
   サンソフトより1991年3月22日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。マンホールの地下に広がる不思議な世界を探検していく内容となる。ストーリーやゲームオーバー、ゲームクリアなどの従来の概念がなく、画面の好きなところをクリックすると、何かが起こる仕掛けになっており、無限に続く絵本のようなゲームとなっている。
 
-game: Martial Champion (Japan)
+game: マーシャル・チャンピオン
+sort_title: まーしゃるちゃんぴおん
 file: Martial Champion (Japan).chd
 publisher: コナミ
 description:
   コナミより1993年12月17日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された対戦格闘アクションゲーム。アーケードからの移植作。10名の中から1名を選択し、謎の男によって開催された「世界格闘トーナメント」を勝ち抜きチャンピオンベルトを入手する事が目的となる。攻撃システムとして上下段の他に中段が存在する。トーナメント方式となっており、決勝までの5名に勝利する事でエンディングとなる。
 
-game: Mashou Denki - La Valeur (Japan)
+game: 魔晶伝説 ラ・ヴァルー
+sort_title: ましょうでんせつらう゛ぁるー
 file: Mashou Denki - La Valeur (Japan).chd
 publisher: 工画堂スタジオ
 description:
   工画堂スタジオより1991年3月22日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。工画堂スタジオのパソコンゲームを同社が自ら移植した作品。伝説の魔晶ル・シエールとラ・メールを巡る善と悪の戦いを7つのシナリオで描いていく。PCエンジンへの移植にあたり、原作からシナリオも画面レイアウトも新規のものへ変更となっている。
 
-game: Master of Monsters (Japan)
+game: マスターオブモンスターズ
+sort_title: ますたーおぶもんすたーず
 file: Master of Monsters (Japan).chd
 publisher: マイクロキャビン
 description:
   マイクロキャビンより1991年2月15日にPCエンジンのCD-ROM2専用ソフトとして発売されたファンタジーウォー・シミュレーションゲーム。パソコンからの移植作品。ヘックスにより構成されたマップ中において、モンスターを召喚し戦力とし、敵マスターを撃破することが目的となる。PCエンジンではオリジナルとはモンスターの進化が異なる、精霊の攻撃は格闘攻撃で反撃されやすいなどの違いがある。
 
-game: Mateki Densetsu Astralius (Japan)
+game: 魔笛伝説アストラリウス
+sort_title: まてきでんせつあすとらりうす
 file: Mateki Densetsu Astralius (Japan).chd
 publisher: アイ・ジー・エス
 description:
   アイ・ジー・エスより1991年6月21日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。主人公が乗った船が竜巻に飲み込まれ、たどり着いた異次元世界『妖精の楽園アストラリウス』を舞台にストーリーが展開していく。音楽で敵と戦うという風変りなRPGとなっており、1人で演奏するソロ攻撃や、全員で一斉に演奏することで精霊を召還するアンサンブル攻撃などの攻撃方法がある。
 
-game: Megami Paradise (Japan)
+game: 女神天国
+sort_title: めがみぱらだいす
 file: Megami Paradise (Japan).chd
 publisher: NEC
 description:
   NECより1994年9月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。ゲーム雑誌の企画から誕生したゲーム作品。主人公はゲームオリジナルキャラの女神候補生リンリン。聖女神学園に安置されていたものの、世界各地に散らばってしまった4つの女神水晶球を回収すべく、リンリンと4人の聖女神が冒険の旅に出る。服の着せ替えでキャラの見た目とパラメータが変化する。
 
-game: Metal Angel (Japan)
+game: メタルエンジェル
+sort_title: めたるえんじぇる1
 file: Metal Angel (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1993年9月24日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。プレイヤーは、バトルスーツを装着して行う格闘技・フルメタルバトルのコーチになって、5人の女の子を育成していくゲームとなる。彼女達のスケジュールを1週間刻みで作成し、各種ステータスを向上させ、世界大会で優勝させるのが目的となる。
 
-game: Metal Angel 2 (Japan)
+game: メタルエンジェル2
+sort_title: めたるえんじぇる2
 file: Metal Angel 2 (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1995年1月20日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。『メタルエンジェル』の続編。プレイヤーは、バトルスーツを装着して行う格闘技、フルメタルバトルのコーチになって、キャラクターの女の子を育成していく。3年以内に彼女達をチャンピオンにすることが目標となる。本作のイベントやシナリオには、飽きのこないような工夫がされている。
 
-game: Metamor Jupiter (Japan)
+game: メタモジュピター
+sort_title: めたもじゅぴたー
 file: Metamor Jupiter (Japan).chd
 publisher: NEC
 description:
   NECより1993年1月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。プレイヤーは謎の敵に攻撃された宇宙船ガイオスを救出するため、小型宇宙戦闘機が出撃させることとなる。プレイヤーが操る戦闘機はバイオの力で武器と形態が違う3つのタイプに変形させることができるが、シチュエーションによっては6種類まで増やすことも可能となっている。
 
-game: Meteor Blaster DX (USA) (Unl)
-file: Meteor Blaster DX (USA) (Unl).chd
+#game: Meteor Blaster DX (USA) (Unl)
+#file: Meteor Blaster DX (USA) (Unl).chd
 
-game: Meteor Blaster DX (USA) (Unl) (Rerelease)
-file: Meteor Blaster DX (USA) (Unl) (Rerelease).chd
+#game: Meteor Blaster DX (USA) (Unl) (Rerelease)
+#file: Meteor Blaster DX (USA) (Unl) (Rerelease).chd
 
-game: Might and Magic (Japan)
+game: マイト・アンド・マジック
+sort_title: まいとあんどまじっく1
 file: Might and Magic (Japan).chd
 publisher: NEC
 description:
   NECより1992年1月24日にPCエンジンのCD-ROM2専用ソフトとして発売された3DダンジョンRPG。パソコンからの移植作品。PCエンジン版は難易度が易しくなっており、イベントは声が追加され、ゲーム開始時にはアニメーションが挿入されている。また、キャラクターは名前の決まった6人となり、設定も決められている。それにあわせて世界設定も変えられており、シナリオ面では原作から完全に変更されている。
 
-game: Might and Magic III - Isles of Terra (Japan)
+game: マイト・アンド・マジックIII
+sort_title: まいとあんどまじっく3
 file: Might and Magic III - Isles of Terra (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1993年10月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された3DダンジョンRPG。パソコンで人気の『マイト・アンド・マジック』シリーズ第3作の移植作。テラと呼ばれる世界で新たなパーティーが冒険を繰り広げる。やがてパーティーは、2つのガーディアンと呼ばれる存在の争いに巻き込まれていく。戦闘はマップ上にモンスターが配置されており、遠距離からも攻撃が可能となった。
 
-game: Might and Magic III - Isles of Terra (USA)
-file: Might and Magic III - Isles of Terra (USA).chd
+#game: Might and Magic III - Isles of Terra (USA)
+#file: Might and Magic III - Isles of Terra (USA).chd
 
-game: Minesweeper (Japan)
+game: マインスイーパー
+sort_title: まいんすいーぱー
 file: Minesweeper (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1992年3月20日にPCエンジンのCD-ROM2専用ソフトとして発売されたパズルゲーム。プレイヤーはパネルの下にランダムに隠された機雷を避けながら、機雷のあるパネル以外をすべて開くのが目的となる。10段階の難易度設定が可能で、難易度が上がるほど機雷数も増えていく。本作では、この他に3つのゲームモードも楽しむことができる。
 
-game: Mirai Shounen Conan (Japan)
+game: 未来少年コナン
+sort_title: みらいしょうねんこなん
 file: Mirai Shounen Conan (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年2月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。アニメ『未来少年コナン』を題材としたゲーム作品となる。「のこされ島」「インダストリア」「ラオ博士」「ハイハーバー」「救出」「ギガント」の6ステージで構成されている。ドット絵で再現したオープニングやエンディング、アニメシーンが挿入され、アニメと同じ声優陣による音声が流れるのが特徴。
 
-game: Mitsubachi Gakuen (Japan)
+game: みつばち学園
+sort_title: みつばちがくえん
 file: Mitsubachi Gakuen (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1990年9月14日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。プレイヤーは日本で唯一のアイドル養成女子学園「みつばち学園」に赴任した新任教師となり、女生徒に襲いかかる数々の難事件を解決しながら、一年間を勤め上げる。ゲームクリア終了後にモデルの人気投票を行い、優勝したモデルは実際にアイドルとしてデビューするというオーディション企画も付随していた。
 
-game: Monster Lair (USA)
-file: Monster Lair (USA).chd
+#game: Monster Lair (USA)
+#file: Monster Lair (USA).chd
 
-game: Monster Maker - Yami no Ryuukishi (Japan)
+game: モンスターメーカー 闇の竜騎士
+sort_title: もんすたーめーかーやみのりゅうきし
 files:
   Monster Maker - Yami no Ryuukishi (Japan).chd
   Monster Maker - Yami no Ryuukishi (Japan) (Alt).chd
@@ -1432,34 +1636,39 @@ publisher: NEC
 description:
   NECより1994年3月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。九月姫キャラデザインの人気カードゲーム『モンスターメーカー』を題材としたゲーム作品となる。主人公の少女ライアは自分の出生の謎を求めて旅に出る、というストーリーで、後編『神々の方舟』で完結するはずだったが、未発売のため未完となってしまっている。
 
-game: Moonlight Lady (Japan)
+game: ムーンライトレディ
+sort_title: むーんらいとれでぃ
 file: Moonlight Lady (Japan).chd
 publisher: NEC
 description:
   NECより1993年3月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。3人の女子中学生が戦士に変身して戦うゲーム。ゲームの展開は通常パートと戦闘パートに分かれる。通常パートでは、RPGのようにフィールドを探索し、情報収集を行う。戦闘パートはムーンライトレディを操作し、通常攻撃・特殊攻撃を使って敵を倒していくアクションゲームとなる。全13ステージとなる。
 
-game: Motoroader MC (Japan)
+game: モトローダーMC
+sort_title: もとろーだーMC
 file: Motoroader MC (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1992年12月18日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたレースゲーム。近未来が舞台のミニカートレースとなる。前進とバックを上手く使い分けて進んでいく。ボタンをすばやく2回連打すれば、ボムやグレネードの武器が使用可能なので、状況に応じた武器の選択が重要となる。ただし、スピードが落ちるので武器の多用は避ける必要がある。
 
-game: Motteke Tamago (Japan)
+game: もってけたまご
+sort_title: もってけたまご
 file: Motteke Tamago (Japan).chd
+publisher: ナグザット
 
-game: Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)
+game: 夢幻戦士ヴァリス
+sort_title: う゛ぁりす1
 file: Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年3月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。パソコンからの移植作で、『ヴァリスシリーズ』の1作目のリメイク作品。普通の女子高生だった主人公の麻生優子が、夢幻界ヴァニティの女王ヴァリアによって指名され、「ヴァリスの戦士」として成長していく過程を描いている。本作では5種類の魔法攻撃とビジュアルシーンが追加された。
 
-game: Mysterious Song (USA) (En,Fr,Es) (Unl)
-file: Mysterious Song (USA) (En,Fr,Es) (Unl).chd
+#game: Mysterious Song (USA) (En,Fr,Es) (Unl)
+#file: Mysterious Song (USA) (En,Fr,Es) (Unl).chd
 
-game: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)
-file: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease).chd
+#game: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)
+#file: Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease).chd
 
-game: Mystic Formula (Japan)
+game: ミスティックフォーミュラ
 file: Mystic Formula (Japan).chd
 publisher: マイクロキャビン
 description:
@@ -1592,25 +1801,29 @@ files:
   PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc A).chd
   PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc B).chd
 
-game: Police Connection (Japan)
+game: ポリス・コネクション
+sort_title: ぽりすこねくしょん
 file: Police Connection (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1993年2月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたボードゲーム。スゴロクゲームとアドベンチャーの要素がミックスされた異色のゲーム作品となる。プレイヤーはサイコロを振って、ボード上を移動しながら事件を解決していく。止まったマスによっては、イベントや事件に関する情報を得る事が可能となっている。
 
-game: Pomping World (Japan)
+game: ポンピングワールド
+sort_title: ぽんぴんぐわーるど
 file: Pomping World (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1991年5月31日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションゲーム。上から落ちてくるボールを避けながら、武器を使い撃ち落としていくゲーム作品となる。ボールは攻撃すると次第に小さくなっていき、一番小さい状態のときに攻撃するとボールは消滅する。プレイヤーは画面上のボールを全部消せばステージクリアとなる。
 
-game: Pop'n Magic (Japan)
+game: ぽっぷんまじっく
+sort_title: ぽっぷんまじっく
 file: Pop'n Magic (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年7月24日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。プレイヤーは主人公の風を操る魔法使いの少年少女を操作し、メルヘンチックな全10ステージを冒険していく。敵を攻撃するとスピリットボールと呼ばれる球に変わるので、この球をぶつけて戦っていく。本作は2人同時プレイも可能となっている。
 
-game: PopfulMail (Japan)
+game: ぽっぷるメイル
+sort_title: ぽっぷるめいる
 files:
   PopfulMail (Japan).chd
   PopfulMail (Japan) (Demo).chd
@@ -1618,20 +1831,22 @@ publisher: NEC
 description:
   NECより1994年8月12日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。パソコンからの移植作品となる。ファンタジー調の世界を舞台に、主人公の賞金稼ぎである「メイル」が、仲間3人と一緒に大活躍する。3人の持つ能力はそれぞれ違っているので、場面に応じて使い分けながら難関をクリアしていく。また、CD音源によるBGMやキャラクターのセリフ音声も追加されている。
 
-game: Populous - The Promised Lands (Japan)
+game: ポピュラス ザ・プロミストランド
+sort_title: ぽぴゅらすざぷろみすとらんど
 file: Populous - The Promised Lands (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1991年10月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。パソコンから移植作。ゲームデザイナー、ピーター・モリニューがデザインした箱庭ゲームとなる。プレイヤーは神となり、自分を信仰する民族に間接的な関与をして、繁栄を手助けしてく。最終的なゲームの目的は、悪魔を滅ぼす事となる。また、本作にはプロミストランドというオリジナルモードもある。
 
-game: Prince of Persia (Japan)
+game: プリンス・オブ・ペルシャ
+sort_title: ぷりんすおぶぺるしゃ
 file: Prince of Persia (Japan).chd
 publisher: リバーヒルソフト
 description:
   リバーヒルソフトより1991年11月8日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。囚われの姫を救い出すため、宰相ジャファーの仕掛けた罠をかいくぐり王宮の最上階を目指す名作アクション『プリンス・オブ・ペルシャ』のPCエンジン移植作品。パズルゲーム的な要素が強いことで、なめらかによく動くキャラクターたちのアクションが魅力となっている。
 
-game: Prince of Persia (USA)
-file: Prince of Persia (USA).chd
+#game: Prince of Persia (USA)
+#file: Prince of Persia (USA).chd
 
 game: プリンセスメーカー
 sort_title: ぷりんせすめーかー1
@@ -1654,31 +1869,35 @@ publisher: リバーヒルソフト
 description:
   リバーヒルソフトより1994年3月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。ウィスラー王国の王女ミネルバであるを操作し、魔導師ダイナスターを倒して世界を救出する事が目的となる。登場キャラクターが美少女ばかりとなっており、装備の着せ替えシステムなども用意されている。全5章仕立てになっており、最初からパーティーメンバーが全員揃っているのも特徴となる。
 
-game: Private Eye dol (Japan)
+game: プライベート・アイ・ドル
 file: Private Eye dol (Japan).chd
 publisher: NEC
 description:
   NECより1995年8月11日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された推理アドベンチャーゲーム。近未来を舞台に人気上昇中のアイドル兼探偵の美少女メイ・スターが、パートナーである立体映像の人工知性体ナビと共に、様々な事件を解決していく。RPGのようなトップビュー形式のマップ内をヒロインのメイを操作しながら歩き回り、各所で会う人物達と会話を重ねることでシナリオを進めていく。
 
-game: Pro Yakyuu Super '94, The (Japan)
+game: ザ・プロ野球スーパー'94
+sort_title: ざぷろやきゅうすーぱー94
 file: Pro Yakyuu Super '94, The (Japan).chd
 publisher: インテック
 description:
   インテックより1994年6月17日にPCエンジン用ソフトとして発売された野球ゲーム。『ザ・プロ野球』シリーズの一作。前作と同様にプロ野球12球団公認のゲームとなっており、選手が実名で登場するのが特徴となる。本作ではホームランコンテストも追加されている。また、発売当時の最新の選手データを使用しているため、巨人の松井や落合などの監督となって、彼らを動かすことが可能となっている。
 
-game: Pro Yakyuu Super, The (Japan) (FABT)
+game: ザ・プロ野球スーパー
+sort_title: ざぷろやきゅう2
 file: Pro Yakyuu Super, The (Japan) (FABT).chd
 publisher: インテック
 description:
   インテックより1992年10月9日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された野球ゲーム。『ザ・プロ野球』の続編。プロ野球12球団公認のゲームとなっており、300人の選手が実名で登場するのが特徴となる。本作ではエラーの有無を設定できるオプション機能がシステムに搭載され、「有」にすると選手の能力によっては勝敗を分けるような結果にもなる。
 
-game: Pro Yakyuu, The (Japan)
+game: ザ・プロ野球
+sort_title: ざぷろやきゅう1
 file: Pro Yakyuu, The (Japan).chd
 publisher: インテック
 description:
   インテックより1990年10月5日にPCエンジンのCD-ROM2専用ソフトとして発売された野球ゲーム。「ザ・プロ野球」シリーズの第1作目。本作はプロ野球12球団公認のゲームとなっており、球団名や選手名がすべて実名で登場するのが特徴となる。ゲームモードはプレイヤーが選手となってプレイする「アクションモード」と監督として選手を動かすことができる「シミュレーションモード」の2種類が用意されている。
 
-game: Psychic Detective Series Vol. 3 - Aya (Japan)
+game: サイキック・ディテクティヴ・シリーズ Vol.3 アヤ
+sort_title: さいきっくでぃてくてぃう゛しりーず3
 files:
   Psychic Detective Series Vol. 3 - Aya (Japan).chd
   Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd
@@ -1686,13 +1905,15 @@ publisher: データウエスト
 description:
   データウエストより1992年11月20日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンでシリーズ化されていたミステリーアドベンチャーの移植作品となる。人の心に潜入する能力を持つ探偵の主人公「降矢木和哉」が巻き込まれる奇怪な事件を解決するのが目的となる。「見る」「聞く」などのコマンドを選択していくことで聞き込み操作を進めて事件を解決していこう。
 
-game: Psychic Detective Series Vol. 4 - Orgel (Japan)
+game: サイキック・ディテクティヴ・シリーズ Vol.4 オルゴール
+sort_title: さいきっくでぃてくてぃう゛しりーず4
 file: Psychic Detective Series Vol. 4 - Orgel (Japan).chd
 publisher: データウエスト
 description:
   データウエストより1993年8月6日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。人の心に潜入する能力を持つ探偵の主人公「降矢木和哉」が巻き込まれる奇怪な事件を解決するのが目的となる。サスペンスドラマのような雰囲気で物語が進行するなか、複雑な人間関係を整理しつつ事件解決をはかるのが目的となる。システムはコマンド入力方式のオーソドックスなものとなっている。
 
-game: Psychic Storm (Japan)
+game: サイキック・ストーム
+sort_title: さいきっくすとーむ
 file: Psychic Storm (Japan).chd
 publisher: 日本テレネット
 description:
@@ -1712,8 +1933,8 @@ publisher: NEC
 description:
   NECより1996年3月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたパズルゲーム。『ぷよぷよCD』の続編。前作同様、キャラクターのボイスは有名声優が担当している。ふたりでぷよぷよでは使用キャラクターが選択可能で、全キャラクターに独自の連鎖ボイスとダメージボイスも用意されている。ひとりでぷよぷよにはキャラクター紹介文があり、キートン山田によるナレーションが追加されている。
 
-game: Pyramid Plunder (USA) (Unl)
-file: Pyramid Plunder (USA) (Unl).chd
+#game: Pyramid Plunder (USA) (Unl)
+#file: Pyramid Plunder (USA) (Unl).chd
 
 game: 雀神伝説
 sort_title: じゃんしんでんせつ
@@ -1743,19 +1964,22 @@ publisher: NEC
 description:
   NECより1994年11月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたクイズゲーム。『クイズアベニュー』シリーズの第三作目。早押し対決で7000問以上の難問クイズを争う「バトルモード」と、敵との戦闘をクイズで行う、ロールプレイング形式の「クエストモード」が用意されている。本作ではクイズの内容が多ジャンルにわたって用意されているのが特徴の一つとなる。
 
-game: Quiz Caravan Cult Q (Japan)
+game: クイズキャラバン カルトQ
+sort_title: くいずきゃらばんかるとQ
 file: Quiz Caravan Cult Q (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1993年5月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたクイズゲーム。当時人気だったテレビ番組『カルトQ』を題材としたゲーム作品となる。本番組の最終回にうじきによりソフトの紹介と発売が告知された。テレビ番組でおなじみの、特定ジャンルに徹底的に特化するマニアックな問題を出すノーマルモードの他、スゴロク形式で進むアドベンチャーモードなどが用意されている。
 
-game: Quiz de Gakuensai (Japan)
+game: クイズDE学園祭
+sort_title: くいずでがくえんさい
 file: Quiz de Gakuensai (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年11月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたクイズゲーム。女子高の学園祭が舞台となるゲーム作品で、女の子がたくさん出てくる華やかで楽しいクイズゲームとなっている。新任教師となったプレイヤーは、校内で出会う女の子たちとのクイズ勝負に勝ってヒントを得ながら、学園内で迷子になったミーナちゃんを捜し出すのが目的となる。
 
-game: Quiz Marugoto the World (Japan) (Rev 7)
+game: クイズまるごとTheワールド
+sort_title: くいずまるごとざわーるど1
 files:
   Quiz Marugoto the World (Japan) (Rev 7).chd
   Quiz Marugoto the World (Japan) (Rev 8).chd
@@ -1763,79 +1987,92 @@ publisher: アトラス
 description:
   アトラスより1991年4月5日にPCエンジンのCD-ROM2専用ソフトとして発売されたクイズゲーム。テレビ番組のような雰囲気で展開していく。ゲームモードは「世界一周クイズの旅」「チャンピオンクイズ」「ROM2クイズ大会」「電脳びんご」の4つが用意されている。ゲームのメインコンテンツとなる「世界一周クイズの旅」モードでは世界10ヵ国を舞台に、旅をしながら日本からニューヨークを目指すこととなる。
 
-game: Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan)
+game: クイズまるごとTheワールド2 タイムマシンにおねがい!
+sort_title: くいずまるごとざわーるど2
 file: Quiz Marugoto the World 2 - Time Machine ni Onegai! (Japan).chd
 publisher: アトラス
 description:
   アトラスより1992年3月27日にPCエンジンのCD-ROM2専用ソフトとして発売されたクイズゲーム。『クイズまるごとTheワールド』の続編となる。ゲームモードは3種類が用意されており、本作のメインゲームモードとなる「タイムマシンにおねがい」モードではタイムマシンで時間旅行しながらクイズに答えていく。大昔からスタートし、出題されるクイズに正解しながら、現代へ戻ることが目的となる。
 
-game: Quiz no Hoshi - Star of Quiz (Japan)
+game: クイズの星
+sort_title: くいずのほし
 file: Quiz no Hoshi - Star of Quiz (Japan).chd
 publisher: サンソフト
 description:
   サンソフトより1992年8月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたクイズゲーム。本作のメインモードである『ハート・オブ・ストーン』では、プレイヤーは藤井星丸となり、何者かに誘拐された幼馴染の小泉真奈を助けるために、クイズに正解しながら物語を進める。各ステージの人物によって決められたノルマ数を正解して最深部にいる「神の間」のボスである魔王カオスを倒すのが目的となる。
 
-game: Quiz Tonosama no Yabou (Japan)
+game: クイズ殿様の野望
+sort_title: くいずとのさまのやぼう
 file: Quiz Tonosama no Yabou (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年10月10日にPCエンジンのCD-ROM2専用ソフトとして発売されたクイズゲーム。アーケードからの移植作品。戦国大名8人から主人公を選択し、クイズに答えて領土を広げ、38国ある日本の領地を統一するのが目的となる。2人協力プレイ、対戦プレイも可能となっている。4000問あるクイズはすべて声優の声で音声出力される。クレジットが増えたりする5つのミニゲームも用意されている。
 
-game: R-Type Complete CD (Japan)
+game: R-TYPE COMPLETE CD
+sort_title: あーるたいぷこんぷりーとしーでぃー
 file: R-Type Complete CD (Japan).chd
 publisher: アイレム
 description:
   アイレムより1991年12月20日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。アーケードからの移植作品。容量の都合で前後編となったPCエンジン版『R-TYPE』を1つにまとめたソフトとなる。全ステージが通しで遊べる他に、追加要素としてCD-DAの生演奏によるアレンジBGMや、ステージ間にアニメ調のビジュアルデモシーンの挿入といった要素が追加されている。
 
-game: Rainbow Islands - The Story of Bubble Bobble 2 (Japan)
+game: レインボーアイランド
+sort_title: れいんぼーあいらんど
 file: Rainbow Islands - The Story of Bubble Bobble 2 (Japan).chd
 publisher: NEC
 description:
   NECより1993年6月30日にPCエンジンのCD-ROM2専用ソフトとして発売された縦スクロールアクションゲーム。『バブルボブル』の続編。前作のエンディングで「泡はきドラゴン」の姿から人間に戻ったバビーとボビーの兄弟が、両親より授かった虹の魔法を使って敵を倒しながら冒険する。虹の魔法によってかけた虹は攻撃手段であると共に足場として高い所へ移動する際に使うことができ、これを利用して進んでいく。
 
-game: Rally Championship (Japan) (FABT)
+game: チャンピオンシップラリー
+sort_title: ちゃんぴおんしっぷらりー
 file: Rally Championship (Japan) (FABT).chd
 publisher: インテック
 description:
   インテックより1993年8月6日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたレースゲーム。公道を使用したモータースポーツ、ラリーを題材としたゲーム作品。使用できる8種類の車は細かなセッティングが可能となっている。プレイヤーは路面のコンディションによってブレーキやタイヤ、エンジンを替え、時間を短縮させることができる。
 
-game: Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan)
+game: らんま1/2 打倒、元祖無差別格闘流!
+sort_title: らんま1/2がんそむさべつかくとうりゅう
 file: Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1992年10月2日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された対戦型格闘アクションゲーム。PCエンジン版『らんま1/2』の続編で、ストーリーは前作から繋がっている。乱馬は男、女にいつでもチェンジできる。全8話構成で、アレンジの差異はあるが全て原作をベースにしたステージになっている。また、8話をクリアすると博打王キングとババ抜き勝負するスペシャルパートが出現する。
 
-game: Ranma 1-2 - Toraware no Hanayome (Japan)
+game: らんま1/2 とらわれの花嫁
+sort_title: らんま1/2とらわれのはなよめ
 file: Ranma 1-2 - Toraware no Hanayome (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1991年12月6日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。高橋留美子の大人気格闘コメディ漫画『らんま1/2』を原作とするゲーム作品。完全オリジナルストーリーで展開され、原作では登場しなかったキャラクターも登場する。ゲーム中は全てアイコンを選択して進めていく。ゲームは3章に分かれており、乱馬(らんま)とあかねを視点にしてプレイしていく。
 
-game: Ranma 1-2 (Japan)
+game: らんま1/2
+sort_title: らんま1/2
 file: Ranma 1-2 (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1990年12月7日にPCエンジンのCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。プレイヤーは乱馬を操作するが、アイテムやステージオブジェクトでステージ途中で男または女にチェンジできる。全8話構成で1話から7話までは原作をベースにしたステージになっており、8話のみオリジナルストーリーになっている。また「熱湯MODE」ではキャラクターによる対戦ゲームも出来る。
 
-game: Rayxanber II (Japan)
+game: ライザンバーII
+sort_title: らいざんばー2
 file: Rayxanber II (Japan).chd
 publisher: データウエスト
 description:
   データウエストより1991年6月7日にPCエンジンのCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。本作の最大の特徴は、一時的に加速できる「オーバーブースト」という機能と、ユニットを装備しているときだけ可能となっている、ため撃ちのシステムとなる。プレイヤーが操る自機の動きは快適で、グラフィックも美しく描かれている。ただし、難易度は非常に高く、玄人向けの内容となっている。
 
-game: Rayxanber III (Japan)
+game: ライザンバーIII
+sort_title: らいざんばー3
 file: Rayxanber III (Japan).chd
 publisher: データウエスト
 description:
   データウエストより1992年6月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。『ライザンバー2』の続編。システムは前作を受け継いでいるが、画面も音楽もさらに質が高くなっている。また、3種類用意されたユニットは、すべて今回からパワーアップしている。難易度は、前作よりも低めに設定されている。全6ステージで構成されている。
 
-game: Record of Lodoss War (Japan)
+game: ロードス島戦記
+sort_title: ろーどすとうせんき1
 file: Record of Lodoss War (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年7月17日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。水野良による小説『ロードス島戦記』を題材としたゲーム作品。パソコンゲーム『ロードス島戦記 灰色の魔女』をベースに戦闘システムなどがアレンジされた移植作となる。OVA準拠となっており、OVAのオープニングが再現されている。また、ゲーム内のキャラクターボイスもOVAと同じ声優陣となっている。
 
-game: Record of Lodoss War II (Japan)
+game: ロードス島戦記II
+sort_title: ろーどすとうせんき2
 files:
   Record of Lodoss War II (Japan).chd
   Record of Lodoss War II (Japan) (Demo).chd
@@ -1843,81 +2080,108 @@ publisher: ハドソン
 description:
   ハドソンより1994年12月16日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。水野良による小説『ロードス島戦記』を題材としたゲーム作品。パソコンゲーム『ロードス島戦記2 五色の魔竜』をベースにアレンジされた移植作となる。小説2-7巻のストーリーだが小ニースは登場せず、小説版にはない「降臨した邪神カーディスとの戦闘」がラストクエストとなっている。
 
-game: Red Alert (Japan)
+game: レッドアラート
+sort_title: れっどあらーと
 file: Red Alert (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1989年12月28日にPCエンジンのCD-ROM2専用ソフトとして発売されたコンバットアクションゲーム。プレイヤーは主人公「ガイ・カザマ」を操作して、国際的なテロリスト集団と戦っていく。主人公は経験値を得ることでレベルアップしていき、レベルが上がるたびに強力な武器も使用可能になる。また、残機制ではなくライフ制なのでライフが0になった時点でゲームオーバーになる。
 
-game: Renny Blaster (Japan)
+game: レニーブラスター
+sort_title: れにーぶらすたー
 file: Renny Blaster (Japan).chd
 publisher: NEC
 description:
   NECより1995年6月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。主人公の矢来藤朗および篠懸誓史朗を操作し、ハルバーシュテット男爵率いるニーベルンゲン騎士団を倒して「サマエルの心臓」を奪還する事が目的となる。ステージ中には回復用の食料のほか、技パネルがあり、このパネルを拾ってステージをクリアすると次ステージから選択可能な技が増える。
 
-game: Revival Chase (USA) (En,Fr) (Unl)
-file: Revival Chase (USA) (En,Fr) (Unl).chd
+#game: Revival Chase (USA) (En,Fr) (Unl)
+#file: Revival Chase (USA) (En,Fr) (Unl).chd
 
-game: Riot Zone (USA)
-file: Riot Zone (USA).chd
+#game: Riot Zone (USA)
+#file: Riot Zone (USA).chd
 
-game: Rising Sun (Japan)
+game: ライジング・サン
+sort_title: らいじんぐさん
 file: Rising Sun (Japan).chd
 publisher: ビクター
 description:
   ビクターより1992年3月13日にPCエンジンのCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。源頼朝、源義経、平清盛の中から武将を選び、オリジナルな歴史を作り上げていくゲーム作品。戦闘や町の占領を繰り返しながら、自分の領土を拡張する。歴史の名場面を集めたビジュアルシーンや、アクションゲームも用意されている。
 
-game: Road Spirits (Japan)
+game: ロードスピリッツ
+sort_title: ろーどすぴりっつ
 file: Road Spirits (Japan).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1991年3月22日にPCエンジンのCD-ROM2専用ソフトとして発売されたレースゲーム。地球全体をベースに楽しめる、全17ステージのオンロードレースとなっている。車は4種類の中から選択可能。操作はアクセル、ブレーキ、最高5段階まであるギア設定で行っていく。マニュアルが苦手だという人のために、オートマチックも用意されている。
 
-game: ROM ROM Stadium (Japan)
+game: ロムロムスタジアム
+sort_title: ろむろむすたじあむ
 file: ROM ROM Stadium (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1989年12月22日にPCエンジンのCD-ROM2専用ソフトとして発売された野球ゲーム。プレイヤーはゲームオリジナルのリーグとなるセントハルリーグとパンタグラフリーグの合わせて12球団の中からチームを選択して進めていく。既存の12球団以外にもオリジナルチームを作成することもできる。また、試合終了後には、与えられるポイントを振り分け、強化したい選手を育てることも可能となっている。
 
-game: ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan)
+game: ROM2カラオケ Vol.1 すてきにスタンダード
+sort_title: ろむろむからおけv1
 file: ROM^2 Karaoke Vol. 1 - Suteki ni Standard (Japan).chd
+publisher: ビクター音楽産業
 
-game: ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan)
+game: ROM2カラオケ Vol.2 なっとくアイドル
+sort_title: ろむろむからおけv2
 file: ROM^2 Karaoke Vol. 2 - Nattoku Idol (Japan).chd
+publisher: ビクター音楽産業
 
-game: ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan)
+game: ROM2カラオケ Vol.3 やっぱしバンド
+sort_title: ろむろむからおけv3
 file: ROM^2 Karaoke Vol. 3 - Yappashi Band (Japan).chd
+publisher: ビクター音楽産業
 
-game: ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan)
+game: ROM2カラオケ Vol.4 ちょっとおとな!?
+sort_title: ろむろむからおけv4
 file: ROM^2 Karaoke Vol. 4 - Choito Otona! (Japan).chd
+publisher: ビクター音楽産業
 
-game: ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan)
+game: ROM2カラオケ Vol.5 カラオケ幕の内
+sort_title: ろむろむからおけv5
 file: ROM^2 Karaoke Vol. 5 - Karaoke Maku no Uchi (Japan).chd
+publisher: ビクター音楽産業
 
-game: ROM^2 Karaoke Volume 1 (Japan)
+game: ROM2カラオケ Volume 1
+sort_title: ろむろむからおけn1
 files:
   ROM^2 Karaoke Volume 1 (Japan).chd
   ROM^2 Karaoke Volume 1 (Japan) (Alt).chd
+publisher: NEC
 
-game: ROM^2 Karaoke Volume 2 (Japan)
+game: ROM2カラオケ Volume 2
+sort_title: ろむろむからおけn2
 file: ROM^2 Karaoke Volume 2 (Japan).chd
+publisher: NEC
 
-game: ROM^2 Karaoke Volume 3 (Japan)
+game: ROM2カラオケ Volume 3
+sort_title: ろむろむからおけn3
 file: ROM^2 Karaoke Volume 3 (Japan).chd
+publisher: NEC
 
-game: ROM^2 Karaoke Volume 4 (Japan)
+game: ROM2カラオケ Volume 4
+sort_title: ろむろむからおけn4
 file: ROM^2 Karaoke Volume 4 (Japan).chd
+publisher: NEC
 
-game: ROM^2 Karaoke Volume 5 (Japan)
+game: ROM2カラオケ Volume 5
+sort_title: ろむろむからおけn5
 file: ROM^2 Karaoke Volume 5 (Japan).chd
+publisher: NEC
 
-game: Ruin - Kami no Isan (Japan)
+game: ルイン 神の遺産
+sort_title: るいんかみのいさん
 file: Ruin - Kami no Isan (Japan).chd
 publisher: ビクター
 description:
   ビクターより1993年11月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。プレイヤーは最大4人のキャラクターでパーティを組んで戦っていく。主人公キャラクターはプレイヤーが操作する必要があるが、それ以外のキャラクターはコンピューターが担当してくれる。フィールドマップは存在せず、マップ画面に表示される場所を選んで移動することになる。
 
-game: Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT)
+game: 龍虎の拳
+sort_title: りゅうこのけん1
 files:
   Ryuuko no Ken (Japan) (En,Ja,Es) (FAAT).chd
   Ryuuko no Ken (Japan) (En,Ja,Es) (FABT).chd
@@ -1927,25 +2191,29 @@ publisher: ハドソン
 description:
   ハドソンより1994年3月26日にPCエンジンのアーケードカード専用ソフトとして発売された対戦格闘アクションゲーム。アーケードからの移植作品。人間同士の対戦よりも、ストーリーモードに主眼を置いた作りとなる。本作は他機種版に比べると移植度は高く、デモでのセリフも音読される。アーケードカードを使わずに起動すると警告画面が出るが、リセットしてさらに2回繰り返すと、「大根切り」という隠しゲームが遊べる。
 
-game: Sangokushi - Eiketsu Tenka ni Nozomu (Japan)
+game: 三国志 英傑天下に望む
+sort_title: さんごくしえいけつてんかにのぞむ
 file: Sangokushi - Eiketsu Tenka ni Nozomu (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1991年3月29日にPCエンジンのCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。189年の中国を舞台に横山光輝原作の漫画「三国志」に登場する武将が活躍するゲーム作品となる。6人の君主からひとりを選び、自国の生産力、軍事力を高めていく。そして、他国と争わせることで領土を拡張させて行きながら進めていく。戦闘では、一騎討ち、計略などが多彩な戦い方で勝利を目指す。
 
-game: Sangokushi III (Japan)
+game: 三國志III
+sort_title: さんごくし3
 file: Sangokushi III (Japan).chd
 publisher: コーエー
 description:
   コーエーより1993年10月1日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。『三國志シリーズ』第3作目。前作までと異なり国の支配から都市の支配に目的が変更になった。各君主の支配地域が地方国単位から都市単位に変更され、より細かな内政が行える。また、戦闘画面も斜め見下ろし型で見やすくなっている。
 
-game: Seirei Senshi Spriggan (Japan)
+game: 精霊戦士スプリガン
+sort_title: せいれいせんしすぷりがん
 file: Seirei Senshi Spriggan (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1991年7月12日にPCエンジンのCD-ROM2専用ソフトとして発売された縦スクロールシューティングゲーム。精霊国家「シースフェル」において精霊甲兵の伝説の戦士である主人公の「スプリガン」を操作し、他国への侵略を開始したブライズバラ帝国の野望を食い止める事が目的となる。精霊球と呼ばれる火、水、風、土の4つのアイテムを取得した順番によってショットの性能が変化する事が特徴となっている。
 
-game: Seiryuu Densetsu - Monbit (Japan) (Rev 1)
+game: 聖竜伝説 モンビット
+sort_title: せいりゅうでんせつもんびっと
 files:
   Seiryuu Densetsu - Monbit (Japan) (Rev 1).chd
   Seiryuu Densetsu - Monbit (Japan) (Rev 4).chd
@@ -1953,13 +2221,15 @@ publisher: ハドソン
 description:
   ハドソンより1991年8月30日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。プレイヤーは、卵の状態からドラゴンを育て、パーティを組んで冒険の旅に出る。5つの大陸で5人の邪王を倒し、最後に邪帝ギールを倒すのが目的となる。ドラゴンを成長させることで、大きな戦力を獲得することができるのが特徴となる。
 
-game: Seisenshi Denshou - Jantaku no Kishi (Japan)
+game: 聖戦士伝承 雀卓の騎士
+sort_title: せいせんしでんしょうじゃんたくのきし
 file: Seisenshi Denshou - Jantaku no Kishi (Japan).chd
 publisher: 日本物産
 description:
   日本物産より1994年8月1日にPCエンジンのスーパーCD-ROM2専用用ソフトとして発売された2人打ち麻雀ゲーム。「聖戦士」「ホーラロード」などの用語が飛び交うファンタジー世界を舞台にしたゲーム作品となる。ファンタジー世界をベースにしたアドベンチャーに、麻雀の要素が追加されているのが特徴。アドベンチャーの随所に麻雀対局がはさみこまれていて、その対局に勝てばストーリーが進むようになっている。
 
-game: Seiya Monogatari - Anearth Fantasy Stories (Japan)
+game: 聖夜物語 AnEarth Fantasy Stories
+sort_title: せいやものがたり
 files:
   Seiya Monogatari - Anearth Fantasy Stories (Japan).chd
   Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo).chd
@@ -1967,7 +2237,8 @@ publisher: ハドソン
 description:
   ハドソンより1995年12月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。ハドソン最後のPCエンジン用ソフトとなる。本作はマルチシナリオRPGと銘打っており、誰が教会の前を通ったときに泣くかで育ての親が変わり、それにあわせて主人公の職業が「盗賊」「魔法使い」「剣士」「僧侶」となる。またストーリーも4通りに変化するのが特徴となる。
 
-game: Sengoku Kantou Sangokushi (Japan)
+game: 戦国関東三国志
+sort_title: せんごくかんとうさんごくし
 file: Sengoku Kantou Sangokushi (Japan).chd
 publisher: インテック
 description:
@@ -2001,8 +2272,8 @@ publisher: ビクター
 description:
   ビクターより1992年3月27日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。シグノシスの人気パソコンゲームのPCエンジン移植作品。怪物にされた主人公アーブロンが自分を怪物にした組織へ復讐していく物語。なめらかな多重スクロールと独特の世界観が魅力となっている。主人公はパンチとキックを駆使してステージを突き進んでいく。また、シューティングステージも用意されている。
 
-game: Shadow of the Beast (USA)
-file: Shadow of the Beast (USA).chd
+#game: Shadow of the Beast (USA)
+#file: Shadow of the Beast (USA).chd
 
 game: 上海II
 sort_title: しゃんはい2
@@ -2011,11 +2282,11 @@ publisher: ハドソン
 description:
   ハドソンより1990年4月13日にPCエンジンのCD-ROM2専用ソフトとして発売されたパズルゲーム。『上海』の続編。牌の配列は全部で6パターンが用意されており、画面上に積み上げられた麻雀牌から同じ絵柄を見つけ、2枚1組で画面から取り除いていく。すべてを取り除けばステージクリアとなる。前作と同じく、行き詰まったときに取れる牌を教えてくれる便利なヘルプ機能も搭載されている。
 
-game: Shape Shifter (USA)
-file: Shape Shifter (USA).chd
+#game: Shape Shifter (USA)
+#file: Shape Shifter (USA).chd
 
-game: Sherlock Holmes - Consulting Detective - Volume 2 (USA)
-file: Sherlock Holmes - Consulting Detective - Volume 2 (USA).chd
+#game: Sherlock Holmes - Consulting Detective - Volume 2 (USA)
+#file: Sherlock Holmes - Consulting Detective - Volume 2 (USA).chd
 
 game: シャーロック・ホームズの探偵講座
 sort_title: しゃーろっくほーむずのたんていこうざ1
@@ -2024,8 +2295,8 @@ publisher: ビクター
 description:
   ビクターより1991年7月26日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。ゲームブック『シャーロック・ホームズ 10の怪事件』を題材としたゲーム作品となる。主人公のシャーロック・ホームズを操作し、新聞を手掛かりに捜査を行い、証拠が揃った時点で裁判官の質問に答えて事件を解決する事が目的となる。実写を取り込んだ動画をゲーム中に使用した作品となる。
 
-game: Sherlock Holmes - Consulting Detective (USA)
-file: Sherlock Holmes - Consulting Detective (USA).chd
+#game: Sherlock Holmes - Consulting Detective (USA)
+#file: Sherlock Holmes - Consulting Detective (USA).chd
 
 game: シャーロック・ホームズの探偵講座2
 sort_title: しゃーろっくほーむずのたんていこうざ2
@@ -2034,97 +2305,120 @@ publisher: ビクター
 description:
   ビクターより1993年5月28日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。『シャーロック・ホームズの探偵講座』の続編でシナリオが新たに用意されている。基本システムは前作のものを継承しているが、実写画像のクオリティや日本語表示といった、前作の不満点が改良されている。また、前作と同様に裁判官に対して自分の推理を話し、犯人が逮捕されれば事件解決となる。
 
-game: Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl)
+game: しあわせうさぎ
+sort_title: しあわせうさぎ1
 file: Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
-game: Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl)
+game: しあわせうさぎII
+sort_title: しあわせうさぎ2
 file: Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
-game: Shin Megami Tensei (Japan)
+game: 真・女神転生
+sort_title: しんめがみてんせい
 file: Shin Megami Tensei (Japan).chd
 publisher: アトラス
 description:
   アトラスより1993年12月25日にPCエンジンのスーパーCD-ROMソフトとして発売されたロールプレイングゲーム。現代の都市を主な世界に置いた作風と仲間との思想的な価値観による決別など、従来の勧善懲悪観を排したハードな世界観とシナリオは多くのユーザーの支持を得た。ゲームシステムは悪魔を会話で仲魔にしたり、それらの悪魔を合体させたりといったファミリーコンピュータ版『女神転生』のものを継承している。
 
-game: Shin Nihon Pro Wrestling - '94 Battlefield in Tokyo Dome (Japan)
+game: 新日本プロレスリング'94 バトルフィールドin闘強導夢
+sort_title: しんにほんぷろれすりんぐ94ばとるふぃーるどいんとうきょうどーむ
 file: Shin Nihon Pro Wrestling - '94 Battlefield in Tokyo Dome (Japan).chd
 publisher: フジコム
 description:
   フジコムより1994年11月25日にPCエンジンのアーケードカード専用ソフトとして発売されたプロレスゲーム。スーパーファミコンからの移植作品。長州力やザ・グレート・ムタなどの新日本プロレスの選手が実名で登場するのが特徴となる。PCエンジンに移植するにあたり、流血やタッグマッチ時に味方を助けにいくカットプレイなどが追加されており、より臨場感のある闘いが演出されるようになった。
 
-game: Shin Onryou Senki (Japan)
+game: 真怨霊戦記
+sort_title: しんおんりょうせんき
 file: Shin Onryou Senki (Japan).chd
 publisher: フジコム
 description:
   フジコムより1995年9月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作品。プレイヤーは、主人公の北原となり、怨霊に取り付かれた街を30日以内に元通りにするのが目的となる。PCエンジンへの移植にあたり、怨霊が出現する部分のなめらかなモーフィング処理や、サンプリングによる効果音など、演出が大幅に改良されている。
 
-game: Shinsetsu Shiawase Usagi (Japan) (Unl)
+game: 真説しあわせうさぎ
+sort_title: しんせつしあわせうさぎ1
 file: Shinsetsu Shiawase Usagi (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
-game: Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)
+game: 真説しあわせうさぎ2
+sort_title: しんせつしあわせうさぎ2
 file: Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
-game: Shinsetsu Shiawase Usagi f - Yuujou yorimo Aiyoku (Japan) (Unl)
+game: 真説しあわせうさぎf 友情より愛欲を
+sort_title: しんせつしあわせうさぎf
 file: Shinsetsu Shiawase Usagi f - Yuujou yorimo Aiyoku (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
-game: Shougi Database Kiyuu (Japan)
+game: 将棋データベース 棋友
+sort_title: しょうぎでーたべーすきゆう
 file: Shougi Database Kiyuu (Japan).chd
 publisher: セタ
 description:
   セタより1995年10月27日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された将棋のデータベースソフト。約1万局という膨大なプロ棋士たちの名対局が収録されている。このほかにも、販売当時のプロ棋士168名の個人データが検索が可能となっている。また、コンピュータとの対局や、250問ある詰将棋を楽しむこともできる
 
-game: SimEarth - The Living Planet (Japan)
+game: シムアース
+sort_title: しむあーす
 file: SimEarth - The Living Planet (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1993年1月14日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。ガイア理論に基づいて作られた惑星育成ゲームとなる。惑星そのものを育成するため、要素は、地形・大気・生物・文明など多岐にわたる。前作の「シムシティ」よりもより大規模な内容となっており、生命豊かな星にすることもできれば、生物が全くいない死の星にすることも可能となる。
 
-game: SimEarth - The Living Planet (USA)
-file: SimEarth - The Living Planet (USA).chd
+#game: SimEarth - The Living Planet (USA)
+#file: SimEarth - The Living Planet (USA).chd
 
-game: Slot Gambler (Japan)
+game: スロット勝負師
+sort_title: すろっとぎゃんぶらー
 file: Slot Gambler (Japan).chd
 publisher: 日本物産
 description:
   日本物産より1995年4月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたパチスロゲーム。ゲームモードは美女たちとコインを賭けて争う「ストーリーモード」とパチスロ、9リールを自由にプレイ可能な「トレーニングモード」が用意されている。パチスロではセクシーアイドルを実写取り込みグラフィックで表現している。
 
-game: Snatcher CD-ROMantic - Pilot Disk (Japan)
+game: スナッチャー パイロットディスク
+sort_title: すなっちゃーぱいろっとでぃすく
 file: Snatcher CD-ROMantic - Pilot Disk (Japan).chd
 publisher: コナミ
 description:
   コナミより1992年8月7日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。アドベンチャーゲーム『スナッチャー』の体験版ディスクとなり、本編のACT1だけがプレイできるようになっている。ACT2以降の予告編が収録され、射撃モードの練習もできる。また、設定集やBGM集に加え、当時のコナミ広報部だった早坂妙子さんが実写画像で出演している。
 
-game: Snatcher CD-ROMantic (Japan)
+game: スナッチャー
+sort_title: すなっちゃー
 file: Snatcher CD-ROMantic (Japan).chd
 publisher: コナミ
 description:
   コナミより1992年10月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。『メタルギアソリッド』シリーズで有名となる、ゲームデザイナー・小島秀夫がシナリオと企画を担当した。当時の主流であった「単純なコマンド選択」だけではなく、謎解きとしてキーワード入力を求めたり、ストーリー進行に併せて簡単なガン・シューティングシーンを取り入れるなどの演出が施されている。
 
-game: Sol Bianca (Japan)
+game: ソル・ビアンカ
+sort_title: そるびあんか
 file: Sol Bianca (Japan).chd
 publisher: メサイヤ
 description:
   メサイヤより1990年6月29日にPCエンジンのCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。オリジナルアニメ『SOL BIANCA(ソルビアンカ)』を題材としたゲーム作品。主人公は宇宙海賊の美女5人組。7つのシナリオがそれぞれ独立したオムニバス形式になっている。原作のムードを再現したビジュアルが特徴となる
 
-game: Sol Moonarge (Japan)
+game: ソル・モナージュ
+sort_title: そるもなーじゅ
 file: Sol Moonarge (Japan).chd
 publisher: アイレム
 description:
   アイレムより1994年1月7日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。アイレム刊行ファンクラブ会報『ドラゴンフライ』で一般ユーザーから募集したアイデアを元に製作されたゲーム作品。主人公の剣士「ソレイユ」を操作し、国宝の太陽の剣を持ち出したまま行方不明となった予言者サージを捜し出す事が目的。フィールドには昼夜の概念があり、時間の経過とともに変化する。
 
-game: Solid Force (Japan)
+game: ソリッドフォース
+sort_title: そりっどふぉーす
 file: Solid Force (Japan).chd
 publisher: NEC
 description:
   NECより1995年3月17日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された戦略シミュレーションゲーム。22世紀の世界が舞台となる。主人公のショウは特殊工作部隊マーズの隊員で、国家機関などで機密になっている依頼をこなしていく。各ミッションには戦略的な要素に加え、パズル的な要素がふんだんに盛り込まれている。7つの任務をすべて達成すると、ボーナスステージでプレイする事ができる。
 
-game: Sorcerian (Japan)
+game: ソーサリアン
+sort_title: そーさりあん
 file: Sorcerian (Japan).chd
 publisher: ビクター
 description:
   ビクターより1992年7月17日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。パソコンからの参入作で、『ドラゴンスレイヤー』シリーズの第五弾。多岐に渡るシナリオのクリアや、アイテムの収集、魔法の作成を通し、自分の作ったキャラクターの成長と活躍を楽しむ自由度の高いゲームとなっている。PCエンジン版では全10シナリオ中、3つがオリジナルシナリオとなる。
 
-game: Sotsugyou - Graduation (Japan)
+game: 卒業 グラデュエーション
+sort_title: そつぎょう1
 files:
   Sotsugyou - Graduation (Japan).chd
   Sotsugyou - Graduation (Japan) (Rev 1).chd
@@ -2132,25 +2426,29 @@ publisher: NEC
 description:
   NECより1993年7月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。清華女子高校3年B組の担任教師となったプレイヤーが、5人の生徒を指導していくゲーム作品。彼女たちの評価パラメータを放課後に行われる課題でアップさせ、それに応じた進路へと導いていく。休日には様々なイベントが発生する。また、育成結果によって生徒の進路が変わり、エンディングも変化する。
 
-game: Sotsugyou II - Neo Generation (Japan)
+game: 卒業II ネオジェネレーション
+sort_title: そつぎょう2
 file: Sotsugyou II - Neo Generation (Japan).chd
 publisher: NEC
 description:
   NECより1994年12月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。私立高校・清華女子高校に赴任した新任教師となって5人の問題児を1年間指導する『卒業』シリーズ第2弾。平日は課題を与えて学力や体力などの能力をアップさせ、休日には様々なイベントが発生。生徒同士の相性を考慮して席順を決めることで、能力の伸びに変化が生じるなどの新要素も用意されている。
 
-game: Sotsugyou Shashin - Miki (Japan)
+game: 卒業写真 美姫
+sort_title: そつぎょうしゃしんみき
 file: Sotsugyou Shashin - Miki (Japan).chd
 publisher: ココナッツジャパン
 description:
   ココナッツジャパンより1994年10月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作品。終わった恋に決着を付ける『卒業写真』と、過去にタイムスリップして悲劇を変える『美姫』、それぞれ独立したアドベンチャーを1本に収録してある。卒業前の切ない恋心が共通のテーマとなっている。『卒業写真』はアレンジされ、マルチシナリオが採用されている。
 
-game: Space Adventure Cobra - Kokuryuuou no Densetsu (Japan)
+game: コブラ 黒竜王の伝説
+sort_title: こぶら1こくりゅうおうのでんせつ
 file: Space Adventure Cobra - Kokuryuuou no Densetsu (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1989年3月30日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。寺沢武一の漫画作品『コブラ』を原作としたゲーム作品となる。主人公「コブラ」を操作し、観光宇宙船クイーン・ラブ号を舞台に宝物を盗み出すために黒竜王との闘いに挑むことを目的としている。大量のグラフィックやアニメーション処理、声優の起用した演出より、ストーリーを楽しませることを主眼にしている。
 
-game: Space Adventure Cobra II - Densetsu no Otoko (Japan)
+game: コブラII 伝説の男
+sort_title: こぶら2でんせつのおとこ
 file: Space Adventure Cobra II - Densetsu no Otoko (Japan).chd
 publisher: ハドソン
 description:
@@ -2168,40 +2466,46 @@ publisher: NEC
 description:
   NECより1991年6月28日にPCエンジンのCD-ROM2専用ソフトとして発売されたパズルゲーム。プレイヤーは「オストリッチ」というダチョウのような生物を操作する。くちばしで橋をつつき、追いかけてくる敵を水中に落とせばステージクリアとなる。敵はそれぞれのキャラクターによって特徴的な動きをする為、動きを先読みすることが攻略に必要な要素となる。
 
-game: Splash Lake (USA)
-file: Splash Lake (USA).chd
+#game: Splash Lake (USA)
+#file: Splash Lake (USA).chd
 
-game: Spriggan Mark 2 - Re Terraform Project (Japan)
+game: スプリガン マーク2 リ・テラフォーム・プロジェクト
+sort_title: すぷりがんまーく2りてらふぉーむぷろじぇくと
 file: Spriggan Mark 2 - Re Terraform Project (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1992年5月1日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。『精霊戦士スプリガン』の続編。主人公の「グレッグ」を操作し、人類の火星への移住計画によって引き起こされた「地球」対「火星」の戦争を阻止する事を目的としている。ゲームシステムは前作と大きく異なり、前作が縦スクロールであったのに対し、本作では横スクロールとなっている。
 
-game: Star Breaker (Japan)
+game: スターブレイカー
+sort_title: すたーぶれいかー
 file: Star Breaker (Japan).chd
 publisher: レイ・フォース
 description:
   レイ・フォースより1994年2月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。戦闘機「ペガサス」が謎の攻撃により未知の惑星に不時着、主人公「ハリー」が戦闘機の修理に必要な部品を捜す事から冒険が始まる。地上での戦闘と宇宙空間での戦闘の2種類のシステムがある。戦闘シーンでは属性が重視されており、敵の属性に合わせて戦い方を変更する事を特徴としている。
 
-game: Star Mobile (Japan)
+game: スターモビール
+sort_title: すたーもびーる
 file: Star Mobile (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1992年10月2日にPCエンジンのCD-ROM2専用ソフトとして発売されたパズルゲーム。画面の上方から落ちてくる星を大小の天びんで受け止めて進めていくゲームとなる。矢印で星を詰める天びんを指定していく。大きな天びんは4段階まで、小さな天びんは2段階まで傾けることができるが、それ以上傾くと1ミスをとられてしまう。
 
-game: Star Parodier (Japan)
+game: スターパロジャー
+sort_title: すたーぱろじゃー
 file: Star Parodier (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年4月24日にPCエンジン『スーパースターソルジャー』ソフトとして発売された縦スクロールシューティングゲーム。プレイヤーは自機である「パロシーザー」もしくは「ボンバーマン」、「PCエンジン」を操作し、惑星パロソンを救出する事が目的となる。ハドソン作品のキャラクターが登場する他、パロディやデフォルメによる演出を特徴としている。『スーパースターソルジャー』のゲーム性を踏襲している。
 
-game: Startling Odyssey (Japan)
+game: スタートリング・オデッセイ
+sort_title: すたーとりんぐおでっせい1
 file: Startling Odyssey (Japan).chd
 publisher: レイ・フォース
 description:
   レイ・フォースより1993年10月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。「ミリアムガルド」という架空の世界を舞台に壮大なファンタジーが展開する。イベントのスムーズな展開を重視した親切なシステムが特徴となっている。また、ゲームミュージックは「宇宙戦艦ヤマト」の音楽を手がけた宮川泰氏が担当している。
 
-game: Startling Odyssey II - Maryuu Sensou (Japan)
+game: スタートリング・オデッセイII 魔竜戦争
+sort_title: すたーとりんぐおでっせい2
 files:
   Startling Odyssey II - Maryuu Sensou (Japan).chd
   Startling Odyssey II - Maryuu Sensou (Japan) (Demo).chd
@@ -2209,13 +2513,15 @@ publisher: レイ・フォース
 description:
   レイ・フォースより1994年10月21日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『スタートリング・オデッセイ』の続編。前作と同じく、舞台は「ミリアムガルド」という架空世界。シナリオを十分楽しむためシステム自体は親切な設計となっている。本作より戦闘は斜め後方からの視点に変更となっており、敵を攻撃する時、キャラクター毎の異なるアクションを見る事ができる。
 
-game: Steam-Heart's (Japan)
+game: スチーム・ハーツ
+sort_title: すちーむはーつ
 file: Steam-Heart's (Japan).chd
 publisher: TGL
 description:
   TGLより1996年3月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。プレイヤーはゲームのスタート時に2人のキャラクターのどちらかを選択する事ができる。キャラクターはそれぞれ乗り込む戦闘機の性能が違っている。2つの戦闘機には、ブーストという急加速でピンチを回避する機能もついている。また、ステージをクリアすれば、美麗なビジュアルシーンを見る事ができる。
 
-game: Strider Hiryuu (Japan)
+game: ストライダー飛竜
+sort_title: すとらいだーひりゅう
 file: Strider Hiryuu (Japan).chd
 publisher: NEC
 description:
@@ -2239,10 +2545,11 @@ publisher: ナグザット
 description:
   ナグザットより1993年7月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。プレイヤーが操る自機は2種類のショットや、サブウェポンと呼ばれる武器を装備することができる。通常のゲームモードのほかに、タイムアタックとスコアアタックができるカーニバルモードが用意されている。本作はナグザットが開催していたゲーム大会「サマーカーニバル'93」用のソフトとなる。
 
-game: Super Air Zonk - Rockabilly-Paradise (USA)
-file: Super Air Zonk - Rockabilly-Paradise (USA).chd
+#game: Super Air Zonk - Rockabilly-Paradise (USA)
+#file: Super Air Zonk - Rockabilly-Paradise (USA).chd
 
-game: Super Albatross (Japan)
+game: スーパーアルバトロス
+sort_title: すーぱーあるばとろす
 file: Super Albatross (Japan).chd
 publisher: 日本テレネット
 description:
@@ -2251,13 +2558,15 @@ description:
 game: Super CD-ROM^2 Taiken Soft Shuu (Japan)
 file: Super CD-ROM^2 Taiken Soft Shuu (Japan).chd
 
-game: Super Daisenryaku (Japan)
+game: スーパー大戦略
+sort_title: すーぱーだいせんりゃく
 file: Super Daisenryaku (Japan).chd
 publisher: マイクロキャビン
 description:
   マイクロキャビンより1990年4月27日にPCエンジンのCD-ROM2専用ソフトとして発売された戦略シミュレーションゲーム。パソコンで人気の戦略SLG『大戦略シリーズ』のPCエンジン版となる。プレイヤーは一国の司令官となって軍の全権を握り、全世界を制覇することが目的となる。戦闘機や戦車など、ゲーム内に登場するユニットは、ほとんどが実在のものを使用している。
 
-game: Super Darius (Japan)
+game: スーパーダライアス
+sort_title: すーぱーだらいあす1
 files:
   Super Darius (Japan).chd
   Super Darius (Japan) (Alt).chd
@@ -2265,55 +2574,64 @@ publisher: NEC
 description:
   NECより1990年3月16日にPCエンジンのCD-ROM2専用ソフトとして発売されたシューティングゲーム。アーケードからの移植作品。PCエンジンへの移植にあたり、2人同時プレイのカット、ミスしてもその場で復活、一部エンディングの差し替えなど仕様が変更されている。またCD-ROMの大容量を活かし、アーケード版の原案段階で存在した26体のボスを全ステージに個別配置されているのも特徴となっている。
 
-game: Super Darius II (Japan)
+game: スーパーダライアスII
+sort_title: すーぱーだらいあす2
 file: Super Darius II (Japan).chd
 publisher: NEC
 description:
   NECより1993年12月24日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティングゲーム。アーケードからのアレンジ移植作品。『スーパーダライアス』の続編となる。ボスはすべて新しくなり、前作のボスは中ボスとして登場する。以前と同じく全28のステージ構成で、途中には分岐点が存在している。また、自機のパワーアップ方法も変更されている。
 
-game: Super Mahjong Taikai (Japan)
+game: スーパー麻雀大会
+sort_title: すーぱーまーじゃんたいかい
 file: Super Mahjong Taikai (Japan).chd
 publisher: コーエー
 description:
   コーエーより1992年12月28日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。ファミコン用として発売されたソフト『麻雀大会』の続編となる。前作に引き続き歴史上の人物と麻雀を行う内容となっている。3人のコンピュータ側のキャラクターとフリー対戦を行う「雀荘モード」や総勢22名が参加しトーナメント形式で対戦する「麻雀大会モード」などが収録されている。
 
-game: Super Raiden (Japan)
+game: スーパー雷電
+sort_title: すーぱーらいでん
 file: Super Raiden (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1992年4月2日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された縦スクロールシューティングゲーム。アーケードからの移植作。プレイヤーが操る自機は2種類のショットと3種類のミサイルを装備することが可能となる。状況に応じてボンバーを使うことで、形勢逆転を狙うこともできる。本作ではアーケード版からの移植である8ステージにPCエンジン版オリジナルの2ステージを追加されている。
 
-game: Super Real Mahjong P.V Custom (Japan)
+game: スーパーリアル麻雀P.V カスタム
+sort_title: すーぱーりあるまーじゃんP5
 file: Super Real Mahjong P.V Custom (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1995年3月3日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。アーケードからの移植作品。『スーパーリアル麻雀』シリーズの第5作。ヒロインは学園の高等部2年生の友人同士3人となる。PCエンジンへの移植にあたり、脱衣時の絵の内容などはソフトになったが、アーケード版には存在しないチームバトルモードが追加されており、ゲーム性が向上している。
 
-game: Super Real Mahjong PII-III Custom (Japan)
+game: スーパーリアル麻雀PII・III カスタム
+sort_title: すーぱーりあるまーじゃんP2+3
 file: Super Real Mahjong PII-III Custom (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1994年8月5日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。アーケード版『スーパーリアル麻雀』の2作目と3作目を移植し、カップリングしたゲーム作品となる。アーケード版の脱衣シーンにあたる箇所では下着を着せているが、可能な限りアーケード版の内容が忠実に移植されている。また、PCエンジン版ではアーケード版になかったVSモードが追加されている。
 
-game: Super Real Mahjong PIV Custom (Japan)
+game: スーパーリアル麻雀PIV カスタム
+sort_title: すーぱーりあるまーじゃんP4
 file: Super Real Mahjong PIV Custom (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年12月17日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された麻雀ゲーム。アーケードの人気作『スーパーリアル麻雀P4』の移植作。香織、悠、愛菜の3姉妹から対戦相手を選び、挑戦する。アニメーションの動きが美しく、クオリティの高いグラフィックが特徴となる。アーケード用の難易度でもプレイできるが、家庭用に遊びやすくしたモードとフリー対局モードが新たに追加されている。
 
-game: Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan)
+game: スーパーリアル麻雀スペシャル ミキ・カスミ・ショウコの思い出より
+sort_title: すーぱーりあるまーじゃんすぺしゃる
 file: Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1992年12月18日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された2人打ち麻雀ゲーム。アーケードゲーム『スーパーリアル麻雀』シリーズの2作目と3作目に登場したヒロインのミキ、カスミ、ショウコ達と、思い出の写真を賭けて勝負する。麻雀に勝利した際には脱衣ではなく彼女たちの成長の記録を見る内容になっている点が、アーケード版とPCエンジン版の違いとなっている。
 
-game: Super Schwarzschild (Japan)
+game: スーパーシュヴァルツシルト
+sort_title: すーぱーしゅう゛ぁるつしると1
 file: Super Schwarzschild (Japan).chd
 publisher: 工画堂スタジオ
 description:
   工画堂スタジオより1991年12月6日にPCエンジン用ソフトとして発売されたシミュレーションゲーム。パソコンで発売されていた架空の世界の宇宙戦争を題材にした戦略シミュレーション『シュヴァルツシルトシリーズ』からの移植作品となる。『シュヴァルツシルト2』のリメイク作品。移植にあたり、艦隊司令官の存在や戦艦のチューニング等、新要素が追加されている。CD-ROMの特性を活かしたアニメなども魅力となる。
 
-game: Super Schwarzschild 2 (Japan)
+game: スーパーシュヴァルツシルト2
+sort_title: すーぱーしゅう゛ぁるつしると2
 file: Super Schwarzschild 2 (Japan).chd
 publisher: 工画堂スタジオ
 description:
@@ -2322,28 +2640,32 @@ description:
 game: Super-CD-Demo^2 (Japan)
 file: Super-CD-Demo^2 (Japan).chd
 
-game: Sword Master (Japan)
+game: ソードマスター
+sort_title: そーどますたー
 file: Sword Master (Japan).chd
 publisher: ライトスタッフ
 description:
   ライトスタッフより1993年11月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションRPG。ゲームは村や城などでの情報収集や仲間の加入・アイテムの入手、ダンジョンでの謎解きをするRPGパートと、戦闘を行うシミュレーションパートに分かれている。基本はシミュレーションRPGとしてオーソドックスなシステムだがにユニットのロスト(死亡)を採用しているのが特徴となる。
 
-game: SydMead's TerraForming (USA)
-file: SydMead's TerraForming (USA).chd
+#game: SydMead's TerraForming (USA)
+#file: SydMead's TerraForming (USA).chd
 
-game: Sylphia (Japan)
+game: シルフィア
+sort_title: しるふぃあ
 file: Sylphia (Japan).chd
 publisher: トンキンハウス
 description:
   トンキンハウスより1993年10月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された縦スクロールシューティングゲーム。プレイヤーが操る主人公シルフィアは、メインウェポンのほかにも火、水、風、土の4種類のサブウェポンを使用できる。また、アイテムを集めることでボムも使用できる。全8ステージで構成されており、デューサやスキュラなど、ギリシャ神話のモンスターたちがボスとして登場する。
 
-game: Tadaima Yuusha Boshuu-chuu (Japan)
+game: ただいま勇者募集中
+sort_title: ただいまゆうしゃぼしゅうちゅう
 file: Tadaima Yuusha Boshuu-chuu (Japan).chd
 publisher: ヒューマン
 description:
   ヒューマンより1993年11月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたボードゲーム。RPGの要素が組み込まれたボードゲームとなり、最大4人まで同時にプレイすることが可能。プレイヤーは敵に占領された街や村を解放して、名声値を上げていきながら、次期国王の座を手に入れることが目的となる。数々のイベントを達成し、名声値の最も高い人が最終的に王座を獲得することができる。
 
-game: Taiheiki (Japan)
+game: 太平記
+sort_title: たいへいき
 file: Taiheiki (Japan).chd
 publisher: インテック
 description:
@@ -2410,67 +2732,87 @@ publisher: コナミ
 description:
   コナミより1994年5月27日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された恋愛シミュレーションゲーム。プレイヤーは架空の私立高校「きらめき高校」に入学した男子生となり、勉強、スポーツ、部活動などに取り組み主人公の能力値を高め、幼なじみで憧れのヒロイン・藤崎詩織の理想に近付け、さらにはデートを重ねて親しくなり卒業式の日に伝説の樹の下で彼女からの告白を受けることが目的となる。
 
-game: Top o Nerae! GunBuster Vol. 1 (Japan)
+game: トップをねらえ! GunBuster VOL.1
+sort_title: とっぷをねらえPCECD1
 file: Top o Nerae! GunBuster Vol. 1 (Japan).chd
 publisher: リバーヒルソフト
 description:
   リバーヒルソフトより1992年6月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。オリジナルビデオアニメ『トップをねらえ!』を題材としたゲーム作品となる。主人公である落ちこぼれパイロット候補生『タカヤノリコ』が厳しい訓練を乗り越え宇宙へ旅立っていく。ストーリーは原作に忠実に進み、ゲーム中にノンストップのアニメーションが多く使用されているのが特徴となる。
 
-game: Top o Nerae! GunBuster Vol. 2 (Japan)
+game: トップをねらえ! GunBuster VOL.2
+sort_title: とっぷをねらえPCECD2
 file: Top o Nerae! GunBuster Vol. 2 (Japan).chd
 publisher: リバーヒルソフト
 description:
   リバーヒルソフトより1993年3月26日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。オリジナルビデオアニメ『トップをねらえ!』を題材としたゲーム作品となる。原作の3・4話を収録した前作からの続編となる。宇宙での訓練を終えたノリコは、初めて宇宙怪獣と対決するが、激しい敵の攻撃にさらされる。そこでノリコは、未完の最終兵器ガンバスターで出撃する。
 
-game: Travel Eple (Japan)
+game: トラベルエプル
+sort_title: とらべるえぷる
 file: Travel Eple (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年9月4日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたコミカルアクションゲーム。プレイヤーは主人公となるペンギンのぬいぐるみを着た女の子「エプル」を操作し、1画面分のフィールドで敵と1対1で戦っていく。素手による攻撃はできないので、画面内に落ちているいろいろなアイテムを使って攻撃していくこととなる。
 
-game: Travellers! Densetsu o Buttobase (Japan)
+game: とらべらーず! 伝説をぶっとばせ
+sort_title: とらべらーずでんせつをぶっとばせ
 file: Travellers! Densetsu o Buttobase (Japan).chd
 publisher: ビクター
 description:
   ビクターより1994年12月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。剣士のウルがリーダーをつとめるトラベラーズ物語。ストーリーは全体的にコミカルな雰囲気で展開する。アニメ風のビジュアルシーンはまったく使われていないが、イベントシーンと戦闘シーンで、キャラがちょこまかと動き回るのが特徴となる。
 
-game: TV Show, The (Japan)
+game: ザ・ティーヴィーショー
+sort_title: ざてぃーう゛ぃーしょー
 file: TV Show, The (Japan).chd
 publisher: ライトスタッフ
 description:
   ライトスタッフより1995年9月29日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションゲーム。開始時に選べるキャラクターは8人。それぞれオリジナルの必殺技を使うことができる。ステージ上にある宝船を、爆弾を使うことでアイテムに変化させ、それを全て集めることができればステージクリアとなる。ステージをクリアしていくシナリオモードと、4人で対戦可能なVSモードが用意されている。
 
-game: Uchuu Senkan Yamato (Japan)
+game: 宇宙戦艦ヤマト
+sort_title: うちゅうせんかんやまと
 file: Uchuu Senkan Yamato (Japan).chd
 publisher: ヒューマン
 description:
   ヒューマンより1992年12月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。松本零士の漫画『宇宙戦艦ヤマト』を題材としたゲーム作品。ガミラス星人に侵略された地球を救うため、ヤマトがイスカンダル星へ向けて発進する。シナリオはストーリービジュアルパートとクリア条件付きのゲームパートで構成されている。本作では永井一郎によるナレーションが新録されている。
 
-game: Ultra Box 2-gou (Japan)
+game: ウルトラボックス 2号
+sort_title: うるとらぼっくす2
 file: Ultra Box 2-gou (Japan).chd
+publisher: ビクター音楽産業
 
-game: Ultra Box 3-gou (Japan)
+game: ウルトラボックス 3号
+sort_title: うるとらぼっくす3
 file: Ultra Box 3-gou (Japan).chd
+publisher: ビクター音楽産業
 
-game: Ultra Box 4-gou (Japan)
+game: ウルトラボックス 4号
+sort_title: うるとらぼっくす4
 file: Ultra Box 4-gou (Japan).chd
+publisher: ビクター音楽産業
 
-game: Ultra Box 5-gou (Japan)
+game: ウルトラボックス 5号
+sort_title: うるとらぼっくす9
 file: Ultra Box 5-gou (Japan).chd
+publisher: ビクター音楽産業
 
-game: Ultra Box 6-gou (Japan)
+game: ウルトラボックス 6号
+sort_title: うるとらぼっくす6
 file: Ultra Box 6-gou (Japan).chd
+publisher: ビクター音楽産業
 
-game: Ultra Box Soukan-gou (Japan)
+game: ウルトラボックス 創刊号
+sort_title: うるとらぼっくす1
 file: Ultra Box Soukan-gou (Japan).chd
+publisher: ビクター音楽産業
 
-game: Urusei Yatsura - Stay with You (Japan)
+game: うる星やつら STAY WITH YOU
+sort_title: うるせえやつらすていうぃずゆー
 file: Urusei Yatsura - Stay with You (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1990年6月29日にPCエンジンのCD-ROM2専用ソフトとして発売されたコマンド選択式のアドベンチャーゲーム。高橋留美子原作の人気アニメ『うる星やつら』を題材としたゲーム作品。ゲームだけの完全オリジナルストーリーではあるが、原作にある話を彷彿させるシーンや、いわゆる「お約束」シーンなどがストーリーを通して散りばめられている。また、本作ではTVアニメと同じ声優が起用されている。
 
-game: Valis II (Japan)
+game: ヴァリスII
+sort_title: う゛ぁりす2
 files:
   Valis II (Japan).chd
   Valis II (Japan) (Alt 1).chd
@@ -2479,10 +2821,11 @@ publisher: 日本テレネット
 description:
   日本テレネットより1989年6月23日にPCエンジンのCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。パソコンからの移植作品で、『夢幻戦士ヴァリス』の続編となる。主人公の女子高生「麻生優子」を操作し、ステージを進めていく。PCエンジン版ではキャラクターとストーリーの大筋を踏襲しつつ、シナリオ展開や設定が変更となっている。CD-ROMならではの豊富なビジュアルが特徴となる。
 
-game: Valis II (USA)
-file: Valis II (USA).chd
+#game: Valis II (USA)
+#file: Valis II (USA).chd
 
-game: Valis III (Japan)
+game: ヴァリスIII
+sort_title: う゛ぁりす3
 files:
   Valis III (Japan).chd
   Valis III (Japan) (Alt).chd
@@ -2490,67 +2833,77 @@ publisher: 日本テレネット
 description:
   日本テレネットより1990年9月7日にPCエンジンのCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。『ヴァリスシリーズ』の第三弾で、本作はPCエンジン版がオリジナルとなる。前作に比べ、アクションの操作性も快適になり、操作可能なキャラクターも3人の中から選択できるようになっている。また、シリーズの特徴といえるスライディングの動作も本作から導入されている。
 
-game: Valis III (USA)
-file: Valis III (USA).chd
+#game: Valis III (USA)
+#file: Valis III (USA).chd
 
-game: Valis IV (Japan)
+game: ヴァリスIV
+sort_title: う゛ぁりす4
 file: Valis IV (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1991年8月23日にPCエンジンのCD-ROM2専用ソフトとして発売された横スクロールアクションゲーム。システムは前作を継承しているが、前作で麻生優子を主人公としたシナリオが完結したため、本作では新しい主人公としてレナが登場した。プレイヤーキャラクターは3人のなかから選択できるようになっており、シナリオも一新されている。
 
-game: Vasteel (Japan)
+game: バスティール
+sort_title: ばすてぃーる1
 file: Vasteel (Japan).chd
 publisher: ヒューマン
 description:
   ヒューマンより1990年12月20日にPCエンジンのCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。血を分けた兄弟が、正規軍と革命軍に分かれて戦うというストーリーとなっている。本作は戦闘シーンにアクション要素が含まれているのが特徴となる。ストーリーを楽しむ事ができるシナリオモードのほかに、VSモードも用意されているので、2人で対戦することも可能となっている。
 
-game: Vasteel (USA)
-file: Vasteel (USA).chd
+#game: Vasteel (USA)
+#file: Vasteel (USA).chd
 
-game: Vasteel 2 (Japan)
+game: バスティール2
+sort_title: ばすてぃーる2
 file: Vasteel 2 (Japan).chd
 publisher: ヒューマン
 description:
   ヒューマンより1994年7月8日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。『バスティール』の続編となる。主人公ボイス・ナックル率いるレジスタンス対独裁者アガレスとの戦いを描いている。プレイヤーは、レジスタンスが搭乗する人型兵器ムーブクラッシャーをユニットとして操作していく。前作からの変更点として戦闘のアクション要素が撤廃されている。
 
-game: Virgin Dream (Japan)
+game: ヴァージン・ドリーム
+sort_title: う゛ぁーじんどりーむ
 file: Virgin Dream (Japan).chd
 publisher: 徳間書店
 description:
   徳間書店より1996年5月31日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。平成美少女コンテストで絵奈という少女を優勝させることが目的となる。プレイヤーは絵奈のコーチ役となって、さまざまなレッスンやアルバイトを1年間指導する。7人のライバル達とは数回行われるコンテストの予選で何度も絵奈と争うことになる。キャラクターデザインは漫画家の弓月光が担当している。
 
-game: Where in the World Is Carmen Sandiego (Japan) (En,Ja)
+game: カルメン・サンディエゴを追え! 世界編
+sort_title: かるめんさんでぃえごをおえせかいへん
 file: Where in the World Is Carmen Sandiego (Japan) (En,Ja).chd
 publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1990年3月30日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。国際窃盗団の女首領『カルメン・サンディエゴ』は、世界各地の財宝専門に盗みを働いている。世界30都市のどこかに隠れている女首領『カルメン・サンディエゴ』を逮捕することがゲームの目的となる。主人公は探偵になったばかりという設定で、世界各国を飛び回って悪の組織を追いかける。
 
-game: Winds of Thunder (Japan)
+game: ウィンズ オブ サンダー
+sort_title: うぃんずおぶさんだー
 file: Winds of Thunder (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1993年4月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。主人公の剣士「ランディー」を操作し、「ガルド帝国軍」を倒して「暗黒神」の復活を阻止する事が目的となる。各ステージ開始時にそれぞれ能力が異なる4種類ある鎧を選択し、種類によってサブショットや特性が変化する。世界観は全く異なるが『ゲート オブ サンダー』の関連作品となる。
 
-game: Wizardry I, II (Japan)
+game: ウィザードリィI・II
+sort_title: うぃざーどりぃ1+2
 file: Wizardry I, II (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年7月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。『ウィザードリィ1』と『ウィザードリィ2』をカップリング作品となる。『1』と『2』は同一のシステム上で動くようにしてあるため、2つのシナリオを自由に行き来できるのが特徴となる。また、先行して発売されたPCエンジン版『ウィザードリィ5』にデータを転送することも可能となっている。
 
-game: Wizardry III, IV (Japan)
+game: ウィザードリィIII・IV
+sort_title: うぃざーどりぃ3+4
 file: Wizardry III, IV (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1994年3月4日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。PCエンジン版『ウィザードリィ1・2』『ウィザードリィ5』と共通のシステムで動く『3』と、異なるシステムを持つ『4』をカップリングした作品となる。『3』については前2作にデータを転送してプレイすることも可能。『4』はシリーズのなかでも番外編的な色合いが強い作品となっている。
 
-game: Wizardry V - Heart of the Maelstrom (Japan)
+game: ウィザードリィV
+sort_title: うぃざーどりぃ5
 file: Wizardry V - Heart of the Maelstrom (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1992年9月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたロールプレイングゲーム。。『ウィザードリィ』シリーズの本編第5作。4つの自然の力の調和を司る大魔術師ゲートキーパーを救出し、元凶を創った魔術師を倒して世界を渾沌の渦から救うというシナリオ。時間停止空間やコールドスリープなど、SFガジェットが登場。射程の概念が追加され、後衛も、物理攻撃が可能となった。
 
-game: Wonder Boy III - Monster Lair (Japan) (Rev 3)
+game: ワンダーボーイIII モンスター・レアー
+sort_title: わんだーぼーい3もんすたーれあー
 files:
   Wonder Boy III - Monster Lair (Japan) (Rev 3).chd
   Wonder Boy III - Monster Lair (Japan) (Rev 4).chd
@@ -2558,7 +2911,8 @@ publisher: ハドソン
 description:
   ハドソンより1989年8月31日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションシューティングゲーム。『ワンダーボーイ モンスターランド』の続編。前作の主人公「ブック」の冒険が伝説となった時代が舞台。主人公の男の子「レオ」と女の子「プラプリル」を操作して、侵略者から世界を救う事を目指す。一連のシリーズ作の中でもシューティングゲームの要素が多めになっているのが特徴となっている。
 
-game: World Heroes 2 (Japan)
+game: ワールドヒーローズ2
+sort_title: わーるどひーろーず
 files:
   World Heroes 2 (Japan).chd
   World Heroes 2 (Japan) (Demo) (SACS).chd
@@ -2566,67 +2920,77 @@ publisher: ハドソン
 description:
   ハドソンより1994年6月4日にPCエンジンのアーケードカード専用ソフトとして発売された対戦格闘アクションゲーム。漫画的なキャラクターが登場する『ワールドヒーローズ』の続編となる。新システムとして「投げ返し」「跳ね返し」が追加され、他の格闘ゲームとは違う戦略が生み出されたのが特徴となる。CPUキャラクターはほぼ確実に投げ返しや跳ね返しを成功させるため、CPU戦の難易度が飛躍的に上昇している。
 
-game: Wrestle Angels - Double Impact (Japan)
+game: レッスルエンジェルス ダブルインパクト
+sort_title: れするえんじぇるすだぶるいんぱくと
 file: Wrestle Angels - Double Impact (Japan).chd
 publisher: NEC
 description:
   NECより1995年5月19日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたカードゲーム形式でバトルを行う女子プロレスゲーム。『レッスルエンジェルス』シリーズの移植で『2』の移植の「新人デビュー編」、『3』の移植の「団体経営編」、「エキシビジョンマッチ」の3つのモードを搭載。また、イベントシーンや各シリーズ最終戦の対戦相手との会話、スカウトシーン等に声優の声が収録されている。
 
-game: Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP (Japan)
+game: ファイプロ女子憧夢超女大戦 全女VSJWP
+sort_title: ふぁいぷろじょしどうむちょうじょたいせん
 file: Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP (Japan).chd
 publisher: ヒューマン
 description:
   ヒューマンより1995年2月3日にPCエンジンのアーケードカード専用ソフトとして発売された女子プロレスゲーム。「全日本女子プロレス」と「JWP女子プロレス」の2団体に公認されているゲームとなる。選手全員に必殺技が設定されており、最後にその必殺技を使って相手を倒すことができれば、その技を実写取り込みの動画で再現してくれる。CD-ROMの特長を活用したレスラー達の実際の映像やボイスが収録されている。
 
-game: Xak (Japan)
+game: サークI・II
+sort_title: さーく1+2
 file: Xak (Japan).chd
 publisher: 日本テレネット
 description:
   日本テレネットより1992年12月25日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。パソコンで人気だった『サーク』と『サーク2』を合本した移植作品。神デュエルの末裔であるラトク・カートと妖魔3将軍との戦いを描いた荘厳な世界観が魅力のゲーム作品。立体感や遠近感を表現するVRシステムを、うまくフィールドにアレンジして導入している事が特徴となる。
 
-game: Xak III - The Eternal Recurrence (Japan)
+game: サークIII ジ・エターナル・リカーレンス
+sort_title: さーく3
 file: Xak III - The Eternal Recurrence (Japan).chd
 publisher: NEC
 description:
   NECより1994年9月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。パソコンからの移植作。フィールド上でのキャラクタードットの細かな動きで物語の展開する『操演システム』が特徴となる。戦神デュエルの血をひく若き戦士ラトク・カートと、妖魔三将軍最後の生き残りゾム・ディザエの戦いを描く、サークシリーズの最終作。PCエンジン版ではキャラクターボイスが追加された。
 
-game: Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan)
+game: 山村美紗サスペンス 金盞花京絵皿殺人事件
+sort_title: やまむらみささすぺんすきんせんかきょうえざらさつじんじけん
 file: Yamamura Misa Suspense - Kinsenka Kyouezara Satsujin Jiken (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1992年3月6日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。小説家の山村美紗がシナリオを手がけたゲーム作品となる。旅行グルメ雑誌記者の小早川優子が、取材中に偶然遭遇した殺人事件の謎を追う。ゲームには山村美紗の娘である山村紅葉も声優として出演している。また狩矢警部の顔は松方弘樹に酷似したグラフィックとなっている。
 
-game: Yami no Ketsuzoku - Harukanaru Kioku (Japan)
+game: 闇の血族 遥かなる記憶
+sort_title: やみのけつぞくはるかなるきおく
 file: Yami no Ketsuzoku - Harukanaru Kioku (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1993年12月17日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。電子小説「ノベルウェア」として発売されたパソコン版『闇の血族』をアレンジ移植した作品。シナリオに同期したアニメーションが特徴となる。パソコン版では、膨大な文章を読まなければならなかったが、PCエンジン版では読ませる部分をカットし、ストーリーを音声で聞かせる工夫されている。
 
-game: YaWaRa! 2 - A Fashionable Judo Girl! (Japan)
+game: YaWaRa! 2
+sort_title: やわら2
 file: YaWaRa! 2 - A Fashionable Judo Girl! (Japan).chd
 publisher: ソフィックス
 description:
   ソフィックスより1994年9月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。浦沢直樹による漫画『YAWARA!』を題材としたゲーム作品となる。原作のソウル五輪終了後から三葉女子短大の紫陽花杯優勝までの物語が収録されており、今作では伊東富士子の視点で物語が進む。「対戦型の柔道アクションゲーム」「クイズ」「キャラクターデータベース」などオマケモードも収録。
 
-game: YaWaRa! A Fashionable Judo Girl! (Japan)
+game: YaWaRa!
+sort_title: やわら1
 file: YaWaRa! A Fashionable Judo Girl! (Japan).chd
 publisher: ソフィックス
 description:
   ソフィックスより1992年10月1日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。浦沢直樹による漫画『YAWARA!』を題材としたゲーム作品となる。コマンドを選択しながら、TVアニメを見るような感覚でストーリーを楽しめる。アニメーション処理されたグラフィックとTVアニメと同じキャストによるフルボイスで、単行本1巻から6巻までのストーリーが再現されている。
 
-game: Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan)
+game: 横山光輝 真・三国志 天下は我に
+sort_title: よこやまみつてるしんさんごくしてんかはわれに
 file: Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan).chd
 publisher: ナグザット
 description:
   ナグザットより1992年11月20日にPCエンジンのCD-ROM2専用ソフトとして発売されたシミュレーションゲーム。キャラクターデザインを漫画作品『三国志』で有名な漫画家の横山光輝氏が担当している。プレイヤーは戦乱の時代に一国の君主となり、中国全土の統一を目指す。また、本作では『三国志』の有名な戦いだけを楽しめる、バトルシナリオというゲームモードも用意されている。
 
-game: Ys Book I & II (USA)
-file: Ys Book I & II (USA).chd
+#game: Ys Book I & II (USA)
+#file: Ys Book I & II (USA).chd
 
-game: Ys Book I & II (USA) (Alt)
-file: Ys Book I & II (USA) (Alt).chd
+#game: Ys Book I & II (USA) (Alt)
+#file: Ys Book I & II (USA) (Alt).chd
 
-game: Ys I & II (Japan)
+game: イースI・II
+sort_title: いーす1+2
 files:
   Ys I & II (Japan).chd
   Ys I & II (Japan) (Alt).chd
@@ -2634,16 +2998,18 @@ publisher: ハドソン
 description:
   ハドソンより1989年12月21日にPCエンジンのCD-ROM2専用ソフトとして発売されたアクションRPG。パソコンで大人気を博した『イース1』と『イース2』の移植作品。『イース1』と『イース2』が統合されて、ひとつの作品としてアレンジされているのが特徴となる。PCエンジン版オリジナルのビジュアルシーンは、発売当時その美しさが好評で、音楽のクオリティも高かった。
 
-game: Ys III - Wanderers from Ys (USA)
-file: Ys III - Wanderers from Ys (USA).chd
+#game: Ys III - Wanderers from Ys (USA)
+#file: Ys III - Wanderers from Ys (USA).chd
 
-game: Ys III (Japan)
+game: イースIII
+sort_title: いーす3
 file: Ys III (Japan).chd
 publisher: ハドソン
 description:
   ハドソンより1991年3月22日にPCエンジン用ソフトとして発売されたアクションRPG。赤毛の剣士アドル・クリスティンが主人公の冒険ファンタジー。イース1・2におけるイースの冒険から3年ほど後の物語で、ドギの故郷フェルガナ地方において、この地に伝わる魔王ガルバランの謎に迫る。原典とされるアドルの冒険日誌は『フェルガナ冒険記』。本作ではアクション要素を前面に押し出した横スクロールARPGとなった。
 
-game: Ys IV - The Dawn of Ys (Japan) (Rev 3)
+game: イースIV The Dawn of Ys
+sort_title: いーす4
 files:
   Ys IV - The Dawn of Ys (Japan) (Rev 3).chd
   Ys IV - The Dawn of Ys (Japan) (Rev 4).chd
@@ -2651,25 +3017,29 @@ publisher: ハドソン
 description:
   ハドソンより1993年12月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアクションRPG。基本システムは『イース2』のシステムをほぼそのまま継承しており、追加システムとして伝書鳩と調合、斜め移動が可能となっている。画面下部に最大HP・MPは表示されず、現在のHP、現在のMP、現在までの取得EXP、ゴールドの各数値と、プレーヤーと敵のHPをしめす棒グラフが表示される。
 
-game: Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan)
+game: 幽☆遊☆白書 闇勝負!!暗黒武術会
+sort_title: ゆうゆうはくしょやみしょうぶあんこくぶじゅつかい
 file: Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan).chd
 publisher: バンプレスト
 description:
   バンプレストより1993年9月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された3Dシューティングゲーム。冨樫義博の人気漫画『幽☆遊☆白書』を題材とした最初のゲーム作品となる。ゲーム画面は3Dで相手と対峙することとなり、カーソルを操作し対戦相手に攻撃を撃ちこむガンシューティングゲームのようなシステムとなっている。また、各キャラクターは全てテレビアニメ版と同じ声優が演じている。
 
-game: Zan - Kagerou no Toki (Japan)
+game: 斬 陽炎の時代
+sort_title: ざんかげろうのとき
 file: Zan - Kagerou no Toki (Japan).chd
 publisher: タイトー
 description:
   タイトーより1991年12月27日にPCエンジン用ソフトとして発売されたシミュレーションゲーム。パソコンからの移植作品で、「斬」シリーズの一作目となる。プレイヤーは戦国大名となり、全国統一を目指す。本作は5人までの同時プレイが可能となっているのが特徴。シナリオは全部で7本が用意されており、中には架空のシナリオも存在する。
 
-game: Zero 4 Champ II (Japan)
+game: ゼロヨンチャンプII
+sort_title: ぜろよんちゃんぷ2
 file: Zero 4 Champ II (Japan).chd
 publisher: メディアリング
 description:
   メディアリングより1993年3月5日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたレースゲーム。ゼロヨンチャンプシリーズ第2作目で、『ゼロヨンチャンプ』の続編。主人公は前作と同一人物で、ゼロヨン日本一になった主人公が1年間チャンプの座を死守しているところから物語がスタートし、舞台も日本からアメリカに移っている。グラフィック・ボリュームなどすべての面で前作を大幅に上回っている。
 
-game: Zero Wing (Japan)
+game: ゼロウィング
+sort_title: ぜろうぃんぐ
 file: Zero Wing (Japan).chd
 publisher: ナグザット
 description:

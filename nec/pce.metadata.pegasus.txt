@@ -16,11 +16,11 @@ file: [BIOS] Games Express CD Card (Japan) (Green Version) (Unl).zip
 game: [BIOS] Super CD-ROM System (Japan) (v3.0)
 file: [BIOS] Super CD-ROM System (Japan) (v3.0).zip
 
-game: [BIOS] TurboGrafx CD Super System Card (USA) (v3.0)
-file: [BIOS] TurboGrafx CD Super System Card (USA) (v3.0).zip
+# game: [BIOS] TurboGrafx CD Super System Card (USA) (v3.0)
+# file: [BIOS] TurboGrafx CD Super System Card (USA) (v3.0).zip
 
-game: [BIOS] TurboGrafx CD System Card (USA) (v2.0)
-file: [BIOS] TurboGrafx CD System Card (USA) (v2.0).zip
+# game: [BIOS] TurboGrafx CD System Card (USA) (v2.0)
+# file: [BIOS] TurboGrafx CD System Card (USA) (v2.0).zip
 
 game: 1943 Kai (Japan)
 file: 1943 Kai (Japan).zip
@@ -34,29 +34,29 @@ file: Adventure Island (Japan).zip
 game: Aero Blasters (Japan)
 file: Aero Blasters (Japan).zip
 
-game: Aero Blasters (USA)
-file: Aero Blasters (USA).zip
+# game: Aero Blasters (USA)
+# file: Aero Blasters (USA).zip
 
 game: After Burner II (Japan)
 file: After Burner II (Japan).zip
 
-game: Air Zonk (USA, Europe) (Wii U Virtual Console)
-file: Air Zonk (USA, Europe) (Wii U Virtual Console).zip
+# game: Air Zonk (USA, Europe) (Wii U Virtual Console)
+# file: Air Zonk (USA, Europe) (Wii U Virtual Console).zip
 
-game: Air Zonk (USA)
-file: Air Zonk (USA).zip
+# game: Air Zonk (USA)
+# file: Air Zonk (USA).zip
 
 game: Alien Crush (Japan)
 file: Alien Crush (Japan).zip
 
-game: Alien Crush (USA)
-file: Alien Crush (USA).zip
+# game: Alien Crush (USA)
+# file: Alien Crush (USA).zip
 
 game: All Star Power League (Japan)
 file: All Star Power League (Japan).zip
 
-game: Andre Panza Kick Boxing (USA)
-file: Andre Panza Kick Boxing (USA).zip
+# game: Andre Panza Kick Boxing (USA)
+# file: Andre Panza Kick Boxing (USA).zip
 
 game: Ankoku Densetsu (Japan)
 file: Ankoku Densetsu (Japan).zip
@@ -82,8 +82,8 @@ file: AV Poker - World Gambler (Japan) (Unl).zip
 game: Ballistix (Japan)
 file: Ballistix (Japan).zip
 
-game: Ballistix (USA)
-file: Ballistix (USA).zip
+# game: Ballistix (USA)
+# file: Ballistix (USA).zip
 
 game: Bari Bari Densetsu (Japan)
 file: Bari Bari Densetsu (Japan).zip
@@ -100,8 +100,8 @@ file: Battle Chopper (Japan).zip
 game: Battle Lode Runner (Japan)
 file: Battle Lode Runner (Japan).zip
 
-game: Battle Royale (USA)
-file: Battle Royale (USA).zip
+# game: Battle Royale (USA)
+# file: Battle Royale (USA).zip
 
 game: Be Ball (Japan)
 file: Be Ball (Japan).zip
@@ -114,8 +114,8 @@ files:
 game: Bikkuriman World (Japan)
 file: Bikkuriman World (Japan).zip
 
-game: Blazing Lazers (USA)
-file: Blazing Lazers (USA).zip
+# game: Blazing Lazers (USA)
+# file: Blazing Lazers (USA).zip
 
 game: Blazing Lazers (World) (Wii U Virtual Console)
 file: Blazing Lazers (World) (Wii U Virtual Console).zip
@@ -123,8 +123,8 @@ file: Blazing Lazers (World) (Wii U Virtual Console).zip
 game: Blodia (Japan)
 file: Blodia (Japan).zip
 
-game: Bloody Wolf (USA)
-file: Bloody Wolf (USA).zip
+# game: Bloody Wolf (USA)
+# file: Bloody Wolf (USA).zip
 
 game: Bodycon Quest II (Japan) (Unl)
 file: Bodycon Quest II (Japan) (Unl).zip
@@ -140,11 +140,11 @@ files:
   Bomberman '93 (Japan).zip
   Bomberman '93 (Japan) (Wii U Virtual Console).zip
 
-game: Bomberman '93 (USA, Europe) (Wii U Virtual Console)
-file: Bomberman '93 (USA, Europe) (Wii U Virtual Console).zip
+# game: Bomberman '93 (USA, Europe) (Wii U Virtual Console)
+# file: Bomberman '93 (USA, Europe) (Wii U Virtual Console).zip
 
-game: Bomberman '93 (USA)
-file: Bomberman '93 (USA).zip
+# game: Bomberman '93 (USA)
+# file: Bomberman '93 (USA).zip
 
 game: Bomberman '94 (Japan)
 file: Bomberman '94 (Japan).zip
@@ -155,41 +155,41 @@ file: Bomberman '94 (World) (Wii U Virtual Console).zip
 game: Bomberman (Japan)
 file: Bomberman (Japan).zip
 
-game: Bomberman (USA)
-file: Bomberman (USA).zip
+# game: Bomberman (USA)
+# file: Bomberman (USA).zip
 
-game: Bomberman (USA) (Bomberman Collection)
-file: Bomberman (USA) (Bomberman Collection).zip
+# game: Bomberman (USA) (Bomberman Collection)
+# file: Bomberman (USA) (Bomberman Collection).zip
 
-game: Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console)
-file: Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console).zip
+# game: Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console)
+# file: Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console).zip
 
-game: Bonk 3 - Bonk's Big Adventure (USA)
-file: Bonk 3 - Bonk's Big Adventure (USA).zip
+# game: Bonk 3 - Bonk's Big Adventure (USA)
+# file: Bonk 3 - Bonk's Big Adventure (USA).zip
 
-game: Bonk's Adventure (USA, Europe) (Wii U Virtual Console)
-file: Bonk's Adventure (USA, Europe) (Wii U Virtual Console).zip
+# game: Bonk's Adventure (USA, Europe) (Wii U Virtual Console)
+# file: Bonk's Adventure (USA, Europe) (Wii U Virtual Console).zip
 
-game: Bonk's Adventure (USA)
-file: Bonk's Adventure (USA).zip
+# game: Bonk's Adventure (USA)
+# file: Bonk's Adventure (USA).zip
 
-game: Bonk's Revenge (USA, Europe) (Wii U Virtual Console)
-file: Bonk's Revenge (USA, Europe) (Wii U Virtual Console).zip
+# game: Bonk's Revenge (USA, Europe) (Wii U Virtual Console)
+# file: Bonk's Revenge (USA, Europe) (Wii U Virtual Console).zip
 
-game: Bonk's Revenge (USA, Europe) (Wii Virtual Console)
-file: Bonk's Revenge (USA, Europe) (Wii Virtual Console).zip
+# game: Bonk's Revenge (USA, Europe) (Wii Virtual Console)
+# file: Bonk's Revenge (USA, Europe) (Wii Virtual Console).zip
 
-game: Bonk's Revenge (USA)
-file: Bonk's Revenge (USA).zip
+# game: Bonk's Revenge (USA)
+# file: Bonk's Revenge (USA).zip
 
 game: Bouken Danshaku Don - The Lost Sunheart (Japan)
 file: Bouken Danshaku Don - The Lost Sunheart (Japan).zip
 
-game: Boxyboy (USA)
-file: Boxyboy (USA).zip
+# game: Boxyboy (USA)
+# file: Boxyboy (USA).zip
 
-game: Bravoman (USA)
-file: Bravoman (USA).zip
+# game: Bravoman (USA)
+# file: Bravoman (USA).zip
 
 game: Break In (Japan)
 file: Break In (Japan).zip
@@ -209,20 +209,20 @@ file: Busou Keiji - Cyber Cross (Japan).zip
 game: Cadash (Japan)
 file: Cadash (Japan).zip
 
-game: Cadash (USA)
-file: Cadash (USA).zip
+# game: Cadash (USA)
+# file: Cadash (USA).zip
 
 game: Champion Wrestler (Japan)
 file: Champion Wrestler (Japan).zip
 
-game: Champions Forever Boxing (USA)
-file: Champions Forever Boxing (USA).zip
+# game: Champions Forever Boxing (USA)
+# file: Champions Forever Boxing (USA).zip
 
-game: Chase H.Q. (USA)
-file: Chase H.Q. (USA).zip
+# game: Chase H.Q. (USA)
+# file: Chase H.Q. (USA).zip
 
-game: Chew-Man-Fu (USA)
-file: Chew-Man-Fu (USA).zip
+# game: Chew-Man-Fu (USA)
+# file: Chew-Man-Fu (USA).zip
 
 game: Chibi Maruko-chan - Quiz de Piihyara (Japan)
 file: Chibi Maruko-chan - Quiz de Piihyara (Japan).zip
@@ -230,8 +230,8 @@ file: Chibi Maruko-chan - Quiz de Piihyara (Japan).zip
 game: Chikudenya Toubei - Kubikiri Yakata Yori (Japan)
 file: Chikudenya Toubei - Kubikiri Yakata Yori (Japan).zip
 
-game: China Warrior (USA)
-file: China Warrior (USA).zip
+# game: China Warrior (USA)
+# file: China Warrior (USA).zip
 
 game: Chouzetsurinjin Bravoman (Japan)
 file: Chouzetsurinjin Bravoman (Japan).zip
@@ -248,8 +248,8 @@ file: Columns (Japan).zip
 game: Coryoon - Child of Dragon (Japan)
 file: Coryoon - Child of Dragon (Japan).zip
 
-game: Cratermaze (USA)
-file: Cratermaze (USA).zip
+# game: Cratermaze (USA)
+# file: Cratermaze (USA).zip
 
 game: Cross Wiber - Cyber Combat Police (Japan)
 file: Cross Wiber - Cyber Combat Police (Japan).zip
@@ -263,8 +263,8 @@ file: Cyber Dodge (Japan).zip
 game: Cyber Knight (Japan)
 file: Cyber Knight (Japan).zip
 
-game: Cyber-Core (USA)
-file: Cyber-Core (USA).zip
+# game: Cyber-Core (USA)
+# file: Cyber-Core (USA).zip
 
 game: Daichi-kun Crisis - Do Natural (Japan)
 file: Daichi-kun Crisis - Do Natural (Japan).zip
@@ -281,8 +281,8 @@ file: Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection).zip
 game: Darius Plus (Japan) (SG Enhanced)
 file: Darius Plus (Japan) (SG Enhanced).zip
 
-game: Darkwing Duck (USA)
-file: Darkwing Duck (USA).zip
+# game: Darkwing Duck (USA)
+# file: Darkwing Duck (USA).zip
 
 game: Davis Cup Tennis (USA)
 file: Davis Cup Tennis (USA).zip
@@ -290,14 +290,14 @@ file: Davis Cup Tennis (USA).zip
 game: Dead Moon - Getsu Sekai no Akumu (Japan)
 file: Dead Moon - Getsu Sekai no Akumu (Japan).zip
 
-game: Dead Moon (USA)
-file: Dead Moon (USA).zip
+# game: Dead Moon (USA)
+# file: Dead Moon (USA).zip
 
 game: Deep Blue - Kaitei Shinwa (Japan)
 file: Deep Blue - Kaitei Shinwa (Japan).zip
 
-game: Deep Blue (USA)
-file: Deep Blue (USA).zip
+# game: Deep Blue (USA)
+# file: Deep Blue (USA).zip
 
 game: Detana!! TwinBee (Japan)
 file: Detana!! TwinBee (Japan).zip
@@ -307,11 +307,11 @@ files:
   Devil Crash - Naxat Pinball (Japan).zip
   Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console).zip
 
-game: Devil's Crush (USA, Europe) (Wii U Virtual Console)
-file: Devil's Crush (USA, Europe) (Wii U Virtual Console).zip
+# game: Devil's Crush (USA, Europe) (Wii U Virtual Console)
+# file: Devil's Crush (USA, Europe) (Wii U Virtual Console).zip
 
-game: Devil's Crush (USA)
-file: Devil's Crush (USA).zip
+# game: Devil's Crush (USA)
+# file: Devil's Crush (USA).zip
 
 game: Die Hard (Japan)
 file: Die Hard (Japan).zip
@@ -333,11 +333,11 @@ files:
   Double Dungeons (Japan).zip
   Double Dungeons (Japan) (Wii U Virtual Console).zip
 
-game: Double Dungeons (USA, Europe) (Wii U Virtual Console)
-file: Double Dungeons (USA, Europe) (Wii U Virtual Console).zip
+# game: Double Dungeons (USA, Europe) (Wii U Virtual Console)
+# file: Double Dungeons (USA, Europe) (Wii U Virtual Console).zip
 
-game: Double Dungeons (USA)
-file: Double Dungeons (USA).zip
+# game: Double Dungeons (USA)
+# file: Double Dungeons (USA).zip
 
 game: Down Load (Japan)
 file: Down Load (Japan).zip
@@ -351,14 +351,14 @@ file: Dragon Saber (Japan).zip
 game: Dragon Spirit (Japan)
 file: Dragon Spirit (Japan).zip
 
-game: Dragon Spirit (USA)
-file: Dragon Spirit (USA).zip
+# game: Dragon Spirit (USA)
+# file: Dragon Spirit (USA).zip
 
-game: Dragon's Curse (USA)
-file: Dragon's Curse (USA).zip
+# game: Dragon's Curse (USA)
+# file: Dragon's Curse (USA).zip
 
-game: Drop Off (USA)
-file: Drop Off (USA).zip
+# game: Drop Off (USA)
+# file: Drop Off (USA).zip
 
 game: Drop Rock Hora Hora (Japan)
 file: Drop Rock Hora Hora (Japan).zip
@@ -366,11 +366,11 @@ file: Drop Rock Hora Hora (Japan).zip
 game: Dungeon Explorer (Japan)
 file: Dungeon Explorer (Japan).zip
 
-game: Dungeon Explorer (USA)
-file: Dungeon Explorer (USA).zip
+# game: Dungeon Explorer (USA)
+# file: Dungeon Explorer (USA).zip
 
-game: Dungeons & Dragons - Order of the Griffon (USA)
-file: Dungeons & Dragons - Order of the Griffon (USA).zip
+# game: Dungeons & Dragons - Order of the Griffon (USA)
+# file: Dungeons & Dragons - Order of the Griffon (USA).zip
 
 game: Energy (Japan)
 file: Energy (Japan).zip
@@ -396,16 +396,16 @@ file: F1 Circus (Japan).zip
 game: F1 Triple Battle (Japan)
 file: F1 Triple Battle (Japan).zip
 
-game: Falcon (USA)
-file: Falcon (USA).zip
+# game: Falcon (USA)
+# file: Falcon (USA).zip
 
 game: Fantasy Zone (Japan)
 files:
   Fantasy Zone (Japan).zip
   Fantasy Zone (Japan) (PC Engine Mini).zip
 
-game: Fantasy Zone (USA)
-file: Fantasy Zone (USA).zip
+# game: Fantasy Zone (USA)
+# file: Fantasy Zone (USA).zip
 
 game: Fighting Run (Japan)
 file: Fighting Run (Japan).zip
@@ -416,8 +416,8 @@ file: Final Blaster (Japan).zip
 game: Final Lap Twin (Japan)
 file: Final Lap Twin (Japan).zip
 
-game: Final Lap Twin (USA)
-file: Final Lap Twin (USA).zip
+# game: Final Lap Twin (USA)
+# file: Final Lap Twin (USA).zip
 
 game: Final Match Tennis (Japan)
 file: Final Match Tennis (Japan).zip
@@ -460,8 +460,8 @@ file: Gaia no Monshou (Japan).zip
 game: Galaga '88 (Japan)
 file: Galaga '88 (Japan).zip
 
-game: Galaga '90 (USA)
-file: Galaga '90 (USA).zip
+# game: Galaga '90 (USA)
+# file: Galaga '90 (USA).zip
 
 game: Ganbare! Golf Boys (Japan)
 file: Ganbare! Golf Boys (Japan).zip
@@ -478,8 +478,8 @@ file: Genpei Toumaden - Kan no Ni (Japan).zip
 game: Genpei Toumaden (Japan)
 file: Genpei Toumaden (Japan).zip
 
-game: Ghost Manor (USA)
-file: Ghost Manor (USA).zip
+# game: Ghost Manor (USA)
+# file: Ghost Manor (USA).zip
 
 game: Gokuraku! Chuuka Taisen (Japan)
 file: Gokuraku! Chuuka Taisen (Japan).zip
@@ -495,8 +495,8 @@ files:
 game: Gradius (World) (Wii U Virtual Console)
 file: Gradius (World) (Wii U Virtual Console).zip
 
-game: Gunboat (USA)
-file: Gunboat (USA).zip
+# game: Gunboat (USA)
+# file: Gunboat (USA).zip
 
 game: Gunhed - Special Version (Japan)
 file: Gunhed - Special Version (Japan).zip
@@ -522,8 +522,8 @@ file: Heavy Unit (Japan).zip
 game: Hisou Kihei X-SERD (Japan)
 file: Hisou Kihei X-SERD (Japan).zip
 
-game: Hit the Ice - VHL - The Official Video Hockey League (USA)
-file: Hit the Ice - VHL - The Official Video Hockey League (USA).zip
+# game: Hit the Ice - VHL - The Official Video Hockey League (USA)
+# file: Hit the Ice - VHL - The Official Video Hockey League (USA).zip
 
 game: Hit the Ice - VHL - The Video Hockey League (Japan)
 file: Hit the Ice - VHL - The Video Hockey League (Japan).zip
@@ -537,11 +537,11 @@ file: Idol Hanafuda Fan Club (Japan) (Unl).zip
 game: ImageFight (Japan)
 file: ImageFight (Japan).zip
 
-game: Impossamole (USA)
-file: Impossamole (USA).zip
+# game: Impossamole (USA)
+# file: Impossamole (USA).zip
 
-game: J.J. & Jeff (USA)
-file: J.J. & Jeff (USA).zip
+# game: J.J. & Jeff (USA)
+# file: J.J. & Jeff (USA).zip
 
 game: J.League Greatest Eleven (Japan)
 file: J.League Greatest Eleven (Japan).zip
@@ -549,14 +549,14 @@ file: J.League Greatest Eleven (Japan).zip
 game: Jack Nicklaus - Championship Golf (Japan)
 file: Jack Nicklaus - Championship Golf (Japan).zip
 
-game: Jack Nicklaus' Turbo Golf (USA)
-file: Jack Nicklaus' Turbo Golf (USA).zip
+# game: Jack Nicklaus' Turbo Golf (USA)
+# file: Jack Nicklaus' Turbo Golf (USA).zip
 
 game: Jackie Chan (Japan)
 file: Jackie Chan (Japan).zip
 
-game: Jackie Chan's Action Kung Fu (USA)
-file: Jackie Chan's Action Kung Fu (USA).zip
+# game: Jackie Chan's Action Kung Fu (USA)
+# file: Jackie Chan's Action Kung Fu (USA).zip
 
 game: Jaseiken Necromancer (Japan)
 files:
@@ -587,8 +587,8 @@ file: Kato-chan Ken-chan (Japan).zip
 game: Kattobi! Takuhai-kun (Japan)
 file: Kattobi! Takuhai-kun (Japan).zip
 
-game: Keith Courage in Alpha Zones (USA)
-file: Keith Courage in Alpha Zones (USA).zip
+# game: Keith Courage in Alpha Zones (USA)
+# file: Keith Courage in Alpha Zones (USA).zip
 
 game: KickBall (Japan)
 file: KickBall (Japan).zip
@@ -599,14 +599,14 @@ file: Kiki Kaikai (Japan).zip
 game: King of Casino (Japan)
 file: King of Casino (Japan).zip
 
-game: King of Casino (USA)
-file: King of Casino (USA).zip
+# game: King of Casino (USA)
+# file: King of Casino (USA).zip
 
 game: Klax (Japan)
 file: Klax (Japan).zip
 
-game: Klax (USA)
-file: Klax (USA).zip
+# game: Klax (USA)
+# file: Klax (USA).zip
 
 game: Knight Rider Special (Japan)
 file: Knight Rider Special (Japan).zip
@@ -637,14 +637,14 @@ file: Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).zip
 game: Legend of Hero Tonma (Japan)
 file: Legend of Hero Tonma (Japan).zip
 
-game: Legend of Hero Tonma (USA)
-file: Legend of Hero Tonma (USA).zip
+# game: Legend of Hero Tonma (USA)
+# file: Legend of Hero Tonma (USA).zip
 
-game: Legendary Axe II (USA)
-file: Legendary Axe II (USA).zip
+# game: Legendary Axe II (USA)
+# file: Legendary Axe II (USA).zip
 
-game: Legendary Axe, The (USA)
-file: Legendary Axe, The (USA).zip
+# game: Legendary Axe, The (USA)
+# file: Legendary Axe, The (USA).zip
 
 game: Lode Runner - Lost Labyrinth (Japan)
 file: Lode Runner - Lost Labyrinth (Japan).zip
@@ -655,8 +655,8 @@ file: Maerchen Maze (Japan).zip
 game: Magical Chase (Japan)
 file: Magical Chase (Japan).zip
 
-game: Magical Chase (USA)
-file: Magical Chase (USA).zip
+# game: Magical Chase (USA)
+# file: Magical Chase (USA).zip
 
 game: Mahjong Gakuen - Touma Soushirou Toujou (Japan)
 file: Mahjong Gakuen - Touma Soushirou Toujou (Japan).zip
@@ -697,8 +697,8 @@ file: Mesopotamia (Japan).zip
 game: Metal Stoker (Japan)
 file: Metal Stoker (Japan).zip
 
-game: Military Madness (USA)
-file: Military Madness (USA).zip
+# game: Military Madness (USA)
+# file: Military Madness (USA).zip
 
 game: Mizubaku Daibouken (Japan)
 file: Mizubaku Daibouken (Japan).zip
@@ -724,8 +724,8 @@ file: Morita Shougi PC (Japan).zip
 game: Moto Roader (Japan)
 file: Moto Roader (Japan).zip
 
-game: Moto Roader (USA)
-file: Moto Roader (USA).zip
+# game: Moto Roader (USA)
+# file: Moto Roader (USA).zip
 
 game: Moto Roader II (Japan)
 file: Moto Roader II (Japan).zip
@@ -759,28 +759,28 @@ files:
   Neutopia (Japan).zip
   Neutopia (Japan) (Wii U Virtual Console).zip
 
-game: Neutopia (USA, Europe) (Wii U Virtual Console)
-file: Neutopia (USA, Europe) (Wii U Virtual Console).zip
+# game: Neutopia (USA, Europe) (Wii U Virtual Console)
+# file: Neutopia (USA, Europe) (Wii U Virtual Console).zip
 
-game: Neutopia (USA)
-file: Neutopia (USA).zip
+# game: Neutopia (USA)
+# file: Neutopia (USA).zip
 
 game: Neutopia II (Japan)
 files:
   Neutopia II (Japan).zip
   Neutopia II (Japan) (Wii U Virtual Console).zip
 
-game: Neutopia II (USA, Europe) (Wii U Virtual Console)
-file: Neutopia II (USA, Europe) (Wii U Virtual Console).zip
+# game: Neutopia II (USA, Europe) (Wii U Virtual Console)
+# file: Neutopia II (USA, Europe) (Wii U Virtual Console).zip
 
-game: Neutopia II (USA)
-file: Neutopia II (USA).zip
+# game: Neutopia II (USA)
+# file: Neutopia II (USA).zip
 
-game: New Adventure Island (USA, Europe) (Wii U Virtual Console)
-file: New Adventure Island (USA, Europe) (Wii U Virtual Console).zip
+# game: New Adventure Island (USA, Europe) (Wii U Virtual Console)
+# file: New Adventure Island (USA, Europe) (Wii U Virtual Console).zip
 
-game: New Adventure Island (USA)
-file: New Adventure Island (USA).zip
+# game: New Adventure Island (USA)
+# file: New Adventure Island (USA).zip
 
 game: NewZealand Story, The (Japan)
 file: NewZealand Story, The (Japan).zip
@@ -788,8 +788,8 @@ file: NewZealand Story, The (Japan).zip
 game: NHK Taiga Drama - Taiheiki (Japan)
 file: NHK Taiga Drama - Taiheiki (Japan).zip
 
-game: Night Creatures (USA)
-file: Night Creatures (USA).zip
+# game: Night Creatures (USA)
+# file: Night Creatures (USA).zip
 
 game: Niko Niko Pun (Japan)
 file: Niko Niko Pun (Japan).zip
@@ -797,11 +797,11 @@ file: Niko Niko Pun (Japan).zip
 game: Ninja Ryuukenden (Japan)
 file: Ninja Ryuukenden (Japan).zip
 
-game: Ninja Spirit (USA, Europe) (Wii U Virtual Console)
-file: Ninja Spirit (USA, Europe) (Wii U Virtual Console).zip
+# game: Ninja Spirit (USA, Europe) (Wii U Virtual Console)
+# file: Ninja Spirit (USA, Europe) (Wii U Virtual Console).zip
 
-game: Ninja Spirit (USA)
-file: Ninja Spirit (USA).zip
+# game: Ninja Spirit (USA)
+# file: Ninja Spirit (USA).zip
 
 game: Ninja Warriors, The (Japan)
 file: Ninja Warriors, The (Japan).zip
@@ -809,8 +809,8 @@ file: Ninja Warriors, The (Japan).zip
 game: Obocchama-kun (Japan)
 file: Obocchama-kun (Japan).zip
 
-game: Off the Wall (USA) (Proto)
-file: Off the Wall (USA) (Proto).zip
+# game: Off the Wall (USA) (Proto)
+# file: Off the Wall (USA) (Proto).zip
 
 game: Operation Wolf (Japan)
 file: Operation Wolf (Japan).zip
@@ -818,8 +818,8 @@ file: Operation Wolf (Japan).zip
 game: Ordyne (Japan)
 file: Ordyne (Japan).zip
 
-game: Ordyne (USA)
-file: Ordyne (USA).zip
+# game: Ordyne (USA)
+# file: Ordyne (USA).zip
 
 game: Out Live (Japan)
 file: Out Live (Japan).zip
@@ -836,8 +836,8 @@ file: P-47 - The Freedom Fighter (Japan).zip
 game: Pac-Land (Japan)
 file: Pac-Land (Japan).zip
 
-game: Pac-Land (USA)
-file: Pac-Land (USA).zip
+# game: Pac-Land (USA)
+# file: Pac-Land (USA).zip
 
 game: Pachio-kun - Juuban Shoubu (Japan)
 file: Pachio-kun - Juuban Shoubu (Japan).zip
@@ -848,8 +848,8 @@ file: Paranoia (Japan).zip
 game: Parasol Stars - The Story of Bubble Bobble III (Japan)
 file: Parasol Stars - The Story of Bubble Bobble III (Japan).zip
 
-game: Parasol Stars - The Story of Bubble Bobble III (USA)
-file: Parasol Stars - The Story of Bubble Bobble III (USA).zip
+# game: Parasol Stars - The Story of Bubble Bobble III (USA)
+# file: Parasol Stars - The Story of Bubble Bobble III (USA).zip
 
 game: Parodius Da! - Shinwa kara Owarai e (Japan)
 file: Parodius Da! - Shinwa kara Owarai e (Japan).zip
@@ -895,8 +895,8 @@ file: Power Gate (Japan).zip
 game: Power Golf (Japan)
 file: Power Golf (Japan).zip
 
-game: Power Golf (USA)
-file: Power Golf (USA).zip
+# game: Power Golf (USA)
+# file: Power Golf (USA).zip
 
 game: Power League '93 (Japan)
 file: Power League '93 (Japan).zip
@@ -936,8 +936,8 @@ file: Pro Yakyuu World Stadium (Japan).zip
 game: Psycho Chaser (Japan)
 file: Psycho Chaser (Japan).zip
 
-game: Psychosis (USA)
-file: Psychosis (USA).zip
+# game: Psychosis (USA)
+# file: Psychosis (USA).zip
 
 game: Puzzle Boy (Japan)
 file: Puzzle Boy (Japan).zip
@@ -948,8 +948,8 @@ file: Puzznic (Japan).zip
 game: Quiz Toukou Shashin (Japan) (Unl)
 file: Quiz Toukou Shashin (Japan) (Unl).zip
 
-game: R-Type (USA)
-file: R-Type (USA).zip
+# game: R-Type (USA)
+# file: R-Type (USA).zip
 
 game: R-Type I (Japan)
 file: R-Type I (Japan).zip
@@ -969,8 +969,8 @@ file: Racing Damashii (Japan).zip
 game: Raiden (Japan)
 file: Raiden (Japan).zip
 
-game: Raiden (USA)
-file: Raiden (USA).zip
+# game: Raiden (USA)
+# file: Raiden (USA).zip
 
 game: Rastan Saga II (Japan)
 file: Rastan Saga II (Japan).zip
@@ -1000,8 +1000,8 @@ files:
 game: Salamander (World) (Wii U Virtual Console)
 file: Salamander (World) (Wii U Virtual Console).zip
 
-game: Samurai-Ghost (USA)
-file: Samurai-Ghost (USA).zip
+# game: Samurai-Ghost (USA)
+# file: Samurai-Ghost (USA).zip
 
 game: Sekigahara (Japan)
 file: Sekigahara (Japan).zip
@@ -1018,8 +1018,8 @@ file: Shinobi (Japan).zip
 game: Shiryou Sensen - War of the Dead (Japan)
 file: Shiryou Sensen - War of the Dead (Japan).zip
 
-game: Shockman (USA)
-file: Shockman (USA).zip
+# game: Shockman (USA)
+# file: Shockman (USA).zip
 
 game: Shougi Shodan Icchokusen (Japan)
 file: Shougi Shodan Icchokusen (Japan).zip
@@ -1030,20 +1030,20 @@ file: Shougi Shoshinsha Muyou (Japan).zip
 game: SideArms - Hyper Dyne (Japan)
 file: SideArms - Hyper Dyne (Japan).zip
 
-game: SideArms (USA)
-file: SideArms (USA).zip
+# game: SideArms (USA)
+# file: SideArms (USA).zip
 
 game: Silent Debuggers (Japan)
 file: Silent Debuggers (Japan).zip
 
-game: Silent Debuggers (USA)
-file: Silent Debuggers (USA).zip
+# game: Silent Debuggers (USA)
+# file: Silent Debuggers (USA).zip
 
 game: Sindibad - Chitei no Daimakyuu (Japan)
 file: Sindibad - Chitei no Daimakyuu (Japan).zip
 
-game: Sinistron (USA)
-file: Sinistron (USA).zip
+# game: Sinistron (USA)
+# file: Sinistron (USA).zip
 
 game: Skweek (Japan)
 file: Skweek (Japan).zip
@@ -1056,20 +1056,20 @@ files:
   Soldier Blade (Japan).zip
   Soldier Blade (Japan) (Wii U Virtual Console).zip
 
-game: Soldier Blade (USA, Europe) (Wii U Virtual Console)
-file: Soldier Blade (USA, Europe) (Wii U Virtual Console).zip
+# game: Soldier Blade (USA, Europe) (Wii U Virtual Console)
+# file: Soldier Blade (USA, Europe) (Wii U Virtual Console).zip
 
-game: Soldier Blade (USA)
-file: Soldier Blade (USA).zip
+# game: Soldier Blade (USA)
+# file: Soldier Blade (USA).zip
 
-game: Somer Assault (USA)
-file: Somer Assault (USA).zip
+# game: Somer Assault (USA)
+# file: Somer Assault (USA).zip
 
 game: Son Son II (Japan)
 file: Son Son II (Japan).zip
 
-game: Sonic Spike - World Championship Beach Volleyball (USA)
-file: Sonic Spike - World Championship Beach Volleyball (USA).zip
+# game: Sonic Spike - World Championship Beach Volleyball (USA)
+# file: Sonic Spike - World Championship Beach Volleyball (USA).zip
 
 game: Soukoban World (Japan)
 file: Soukoban World (Japan).zip
@@ -1077,8 +1077,8 @@ file: Soukoban World (Japan).zip
 game: Space Harrier (Japan)
 file: Space Harrier (Japan).zip
 
-game: Space Harrier (USA)
-file: Space Harrier (USA).zip
+# game: Space Harrier (USA)
+# file: Space Harrier (USA).zip
 
 game: Space Invaders - Fukkatsu no Hi (Japan)
 file: Space Invaders - Fukkatsu no Hi (Japan).zip
@@ -1092,8 +1092,8 @@ file: Spiral Wave (Japan).zip
 game: Splatterhouse (Japan) (En)
 file: Splatterhouse (Japan) (En).zip
 
-game: Splatterhouse (USA)
-file: Splatterhouse (USA).zip
+# game: Splatterhouse (USA)
+# file: Splatterhouse (USA).zip
 
 game: Stratego (Japan)
 file: Stratego (Japan).zip
@@ -1120,17 +1120,17 @@ files:
   Super Star Soldier (Japan).zip
   Super Star Soldier (Japan) (Wii U Virtual Console).zip
 
-game: Super Star Soldier (USA, Europe) (Wii U Virtual Console)
-file: Super Star Soldier (USA, Europe) (Wii U Virtual Console).zip
+# game: Super Star Soldier (USA, Europe) (Wii U Virtual Console)
+# file: Super Star Soldier (USA, Europe) (Wii U Virtual Console).zip
 
-game: Super Star Soldier (USA)
-file: Super Star Soldier (USA).zip
+# game: Super Star Soldier (USA)
+# file: Super Star Soldier (USA).zip
 
 game: Super Volley Ball (Japan)
 file: Super Volley Ball (Japan).zip
 
-game: Super Volleyball (USA)
-file: Super Volleyball (USA).zip
+# game: Super Volleyball (USA)
+# file: Super Volleyball (USA).zip
 
 game: Susanoou Densetsu (Japan)
 file: Susanoou Densetsu (Japan).zip
@@ -1146,11 +1146,11 @@ files:
 game: Takeda Shingen (Japan)
 file: Takeda Shingen (Japan).zip
 
-game: Takin' It to the Hoop (USA)
-file: Takin' It to the Hoop (USA).zip
+# game: Takin' It to the Hoop (USA)
+# file: Takin' It to the Hoop (USA).zip
 
-game: TaleSpin (USA)
-file: TaleSpin (USA).zip
+# game: TaleSpin (USA)
+# file: TaleSpin (USA).zip
 
 game: Tatsujin (Japan)
 file: Tatsujin (Japan).zip
@@ -1173,17 +1173,17 @@ file: Terra Cresta II - Mandoler no Gyakushuu (Japan).zip
 game: Thunder Blade (Japan)
 file: Thunder Blade (Japan).zip
 
-game: Tiger Road (USA)
-file: Tiger Road (USA).zip
+# game: Tiger Road (USA)
+# file: Tiger Road (USA).zip
 
-game: Time Cruise (USA)
-file: Time Cruise (USA).zip
+# game: Time Cruise (USA)
+# file: Time Cruise (USA).zip
 
 game: Time Cruise II (Japan)
 file: Time Cruise II (Japan).zip
 
-game: Timeball (USA)
-file: Timeball (USA).zip
+# game: Timeball (USA)
+# file: Timeball (USA).zip
 
 game: Titan (Japan)
 file: Titan (Japan).zip
@@ -1203,8 +1203,8 @@ file: Toy Shop Boys (Japan).zip
 game: Tricky (Japan)
 file: Tricky (Japan).zip
 
-game: Tricky Kick (USA)
-file: Tricky Kick (USA).zip
+# game: Tricky Kick (USA)
+# file: Tricky Kick (USA).zip
 
 game: Tsuppari Oozumou - Heisei Ban (Japan)
 file: Tsuppari Oozumou - Heisei Ban (Japan).zip
@@ -1212,29 +1212,29 @@ file: Tsuppari Oozumou - Heisei Ban (Japan).zip
 game: Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)
 file: Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).zip
 
-game: Turrican (USA)
-file: Turrican (USA).zip
+# game: Turrican (USA)
+# file: Turrican (USA).zip
 
-game: TV Sports Baseball (USA) (Proto)
-file: TV Sports Baseball (USA) (Proto).zip
+# game: TV Sports Baseball (USA) (Proto)
+# file: TV Sports Baseball (USA) (Proto).zip
 
 game: TV Sports Basketball (Japan)
 file: TV Sports Basketball (Japan).zip
 
-game: TV Sports Basketball (USA)
-file: TV Sports Basketball (USA).zip
+# game: TV Sports Basketball (USA)
+# file: TV Sports Basketball (USA).zip
 
 game: TV Sports Football (Japan)
 file: TV Sports Football (Japan).zip
 
-game: TV Sports Football (USA)
-file: TV Sports Football (USA).zip
+# game: TV Sports Football (USA)
+# file: TV Sports Football (USA).zip
 
 game: TV Sports Hockey (Japan)
 file: TV Sports Hockey (Japan).zip
 
-game: TV Sports Hockey (USA)
-file: TV Sports Hockey (USA).zip
+# game: TV Sports Hockey (USA)
+# file: TV Sports Hockey (USA).zip
 
 game: USA Pro Basketball (Japan)
 file: USA Pro Basketball (Japan).zip
@@ -1245,25 +1245,25 @@ file: Valkyrie no Densetsu (Japan).zip
 game: Veigues - Tactical Gladiator (Japan)
 file: Veigues - Tactical Gladiator (Japan).zip
 
-game: Veigues - Tactical Gladiator (USA)
-file: Veigues - Tactical Gladiator (USA).zip
+# game: Veigues - Tactical Gladiator (USA)
+# file: Veigues - Tactical Gladiator (USA).zip
 
 game: Victory Run - Eikou no 13,000km (Japan)
 files:
   Victory Run - Eikou no 13,000km (Japan).zip
   Victory Run - Eikou no 13,000km (Japan) (Wii U Virtual Console).zip
 
-game: Victory Run (USA, Europe) (Wii U Virtual Console)
-file: Victory Run (USA, Europe) (Wii U Virtual Console).zip
+# game: Victory Run (USA, Europe) (Wii U Virtual Console)
+# file: Victory Run (USA, Europe) (Wii U Virtual Console).zip
 
-game: Victory Run (USA)
-file: Victory Run (USA).zip
+# game: Victory Run (USA)
+# file: Victory Run (USA).zip
 
 game: Vigilante (Japan)
 file: Vigilante (Japan).zip
 
-game: Vigilante (USA)
-file: Vigilante (USA).zip
+# game: Vigilante (USA)
+# file: Vigilante (USA).zip
 
 game: Violent Soldier (Japan)
 file: Violent Soldier (Japan).zip
@@ -1294,29 +1294,29 @@ file: World Beach Volley (Japan).zip
 game: World Circuit (Japan)
 file: World Circuit (Japan).zip
 
-game: World Class Baseball (USA, Europe) (Wii Virtual Console)
-file: World Class Baseball (USA, Europe) (Wii Virtual Console).zip
+# game: World Class Baseball (USA, Europe) (Wii Virtual Console)
+# file: World Class Baseball (USA, Europe) (Wii Virtual Console).zip
 
-game: World Class Baseball (USA)
-file: World Class Baseball (USA).zip
+# game: World Class Baseball (USA)
+# file: World Class Baseball (USA).zip
 
-game: World Court Tennis (USA)
-file: World Court Tennis (USA).zip
+# game: World Court Tennis (USA)
+# file: World Court Tennis (USA).zip
 
 game: World Jockey (Japan)
 file: World Jockey (Japan).zip
 
-game: World Sports Competition (USA, Europe) (Wii U Virtual Console)
-file: World Sports Competition (USA, Europe) (Wii U Virtual Console).zip
+# game: World Sports Competition (USA, Europe) (Wii U Virtual Console)
+# file: World Sports Competition (USA, Europe) (Wii U Virtual Console).zip
 
-game: World Sports Competition (USA)
-file: World Sports Competition (USA).zip
+# game: World Sports Competition (USA)
+# file: World Sports Competition (USA).zip
 
 game: Xevious - Fardraut Saga (Japan)
 file: Xevious - Fardraut Saga (Japan).zip
 
-game: Yo, Bro (USA)
-file: Yo, Bro (USA).zip
+# game: Yo, Bro (USA)
+# file: Yo, Bro (USA).zip
 
 game: You-You Jinsei (Japan)
 file: You-You Jinsei (Japan).zip

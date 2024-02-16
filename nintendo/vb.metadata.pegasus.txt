@@ -1,5 +1,5 @@
-game: 3-D Tetris (USA)
-file: 3-D Tetris (USA).zip
+#game: 3-D Tetris (USA)
+#file: 3-D Tetris (USA).zip
 
 game: Bound High (Japan) (En) (Proto)
 file: Bound High (Japan) (En) (Proto).zip
@@ -11,8 +11,8 @@ publisher: 任天堂
 description:
   果てしなく広がる宇宙空間での戦いを舞台とした4つのピンボール台を収録したソフトで、本作はピンボールというタイトルが付いているが、ボールではなくパックを使用している。各台には様々なシステムが搭載されている。本来奥行きが存在する「ピンボール台」をハードの特徴を用いて再現しているだけではなく、ゲーム的にパックが空中を飛んで立体的な仕掛けを通過すると行ったゲーム的な仕掛けもなされている。
 
-game: Golf (USA)
-file: Golf (USA).zip
+#game: Golf (USA)
+#file: Golf (USA).zip
 
 game: インスマウスの館
 sort_title: いんすまうすのやかた
@@ -21,8 +21,8 @@ publisher: アイマックス
 description:
   バーチャルボーイでアイマックスから発売されたアクションシューティングゲーム。深い闇に包まれた館の中から、制限時間内に脱出する事が目的の3Dダンジョン風のアドベンチャーシューティングゲーム。倒しても襲い来るインスマウスを倒しながら逃げていくことになる。
 
-game: Jack Bros. (USA)
-file: Jack Bros. (USA).zip
+#game: Jack Bros. (USA)
+#file: Jack Bros. (USA).zip
 
 game: ジャック・ブラザースの迷路でヒーホー!
 sort_title: じゃっくぶらざーすのめいろでひーほー
@@ -45,14 +45,14 @@ publisher: 任天堂
 description:
   1995年7月21日に任天堂から発売されたバーチャルボーイ用ソフト。開発元が異なるためシリーズには含まれないが、マリオ達がテニスをプレイする作品は本作が最初。プレイヤーキャラクターとして、『スーパーマリオカート』で登場したクッパ以外の全7人(マリオ、ルイージ、ピーチ、ヨッシー、キノピオ、ノコノコ、ドンキーコングJr.)を使用することができる。
 
-game: Nester's Funky Bowling (USA)
-file: Nester's Funky Bowling (USA).zip
+#game: Nester's Funky Bowling (USA)
+#file: Nester's Funky Bowling (USA).zip
 
 game: Niko-chan Battle (Japan) (Proto)
 file: Niko-chan Battle (Japan) (Proto).zip
 
-game: Panic Bomber (USA)
-file: Panic Bomber (USA).zip
+#game: Panic Bomber (USA)
+#file: Panic Bomber (USA).zip
 
 game: レッドアラーム
 sort_title: れっどあらーむ
@@ -61,8 +61,8 @@ publisher: T&Eソフト
 description:
   1995年7月21日にT&Eソフトよりバーチャルボーイ用ソフトとして発売された。3Dのシューティングゲームとして、上下左右通常移動・旋回は勿論のこと、シューティングでありながらゲーム中いつでもシフトチェンジによる速度調整と静止・後退や、360度視点変更が可能でまさに自由に空間を飛びまわりながら戦闘を行える。
 
-game: Red Alarm (USA)
-file: Red Alarm (USA).zip
+#game: Red Alarm (USA)
+#file: Red Alarm (USA).zip
 
 game: SDガンダム ディメンションウォー
 sort_title: えすでぃーがんだむでぃめんしょんうぉー
@@ -123,8 +123,8 @@ publisher: ハドソン
 description:
   1995年8月12日にハドソンより発売されたバーチャルボーイ用ソフト。縦スクロールタイプのシューティングゲームで画面には上空と低空の2つのラインがあり、この立体空間を行き来することで敵の砲弾を回避することができる。また、独自の思考で攻撃をサポートしてくれるAIも登場する。
 
-game: Vertical Force (USA)
-file: Vertical Force (USA).zip
+#game: Vertical Force (USA)
+#file: Vertical Force (USA).zip
 
 game: バーチャルボウリング
 sort_title: ばーちゃるぼうりんぐ
@@ -154,8 +154,8 @@ publisher: Jウイング
 description:
   1995年12月8日にJウイングから発売されたバーチャルボーイ専用ゲームソフト。画面上方から落ちてくる筒状の形をした究極生物「ミュー」を繋いでいき、キャップ状の形をしたミューを開口部に繋いでいって全て閉じることで消すことが出来る落ちものパズルゲーム。
 
-game: Virtual League Baseball (USA)
-file: Virtual League Baseball (USA).zip
+#game: Virtual League Baseball (USA)
+#file: Virtual League Baseball (USA).zip
 
 game: バーチャルプロ野球'95
 sort_title: ばーちゃるぷろやきゅう95
@@ -164,5 +164,5 @@ publisher: ケムコ
 description:
   日本野球機構から実名全12球団と選手を収録、それに加えてオリジナルの6球団の計18球団が登場する。モードは1試合コンピュータ対戦するオープン戦、3リーグの中から1チームを選んでリーグ戦を行いリーグ優勝すると3リーグの優勝チームでの総当たり戦に進出して優勝すれば日本一になれるミニペナントレース、アメリカ、ヨーロッパ、日本と国際色豊かな3リーグ選抜から1チームを選んで他と戦うオールスターがある。
 
-game: Waterworld (USA)
-file: Waterworld (USA).zip
+#game: Waterworld (USA)
+#file: Waterworld (USA).zip

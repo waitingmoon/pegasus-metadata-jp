@@ -183,6 +183,7 @@ description:
 game: 美少女雀士アイドルパイ (非公認)
 sort_title: びしょうじょじゃんしあいどるぱい
 file: Bishoujo Janshi Idol Pai (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
 game: 美少女戦士セーラームーン
 sort_title: びしょうじょせんしせーらーむーん
@@ -331,14 +332,17 @@ description:
 game: CD花札 美少女ファンクラブ (非公認)
 sort_title: しーでぃーはなふだびしょうじょふぁんくらぶ
 file: CD Hanafuda - Bishoujo Fan Club (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
 game: CD麻雀 美少女中心派 (非公認)
 sort_title: しーでぃーまーじゃんびしょうじょちゅうしんは
 file: CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
 game: CDパチスロ 美少女ギャンブラー (非公認)
 sort_title: しーでぃーぱちすろびしょうじょぎゃんぶらー
 file: CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).chd
+publisher: ハッカーインターナショナル
 
 game: チキチキボーイズ
 sort_title: ちきちきぼーいず
@@ -1682,6 +1686,7 @@ description:
   マイクロキャビンより1993年7月23日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたシューティング感覚のアクションゲーム。プレイヤーは主人公キャラクターを操作し、縦横無尽にスクロールするステージで、敵を撃ち倒していく。キャラクターの向きを固定したまま移動が可能なフィックスというシステムが特徴となっている。また、本作では2人同時プレイも可能となっている。
 
 game: 熱血高校ドッジボール部 CDサッカー編
+sort_title: ねっけつこうこうどっじぼーるぶしーでぃーさっかーへん
 file: Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan).chd
 publisher: ナグザット
 description:

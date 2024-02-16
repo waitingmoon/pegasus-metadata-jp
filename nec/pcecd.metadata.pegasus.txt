@@ -103,7 +103,7 @@ publisher: パック・イン・ビデオ
 description:
   パック・イン・ビデオより1993年12月10日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたRPG。男は「おたくちゃん」と蔑まれる時代。女神マーヤは、女神の親衛隊「オーロラ五人娘」を地球に遣わすが、彼女らは野獣を操りおたくちゃんをいじめるようになる。こうした状況に「本物の男」という物をみせるために、一人の男が旅立つ。ストーリーは本宮ひろ志、キャラクター・デザインは江口寿史が担当。
 
-game: AV誕生
+game: AV誕生 (非公認)
 sort_title: えーぶいたんじょう
 files:
   AV Tanjou (Japan) (Unl).chd
@@ -180,7 +180,7 @@ publisher: ハドソン
 description:
   ハドソンより1988年12月23日にPCエンジンのCD-ROM2ソフトとして発売されたデータベースソフト。菓子のおまけシール『ビックリマン』のキャラクターデータが収録されたソフトとなる。プレイヤーはクイズによってデータを広げていくことが可能となっている。ノーマルキャラクターは最初から見られるが、ビックリマンについてのクイズに答えないと、それ以外のキャラクターは見ることができない仕組みとなっている。
 
-game: 美少女雀士アイドルパイ
+game: 美少女雀士アイドルパイ (非公認)
 sort_title: びしょうじょじゃんしあいどるぱい
 file: Bishoujo Janshi Idol Pai (Japan) (Unl).chd
 
@@ -328,15 +328,15 @@ publisher: ハドソン
 description:
   ハドソンより1993年7月30日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売された横スクロールシューティングゲーム。『原人シリーズ』第6作目で『PC電人』の続編。CD電人「ゲンヘッド」を操作し、敵を倒しながらステージを進んでいき、待ち受けるボスを倒すことでステージクリアとなる。最終ボスであるワンタントンを倒すことが目的となる。本作からオプションの仲間との分離、合体が可能となった。
 
-game: CD花札 美少女ファンクラブ
+game: CD花札 美少女ファンクラブ (非公認)
 sort_title: しーでぃーはなふだびしょうじょふぁんくらぶ
 file: CD Hanafuda - Bishoujo Fan Club (Japan) (Unl).chd
 
-game: CD麻雀 美少女中心派
+game: CD麻雀 美少女中心派 (非公認)
 sort_title: しーでぃーまーじゃんびしょうじょちゅうしんは
 file: CD Mahjong - Bishoujo Chuushinha (Japan) (Unl).chd
 
-game: CDパチスロ 美少女ギャンブラー
+game: CDパチスロ 美少女ギャンブラー (非公認)
 sort_title: しーでぃーぱちすろびしょうじょぎゃんぶらー
 file: CD Pachi-Slot - Bishoujo Gambler (Japan) (Unl).chd
 
@@ -1019,7 +1019,7 @@ description:
 #game: Henshin Engine (USA) (Demo) (Unl)
 #file: Henshin Engine (USA) (Demo) (Unl).chd
 
-game: ハイレグファンタジー
+game: ハイレグファンタジー (非公認)
 sort_title: はいれぐふぁんたじー
 file: Hi-Leg Fantasy (Japan) (Unl).chd
 publisher: ハッカーインターナショナル
@@ -1138,7 +1138,7 @@ description:
 #game: It Came from the Desert (USA)
 #file: It Came from the Desert (USA).chd
 
-game: J・サンダー 冷たい肌は少女を濡らす
+game: J・サンダー 冷たい肌は少女を濡らす (非公認)
 sort_title: じぇいさんだーつめたいははしょうじょをぬらす
 file: J-Thunder - Tsumetai Hada wa Shoujo o Nurasu (Japan) (Unl).chd
 publisher: ハッカーインターナショナル
@@ -2341,12 +2341,12 @@ publisher: ビクター
 description:
   ビクターより1993年5月28日にPCエンジンのCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。『シャーロック・ホームズの探偵講座』の続編でシナリオが新たに用意されている。基本システムは前作のものを継承しているが、実写画像のクオリティや日本語表示といった、前作の不満点が改良されている。また、前作と同様に裁判官に対して自分の推理を話し、犯人が逮捕されれば事件解決となる。
 
-game: しあわせうさぎ
+game: しあわせうさぎ (非公認)
 sort_title: しあわせうさぎ1
 file: Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl).chd
 publisher: ハッカーインターナショナル
 
-game: しあわせうさぎII
+game: しあわせうさぎII (非公認)
 sort_title: しあわせうさぎ2
 file: Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl).chd
 publisher: ハッカーインターナショナル
@@ -2372,17 +2372,17 @@ publisher: フジコム
 description:
   フジコムより1995年9月22日にPCエンジンのスーパーCD-ROM2専用ソフトとして発売されたアドベンチャーゲーム。パソコンからの移植作品。プレイヤーは、主人公の北原となり、怨霊に取り付かれた街を30日以内に元通りにするのが目的となる。PCエンジンへの移植にあたり、怨霊が出現する部分のなめらかなモーフィング処理や、サンプリングによる効果音など、演出が大幅に改良されている。
 
-game: 真説しあわせうさぎ
+game: 真説しあわせうさぎ (非公認)
 sort_title: しんせつしあわせうさぎ1
 file: Shinsetsu Shiawase Usagi (Japan) (Unl).chd
 publisher: ハッカーインターナショナル
 
-game: 真説しあわせうさぎ2
+game: 真説しあわせうさぎ2 (非公認)
 sort_title: しんせつしあわせうさぎ2
 file: Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl).chd
 publisher: ハッカーインターナショナル
 
-game: 真説しあわせうさぎf 友情より愛欲を
+game: 真説しあわせうさぎf 友情より愛欲を (非公認)
 sort_title: しんせつしあわせうさぎf
 file: Shinsetsu Shiawase Usagi f - Yuujou yorimo Aiyoku (Japan) (Unl).chd
 publisher: ハッカーインターナショナル

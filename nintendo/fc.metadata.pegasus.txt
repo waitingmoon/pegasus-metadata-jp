@@ -139,11 +139,11 @@ file: Action 52 (USA) (Unl).zip
 game: Action in New York (Europe)
 file: Action in New York (Europe).zip
 
-game: Adam &amp; Eve (Asia) (En) (Mega Soft) (Unl)
-file: Adam &amp; Eve (Asia) (En) (Mega Soft) (Unl).zip
+game: Adam & Eve (Asia) (En) (Mega Soft) (Unl)
+file: Adam & Eve (Asia) (En) (Mega Soft) (Unl).zip
 
-game: Adam &amp; Eve (Spain) (En) (NTDEC) (Unl)
-file: Adam &amp; Eve (Spain) (En) (NTDEC) (Unl).zip
+game: Adam & Eve (Spain) (En) (NTDEC) (Unl)
+file: Adam & Eve (Spain) (En) (NTDEC) (Unl).zip
 
 game: Addams Family, The - Pugsley's Scavenger Hunt (Europe)
 file: Addams Family, The - Pugsley's Scavenger Hunt (Europe).zip
@@ -163,35 +163,35 @@ file: Addams Family, The (Europe) (En,Fr,De).zip
 game: Addams Family, The (USA)
 file: Addams Family, The (USA).zip
 
-game: Advanced Dungeons &amp; Dragons - Dragons of Flame (Japan)
-file: Advanced Dungeons &amp; Dragons - Dragons of Flame (Japan).zip
+game: Advanced Dungeons & Dragons - Dragons of Flame (Japan)
+file: Advanced Dungeons & Dragons - Dragons of Flame (Japan).zip
 
-game: Advanced Dungeons &amp; Dragons - DragonStrike (USA)
-file: Advanced Dungeons &amp; Dragons - DragonStrike (USA).zip
+game: Advanced Dungeons & Dragons - DragonStrike (USA)
+file: Advanced Dungeons & Dragons - DragonStrike (USA).zip
 
-game: Advanced Dungeons &amp; Dragons - Heroes of the Lance (Japan)
-file: Advanced Dungeons &amp; Dragons - Heroes of the Lance (Japan).zip
+game: Advanced Dungeons & Dragons - Heroes of the Lance (Japan)
+file: Advanced Dungeons & Dragons - Heroes of the Lance (Japan).zip
 
-game: Advanced Dungeons &amp; Dragons - Heroes of the Lance (USA)
-file: Advanced Dungeons &amp; Dragons - Heroes of the Lance (USA).zip
+game: Advanced Dungeons & Dragons - Heroes of the Lance (USA)
+file: Advanced Dungeons & Dragons - Heroes of the Lance (USA).zip
 
-game: Advanced Dungeons &amp; Dragons - Heroes of the Lance (USA) (Beta)
-file: Advanced Dungeons &amp; Dragons - Heroes of the Lance (USA) (Beta).zip
+game: Advanced Dungeons & Dragons - Heroes of the Lance (USA) (Beta)
+file: Advanced Dungeons & Dragons - Heroes of the Lance (USA) (Beta).zip
 
-game: Advanced Dungeons &amp; Dragons - Hillsfar (Japan)
-file: Advanced Dungeons &amp; Dragons - Hillsfar (Japan).zip
+game: Advanced Dungeons & Dragons - Hillsfar (Japan)
+file: Advanced Dungeons & Dragons - Hillsfar (Japan).zip
 
-game: Advanced Dungeons &amp; Dragons - Hillsfar (USA)
-file: Advanced Dungeons &amp; Dragons - Hillsfar (USA).zip
+game: Advanced Dungeons & Dragons - Hillsfar (USA)
+file: Advanced Dungeons & Dragons - Hillsfar (USA).zip
 
-game: Advanced Dungeons &amp; Dragons - Hillsfar (USA) (Beta)
-file: Advanced Dungeons &amp; Dragons - Hillsfar (USA) (Beta).zip
+game: Advanced Dungeons & Dragons - Hillsfar (USA) (Beta)
+file: Advanced Dungeons & Dragons - Hillsfar (USA) (Beta).zip
 
-game: Advanced Dungeons &amp; Dragons - Pool of Radiance (Japan)
-file: Advanced Dungeons &amp; Dragons - Pool of Radiance (Japan).zip
+game: Advanced Dungeons & Dragons - Pool of Radiance (Japan)
+file: Advanced Dungeons & Dragons - Pool of Radiance (Japan).zip
 
-game: Advanced Dungeons &amp; Dragons - Pool of Radiance (USA)
-file: Advanced Dungeons &amp; Dragons - Pool of Radiance (USA).zip
+game: Advanced Dungeons & Dragons - Pool of Radiance (USA)
+file: Advanced Dungeons & Dragons - Pool of Radiance (USA).zip
 
 game: Adventure Island (USA)
 file: Adventure Island (USA).zip
@@ -442,8 +442,8 @@ file: Archon (USA).zip
 game: Arctic (Japan)
 file: Arctic (Japan).zip
 
-game: Arctic Adventure - Penguin &amp; Seal (Australia) (Unl)
-file: Arctic Adventure - Penguin &amp; Seal (Australia) (Unl).zip
+game: Arctic Adventure - Penguin & Seal (Australia) (Unl)
+file: Arctic Adventure - Penguin & Seal (Australia) (Unl).zip
 
 game: Argos no Senshi - Hachamecha Daishingeki (Japan)
 file: Argos no Senshi - Hachamecha Daishingeki (Japan).zip
@@ -601,8 +601,8 @@ file: Baby Boomer (USA) (Unl).zip
 game: Back to the Future (USA)
 file: Back to the Future (USA).zip
 
-game: Back to the Future Part II &amp; III (USA)
-file: Back to the Future Part II &amp; III (USA).zip
+game: Back to the Future Part II & III (USA)
+file: Back to the Future Part II & III (USA).zip
 
 game: Bad Dudes (USA)
 file: Bad Dudes (USA).zip
@@ -823,8 +823,8 @@ file: Batman Returns (Europe) (Beta).zip
 game: Batman Returns (USA)
 file: Batman Returns (USA).zip
 
-game: Batsu &amp; Terry - Makyou no Tetsujin Race (Japan)
-file: Batsu &amp; Terry - Makyou no Tetsujin Race (Japan).zip
+game: Batsu & Terry - Makyou no Tetsujin Race (Japan)
+file: Batsu & Terry - Makyou no Tetsujin Race (Japan).zip
 
 game: Battle Baseball (Japan)
 file: Battle Baseball (Japan).zip
@@ -979,8 +979,8 @@ file: Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).zip
 game: Bikkuriman World - Gekitou Sei Senshi (Japan)
 file: Bikkuriman World - Gekitou Sei Senshi (Japan).zip
 
-game: Bill &amp; Ted's Excellent Video Game Adventure (USA)
-file: Bill &amp; Ted's Excellent Video Game Adventure (USA).zip
+game: Bill & Ted's Excellent Video Game Adventure (USA)
+file: Bill & Ted's Excellent Video Game Adventure (USA).zip
 
 game: Bill Elliott's NASCAR Challenge (USA)
 file: Bill Elliott's NASCAR Challenge (USA).zip
@@ -1240,8 +1240,8 @@ file: BurgerTime (USA).zip
 game: Business Wars (Japan)
 file: Business Wars (Japan).zip
 
-game: Buzz &amp; Waldog (USA) (Proto) (Unl)
-file: Buzz &amp; Waldog (USA) (Proto) (Unl).zip
+game: Buzz & Waldog (USA) (Proto) (Unl)
+file: Buzz & Waldog (USA) (Proto) (Unl).zip
 
 game: Cabal (USA)
 file: Cabal (USA).zip
@@ -1564,17 +1564,17 @@ file: Choujin Sentai - Jetman (Japan).zip
 game: Choujinrou Senki - Warwolf (Japan)
 file: Choujinrou Senki - Warwolf (Japan).zip
 
-game: Chris Evert &amp; Ivan Lendl in Top Players' Tennis (USA)
-file: Chris Evert &amp; Ivan Lendl in Top Players' Tennis (USA).zip
+game: Chris Evert & Ivan Lendl in Top Players' Tennis (USA)
+file: Chris Evert & Ivan Lendl in Top Players' Tennis (USA).zip
 
 game: Chu Da D (Asia) (Unl)
 file: Chu Da D (Asia) (Unl).zip
 
-game: Chu Han Zhengba - The War Between Chu &amp; Han (China) (0100396) (Unl)
-file: Chu Han Zhengba - The War Between Chu &amp; Han (China) (0100396) (Unl).zip
+game: Chu Han Zhengba - The War Between Chu & Han (China) (0100396) (Unl)
+file: Chu Han Zhengba - The War Between Chu & Han (China) (0100396) (Unl).zip
 
-game: Chu Han Zhengba - The War Between Chu &amp; Han (China) (980005) (Unl)
-file: Chu Han Zhengba - The War Between Chu &amp; Han (China) (980005) (Unl).zip
+game: Chu Han Zhengba - The War Between Chu & Han (China) (980005) (Unl)
+file: Chu Han Zhengba - The War Between Chu & Han (China) (980005) (Unl).zip
 
 game: Chu Liu Xiang - Xiang Shuai Chuanqi Zhi Xue Hai Piaoling (China) (FS005) (Unl)
 file: Chu Liu Xiang - Xiang Shuai Chuanqi Zhi Xue Hai Piaoling (China) (FS005) (Unl).zip
@@ -2503,8 +2503,8 @@ file: Dudes with Attitude (USA) (MB-91) (Unl).zip
 game: Dudes with Attitude (USA) (NINA-06) (Unl)
 file: Dudes with Attitude (USA) (NINA-06) (Unl).zip
 
-game: Dungeon &amp; Magic - Swords of Element (Japan)
-file: Dungeon &amp; Magic - Swords of Element (Japan).zip
+game: Dungeon & Magic - Swords of Element (Japan)
+file: Dungeon & Magic - Swords of Element (Japan).zip
 
 game: Dungeon Kid (Japan)
 file: Dungeon Kid (Japan).zip
@@ -2881,8 +2881,8 @@ file: Fantasy Zone (USA) (Tengen) (Unl).zip
 game: Fantasy Zone II - Opa-Opa no Namida (Japan)
 file: Fantasy Zone II - Opa-Opa no Namida (Japan).zip
 
-game: Faria - A World of Mystery &amp; Danger! (USA)
-file: Faria - A World of Mystery &amp; Danger! (USA).zip
+game: Faria - A World of Mystery & Danger! (USA)
+file: Faria - A World of Mystery & Danger! (USA).zip
 
 game: Faria - Fuuin no Tsurugi (Japan)
 file: Faria - Fuuin no Tsurugi (Japan).zip
@@ -2917,11 +2917,11 @@ file: Fengchen Yixialu (China) (Hengge) (Unl).zip
 game: Fengkuang Jidan Zi - Flighty Chicken (China) (Unl)
 file: Fengkuang Jidan Zi - Flighty Chicken (China) (Unl).zip
 
-game: Fengshenbang (Asia) (C&amp;E) (Simplified) (Unl)
-file: Fengshenbang (Asia) (C&amp;E) (Simplified) (Unl).zip
+game: Fengshenbang (Asia) (C&E) (Simplified) (Unl)
+file: Fengshenbang (Asia) (C&E) (Simplified) (Unl).zip
 
-game: Fengshenbang (Asia) (C&amp;E) (Traditional) (Unl)
-file: Fengshenbang (Asia) (C&amp;E) (Traditional) (Unl).zip
+game: Fengshenbang (Asia) (C&E) (Traditional) (Unl)
+file: Fengshenbang (Asia) (C&E) (Traditional) (Unl).zip
 
 game: Fengyun - Traitor Legend (China) (970100684) (Unl)
 file: Fengyun - Traitor Legend (China) (970100684) (Unl).zip
@@ -3091,14 +3091,14 @@ file: Flies (Japan) (En) (Family BASIC) (Unl).zip
 game: Flight of the Intruder (USA)
 file: Flight of the Intruder (USA).zip
 
-game: Flintstones, The - The Rescue of Dino &amp; Hoppy (Europe)
-file: Flintstones, The - The Rescue of Dino &amp; Hoppy (Europe).zip
+game: Flintstones, The - The Rescue of Dino & Hoppy (Europe)
+file: Flintstones, The - The Rescue of Dino & Hoppy (Europe).zip
 
-game: Flintstones, The - The Rescue of Dino &amp; Hoppy (Japan)
-file: Flintstones, The - The Rescue of Dino &amp; Hoppy (Japan).zip
+game: Flintstones, The - The Rescue of Dino & Hoppy (Japan)
+file: Flintstones, The - The Rescue of Dino & Hoppy (Japan).zip
 
-game: Flintstones, The - The Rescue of Dino &amp; Hoppy (USA)
-file: Flintstones, The - The Rescue of Dino &amp; Hoppy (USA).zip
+game: Flintstones, The - The Rescue of Dino & Hoppy (USA)
+file: Flintstones, The - The Rescue of Dino & Hoppy (USA).zip
 
 game: Flintstones, The - The Surprise at Dinosaur Peak (Europe)
 file: Flintstones, The - The Surprise at Dinosaur Peak (Europe).zip
@@ -3148,8 +3148,8 @@ file: Fortuna (Russia) (Unl).zip
 game: Four Players' Tennis (Europe)
 file: Four Players' Tennis (Europe).zip
 
-game: Fox's Peter Pan &amp; the Pirates - The Revenge of Captain Hook (USA)
-file: Fox's Peter Pan &amp; the Pirates - The Revenge of Captain Hook (USA).zip
+game: Fox's Peter Pan & the Pirates - The Revenge of Captain Hook (USA)
+file: Fox's Peter Pan & the Pirates - The Revenge of Captain Hook (USA).zip
 
 game: Frankenstein - The Monster Returns (USA)
 file: Frankenstein - The Monster Returns (USA).zip
@@ -4135,11 +4135,11 @@ file: Iron Tank - The Invasion of Normandy (USA).zip
 game: Iron Tank - The Invasion of Normandy (USA) (Beta)
 file: Iron Tank - The Invasion of Normandy (USA) (Beta).zip
 
-game: IronSword - Wizards &amp; Warriors II (Europe)
-file: IronSword - Wizards &amp; Warriors II (Europe).zip
+game: IronSword - Wizards & Warriors II (Europe)
+file: IronSword - Wizards & Warriors II (Europe).zip
 
-game: IronSword - Wizards &amp; Warriors II (USA)
-file: IronSword - Wizards &amp; Warriors II (USA).zip
+game: IronSword - Wizards & Warriors II (USA)
+file: IronSword - Wizards & Warriors II (USA).zip
 
 game: Isaki Shuugorou no Keiba Hisshou Gaku (Japan)
 file: Isaki Shuugorou no Keiba Hisshou Gaku (Japan).zip
@@ -4291,11 +4291,11 @@ file: Jinqu KTV (Asia) (Unl).zip
 game: JJ (Japan) (Famicom 3D System)
 file: JJ (Japan) (Famicom 3D System).zip
 
-game: Joe &amp; Mac - Caveman Ninja (Europe)
-file: Joe &amp; Mac - Caveman Ninja (Europe).zip
+game: Joe & Mac - Caveman Ninja (Europe)
+file: Joe & Mac - Caveman Ninja (Europe).zip
 
-game: Joe &amp; Mac (USA)
-file: Joe &amp; Mac (USA).zip
+game: Joe & Mac (USA)
+file: Joe & Mac (USA).zip
 
 game: John Elway's Quarterback (USA)
 file: John Elway's Quarterback (USA).zip
@@ -4309,11 +4309,11 @@ file: Jongbou (Japan).zip
 game: Jordan vs Bird - One on One (USA)
 file: Jordan vs Bird - One on One (USA).zip
 
-game: Joshua &amp; the Battle of Jericho (USA) (v5.0) (Unl)
-file: Joshua &amp; the Battle of Jericho (USA) (v5.0) (Unl).zip
+game: Joshua & the Battle of Jericho (USA) (v5.0) (Unl)
+file: Joshua & the Battle of Jericho (USA) (v5.0) (Unl).zip
 
-game: Joshua &amp; the Battle of Jericho (USA) (v6.0) (Unl)
-file: Joshua &amp; the Battle of Jericho (USA) (v6.0) (Unl).zip
+game: Joshua & the Battle of Jericho (USA) (v6.0) (Unl)
+file: Joshua & the Battle of Jericho (USA) (v6.0) (Unl).zip
 
 game: Journey to Silius (Europe)
 file: Journey to Silius (Europe).zip
@@ -5266,8 +5266,8 @@ file: Marble Madness (Europe).zip
 game: Marble Madness (USA)
 file: Marble Madness (USA).zip
 
-game: Mario &amp; Yoshi (Europe)
-file: Mario &amp; Yoshi (Europe).zip
+game: Mario & Yoshi (Europe)
+file: Mario & Yoshi (Europe).zip
 
 game: Mario Bros. (Europe) (PAL-MA-0)
 file: Mario Bros. (Europe) (PAL-MA-0).zip
@@ -5530,8 +5530,8 @@ file: Metal Slader Glory (Japan) (Virtual Console).zip
 game: Metal Storm (USA)
 file: Metal Storm (USA).zip
 
-game: MetalMech - Man &amp; Machine (USA)
-file: MetalMech - Man &amp; Machine (USA).zip
+game: MetalMech - Man & Machine (USA)
+file: MetalMech - Man & Machine (USA).zip
 
 game: Metro-Cross (Japan)
 file: Metro-Cross (Japan).zip
@@ -5563,20 +5563,20 @@ file: Mi Hun Che (Asia) (Unl).zip
 game: Michael Andretti's World GP (USA)
 file: Michael Andretti's World GP (USA).zip
 
-game: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-05-28)
-file: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-05-28).zip
+game: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-05-28)
+file: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-05-28).zip
 
-game: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-05-28) (Alt)
-file: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-05-28) (Alt).zip
+game: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-05-28) (Alt)
+file: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-05-28) (Alt).zip
 
-game: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-06-16)
-file: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-06-16).zip
+game: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-06-16)
+file: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-06-16).zip
 
-game: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-06-30)
-file: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-06-30).zip
+game: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-06-30)
+file: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-06-30).zip
 
-game: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-07-09)
-file: Mick &amp; Mack as the Global Gladiators (USA) (Proto) (1993-07-09).zip
+game: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-07-09)
+file: Mick & Mack as the Global Gladiators (USA) (Proto) (1993-07-09).zip
 
 game: Mickey Mouse - Dream Balloon (USA) (Beta)
 file: Mickey Mouse - Dream Balloon (USA) (Beta).zip
@@ -5608,8 +5608,8 @@ file: Micro Machines (USA) (Unl).zip
 game: MiG 29 - Soviet Fighter (USA, Europe) (Unl)
 file: MiG 29 - Soviet Fighter (USA, Europe) (Unl).zip
 
-game: Might &amp; Magic - Secret of the Inner Sanctum (USA)
-file: Might &amp; Magic - Secret of the Inner Sanctum (USA).zip
+game: Might & Magic - Secret of the Inner Sanctum (USA)
+file: Might & Magic - Secret of the Inner Sanctum (USA).zip
 
 game: Might and Magic - Book One - Secret of the Inner Sanctum (Japan)
 file: Might and Magic - Book One - Secret of the Inner Sanctum (Japan).zip
@@ -6244,17 +6244,17 @@ file: Nobunaga's Ambition (USA).zip
 game: Nobunaga's Ambition II (USA)
 file: Nobunaga's Ambition II (USA).zip
 
-game: North &amp; South - Wakuwaku Nanboku Sensou (Japan)
-file: North &amp; South - Wakuwaku Nanboku Sensou (Japan).zip
+game: North & South - Wakuwaku Nanboku Sensou (Japan)
+file: North & South - Wakuwaku Nanboku Sensou (Japan).zip
 
-game: North &amp; South (Europe)
-file: North &amp; South (Europe).zip
+game: North & South (Europe)
+file: North & South (Europe).zip
 
 game: North and South (USA)
 file: North and South (USA).zip
 
-game: Nuts &amp; Milk (Japan)
-file: Nuts &amp; Milk (Japan).zip
+game: Nuts & Milk (Japan)
+file: Nuts & Milk (Japan).zip
 
 game: Obake no Q Tarou - Wanwan Panic (Japan)
 file: Obake no Q Tarou - Wanwan Panic (Japan).zip
@@ -6934,8 +6934,8 @@ file: Racket Attack (Europe).zip
 game: Racket Attack (USA)
 file: Racket Attack (USA).zip
 
-game: Rackets &amp; Rivals (Europe)
-file: Rackets &amp; Rivals (Europe).zip
+game: Rackets & Rivals (Europe)
+file: Rackets & Rivals (Europe).zip
 
 game: Rad Racer (Europe)
 file: Rad Racer (Europe).zip
@@ -7030,8 +7030,8 @@ file: Reigen Doushi (Japan).zip
 game: Remote Control (USA)
 file: Remote Control (USA).zip
 
-game: Ren &amp; Stimpy Show, The - Buckeroo$! (USA)
-file: Ren &amp; Stimpy Show, The - Buckeroo$! (USA).zip
+game: Ren & Stimpy Show, The - Buckeroo$! (USA)
+file: Ren & Stimpy Show, The - Buckeroo$! (USA).zip
 
 game: Renegade (USA)
 file: Renegade (USA).zip
@@ -7432,11 +7432,11 @@ file: Sansuu 4 Nen - Keisan Game (Japan).zip
 game: Sansuu 4 Nen - Keisan Game (Japan) (Beta)
 file: Sansuu 4 Nen - Keisan Game (Japan) (Beta).zip
 
-game: Sansuu 5 &amp; 6 Nen - Keisan Game (Japan)
-file: Sansuu 5 &amp; 6 Nen - Keisan Game (Japan).zip
+game: Sansuu 5 & 6 Nen - Keisan Game (Japan)
+file: Sansuu 5 & 6 Nen - Keisan Game (Japan).zip
 
-game: Sansuu 5 &amp; 6 Nen - Keisan Game (Japan) (Beta)
-file: Sansuu 5 &amp; 6 Nen - Keisan Game (Japan) (Beta).zip
+game: Sansuu 5 & 6 Nen - Keisan Game (Japan) (Beta)
+file: Sansuu 5 & 6 Nen - Keisan Game (Japan) (Beta).zip
 
 game: Sanxia Wuyi - Yumao Chuanqi (China) (980816) (Unl)
 file: Sanxia Wuyi - Yumao Chuanqi (China) (980816) (Unl).zip
@@ -7549,11 +7549,11 @@ file: Sesame Street - 123 (USA).zip
 game: Sesame Street - ABC (USA)
 file: Sesame Street - ABC (USA).zip
 
-game: Sesame Street - ABC &amp; 123 (USA)
-file: Sesame Street - ABC &amp; 123 (USA).zip
+game: Sesame Street - ABC & 123 (USA)
+file: Sesame Street - ABC & 123 (USA).zip
 
-game: Sesame Street - Big Bird's Hide &amp; Speak (USA)
-file: Sesame Street - Big Bird's Hide &amp; Speak (USA).zip
+game: Sesame Street - Big Bird's Hide & Speak (USA)
+file: Sesame Street - Big Bird's Hide & Speak (USA).zip
 
 game: Sesame Street - Countdown (USA)
 file: Sesame Street - Countdown (USA).zip
@@ -7630,8 +7630,8 @@ file: Shatterhand (USA).zip
 game: Shatterhand (USA) (Beta)
 file: Shatterhand (USA) (Beta).zip
 
-game: Shenghuo Liezhuan (Asia) (C&amp;E) (Unl)
-file: Shenghuo Liezhuan (Asia) (C&amp;E) (Unl).zip
+game: Shenghuo Liezhuan (Asia) (C&E) (Unl)
+file: Shenghuo Liezhuan (Asia) (C&E) (Unl).zip
 
 game: Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (Japan)
 file: Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (Japan).zip
@@ -7822,11 +7822,11 @@ file: Sklad No18 (Russia) (Unl).zip
 game: Sklad No18 (Russia) (Unl) (Alt)
 file: Sklad No18 (Russia) (Unl) (Alt).zip
 
-game: Skull &amp; Crossbones (Korea) (En) (Unl)
-file: Skull &amp; Crossbones (Korea) (En) (Unl).zip
+game: Skull & Crossbones (Korea) (En) (Unl)
+file: Skull & Crossbones (Korea) (En) (Unl).zip
 
-game: Skull &amp; Crossbones (USA) (Unl)
-file: Skull &amp; Crossbones (USA) (Unl).zip
+game: Skull & Crossbones (USA) (Unl)
+file: Skull & Crossbones (USA) (Unl).zip
 
 game: Sky Destroyer (Japan)
 file: Sky Destroyer (Japan).zip
@@ -8947,8 +8947,8 @@ file: Text Editor (Russia) (Subor Keyboard) (Unl).zip
 game: Thexder (Japan)
 file: Thexder (Japan).zip
 
-game: Thomas the Tank Engine &amp; Friends (USA) (Proto)
-file: Thomas the Tank Engine &amp; Friends (USA) (Proto).zip
+game: Thomas the Tank Engine & Friends (USA) (Proto)
+file: Thomas the Tank Engine & Friends (USA) (Proto).zip
 
 game: Three Stooges, The (USA)
 file: Three Stooges, The (USA).zip
@@ -8956,8 +8956,8 @@ file: Three Stooges, The (USA).zip
 game: Three Stooges, The (USA) (Beta) (1989-02-23)
 file: Three Stooges, The (USA) (Beta) (1989-02-23).zip
 
-game: Thunder &amp; Lightning (USA)
-file: Thunder &amp; Lightning (USA).zip
+game: Thunder & Lightning (USA)
+file: Thunder & Lightning (USA).zip
 
 game: Thunder Warrior (Asia) (En) (Micro Genius) (Unl)
 file: Thunder Warrior (Asia) (En) (Micro Genius) (Unl).zip
@@ -9079,20 +9079,20 @@ file: Tokkyuu Shirei Solbrain (Japan).zip
 game: Tokoro-san no Mamoru mo Semeru mo (Japan)
 file: Tokoro-san no Mamoru mo Semeru mo (Japan).zip
 
-game: Tom &amp; Jerry - The Ultimate Game of Cat and Mouse! (Europe)
-file: Tom &amp; Jerry - The Ultimate Game of Cat and Mouse! (Europe).zip
+game: Tom & Jerry - The Ultimate Game of Cat and Mouse! (Europe)
+file: Tom & Jerry - The Ultimate Game of Cat and Mouse! (Europe).zip
 
-game: Tom &amp; Jerry - The Ultimate Game of Cat and Mouse! (USA)
-file: Tom &amp; Jerry - The Ultimate Game of Cat and Mouse! (USA).zip
+game: Tom & Jerry - The Ultimate Game of Cat and Mouse! (USA)
+file: Tom & Jerry - The Ultimate Game of Cat and Mouse! (USA).zip
 
-game: Tom &amp; Jerry (Japan)
-file: Tom &amp; Jerry (Japan).zip
+game: Tom & Jerry (Japan)
+file: Tom & Jerry (Japan).zip
 
 game: Tom Sawyer no Bouken (Japan)
 file: Tom Sawyer no Bouken (Japan).zip
 
-game: Tombs &amp; Treasure (USA)
-file: Tombs &amp; Treasure (USA).zip
+game: Tombs & Treasure (USA)
+file: Tombs & Treasure (USA).zip
 
 game: Tommy T'S Sound Editor (USA) (Proto) (Program)
 file: Tommy T'S Sound Editor (USA) (Proto) (Program).zip
@@ -9169,29 +9169,29 @@ file: Toukyou Pachi-Slot Adventure (Japan) (Rev 1).zip
 game: Tower of Radia (USA) (Proto)
 file: Tower of Radia (USA) (Proto).zip
 
-game: Town &amp; Country Surf Designs - Thrilla's Surfari (USA)
-file: Town &amp; Country Surf Designs - Thrilla's Surfari (USA).zip
+game: Town & Country Surf Designs - Thrilla's Surfari (USA)
+file: Town & Country Surf Designs - Thrilla's Surfari (USA).zip
 
-game: Town &amp; Country Surf Designs - Wood &amp; Water Rage (USA)
-file: Town &amp; Country Surf Designs - Wood &amp; Water Rage (USA).zip
+game: Town & Country Surf Designs - Wood & Water Rage (USA)
+file: Town & Country Surf Designs - Wood & Water Rage (USA).zip
 
 game: Toxic Crusaders (USA)
 file: Toxic Crusaders (USA).zip
 
-game: Track &amp; Field (USA)
-file: Track &amp; Field (USA).zip
+game: Track & Field (USA)
+file: Track & Field (USA).zip
 
-game: Track &amp; Field II (Europe)
-file: Track &amp; Field II (Europe).zip
+game: Track & Field II (Europe)
+file: Track & Field II (Europe).zip
 
-game: Track &amp; Field II (USA)
-file: Track &amp; Field II (USA).zip
+game: Track & Field II (USA)
+file: Track & Field II (USA).zip
 
-game: Track &amp; Field II (USA) (Rev 1)
-file: Track &amp; Field II (USA) (Rev 1).zip
+game: Track & Field II (USA) (Rev 1)
+file: Track & Field II (USA) (Rev 1).zip
 
-game: Track &amp; Field in Barcelona (Europe)
-file: Track &amp; Field in Barcelona (Europe).zip
+game: Track & Field in Barcelona (Europe)
+file: Track & Field in Barcelona (Europe).zip
 
 game: Tragedy of Ryohyukan, The (Japan) (Family BASIC) (Unl)
 file: Tragedy of Ryohyukan, The (Japan) (Family BASIC) (Unl).zip
@@ -9652,11 +9652,11 @@ file: Willow (Japan).zip
 game: Willow (USA)
 file: Willow (USA).zip
 
-game: Wily &amp; Right no Rockboard - That's Paradise (Japan)
-file: Wily &amp; Right no Rockboard - That's Paradise (Japan).zip
+game: Wily & Right no Rockboard - That's Paradise (Japan)
+file: Wily & Right no Rockboard - That's Paradise (Japan).zip
 
-game: Wily &amp; Right no Rockboard - That's Paradise (Japan) (Sample)
-file: Wily &amp; Right no Rockboard - That's Paradise (Japan) (Sample).zip
+game: Wily & Right no Rockboard - That's Paradise (Japan) (Sample)
+file: Wily & Right no Rockboard - That's Paradise (Japan) (Sample).zip
 
 game: Win, Lose or Draw (USA)
 file: Win, Lose or Draw (USA).zip
@@ -9685,20 +9685,20 @@ file: Wizardry II - Llylgamyn no Isan (Japan).zip
 game: Wizardry III - Diamond no Kishi (Japan)
 file: Wizardry III - Diamond no Kishi (Japan).zip
 
-game: Wizards &amp; Warriors (Europe)
-file: Wizards &amp; Warriors (Europe).zip
+game: Wizards & Warriors (Europe)
+file: Wizards & Warriors (Europe).zip
 
-game: Wizards &amp; Warriors (USA)
-file: Wizards &amp; Warriors (USA).zip
+game: Wizards & Warriors (USA)
+file: Wizards & Warriors (USA).zip
 
-game: Wizards &amp; Warriors (USA) (Rev 1)
-file: Wizards &amp; Warriors (USA) (Rev 1).zip
+game: Wizards & Warriors (USA) (Rev 1)
+file: Wizards & Warriors (USA) (Rev 1).zip
 
-game: Wizards &amp; Warriors III - Kuros...Visions of Power (Europe)
-file: Wizards &amp; Warriors III - Kuros...Visions of Power (Europe).zip
+game: Wizards & Warriors III - Kuros...Visions of Power (Europe)
+file: Wizards & Warriors III - Kuros...Visions of Power (Europe).zip
 
-game: Wizards &amp; Warriors III - Kuros...Visions of Power (USA)
-file: Wizards &amp; Warriors III - Kuros...Visions of Power (USA).zip
+game: Wizards & Warriors III - Kuros...Visions of Power (USA)
+file: Wizards & Warriors III - Kuros...Visions of Power (USA).zip
 
 game: Wolverine (USA)
 file: Wolverine (USA).zip
@@ -9817,8 +9817,8 @@ file: Xiake Qing - Jingke Ci Qinwang (China) (TKROM) (Unl).zip
 game: Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)
 file: Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).zip
 
-game: Xiao Mali (Asia) (C&amp;E) (Unl)
-file: Xiao Mali (Asia) (C&amp;E) (Unl).zip
+game: Xiao Mali (Asia) (C&E) (Unl)
+file: Xiao Mali (Asia) (C&E) (Unl).zip
 
 game: Xiao Mali (Asia) (Idea-Tek) (Unl)
 file: Xiao Mali (Asia) (Idea-Tek) (Unl).zip
@@ -9868,8 +9868,8 @@ file: Yang Jia Jiang - Yang's Troops (China) (970100588) (Unl).zip
 game: Yang Jia Jiang - Yang's Troops (China) (980186) (Unl)
 file: Yang Jia Jiang - Yang's Troops (China) (980186) (Unl).zip
 
-game: Yasuda Fire &amp; Marine - Safety Rally (Japan) (Not For Resale)
-file: Yasuda Fire &amp; Marine - Safety Rally (Japan) (Not For Resale).zip
+game: Yasuda Fire & Marine - Safety Rally (Japan) (Not For Resale)
+file: Yasuda Fire & Marine - Safety Rally (Japan) (Not For Resale).zip
 
 game: Yie Ar Kung-Fu (Japan) (Rev 1.2)
 file: Yie Ar Kung-Fu (Japan) (Rev 1.2).zip
@@ -9991,8 +9991,8 @@ file: Zhanguo Qunxiong Zhuan (China) (970498) (Unl).zip
 game: Zhanguo Qunxiong Zhuan (China) (Unl)
 file: Zhanguo Qunxiong Zhuan (China) (Unl).zip
 
-game: Zhanguo Sichuan Sheng (Asia) (C&amp;E) (Unl)
-file: Zhanguo Sichuan Sheng (Asia) (C&amp;E) (Unl).zip
+game: Zhanguo Sichuan Sheng (Asia) (C&E) (Unl)
+file: Zhanguo Sichuan Sheng (Asia) (C&E) (Unl).zip
 
 game: Zhanguo Sichuan Sheng (Asia) (Idea-Tek) (Unl)
 file: Zhanguo Sichuan Sheng (Asia) (Idea-Tek) (Unl).zip

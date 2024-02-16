@@ -67,11 +67,10 @@ file: 64 Trump Collection - Alice no Wakuwaku Trump World (Japan).zip
 #game: AeroGauge (Europe) (En,Fr,De)
 #file: AeroGauge (Europe) (En,Fr,De).zip
 
-game: AeroGauge (Japan) (Demo) (Kiosk)
-file: AeroGauge (Japan) (Demo) (Kiosk).zip
-
 game: AeroGauge (Japan) (Rev 1)
-file: AeroGauge (Japan) (Rev 1).zip
+files:
+  AeroGauge (Japan) (Rev 1).zip
+  AeroGauge (Japan) (Demo) (Kiosk).zip
 
 #game: AeroGauge (USA)
 #file: AeroGauge (USA).zip
@@ -281,13 +280,10 @@ file: Blastdozer (Japan).zip
 #file: Body Harvest (USA).zip
 
 game: Bokujou Monogatari 2 (Japan)
-file: Bokujou Monogatari 2 (Japan).zip
-
-game: Bokujou Monogatari 2 (Japan) (Rev 1)
-file: Bokujou Monogatari 2 (Japan) (Rev 1).zip
-
-game: Bokujou Monogatari 2 (Japan) (Rev 2)
-file: Bokujou Monogatari 2 (Japan) (Rev 2).zip
+files:
+  Bokujou Monogatari 2 (Japan).zip
+  Bokujou Monogatari 2 (Japan) (Rev 1).zip
+  Bokujou Monogatari 2 (Japan) (Rev 2).zip
 
 #game: Bomberman 64 - The Second Attack! (USA)
 #file: Bomberman 64 - The Second Attack! (USA).zip
@@ -542,10 +538,9 @@ game: Densha de Go! 64 (Japan)
 file: Densha de Go! 64 (Japan).zip
 
 game: Derby Stallion 64 (Japan)
-file: Derby Stallion 64 (Japan).zip
-
-game: Derby Stallion 64 (Japan) (Beta) [b]
-file: Derby Stallion 64 (Japan) (Beta) [b].zip
+files:
+  Derby Stallion 64 (Japan).zip
+  Derby Stallion 64 (Japan) (Beta) [b].zip
 
 #game: Destruction Derby 64 (Europe) (En,Fr,De)
 #file: Destruction Derby 64 (Europe) (En,Fr,De).zip
@@ -971,10 +966,9 @@ file: Goemon - Mononoke Sugoroku (Japan).zip
 #file: GoldenEye 007 (Europe).zip
 
 game: GoldenEye 007 (Japan)
-file: GoldenEye 007 (Japan).zip
-
-game: GoldenEye 007 (Japan) (Switch Online)
-file: GoldenEye 007 (Japan) (Switch Online).zip
+files:
+  GoldenEye 007 (Japan).zip
+  GoldenEye 007 (Japan) (Switch Online).zip
 
 #game: GoldenEye 007 (USA, Europe) (Switch Online)
 #file: GoldenEye 007 (USA, Europe) (Switch Online).zip
@@ -1046,16 +1040,11 @@ file: Hiryuu no Ken Twin (Japan).zip
 #file: Holy Magic Century (Germany).zip
 
 game: Hoshi no Kirby 64 (Japan)
-file: Hoshi no Kirby 64 (Japan).zip
-
-game: Hoshi no Kirby 64 (Japan) (Rev 1)
-file: Hoshi no Kirby 64 (Japan) (Rev 1).zip
-
-game: Hoshi no Kirby 64 (Japan) (Rev 2)
-file: Hoshi no Kirby 64 (Japan) (Rev 2).zip
-
-game: Hoshi no Kirby 64 (Japan) (Rev 3)
-file: Hoshi no Kirby 64 (Japan) (Rev 3).zip
+files:
+  Hoshi no Kirby 64 (Japan).zip
+  Hoshi no Kirby 64 (Japan) (Rev 1).zip
+  Hoshi no Kirby 64 (Japan) (Rev 2).zip
+  Hoshi no Kirby 64 (Japan) (Rev 3).zip
 
 #game: Hot Wheels - Turbo Racing (Europe) (En,Fr,De)
 #file: Hot Wheels - Turbo Racing (Europe) (En,Fr,De).zip
@@ -1169,10 +1158,9 @@ game: J.League Live 64 (Japan)
 file: J.League Live 64 (Japan).zip
 
 game: J.League Tactics Soccer (Japan)
-file: J.League Tactics Soccer (Japan).zip
-
-game: J.League Tactics Soccer (Japan) (Rev 1)
-file: J.League Tactics Soccer (Japan) (Rev 1).zip
+files:
+  J.League Tactics Soccer (Japan).zip
+  J.League Tactics Soccer (Japan) (Rev 1).zip
 
 game: Jangou Simulation Mahjong Dou 64 (Japan)
 file: Jangou Simulation Mahjong Dou 64 (Japan).zip
@@ -1199,67 +1187,51 @@ file: Jangou Simulation Mahjong Dou 64 (Japan).zip
 #file: Jet Force Gemini (USA) (Demo) (Kiosk).zip
 
 game: Jikkyou G1 Stable (Japan)
-file: Jikkyou G1 Stable (Japan).zip
-
-game: Jikkyou G1 Stable (Japan) (Rev 1)
-file: Jikkyou G1 Stable (Japan) (Rev 1).zip
+files:
+  Jikkyou G1 Stable (Japan).zip
+  Jikkyou G1 Stable (Japan) (Rev 1).zip
 
 game: Jikkyou J.League 1999 - Perfect Striker 2 (Japan)
-file: Jikkyou J.League 1999 - Perfect Striker 2 (Japan).zip
-
-game: Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)
-file: Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1).zip
+files:
+  Jikkyou J.League 1999 - Perfect Striker 2 (Japan).zip
+  Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1).zip
 
 game: Jikkyou J.League Perfect Striker (Japan)
 file: Jikkyou J.League Perfect Striker (Japan).zip
 
 game: Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)
-file: Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1).zip
+files:
+  Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan).zip
+  Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1).zip
 
 game: Jikkyou Powerful Pro Yakyuu 2000 (Japan)
-file: Jikkyou Powerful Pro Yakyuu 2000 (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1).zip
+files:
+  Jikkyou Powerful Pro Yakyuu 2000 (Japan).zip
+  Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1).zip
 
 game: Jikkyou Powerful Pro Yakyuu 4 (Japan)
-file: Jikkyou Powerful Pro Yakyuu 4 (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30)
-file: Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30).zip
-
-game: Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).zip
+files:
+  Jikkyou Powerful Pro Yakyuu 4 (Japan).zip
+  Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30).zip
+  Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).zip
 
 game: Jikkyou Powerful Pro Yakyuu 5 (Japan)
-file: Jikkyou Powerful Pro Yakyuu 5 (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1).zip
-
-game: Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2)
-file: Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2).zip
+files:
+  Jikkyou Powerful Pro Yakyuu 5 (Japan).zip
+  Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1).zip
+  Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2).zip
 
 game: Jikkyou Powerful Pro Yakyuu 6 (Japan)
-file: Jikkyou Powerful Pro Yakyuu 6 (Japan).zip
-
-game: Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1)
-file: Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1).zip
-
-game: Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)
-file: Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2).zip
+files:
+  Jikkyou Powerful Pro Yakyuu 6 (Japan).zip
+  Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1).zip
+  Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2).zip
 
 game: Jikkyou World Soccer - World Cup France '98 (Japan)
-file: Jikkyou World Soccer - World Cup France '98 (Japan).zip
-
-game: Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)
-file: Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).zip
-
-game: Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)
-file: Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2).zip
+files:
+  Jikkyou World Soccer - World Cup France '98 (Japan).zip
+  Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).zip
+  Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2).zip
 
 game: Jikkyou World Soccer 3 (Japan)
 file: Jikkyou World Soccer 3 (Japan).zip
@@ -1502,10 +1474,9 @@ file: Mahjong Master (Japan).zip
 #file: Mario Golf (USA) (LodgeNet).zip
 
 game: Mario Golf 64 (Japan)
-file: Mario Golf 64 (Japan).zip
-
-game: Mario Golf 64 (Japan) (Rev 1)
-file: Mario Golf 64 (Japan) (Rev 1).zip
+files:
+  Mario Golf 64 (Japan).zip
+  Mario Golf 64 (Japan) (Rev 1).zip
 
 #game: Mario Kart 64 (Europe)
 #file: Mario Kart 64 (Europe).zip
@@ -1514,10 +1485,9 @@ file: Mario Golf 64 (Japan) (Rev 1).zip
 #file: Mario Kart 64 (Europe) (Rev 1).zip
 
 game: Mario Kart 64 (Japan)
-file: Mario Kart 64 (Japan).zip
-
-game: Mario Kart 64 (Japan) (Rev 1)
-file: Mario Kart 64 (Japan) (Rev 1).zip
+files:
+  Mario Kart 64 (Japan).zip
+  Mario Kart 64 (Japan) (Rev 1).zip
 
 #game: Mario Kart 64 (USA)
 #file: Mario Kart 64 (USA).zip
@@ -1544,10 +1514,9 @@ file: Mario Party (Japan).zip
 #file: Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).zip
 
 game: Mario Party 2 (Japan)
-file: Mario Party 2 (Japan).zip
-
-game: Mario Party 2 (Japan) (Wii Virtual Console)
-file: Mario Party 2 (Japan) (Wii Virtual Console).zip
+files:
+  Mario Party 2 (Japan).zip
+  Mario Party 2 (Japan) (Wii Virtual Console).zip
 
 #game: Mario Party 2 (USA)
 #file: Mario Party 2 (USA).zip
@@ -1589,10 +1558,9 @@ file: Mario Story (Japan).zip
 #file: Mario Tennis (USA) (Wii Virtual Console).zip
 
 game: Mario Tennis 64 (Japan)
-file: Mario Tennis 64 (Japan).zip
-
-game: Mario Tennis 64 (Japan) (Wii Virtual Console)
-file: Mario Tennis 64 (Japan) (Wii Virtual Console).zip
+files:
+  Mario Tennis 64 (Japan).zip
+  Mario Tennis 64 (Japan) (Wii Virtual Console).zip
 
 #game: Mega Man 64 (USA)
 #file: Mega Man 64 (USA).zip
@@ -1931,10 +1899,9 @@ game: Nushi Zuri 64 - Shiokaze ni Notte (Japan)
 file: Nushi Zuri 64 - Shiokaze ni Notte (Japan).zip
 
 game: Nushi Zuri 64 (Japan)
-file: Nushi Zuri 64 (Japan).zip
-
-game: Nushi Zuri 64 (Japan) (Rev 1)
-file: Nushi Zuri 64 (Japan) (Rev 1).zip
+files:
+  Nushi Zuri 64 (Japan).zip
+  Nushi Zuri 64 (Japan) (Rev 1).zip
 
 #game: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)
 #file: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto).zip
@@ -1949,10 +1916,9 @@ file: Nushi Zuri 64 (Japan) (Rev 1).zip
 #file: Off Road Challenge (USA).zip
 
 game: Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)
-file: Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).zip
-
-game: Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)
-file: Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).zip
+files:
+  Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).zip
+  Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).zip
 
 #game: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)
 #file: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).zip
@@ -2093,10 +2059,9 @@ file: Pilotwings 64 (Japan).zip
 #file: Pokemon Snap (Italy).zip
 
 game: Pokemon Snap (Japan)
-file: Pokemon Snap (Japan).zip
-
-game: Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)
-file: Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).zip
+files:
+  Pokemon Snap (Japan).zip
+  Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).zip
 
 #game: Pokemon Snap (Spain)
 #file: Pokemon Snap (Spain).zip
@@ -2186,10 +2151,9 @@ file: Power League 64 (Japan).zip
 #file: Premier Manager 64 (Europe).zip
 
 game: Pro Mahjong Kiwame 64 (Japan)
-file: Pro Mahjong Kiwame 64 (Japan).zip
-
-game: Pro Mahjong Kiwame 64 (Japan) (Rev 1)
-file: Pro Mahjong Kiwame 64 (Japan) (Rev 1).zip
+files:
+  Pro Mahjong Kiwame 64 (Japan).zip
+  Pro Mahjong Kiwame 64 (Japan) (Rev 1).zip
 
 game: Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)
 file: Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan).zip
@@ -2543,10 +2507,9 @@ file: SpaceStation Silicon Valley (Japan) (Proto).zip
 #file: Spider-Man (USA).zip
 
 game: Star Fox 64 (Japan)
-file: Star Fox 64 (Japan).zip
-
-game: Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)
-file: Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).zip
+files:
+  Star Fox 64 (Japan).zip
+  Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).zip
 
 #game: Star Fox 64 (USA)
 #file: Star Fox 64 (USA).zip
@@ -2558,10 +2521,9 @@ file: Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).zip
 #file: Star Fox 64 (USA) (Rev 1).zip
 
 game: Star Soldier - Vanishing Earth (Japan) (En)
-file: Star Soldier - Vanishing Earth (Japan) (En).zip
-
-game: Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10)
-file: Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10).zip
+files:
+  Star Soldier - Vanishing Earth (Japan) (En).zip
+  Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10).zip
 
 #game: Star Soldier - Vanishing Earth (USA)
 #file: Star Soldier - Vanishing Earth (USA).zip
@@ -3086,10 +3048,9 @@ file: Virtual Pro Wrestling 64 (Japan).zip
 #file: Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De).zip
 
 game: Wave Race 64 - Kawasaki Jet Ski (Japan)
-file: Wave Race 64 - Kawasaki Jet Ski (Japan).zip
-
-game: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)
-file: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1).zip
+files:
+  Wave Race 64 - Kawasaki Jet Ski (Japan).zip
+  Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1).zip
 
 game: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)
 file: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).zip
@@ -3185,10 +3146,9 @@ file: Wild Choppers (Japan).zip
 #file: WinBack - Covert Operations (USA).zip
 
 game: WinBack (Japan)
-file: WinBack (Japan).zip
-
-game: WinBack (Japan) (Rev 1)
-file: WinBack (Japan) (Rev 1).zip
+files:
+  WinBack (Japan).zip
+  WinBack (Japan) (Rev 1).zip
 
 #game: Wipeout 64 (Europe)
 #file: Wipeout 64 (Europe).zip
@@ -3290,25 +3250,17 @@ game: Yuke Yuke!! Trouble Makers (Japan)
 file: Yuke Yuke!! Trouble Makers (Japan).zip
 
 game: Zelda no Densetsu - Mujura no Kamen (Japan)
-file: Zelda no Densetsu - Mujura no Kamen (Japan).zip
-
-game: Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)
-file: Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).zip
-
-game: Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)
-file: Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1).zip
+files:
+  Zelda no Densetsu - Mujura no Kamen (Japan).zip
+  Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).zip
+  Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1).zip
 
 game: Zelda no Densetsu - Toki no Ocarina (Japan)
-file: Zelda no Densetsu - Toki no Ocarina (Japan).zip
-
-game: Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)
-file: Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection).zip
-
-game: Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)
-file: Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1).zip
-
-game: Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)
-file: Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2).zip
+files:
+  Zelda no Densetsu - Toki no Ocarina (Japan).zip
+  Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection).zip
+  Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1).zip
+  Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2).zip
 
 game: Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)
 file: Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube).zip

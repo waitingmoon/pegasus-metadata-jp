@@ -1,41 +1,41 @@
-#game: [BIOS] Nintendo 64 - PIF (Brazil)
-#file: [BIOS] Nintendo 64 - PIF (Brazil).zip
+# game: [BIOS] Nintendo 64 - PIF (Brazil)
+# file: [BIOS] Nintendo 64 - PIF (Brazil).zip
 
-#game: [BIOS] Nintendo 64 - PIF (Europe)
-#file: [BIOS] Nintendo 64 - PIF (Europe).zip
+# game: [BIOS] Nintendo 64 - PIF (Europe)
+# file: [BIOS] Nintendo 64 - PIF (Europe).zip
 
 game: [BIOS] Nintendo 64 - PIF (Japan, USA)
 file: [BIOS] Nintendo 64 - PIF (Japan, USA).zip
 
-#game: 007 - The World Is Not Enough (Europe) (En,Fr,De)
-#file: 007 - The World Is Not Enough (Europe) (En,Fr,De).zip
+# game: 007 - The World Is Not Enough (Europe) (En,Fr,De)
+# file: 007 - The World Is Not Enough (Europe) (En,Fr,De).zip
 
-#game: 007 - The World Is Not Enough (USA)
-#file: 007 - The World Is Not Enough (USA).zip
+# game: 007 - The World Is Not Enough (USA)
+# file: 007 - The World Is Not Enough (USA).zip
 
-#game: 007 - The World Is Not Enough (USA) (v2) (Beta)
-#file: 007 - The World Is Not Enough (USA) (v2) (Beta).zip
+# game: 007 - The World Is Not Enough (USA) (v2) (Beta)
+# file: 007 - The World Is Not Enough (USA) (v2) (Beta).zip
 
-#game: 007 - The World Is Not Enough (USA) (v21) (Beta)
-#file: 007 - The World Is Not Enough (USA) (v21) (Beta).zip
+# game: 007 - The World Is Not Enough (USA) (v21) (Beta)
+# file: 007 - The World Is Not Enough (USA) (v21) (Beta).zip
 
-#game: 1080 Snowboarding (Europe) (En,Ja,Fr,De)
-#file: 1080 Snowboarding (Europe) (En,Ja,Fr,De).zip
+# game: 1080 Snowboarding (Europe) (En,Ja,Fr,De)
+# file: 1080 Snowboarding (Europe) (En,Ja,Fr,De).zip
 
 game: 1080 Snowboarding (Japan, USA) (En,Ja)
 file: 1080 Snowboarding (Japan, USA) (En,Ja).zip
 
-#game: 1080 Snowboarding (USA) (En,Ja) (LodgeNet)
-#file: 1080 Snowboarding (USA) (En,Ja) (LodgeNet).zip
+# game: 1080 Snowboarding (USA) (En,Ja) (LodgeNet)
+# file: 1080 Snowboarding (USA) (En,Ja) (LodgeNet).zip
 
-#game: 3D Model RGB Test Program (USA) (Test Program)
-#file: 3D Model RGB Test Program (USA) (Test Program).zip
+# game: 3D Model RGB Test Program (USA) (Test Program)
+# file: 3D Model RGB Test Program (USA) (Test Program).zip
 
-#game: 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)
-#file: 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).zip
+# game: 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)
+# file: 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).zip
 
-#game: 40 Winks (USA) (Proto) (2000-01-10)
-#file: 40 Winks (USA) (Proto) (2000-01-10).zip
+# game: 40 Winks (USA) (Proto) (2000-01-10)
+# file: 40 Winks (USA) (Proto) (2000-01-10).zip
 
 game: 64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)
 file: 64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).zip
@@ -52,61 +52,61 @@ file: 64 Oozumou 2 (Japan).zip
 game: 64 Trump Collection - Alice no Wakuwaku Trump World (Japan)
 file: 64 Trump Collection - Alice no Wakuwaku Trump World (Japan).zip
 
-#game: Action Replay Pro 64 (Europe) (v3.0) (Unl)
-#file: Action Replay Pro 64 (Europe) (v3.0) (Unl).zip
+# game: Action Replay Pro 64 (Europe) (v3.0) (Unl)
+# file: Action Replay Pro 64 (Europe) (v3.0) (Unl).zip
 
-#game: Action Replay Pro 64 (Europe) (v3.3) (Unl)
-#file: Action Replay Pro 64 (Europe) (v3.3) (Unl).zip
+# game: Action Replay Pro 64 (Europe) (v3.3) (Unl)
+# file: Action Replay Pro 64 (Europe) (v3.3) (Unl).zip
 
-#game: AeroFighters Assault (Europe) (En,Fr,De)
-#file: AeroFighters Assault (Europe) (En,Fr,De).zip
+# game: AeroFighters Assault (Europe) (En,Fr,De)
+# file: AeroFighters Assault (Europe) (En,Fr,De).zip
 
-#game: AeroFighters Assault (USA)
-#file: AeroFighters Assault (USA).zip
+# game: AeroFighters Assault (USA)
+# file: AeroFighters Assault (USA).zip
 
-#game: AeroGauge (Europe) (En,Fr,De)
-#file: AeroGauge (Europe) (En,Fr,De).zip
+# game: AeroGauge (Europe) (En,Fr,De)
+# file: AeroGauge (Europe) (En,Fr,De).zip
 
 game: AeroGauge (Japan) (Rev 1)
 files:
   AeroGauge (Japan) (Rev 1).zip
   AeroGauge (Japan) (Demo) (Kiosk).zip
 
-#game: AeroGauge (USA)
-#file: AeroGauge (USA).zip
+# game: AeroGauge (USA)
+# file: AeroGauge (USA).zip
 
 game: AI Shougi 3 (Japan)
 file: AI Shougi 3 (Japan).zip
 
-#game: Aidyn Chronicles - The First Mage (Europe)
-#file: Aidyn Chronicles - The First Mage (Europe).zip
+# game: Aidyn Chronicles - The First Mage (Europe)
+# file: Aidyn Chronicles - The First Mage (Europe).zip
 
-#game: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02)
-#file: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02).zip
+# game: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02)
+# file: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02).zip
 
-#game: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10)
-#file: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10).zip
+# game: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10)
+# file: Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10).zip
 
-#game: Aidyn Chronicles - The First Mage (USA)
-#file: Aidyn Chronicles - The First Mage (USA).zip
+# game: Aidyn Chronicles - The First Mage (USA)
+# file: Aidyn Chronicles - The First Mage (USA).zip
 
-#game: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)
-#file: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).zip
+# game: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)
+# file: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).zip
 
-#game: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)
-#file: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).zip
+# game: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)
+# file: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).zip
 
-#game: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05)
-#file: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05).zip
+# game: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05)
+# file: Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05).zip
 
-#game: Aidyn Chronicles - The First Mage (USA) (Rev 1)
-#file: Aidyn Chronicles - The First Mage (USA) (Rev 1).zip
+# game: Aidyn Chronicles - The First Mage (USA) (Rev 1)
+# file: Aidyn Chronicles - The First Mage (USA) (Rev 1).zip
 
 game: Air Boarder 64 (Japan)
 file: Air Boarder 64 (Japan).zip
 
-#game: Airboarder 64 (Europe)
-#file: Airboarder 64 (Europe).zip
+# game: Airboarder 64 (Europe)
+# file: Airboarder 64 (Europe).zip
 
 game: Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)
 file: Akumajou Dracula Mokushiroku - Real Action Adventure (Japan).zip
@@ -114,56 +114,56 @@ file: Akumajou Dracula Mokushiroku - Real Action Adventure (Japan).zip
 game: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)
 file: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).zip
 
-#game: All Star Tennis '99 (Europe) (En,Fr,De,Es,It)
-#file: All Star Tennis '99 (Europe) (En,Fr,De,Es,It).zip
+# game: All Star Tennis '99 (Europe) (En,Fr,De,Es,It)
+# file: All Star Tennis '99 (Europe) (En,Fr,De,Es,It).zip
 
-#game: All Star Tennis 99 (USA)
-#file: All Star Tennis 99 (USA).zip
+# game: All Star Tennis 99 (USA)
+# file: All Star Tennis 99 (USA).zip
 
-#game: All-Star Baseball 2000 (Europe)
-#file: All-Star Baseball 2000 (Europe).zip
+# game: All-Star Baseball 2000 (Europe)
+# file: All-Star Baseball 2000 (Europe).zip
 
-#game: All-Star Baseball 2000 (USA)
-#file: All-Star Baseball 2000 (USA).zip
+# game: All-Star Baseball 2000 (USA)
+# file: All-Star Baseball 2000 (USA).zip
 
-#game: All-Star Baseball 2001 (USA)
-#file: All-Star Baseball 2001 (USA).zip
+# game: All-Star Baseball 2001 (USA)
+# file: All-Star Baseball 2001 (USA).zip
 
-#game: All-Star Baseball 99 (Europe)
-#file: All-Star Baseball 99 (Europe).zip
+# game: All-Star Baseball 99 (Europe)
+# file: All-Star Baseball 99 (Europe).zip
 
-#game: All-Star Baseball 99 (USA)
-#file: All-Star Baseball 99 (USA).zip
+# game: All-Star Baseball 99 (USA)
+# file: All-Star Baseball 99 (USA).zip
 
-#game: Armorines - Project S.W.A.R.M. (Europe)
-#file: Armorines - Project S.W.A.R.M. (Europe).zip
+# game: Armorines - Project S.W.A.R.M. (Europe)
+# file: Armorines - Project S.W.A.R.M. (Europe).zip
 
-#game: Armorines - Project S.W.A.R.M. (Germany)
-#file: Armorines - Project S.W.A.R.M. (Germany).zip
+# game: Armorines - Project S.W.A.R.M. (Germany)
+# file: Armorines - Project S.W.A.R.M. (Germany).zip
 
-#game: Armorines - Project S.W.A.R.M. (USA)
-#file: Armorines - Project S.W.A.R.M. (USA).zip
+# game: Armorines - Project S.W.A.R.M. (USA)
+# file: Armorines - Project S.W.A.R.M. (USA).zip
 
-#game: Army Men - Air Combat (USA)
-#file: Army Men - Air Combat (USA).zip
+# game: Army Men - Air Combat (USA)
+# file: Army Men - Air Combat (USA).zip
 
-#game: Army Men - Sarge's Heroes (Europe) (En,Fr,De)
-#file: Army Men - Sarge's Heroes (Europe) (En,Fr,De).zip
+# game: Army Men - Sarge's Heroes (Europe) (En,Fr,De)
+# file: Army Men - Sarge's Heroes (Europe) (En,Fr,De).zip
 
-#game: Army Men - Sarge's Heroes (USA)
-#file: Army Men - Sarge's Heroes (USA).zip
+# game: Army Men - Sarge's Heroes (USA)
+# file: Army Men - Sarge's Heroes (USA).zip
 
-#game: Army Men - Sarge's Heroes 2 (USA)
-#file: Army Men - Sarge's Heroes 2 (USA).zip
+# game: Army Men - Sarge's Heroes 2 (USA)
+# file: Army Men - Sarge's Heroes 2 (USA).zip
 
-#game: Asteroids Hyper 64 (USA)
-#file: Asteroids Hyper 64 (USA).zip
+# game: Asteroids Hyper 64 (USA)
+# file: Asteroids Hyper 64 (USA).zip
 
-#game: Automobili Lamborghini (Europe)
-#file: Automobili Lamborghini (Europe).zip
+# game: Automobili Lamborghini (Europe)
+# file: Automobili Lamborghini (Europe).zip
 
-#game: Automobili Lamborghini (USA)
-#file: Automobili Lamborghini (USA).zip
+# game: Automobili Lamborghini (USA)
+# file: Automobili Lamborghini (USA).zip
 
 game: Baku Bomberman (Japan)
 file: Baku Bomberman (Japan).zip
@@ -183,101 +183,101 @@ file: Banjo to Kazooie no Daibouken (Japan).zip
 game: Banjo to Kazooie no Daibouken 2 (Japan)
 file: Banjo to Kazooie no Daibouken 2 (Japan).zip
 
-#game: Banjo-Kazooie (Europe) (En,Fr,De)
-#file: Banjo-Kazooie (Europe) (En,Fr,De).zip
+# game: Banjo-Kazooie (Europe) (En,Fr,De)
+# file: Banjo-Kazooie (Europe) (En,Fr,De).zip
 
-#game: Banjo-Kazooie (USA)
-#file: Banjo-Kazooie (USA).zip
+# game: Banjo-Kazooie (USA)
+# file: Banjo-Kazooie (USA).zip
 
-#game: Banjo-Kazooie (USA) (Rev 1)
-#file: Banjo-Kazooie (USA) (Rev 1).zip
+# game: Banjo-Kazooie (USA) (Rev 1)
+# file: Banjo-Kazooie (USA) (Rev 1).zip
 
-#game: Banjo-Tooie (Australia)
-#file: Banjo-Tooie (Australia).zip
+# game: Banjo-Tooie (Australia)
+# file: Banjo-Tooie (Australia).zip
 
-#game: Banjo-Tooie (Europe) (En,Fr,De,Es)
-#file: Banjo-Tooie (Europe) (En,Fr,De,Es).zip
+# game: Banjo-Tooie (Europe) (En,Fr,De,Es)
+# file: Banjo-Tooie (Europe) (En,Fr,De,Es).zip
 
-#game: Banjo-Tooie (USA)
-#file: Banjo-Tooie (USA).zip
+# game: Banjo-Tooie (USA)
+# file: Banjo-Tooie (USA).zip
 
 game: Bass Rush - ECOGEAR PowerWorm Championship (Japan)
 file: Bass Rush - ECOGEAR PowerWorm Championship (Japan).zip
 
-#game: Bassmasters 2000 (USA)
-#file: Bassmasters 2000 (USA).zip
+# game: Bassmasters 2000 (USA)
+# file: Bassmasters 2000 (USA).zip
 
-#game: Bassmasters 2000 (USA) (Beta)
-#file: Bassmasters 2000 (USA) (Beta).zip
+# game: Bassmasters 2000 (USA) (Beta)
+# file: Bassmasters 2000 (USA) (Beta).zip
 
-#game: Batman Beyond - Return of the Joker (USA)
-#file: Batman Beyond - Return of the Joker (USA).zip
+# game: Batman Beyond - Return of the Joker (USA)
+# file: Batman Beyond - Return of the Joker (USA).zip
 
-#game: Batman of the Future - Return of the Joker (Europe) (En,Fr,De)
-#file: Batman of the Future - Return of the Joker (Europe) (En,Fr,De).zip
+# game: Batman of the Future - Return of the Joker (Europe) (En,Fr,De)
+# file: Batman of the Future - Return of the Joker (Europe) (En,Fr,De).zip
 
-#game: BattleTanx - Global Assault (Europe) (En,Fr,De)
-#file: BattleTanx - Global Assault (Europe) (En,Fr,De).zip
+# game: BattleTanx - Global Assault (Europe) (En,Fr,De)
+# file: BattleTanx - Global Assault (Europe) (En,Fr,De).zip
 
-#game: BattleTanx - Global Assault (USA)
-#file: BattleTanx - Global Assault (USA).zip
+# game: BattleTanx - Global Assault (USA)
+# file: BattleTanx - Global Assault (USA).zip
 
-#game: BattleTanx (USA)
-#file: BattleTanx (USA).zip
+# game: BattleTanx (USA)
+# file: BattleTanx (USA).zip
 
-#game: Battlezone - Rise of the Black Dogs (USA)
-#file: Battlezone - Rise of the Black Dogs (USA).zip
+# game: Battlezone - Rise of the Black Dogs (USA)
+# file: Battlezone - Rise of the Black Dogs (USA).zip
 
-#game: Beetle Adventure Racing! (Europe) (En,Fr,De)
-#file: Beetle Adventure Racing! (Europe) (En,Fr,De).zip
+# game: Beetle Adventure Racing! (Europe) (En,Fr,De)
+# file: Beetle Adventure Racing! (Europe) (En,Fr,De).zip
 
 game: Beetle Adventure Racing! (Japan)
 file: Beetle Adventure Racing! (Japan).zip
 
-#game: Beetle Adventure Racing! (USA) (En,Fr,De)
-#file: Beetle Adventure Racing! (USA) (En,Fr,De).zip
+# game: Beetle Adventure Racing! (USA) (En,Fr,De)
+# file: Beetle Adventure Racing! (USA) (En,Fr,De).zip
 
-#game: Big Mountain 2000 (USA)
-#file: Big Mountain 2000 (USA).zip
+# game: Big Mountain 2000 (USA)
+# file: Big Mountain 2000 (USA).zip
 
-#game: Bio F.R.E.A.K.S. (Europe)
-#file: Bio F.R.E.A.K.S. (Europe).zip
+# game: Bio F.R.E.A.K.S. (Europe)
+# file: Bio F.R.E.A.K.S. (Europe).zip
 
-#game: Bio F.R.E.A.K.S. (USA)
-#file: Bio F.R.E.A.K.S. (USA).zip
+# game: Bio F.R.E.A.K.S. (USA)
+# file: Bio F.R.E.A.K.S. (USA).zip
 
 game: Biohazard 2 (Japan)
 file: Biohazard 2 (Japan).zip
 
-#game: Blast Corps (Europe) (En,De)
-#file: Blast Corps (Europe) (En,De).zip
+# game: Blast Corps (Europe) (En,De)
+# file: Blast Corps (Europe) (En,De).zip
 
-#game: Blast Corps (USA)
-#file: Blast Corps (USA).zip
+# game: Blast Corps (USA)
+# file: Blast Corps (USA).zip
 
-#game: Blast Corps (USA) (Rev 1)
-#file: Blast Corps (USA) (Rev 1).zip
+# game: Blast Corps (USA) (Rev 1)
+# file: Blast Corps (USA) (Rev 1).zip
 
 game: Blastdozer (Japan)
 file: Blastdozer (Japan).zip
 
-#game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)
-#file: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)
+# file: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)
-#file: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20).zip
+# game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)
+# file: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20).zip
 
-#game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)
-#file: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53).zip
+# game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)
+# file: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53).zip
 
-#game: Blues Brothers 2000 (USA)
-#file: Blues Brothers 2000 (USA).zip
+# game: Blues Brothers 2000 (USA)
+# file: Blues Brothers 2000 (USA).zip
 
-#game: Body Harvest (Europe) (En,Fr,De)
-#file: Body Harvest (Europe) (En,Fr,De).zip
+# game: Body Harvest (Europe) (En,Fr,De)
+# file: Body Harvest (Europe) (En,Fr,De).zip
 
-#game: Body Harvest (USA)
-#file: Body Harvest (USA).zip
+# game: Body Harvest (USA)
+# file: Body Harvest (USA).zip
 
 game: Bokujou Monogatari 2 (Japan)
 files:
@@ -285,143 +285,143 @@ files:
   Bokujou Monogatari 2 (Japan) (Rev 1).zip
   Bokujou Monogatari 2 (Japan) (Rev 2).zip
 
-#game: Bomberman 64 - The Second Attack! (USA)
-#file: Bomberman 64 - The Second Attack! (USA).zip
+# game: Bomberman 64 - The Second Attack! (USA)
+# file: Bomberman 64 - The Second Attack! (USA).zip
 
-#game: Bomberman 64 (Europe)
-#file: Bomberman 64 (Europe).zip
+# game: Bomberman 64 (Europe)
+# file: Bomberman 64 (Europe).zip
 
 game: Bomberman 64 (Japan)
 file: Bomberman 64 (Japan).zip
 
-#game: Bomberman 64 (USA)
-#file: Bomberman 64 (USA).zip
+# game: Bomberman 64 (USA)
+# file: Bomberman 64 (USA).zip
 
 game: Bomberman Hero - Mirian Oujo o Sukue! (Japan)
 file: Bomberman Hero - Mirian Oujo o Sukue! (Japan).zip
 
-#game: Bomberman Hero (Europe)
-#file: Bomberman Hero (Europe).zip
+# game: Bomberman Hero (Europe)
+# file: Bomberman Hero (Europe).zip
 
-#game: Bomberman Hero (USA)
-#file: Bomberman Hero (USA).zip
+# game: Bomberman Hero (USA)
+# file: Bomberman Hero (USA).zip
 
-#game: Bottom of the 9th (USA)
-#file: Bottom of the 9th (USA).zip
+# game: Bottom of the 9th (USA)
+# file: Bottom of the 9th (USA).zip
 
-#game: Brunswick Circuit Pro Bowling (USA)
-#file: Brunswick Circuit Pro Bowling (USA).zip
+# game: Brunswick Circuit Pro Bowling (USA)
+# file: Brunswick Circuit Pro Bowling (USA).zip
 
-#game: Buck Bumble (Europe) (En,Fr,De,Es,It)
-#file: Buck Bumble (Europe) (En,Fr,De,Es,It).zip
+# game: Buck Bumble (Europe) (En,Fr,De,Es,It)
+# file: Buck Bumble (Europe) (En,Fr,De,Es,It).zip
 
 game: Buck Bumble (Japan)
 file: Buck Bumble (Japan).zip
 
-#game: Buck Bumble (USA)
-#file: Buck Bumble (USA).zip
+# game: Buck Bumble (USA)
+# file: Buck Bumble (USA).zip
 
-#game: Bug's Life, A (Europe)
-#file: Bug's Life, A (Europe).zip
+# game: Bug's Life, A (Europe)
+# file: Bug's Life, A (Europe).zip
 
-#game: Bug's Life, A (France)
-#file: Bug's Life, A (France).zip
+# game: Bug's Life, A (France)
+# file: Bug's Life, A (France).zip
 
-#game: Bug's Life, A (Germany)
-#file: Bug's Life, A (Germany).zip
+# game: Bug's Life, A (Germany)
+# file: Bug's Life, A (Germany).zip
 
-#game: Bug's Life, A (Italy)
-#file: Bug's Life, A (Italy).zip
+# game: Bug's Life, A (Italy)
+# file: Bug's Life, A (Italy).zip
 
-#game: Bug's Life, A (USA)
-#file: Bug's Life, A (USA).zip
+# game: Bug's Life, A (USA)
+# file: Bug's Life, A (USA).zip
 
-#game: Bust-A-Move '99 (USA)
-#file: Bust-A-Move '99 (USA).zip
+# game: Bust-A-Move '99 (USA)
+# file: Bust-A-Move '99 (USA).zip
 
-#game: Bust-A-Move 2 - Arcade Edition (Europe)
-#file: Bust-A-Move 2 - Arcade Edition (Europe).zip
+# game: Bust-A-Move 2 - Arcade Edition (Europe)
+# file: Bust-A-Move 2 - Arcade Edition (Europe).zip
 
-#game: Bust-A-Move 2 - Arcade Edition (USA)
-#file: Bust-A-Move 2 - Arcade Edition (USA).zip
+# game: Bust-A-Move 2 - Arcade Edition (USA)
+# file: Bust-A-Move 2 - Arcade Edition (USA).zip
 
-#game: Bust-A-Move 3 DX (Europe)
-#file: Bust-A-Move 3 DX (Europe).zip
+# game: Bust-A-Move 3 DX (Europe)
+# file: Bust-A-Move 3 DX (Europe).zip
 
-#game: Bust-A-Move 3 DX (USA) (Beta) (1998-08-28)
-#file: Bust-A-Move 3 DX (USA) (Beta) (1998-08-28).zip
+# game: Bust-A-Move 3 DX (USA) (Beta) (1998-08-28)
+# file: Bust-A-Move 3 DX (USA) (Beta) (1998-08-28).zip
 
-#game: California Speed (Europe) (Proto)
-#file: California Speed (Europe) (Proto).zip
+# game: California Speed (Europe) (Proto)
+# file: California Speed (Europe) (Proto).zip
 
-#game: California Speed (USA)
-#file: California Speed (USA).zip
+# game: California Speed (USA)
+# file: California Speed (USA).zip
 
-#game: Carmageddon 64 (Europe) (En,Fr,De,Es)
-#file: Carmageddon 64 (Europe) (En,Fr,De,Es).zip
+# game: Carmageddon 64 (Europe) (En,Fr,De,Es)
+# file: Carmageddon 64 (Europe) (En,Fr,De,Es).zip
 
-#game: Carmageddon 64 (Europe) (En,Fr,Es,It)
-#file: Carmageddon 64 (Europe) (En,Fr,Es,It).zip
+# game: Carmageddon 64 (Europe) (En,Fr,Es,It)
+# file: Carmageddon 64 (Europe) (En,Fr,Es,It).zip
 
-#game: Carmageddon 64 (USA)
-#file: Carmageddon 64 (USA).zip
+# game: Carmageddon 64 (USA)
+# file: Carmageddon 64 (USA).zip
 
-#game: Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21)
-#file: Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21).zip
+# game: Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21)
+# file: Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21).zip
 
-#game: Castlevania - Legacy of Darkness (Europe) (En,Fr,De)
-#file: Castlevania - Legacy of Darkness (Europe) (En,Fr,De).zip
+# game: Castlevania - Legacy of Darkness (Europe) (En,Fr,De)
+# file: Castlevania - Legacy of Darkness (Europe) (En,Fr,De).zip
 
-#game: Castlevania - Legacy of Darkness (USA)
-#file: Castlevania - Legacy of Darkness (USA).zip
+# game: Castlevania - Legacy of Darkness (USA)
+# file: Castlevania - Legacy of Darkness (USA).zip
 
-#game: Castlevania (Europe) (En,Fr,De)
-#file: Castlevania (Europe) (En,Fr,De).zip
+# game: Castlevania (Europe) (En,Fr,De)
+# file: Castlevania (Europe) (En,Fr,De).zip
 
-#game: Castlevania (USA)
-#file: Castlevania (USA).zip
+# game: Castlevania (USA)
+# file: Castlevania (USA).zip
 
-#game: Castlevania (USA) (Rev 1)
-#file: Castlevania (USA) (Rev 1).zip
+# game: Castlevania (USA) (Rev 1)
+# file: Castlevania (USA) (Rev 1).zip
 
-#game: Castlevania (USA) (Rev 2)
-#file: Castlevania (USA) (Rev 2).zip
+# game: Castlevania (USA) (Rev 2)
+# file: Castlevania (USA) (Rev 2).zip
 
-#game: Centre Court Tennis (Europe)
-#file: Centre Court Tennis (Europe).zip
+# game: Centre Court Tennis (Europe)
+# file: Centre Court Tennis (Europe).zip
 
-#game: Chameleon Twist (Europe)
-#file: Chameleon Twist (Europe).zip
+# game: Chameleon Twist (Europe)
+# file: Chameleon Twist (Europe).zip
 
 game: Chameleon Twist (Japan)
 file: Chameleon Twist (Japan).zip
 
-#game: Chameleon Twist (USA)
-#file: Chameleon Twist (USA).zip
+# game: Chameleon Twist (USA)
+# file: Chameleon Twist (USA).zip
 
-#game: Chameleon Twist (USA) (Rev 1)
-#file: Chameleon Twist (USA) (Rev 1).zip
+# game: Chameleon Twist (USA) (Rev 1)
+# file: Chameleon Twist (USA) (Rev 1).zip
 
-#game: Chameleon Twist 2 (Europe)
-#file: Chameleon Twist 2 (Europe).zip
+# game: Chameleon Twist 2 (Europe)
+# file: Chameleon Twist 2 (Europe).zip
 
 game: Chameleon Twist 2 (Japan)
 file: Chameleon Twist 2 (Japan).zip
 
-#game: Chameleon Twist 2 (USA)
-#file: Chameleon Twist 2 (USA).zip
+# game: Chameleon Twist 2 (USA)
+# file: Chameleon Twist 2 (USA).zip
 
-#game: Charlie Blast's Territory (Europe)
-#file: Charlie Blast's Territory (Europe).zip
+# game: Charlie Blast's Territory (Europe)
+# file: Charlie Blast's Territory (Europe).zip
 
-#game: Charlie Blast's Territory (USA)
-#file: Charlie Blast's Territory (USA).zip
+# game: Charlie Blast's Territory (USA)
+# file: Charlie Blast's Territory (USA).zip
 
-#game: Chopper Attack (Europe)
-#file: Chopper Attack (Europe).zip
+# game: Chopper Attack (Europe)
+# file: Chopper Attack (Europe).zip
 
-#game: Chopper Attack (USA)
-#file: Chopper Attack (USA).zip
+# game: Chopper Attack (USA)
+# file: Chopper Attack (USA).zip
 
 game: Choro Q 64 (Japan)
 file: Choro Q 64 (Japan).zip
@@ -441,68 +441,68 @@ file: Chou Snobo Kids (Japan).zip
 game: City-Tour GP - Zen-Nihon GT Senshuken (Japan)
 file: City-Tour GP - Zen-Nihon GT Senshuken (Japan).zip
 
-#game: Clay Fighter - Sculptor's Cut (USA)
-#file: Clay Fighter - Sculptor's Cut (USA).zip
+# game: Clay Fighter - Sculptor's Cut (USA)
+# file: Clay Fighter - Sculptor's Cut (USA).zip
 
-#game: Clay Fighter 63 1-3 (Europe)
-#file: Clay Fighter 63 1-3 (Europe).zip
+# game: Clay Fighter 63 1-3 (Europe)
+# file: Clay Fighter 63 1-3 (Europe).zip
 
-#game: Clay Fighter 63 1-3 (USA)
-#file: Clay Fighter 63 1-3 (USA).zip
+# game: Clay Fighter 63 1-3 (USA)
+# file: Clay Fighter 63 1-3 (USA).zip
 
-#game: Clay Fighter 63 1-3 (USA) (Beta)
-#file: Clay Fighter 63 1-3 (USA) (Beta).zip
+# game: Clay Fighter 63 1-3 (USA) (Beta)
+# file: Clay Fighter 63 1-3 (USA) (Beta).zip
 
-#game: Command & Conquer (Europe) (En,Fr)
-#file: Command & Conquer (Europe) (En,Fr).zip
+# game: Command & Conquer (Europe) (En,Fr)
+# file: Command & Conquer (Europe) (En,Fr).zip
 
-#game: Command & Conquer (Germany)
-#file: Command & Conquer (Germany).zip
+# game: Command & Conquer (Germany)
+# file: Command & Conquer (Germany).zip
 
-#game: Command & Conquer (USA)
-#file: Command & Conquer (USA).zip
+# game: Command & Conquer (USA)
+# file: Command & Conquer (USA).zip
 
-#game: Conker's Bad Fur Day (Europe)
-#file: Conker's Bad Fur Day (Europe).zip
+# game: Conker's Bad Fur Day (Europe)
+# file: Conker's Bad Fur Day (Europe).zip
 
-#game: Conker's Bad Fur Day (USA)
-#file: Conker's Bad Fur Day (USA).zip
+# game: Conker's Bad Fur Day (USA)
+# file: Conker's Bad Fur Day (USA).zip
 
-#game: Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000)
-#file: Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000).zip
+# game: Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000)
+# file: Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000).zip
 
-#game: Conker's Bad Fur Day (USA) (Beta) (2000-10-25)
-#file: Conker's Bad Fur Day (USA) (Beta) (2000-10-25).zip
+# game: Conker's Bad Fur Day (USA) (Beta) (2000-10-25)
+# file: Conker's Bad Fur Day (USA) (Beta) (2000-10-25).zip
 
 game: Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
 file: Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).zip
 
-#game: Cruis'n Exotica (USA)
-#file: Cruis'n Exotica (USA).zip
+# game: Cruis'n Exotica (USA)
+# file: Cruis'n Exotica (USA).zip
 
-#game: Cruis'n USA (Europe)
-#file: Cruis'n USA (Europe).zip
+# game: Cruis'n USA (Europe)
+# file: Cruis'n USA (Europe).zip
 
-#game: Cruis'n USA (USA)
-#file: Cruis'n USA (USA).zip
+# game: Cruis'n USA (USA)
+# file: Cruis'n USA (USA).zip
 
-#game: Cruis'n USA (USA) (Rev 1)
-#file: Cruis'n USA (USA) (Rev 1).zip
+# game: Cruis'n USA (USA) (Rev 1)
+# file: Cruis'n USA (USA) (Rev 1).zip
 
-#game: Cruis'n USA (USA) (Rev 2)
-#file: Cruis'n USA (USA) (Rev 2).zip
+# game: Cruis'n USA (USA) (Rev 2)
+# file: Cruis'n USA (USA) (Rev 2).zip
 
-#game: Cruis'n USA (USA) (Wii Virtual Console)
-#file: Cruis'n USA (USA) (Wii Virtual Console).zip
+# game: Cruis'n USA (USA) (Wii Virtual Console)
+# file: Cruis'n USA (USA) (Wii Virtual Console).zip
 
-#game: Cruis'n World (Europe)
-#file: Cruis'n World (Europe).zip
+# game: Cruis'n World (Europe)
+# file: Cruis'n World (Europe).zip
 
-#game: Cruis'n World (Europe) (Rev 1)
-#file: Cruis'n World (Europe) (Rev 1).zip
+# game: Cruis'n World (Europe) (Rev 1)
+# file: Cruis'n World (Europe) (Rev 1).zip
 
-#game: Cruis'n World (USA)
-#file: Cruis'n World (USA).zip
+# game: Cruis'n World (USA)
+# file: Cruis'n World (USA).zip
 
 game: Custom Robo (Japan)
 file: Custom Robo (Japan).zip
@@ -510,29 +510,29 @@ file: Custom Robo (Japan).zip
 game: Custom Robo V2 (Japan)
 file: Custom Robo V2 (Japan).zip
 
-#game: CyberTiger (Europe)
-#file: CyberTiger (Europe).zip
+# game: CyberTiger (Europe)
+# file: CyberTiger (Europe).zip
 
-#game: CyberTiger (USA)
-#file: CyberTiger (USA).zip
+# game: CyberTiger (USA)
+# file: CyberTiger (USA).zip
 
-#game: Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)
-#file: Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)
+# file: Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).zip
 
 game: Dance Dance Revolution - Disney Dancing Museum (Japan)
 file: Dance Dance Revolution - Disney Dancing Museum (Japan).zip
 
-#game: Dark Rift (Europe)
-#file: Dark Rift (Europe).zip
+# game: Dark Rift (Europe)
+# file: Dark Rift (Europe).zip
 
-#game: Dark Rift (USA)
-#file: Dark Rift (USA).zip
+# game: Dark Rift (USA)
+# file: Dark Rift (USA).zip
 
-#game: Deadly Arts (USA)
-#file: Deadly Arts (USA).zip
+# game: Deadly Arts (USA)
+# file: Deadly Arts (USA).zip
 
-#game: Defi au Tetris Magique (France)
-#file: Defi au Tetris Magique (France).zip
+# game: Defi au Tetris Magique (France)
+# file: Defi au Tetris Magique (France).zip
 
 game: Densha de Go! 64 (Japan)
 file: Densha de Go! 64 (Japan).zip
@@ -542,80 +542,80 @@ files:
   Derby Stallion 64 (Japan).zip
   Derby Stallion 64 (Japan) (Beta) [b].zip
 
-#game: Destruction Derby 64 (Europe) (En,Fr,De)
-#file: Destruction Derby 64 (Europe) (En,Fr,De).zip
+# game: Destruction Derby 64 (Europe) (En,Fr,De)
+# file: Destruction Derby 64 (Europe) (En,Fr,De).zip
 
-#game: Destruction Derby 64 (USA)
-#file: Destruction Derby 64 (USA).zip
+# game: Destruction Derby 64 (USA)
+# file: Destruction Derby 64 (USA).zip
 
-#game: Destruction Derby 64 (USA) (Beta) (1998-07-31)
-#file: Destruction Derby 64 (USA) (Beta) (1998-07-31).zip
+# game: Destruction Derby 64 (USA) (Beta) (1998-07-31)
+# file: Destruction Derby 64 (USA) (Beta) (1998-07-31).zip
 
 game: Dezaemon 3D (Japan)
 file: Dezaemon 3D (Japan).zip
 
-#game: Diddy Kong Racing (Europe) (En,Fr,De)
-#file: Diddy Kong Racing (Europe) (En,Fr,De).zip
+# game: Diddy Kong Racing (Europe) (En,Fr,De)
+# file: Diddy Kong Racing (Europe) (En,Fr,De).zip
 
-#game: Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)
-#file: Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).zip
+# game: Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)
+# file: Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).zip
 
 game: Diddy Kong Racing (Japan)
 file: Diddy Kong Racing (Japan).zip
 
-#game: Diddy Kong Racing (USA) (En,Fr)
-#file: Diddy Kong Racing (USA) (En,Fr).zip
+# game: Diddy Kong Racing (USA) (En,Fr)
+# file: Diddy Kong Racing (USA) (En,Fr).zip
 
-#game: Diddy Kong Racing (USA) (En,Fr) (Rev 1)
-#file: Diddy Kong Racing (USA) (En,Fr) (Rev 1).zip
+# game: Diddy Kong Racing (USA) (En,Fr) (Rev 1)
+# file: Diddy Kong Racing (USA) (En,Fr) (Rev 1).zip
 
-#game: Die Hard 64 (USA) (Proto) (Level 1)
-#file: Die Hard 64 (USA) (Proto) (Level 1).zip
+# game: Die Hard 64 (USA) (Proto) (Level 1)
+# file: Die Hard 64 (USA) (Proto) (Level 1).zip
 
-#game: Die Hard 64 (USA) (Proto) (Level 2)
-#file: Die Hard 64 (USA) (Proto) (Level 2).zip
+# game: Die Hard 64 (USA) (Proto) (Level 2)
+# file: Die Hard 64 (USA) (Proto) (Level 2).zip
 
-#game: Die Hard 64 (USA) (Proto) (Level 3)
-#file: Die Hard 64 (USA) (Proto) (Level 3).zip
+# game: Die Hard 64 (USA) (Proto) (Level 3)
+# file: Die Hard 64 (USA) (Proto) (Level 3).zip
 
-#game: Dinosaur Planet (USA) (Proto) (2000-12-01)
-#file: Dinosaur Planet (USA) (Proto) (2000-12-01).zip
+# game: Dinosaur Planet (USA) (Proto) (2000-12-01)
+# file: Dinosaur Planet (USA) (Proto) (2000-12-01).zip
 
-#game: Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)
-#file: Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).zip
+# game: Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)
+# file: Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).zip
 
-#game: Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)
-#file: Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).zip
+# game: Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)
+# file: Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).zip
 
-#game: Donkey Kong 64 (Europe) (En,Fr,De,Es)
-#file: Donkey Kong 64 (Europe) (En,Fr,De,Es).zip
+# game: Donkey Kong 64 (Europe) (En,Fr,De,Es)
+# file: Donkey Kong 64 (Europe) (En,Fr,De,Es).zip
 
 game: Donkey Kong 64 (Japan)
 file: Donkey Kong 64 (Japan).zip
 
-#game: Donkey Kong 64 (USA)
-#file: Donkey Kong 64 (USA).zip
+# game: Donkey Kong 64 (USA)
+# file: Donkey Kong 64 (USA).zip
 
-#game: Donkey Kong 64 (USA) (Demo) (Kiosk)
-#file: Donkey Kong 64 (USA) (Demo) (Kiosk).zip
+# game: Donkey Kong 64 (USA) (Demo) (Kiosk)
+# file: Donkey Kong 64 (USA) (Demo) (Kiosk).zip
 
-#game: Donkey Kong 64 (USA) (LodgeNet)
-#file: Donkey Kong 64 (USA) (LodgeNet).zip
+# game: Donkey Kong 64 (USA) (LodgeNet)
+# file: Donkey Kong 64 (USA) (LodgeNet).zip
 
-#game: Doom 64 (Europe)
-#file: Doom 64 (Europe).zip
+# game: Doom 64 (Europe)
+# file: Doom 64 (Europe).zip
 
 game: Doom 64 (Japan)
 file: Doom 64 (Japan).zip
 
-#game: Doom 64 (USA)
-#file: Doom 64 (USA).zip
+# game: Doom 64 (USA)
+# file: Doom 64 (USA).zip
 
-#game: Doom 64 (USA) (Beta) (1996-12-10)
-#file: Doom 64 (USA) (Beta) (1996-12-10).zip
+# game: Doom 64 (USA) (Beta) (1996-12-10)
+# file: Doom 64 (USA) (Beta) (1996-12-10).zip
 
-#game: Doom 64 (USA) (Rev 1)
-#file: Doom 64 (USA) (Rev 1).zip
+# game: Doom 64 (USA) (Rev 1)
+# file: Doom 64 (USA) (Rev 1).zip
 
 game: Doraemon - Nobita to 3tsu no Seireiseki (Japan)
 file: Doraemon - Nobita to 3tsu no Seireiseki (Japan).zip
@@ -632,80 +632,80 @@ file: Doubutsu Banchou (Japan) (Proto).zip
 game: Doubutsu no Mori (Japan)
 file: Doubutsu no Mori (Japan).zip
 
-#game: Dr. Mario 64 (USA)
-#file: Dr. Mario 64 (USA).zip
+# game: Dr. Mario 64 (USA)
+# file: Dr. Mario 64 (USA).zip
 
-#game: Dr. Mario 64 (USA) (LodgeNet)
-#file: Dr. Mario 64 (USA) (LodgeNet).zip
+# game: Dr. Mario 64 (USA) (LodgeNet)
+# file: Dr. Mario 64 (USA) (LodgeNet).zip
 
-#game: Dragon Sword 64 (Europe) (Proto)
-#file: Dragon Sword 64 (Europe) (Proto).zip
+# game: Dragon Sword 64 (Europe) (Proto)
+# file: Dragon Sword 64 (Europe) (Proto).zip
 
-#game: Dragon Sword 64 (USA) (Proto) (1999-08-25)
-#file: Dragon Sword 64 (USA) (Proto) (1999-08-25).zip
+# game: Dragon Sword 64 (USA) (Proto) (1999-08-25)
+# file: Dragon Sword 64 (USA) (Proto) (1999-08-25).zip
 
-#game: Dual Heroes (Europe)
-#file: Dual Heroes (Europe).zip
+# game: Dual Heroes (Europe)
+# file: Dual Heroes (Europe).zip
 
 game: Dual Heroes (Japan)
 file: Dual Heroes (Japan).zip
 
-#game: Dual Heroes (USA)
-#file: Dual Heroes (USA).zip
+# game: Dual Heroes (USA)
+# file: Dual Heroes (USA).zip
 
-#game: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)
-#file: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).zip
+# game: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)
+# file: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).zip
 
-#game: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1)
-#file: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1).zip
+# game: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1)
+# file: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1).zip
 
-#game: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07)
-#file: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07).zip
+# game: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07)
+# file: Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07).zip
 
-#game: Duke Nukem - Zero Hour (Europe)
-#file: Duke Nukem - Zero Hour (Europe).zip
+# game: Duke Nukem - Zero Hour (Europe)
+# file: Duke Nukem - Zero Hour (Europe).zip
 
-#game: Duke Nukem - Zero Hour (France)
-#file: Duke Nukem - Zero Hour (France).zip
+# game: Duke Nukem - Zero Hour (France)
+# file: Duke Nukem - Zero Hour (France).zip
 
-#game: Duke Nukem - Zero Hour (USA)
-#file: Duke Nukem - Zero Hour (USA).zip
+# game: Duke Nukem - Zero Hour (USA)
+# file: Duke Nukem - Zero Hour (USA).zip
 
-#game: Duke Nukem - Zero Hour (USA) (Beta)
-#file: Duke Nukem - Zero Hour (USA) (Beta).zip
+# game: Duke Nukem - Zero Hour (USA) (Beta)
+# file: Duke Nukem - Zero Hour (USA) (Beta).zip
 
-#game: Duke Nukem 64 (Europe)
-#file: Duke Nukem 64 (Europe).zip
+# game: Duke Nukem 64 (Europe)
+# file: Duke Nukem 64 (Europe).zip
 
-#game: Duke Nukem 64 (Europe) (Beta)
-#file: Duke Nukem 64 (Europe) (Beta).zip
+# game: Duke Nukem 64 (Europe) (Beta)
+# file: Duke Nukem 64 (Europe) (Beta).zip
 
-#game: Duke Nukem 64 (France)
-#file: Duke Nukem 64 (France).zip
+# game: Duke Nukem 64 (France)
+# file: Duke Nukem 64 (France).zip
 
-#game: Duke Nukem 64 (USA)
-#file: Duke Nukem 64 (USA).zip
+# game: Duke Nukem 64 (USA)
+# file: Duke Nukem 64 (USA).zip
 
-#game: Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)
-#file: Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).zip
+# game: Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)
+# file: Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).zip
 
-#game: Earthworm Jim 3D (USA)
-#file: Earthworm Jim 3D (USA).zip
+# game: Earthworm Jim 3D (USA)
+# file: Earthworm Jim 3D (USA).zip
 
-#game: ECW Hardcore Revolution (Europe)
-#file: ECW Hardcore Revolution (Europe).zip
+# game: ECW Hardcore Revolution (Europe)
+# file: ECW Hardcore Revolution (Europe).zip
 
-#game: ECW Hardcore Revolution (Germany)
-#file: ECW Hardcore Revolution (Germany).zip
+# game: ECW Hardcore Revolution (Germany)
+# file: ECW Hardcore Revolution (Germany).zip
 
-#game: ECW Hardcore Revolution (USA)
-#file: ECW Hardcore Revolution (USA).zip
+# game: ECW Hardcore Revolution (USA)
+# file: ECW Hardcore Revolution (USA).zip
 
-#game: ECW Hardcore Revolution (USA) (Beta)
-#file: ECW Hardcore Revolution (USA) (Beta).zip
+# game: ECW Hardcore Revolution (USA) (Beta)
+# file: ECW Hardcore Revolution (USA) (Beta).zip
 
-#game: EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet)
-#file: EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet).zip
+# game: EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet)
+# file: EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet).zip
 
 game: Eikou no Saint Andrews (Japan)
 file: Eikou no Saint Andrews (Japan).zip
@@ -713,92 +713,92 @@ file: Eikou no Saint Andrews (Japan).zip
 game: Eltale Monsters (Japan)
 file: Eltale Monsters (Japan).zip
 
-#game: Excitebike 64 (Europe)
-#file: Excitebike 64 (Europe).zip
+# game: Excitebike 64 (Europe)
+# file: Excitebike 64 (Europe).zip
 
 game: Excitebike 64 (Japan)
 file: Excitebike 64 (Japan).zip
 
-#game: Excitebike 64 (USA)
-#file: Excitebike 64 (USA).zip
+# game: Excitebike 64 (USA)
+# file: Excitebike 64 (USA).zip
 
-#game: Excitebike 64 (USA) (Demo) (Kiosk)
-#file: Excitebike 64 (USA) (Demo) (Kiosk).zip
+# game: Excitebike 64 (USA) (Demo) (Kiosk)
+# file: Excitebike 64 (USA) (Demo) (Kiosk).zip
 
-#game: Excitebike 64 (USA) (LodgeNet)
-#file: Excitebike 64 (USA) (LodgeNet).zip
+# game: Excitebike 64 (USA) (LodgeNet)
+# file: Excitebike 64 (USA) (LodgeNet).zip
 
-#game: Excitebike 64 (USA) (Rev 1)
-#file: Excitebike 64 (USA) (Rev 1).zip
+# game: Excitebike 64 (USA) (Rev 1)
+# file: Excitebike 64 (USA) (Rev 1).zip
 
-#game: Extreme-G (Europe) (En,Fr,De,Es,It)
-#file: Extreme-G (Europe) (En,Fr,De,Es,It).zip
+# game: Extreme-G (Europe) (En,Fr,De,Es,It)
+# file: Extreme-G (Europe) (En,Fr,De,Es,It).zip
 
 game: Extreme-G (Japan)
 file: Extreme-G (Japan).zip
 
-#game: Extreme-G (USA)
-#file: Extreme-G (USA).zip
+# game: Extreme-G (USA)
+# file: Extreme-G (USA).zip
 
-#game: Extreme-G XG2 (Europe) (En,Fr,De,Es,It)
-#file: Extreme-G XG2 (Europe) (En,Fr,De,Es,It).zip
+# game: Extreme-G XG2 (Europe) (En,Fr,De,Es,It)
+# file: Extreme-G XG2 (Europe) (En,Fr,De,Es,It).zip
 
 game: Extreme-G XG2 (Japan)
 file: Extreme-G XG2 (Japan).zip
 
-#game: Extreme-G XG2 (USA)
-#file: Extreme-G XG2 (USA).zip
+# game: Extreme-G XG2 (USA)
+# file: Extreme-G XG2 (USA).zip
 
-#game: F-1 World Grand Prix (Europe)
-#file: F-1 World Grand Prix (Europe).zip
+# game: F-1 World Grand Prix (Europe)
+# file: F-1 World Grand Prix (Europe).zip
 
-#game: F-1 World Grand Prix (Europe) (Beta)
-#file: F-1 World Grand Prix (Europe) (Beta).zip
+# game: F-1 World Grand Prix (Europe) (Beta)
+# file: F-1 World Grand Prix (Europe) (Beta).zip
 
-#game: F-1 World Grand Prix (France)
-#file: F-1 World Grand Prix (France).zip
+# game: F-1 World Grand Prix (France)
+# file: F-1 World Grand Prix (France).zip
 
-#game: F-1 World Grand Prix (Germany)
-#file: F-1 World Grand Prix (Germany).zip
+# game: F-1 World Grand Prix (Germany)
+# file: F-1 World Grand Prix (Germany).zip
 
 game: F-1 World Grand Prix (Japan)
 file: F-1 World Grand Prix (Japan).zip
 
-#game: F-1 World Grand Prix (USA)
-#file: F-1 World Grand Prix (USA).zip
+# game: F-1 World Grand Prix (USA)
+# file: F-1 World Grand Prix (USA).zip
 
-#game: F-1 World Grand Prix II (Europe) (En,Fr,De,Es)
-#file: F-1 World Grand Prix II (Europe) (En,Fr,De,Es).zip
+# game: F-1 World Grand Prix II (Europe) (En,Fr,De,Es)
+# file: F-1 World Grand Prix II (Europe) (En,Fr,De,Es).zip
 
-#game: F-Zero X (Europe)
-#file: F-Zero X (Europe).zip
+# game: F-Zero X (Europe)
+# file: F-Zero X (Europe).zip
 
 game: F-Zero X (Japan)
 file: F-Zero X (Japan).zip
 
-#game: F-Zero X (USA)
-#file: F-Zero X (USA).zip
+# game: F-Zero X (USA)
+# file: F-Zero X (USA).zip
 
-#game: F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data)
-#file: F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data).zip
+# game: F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data)
+# file: F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data).zip
 
-#game: F-Zero X (USA) (LodgeNet)
-#file: F-Zero X (USA) (LodgeNet).zip
+# game: F-Zero X (USA) (LodgeNet)
+# file: F-Zero X (USA) (LodgeNet).zip
 
-#game: F1 Pole Position 64 (Europe) (En,Fr,De)
-#file: F1 Pole Position 64 (Europe) (En,Fr,De).zip
+# game: F1 Pole Position 64 (Europe) (En,Fr,De)
+# file: F1 Pole Position 64 (Europe) (En,Fr,De).zip
 
-#game: F1 Pole Position 64 (USA) (En,Fr,De)
-#file: F1 Pole Position 64 (USA) (En,Fr,De).zip
+# game: F1 Pole Position 64 (USA) (En,Fr,De)
+# file: F1 Pole Position 64 (USA) (En,Fr,De).zip
 
-#game: F1 Racing Championship (Brazil) (En,Fr)
-#file: F1 Racing Championship (Brazil) (En,Fr).zip
+# game: F1 Racing Championship (Brazil) (En,Fr)
+# file: F1 Racing Championship (Brazil) (En,Fr).zip
 
-#game: F1 Racing Championship (Europe) (En,Fr,De,Es,It)
-#file: F1 Racing Championship (Europe) (En,Fr,De,Es,It).zip
+# game: F1 Racing Championship (Europe) (En,Fr,De,Es,It)
+# file: F1 Racing Championship (Europe) (En,Fr,De,Es,It).zip
 
-#game: F1 Racing Championship (USA) (Beta)
-#file: F1 Racing Championship (USA) (Beta).zip
+# game: F1 Racing Championship (USA) (Beta)
+# file: F1 Racing Championship (USA) (Beta).zip
 
 game: Famista 64 (Japan)
 file: Famista 64 (Japan).zip
@@ -806,95 +806,95 @@ file: Famista 64 (Japan).zip
 game: FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)
 file: FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).zip
 
-#game: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)
-#file: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+# game: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)
+# file: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
 
-#game: FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)
-#file: FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).zip
+# game: FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)
+# file: FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).zip
 
-#game: FIFA 64 (Europe) (En,Fr,De)
-#file: FIFA 64 (Europe) (En,Fr,De).zip
+# game: FIFA 64 (Europe) (En,Fr,De)
+# file: FIFA 64 (Europe) (En,Fr,De).zip
 
-#game: FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)
-#file: FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+# game: FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)
+# file: FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
 
-#game: FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)
-#file: FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+# game: FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)
+# file: FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
 
-#game: FIFA Soccer 64 (USA) (En,Fr,De)
-#file: FIFA Soccer 64 (USA) (En,Fr,De).zip
+# game: FIFA Soccer 64 (USA) (En,Fr,De)
+# file: FIFA Soccer 64 (USA) (En,Fr,De).zip
 
-#game: Fighter Destiny 2 (USA)
-#file: Fighter Destiny 2 (USA).zip
+# game: Fighter Destiny 2 (USA)
+# file: Fighter Destiny 2 (USA).zip
 
-#game: Fighters Destiny (Europe)
-#file: Fighters Destiny (Europe).zip
+# game: Fighters Destiny (Europe)
+# file: Fighters Destiny (Europe).zip
 
-#game: Fighters Destiny (France)
-#file: Fighters Destiny (France).zip
+# game: Fighters Destiny (France)
+# file: Fighters Destiny (France).zip
 
-#game: Fighters Destiny (Germany)
-#file: Fighters Destiny (Germany).zip
+# game: Fighters Destiny (Germany)
+# file: Fighters Destiny (Germany).zip
 
-#game: Fighters Destiny (USA)
-#file: Fighters Destiny (USA).zip
+# game: Fighters Destiny (USA)
+# file: Fighters Destiny (USA).zip
 
 game: Fighting Cup (Japan)
 file: Fighting Cup (Japan).zip
 
-#game: Fighting Force 64 (Europe)
-#file: Fighting Force 64 (Europe).zip
+# game: Fighting Force 64 (Europe)
+# file: Fighting Force 64 (Europe).zip
 
-#game: Fighting Force 64 (USA)
-#file: Fighting Force 64 (USA).zip
+# game: Fighting Force 64 (USA)
+# file: Fighting Force 64 (USA).zip
 
-#game: Flying Dragon (Europe)
-#file: Flying Dragon (Europe).zip
+# game: Flying Dragon (Europe)
+# file: Flying Dragon (Europe).zip
 
-#game: Flying Dragon (USA)
-#file: Flying Dragon (USA).zip
+# game: Flying Dragon (USA)
+# file: Flying Dragon (USA).zip
 
-#game: Forsaken (Europe) (En,Fr,Es,It)
-#file: Forsaken (Europe) (En,Fr,Es,It).zip
+# game: Forsaken (Europe) (En,Fr,Es,It)
+# file: Forsaken (Europe) (En,Fr,Es,It).zip
 
-#game: Forsaken (Germany)
-#file: Forsaken (Germany).zip
+# game: Forsaken (Germany)
+# file: Forsaken (Germany).zip
 
-#game: Forsaken 64 (USA)
-#file: Forsaken 64 (USA).zip
+# game: Forsaken 64 (USA)
+# file: Forsaken 64 (USA).zip
 
-#game: Fox Sports College Hoops '99 (USA)
-#file: Fox Sports College Hoops '99 (USA).zip
+# game: Fox Sports College Hoops '99 (USA)
+# file: Fox Sports College Hoops '99 (USA).zip
 
-#game: Freak Boy (Unknown) (Proto)
-#file: Freak Boy (Unknown) (Proto).zip
+# game: Freak Boy (Unknown) (Proto)
+# file: Freak Boy (Unknown) (Proto).zip
 
-#game: Frogger 2 (USA) (Proto 1)
-#file: Frogger 2 (USA) (Proto 1).zip
+# game: Frogger 2 (USA) (Proto 1)
+# file: Frogger 2 (USA) (Proto 1).zip
 
-#game: Frogger 2 (USA) (Proto 2)
-#file: Frogger 2 (USA) (Proto 2).zip
+# game: Frogger 2 (USA) (Proto 2)
+# file: Frogger 2 (USA) (Proto 2).zip
 
 game: Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)
 file: Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).zip
 
-#game: G.A.S.P!! Fighters' NEXTream (Europe)
-#file: G.A.S.P!! Fighters' NEXTream (Europe).zip
+# game: G.A.S.P!! Fighters' NEXTream (Europe)
+# file: G.A.S.P!! Fighters' NEXTream (Europe).zip
 
 game: G.A.S.P!! Fighters' NEXTream (Japan)
 file: G.A.S.P!! Fighters' NEXTream (Japan).zip
 
-#game: GameBooster 64 (Europe) (v1.1) (Unl)
-#file: GameBooster 64 (Europe) (v1.1) (Unl).zip
+# game: GameBooster 64 (Europe) (v1.1) (Unl)
+# file: GameBooster 64 (Europe) (v1.1) (Unl).zip
 
-#game: GameBooster 64 (USA) (v1.1) (Unl)
-#file: GameBooster 64 (USA) (v1.1) (Unl).zip
+# game: GameBooster 64 (USA) (v1.1) (Unl)
+# file: GameBooster 64 (USA) (v1.1) (Unl).zip
 
-#game: GameShark Pro (USA) (v2.0) (Unl)
-#file: GameShark Pro (USA) (v2.0) (Unl).zip
+# game: GameShark Pro (USA) (v2.0) (Unl)
+# file: GameShark Pro (USA) (v2.0) (Unl).zip
 
-#game: GameShark Pro (USA) (v3.3) (Unl)
-#file: GameShark Pro (USA) (v3.3) (Unl).zip
+# game: GameShark Pro (USA) (v3.3) (Unl)
+# file: GameShark Pro (USA) (v3.3) (Unl).zip
 
 game: Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)
 file: Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan).zip
@@ -905,85 +905,85 @@ file: Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan).zip
 game: Ganbare! Nippon! Olympics 2000 (Japan)
 file: Ganbare! Nippon! Olympics 2000 (Japan).zip
 
-#game: Gauntlet Legends (Europe)
-#file: Gauntlet Legends (Europe).zip
+# game: Gauntlet Legends (Europe)
+# file: Gauntlet Legends (Europe).zip
 
 game: Gauntlet Legends (Japan)
 file: Gauntlet Legends (Japan).zip
 
-#game: Gauntlet Legends (USA)
-#file: Gauntlet Legends (USA).zip
+# game: Gauntlet Legends (USA)
+# file: Gauntlet Legends (USA).zip
 
-#game: Gauntlet Legends (USA) (LodgeNet)
-#file: Gauntlet Legends (USA) (LodgeNet).zip
+# game: Gauntlet Legends (USA) (LodgeNet)
+# file: Gauntlet Legends (USA) (LodgeNet).zip
 
 game: Getter Love!! - Cho Renai Party Game Tanjou (Japan)
 file: Getter Love!! - Cho Renai Party Game Tanjou (Japan).zip
 
-#game: Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)
-#file: Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).zip
+# game: Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)
+# file: Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).zip
 
-#game: Gex 3 - Deep Cover Gecko (Europe) (Fr,De)
-#file: Gex 3 - Deep Cover Gecko (Europe) (Fr,De).zip
+# game: Gex 3 - Deep Cover Gecko (Europe) (Fr,De)
+# file: Gex 3 - Deep Cover Gecko (Europe) (Fr,De).zip
 
-#game: Gex 3 - Deep Cover Gecko (USA)
-#file: Gex 3 - Deep Cover Gecko (USA).zip
+# game: Gex 3 - Deep Cover Gecko (USA)
+# file: Gex 3 - Deep Cover Gecko (USA).zip
 
-#game: Gex 64 - Enter the Gecko (Europe)
-#file: Gex 64 - Enter the Gecko (Europe).zip
+# game: Gex 64 - Enter the Gecko (Europe)
+# file: Gex 64 - Enter the Gecko (Europe).zip
 
-#game: Gex 64 - Enter the Gecko (USA)
-#file: Gex 64 - Enter the Gecko (USA).zip
+# game: Gex 64 - Enter the Gecko (USA)
+# file: Gex 64 - Enter the Gecko (USA).zip
 
-#game: Glover (Europe) (En,Fr,De)
-#file: Glover (Europe) (En,Fr,De).zip
+# game: Glover (Europe) (En,Fr,De)
+# file: Glover (Europe) (En,Fr,De).zip
 
-#game: Glover (USA)
-#file: Glover (USA).zip
+# game: Glover (USA)
+# file: Glover (USA).zip
 
-#game: Glover (USA) (1998-07-16) (Beta) [b]
-#file: Glover (USA) (1998-07-16) (Beta) [b].zip
+# game: Glover (USA) (1998-07-16) (Beta) [b]
+# file: Glover (USA) (1998-07-16) (Beta) [b].zip
 
-#game: Glover (USA) (1998-09-04) (Beta)
-#file: Glover (USA) (1998-09-04) (Beta).zip
+# game: Glover (USA) (1998-09-04) (Beta)
+# file: Glover (USA) (1998-09-04) (Beta).zip
 
-#game: Glover 2 (USA) (Proto 1)
-#file: Glover 2 (USA) (Proto 1).zip
+# game: Glover 2 (USA) (Proto 1)
+# file: Glover 2 (USA) (Proto 1).zip
 
-#game: Glover 2 (USA) (Proto 2)
-#file: Glover 2 (USA) (Proto 2).zip
+# game: Glover 2 (USA) (Proto 2)
+# file: Glover 2 (USA) (Proto 2).zip
 
 game: Goemon - Mononoke Sugoroku (Japan)
 file: Goemon - Mononoke Sugoroku (Japan).zip
 
-#game: Goemon's Great Adventure (USA)
-#file: Goemon's Great Adventure (USA).zip
+# game: Goemon's Great Adventure (USA)
+# file: Goemon's Great Adventure (USA).zip
 
-#game: Golden Nugget 64 (USA)
-#file: Golden Nugget 64 (USA).zip
+# game: Golden Nugget 64 (USA)
+# file: Golden Nugget 64 (USA).zip
 
-#game: GoldenEye 007 (Europe)
-#file: GoldenEye 007 (Europe).zip
+# game: GoldenEye 007 (Europe)
+# file: GoldenEye 007 (Europe).zip
 
 game: GoldenEye 007 (Japan)
 files:
   GoldenEye 007 (Japan).zip
   GoldenEye 007 (Japan) (Switch Online).zip
 
-#game: GoldenEye 007 (USA, Europe) (Switch Online)
-#file: GoldenEye 007 (USA, Europe) (Switch Online).zip
+# game: GoldenEye 007 (USA, Europe) (Switch Online)
+# file: GoldenEye 007 (USA, Europe) (Switch Online).zip
 
-#game: GoldenEye 007 (USA)
-#file: GoldenEye 007 (USA).zip
+# game: GoldenEye 007 (USA)
+# file: GoldenEye 007 (USA).zip
 
-#game: GT 64 - Championship Edition (Europe) (En,Fr,De)
-#file: GT 64 - Championship Edition (Europe) (En,Fr,De).zip
+# game: GT 64 - Championship Edition (Europe) (En,Fr,De)
+# file: GT 64 - Championship Edition (Europe) (En,Fr,De).zip
 
-#game: GT 64 - Championship Edition (USA)
-#file: GT 64 - Championship Edition (USA).zip
+# game: GT 64 - Championship Edition (USA)
+# file: GT 64 - Championship Edition (USA).zip
 
-#game: GT 64 - Championship Edition (USA) (Beta) (1998-05-25)
-#file: GT 64 - Championship Edition (USA) (Beta) (1998-05-25).zip
+# game: GT 64 - Championship Edition (USA) (Beta) (1998-05-25)
+# file: GT 64 - Championship Edition (USA) (Beta) (1998-05-25).zip
 
 game: Hamster Monogatari 64 (Japan)
 file: Hamster Monogatari 64 (Japan).zip
@@ -991,53 +991,53 @@ file: Hamster Monogatari 64 (Japan).zip
 game: Harukanaru Augusta - Masters '98 (Japan)
 file: Harukanaru Augusta - Masters '98 (Japan).zip
 
-#game: Harvest Moon 64 (USA)
-#file: Harvest Moon 64 (USA).zip
+# game: Harvest Moon 64 (USA)
+# file: Harvest Moon 64 (USA).zip
 
 game: Heiwa Pachinko World 64 (Japan)
 file: Heiwa Pachinko World 64 (Japan).zip
 
-#game: Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)
-#file: Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)
+# file: Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Hercules - The Legendary Journeys (USA)
-#file: Hercules - The Legendary Journeys (USA).zip
+# game: Hercules - The Legendary Journeys (USA)
+# file: Hercules - The Legendary Journeys (USA).zip
 
-#game: Hercules - The Legendary Journeys (USA) (Beta 1)
-#file: Hercules - The Legendary Journeys (USA) (Beta 1).zip
+# game: Hercules - The Legendary Journeys (USA) (Beta 1)
+# file: Hercules - The Legendary Journeys (USA) (Beta 1).zip
 
-#game: Hercules - The Legendary Journeys (USA) (Beta 2)
-#file: Hercules - The Legendary Journeys (USA) (Beta 2).zip
+# game: Hercules - The Legendary Journeys (USA) (Beta 2)
+# file: Hercules - The Legendary Journeys (USA) (Beta 2).zip
 
-#game: Hexen (Europe)
-#file: Hexen (Europe).zip
+# game: Hexen (Europe)
+# file: Hexen (Europe).zip
 
-#game: Hexen (France)
-#file: Hexen (France).zip
+# game: Hexen (France)
+# file: Hexen (France).zip
 
-#game: Hexen (Germany)
-#file: Hexen (Germany).zip
+# game: Hexen (Germany)
+# file: Hexen (Germany).zip
 
 game: Hexen (Japan)
 file: Hexen (Japan).zip
 
-#game: Hexen (USA)
-#file: Hexen (USA).zip
+# game: Hexen (USA)
+# file: Hexen (USA).zip
 
-#game: Hey You, Pikachu! (USA)
-#file: Hey You, Pikachu! (USA).zip
+# game: Hey You, Pikachu! (USA)
+# file: Hey You, Pikachu! (USA).zip
 
 game: Hiryuu no Ken Twin (Japan)
 file: Hiryuu no Ken Twin (Japan).zip
 
-#game: Holy Magic Century (Europe)
-#file: Holy Magic Century (Europe).zip
+# game: Holy Magic Century (Europe)
+# file: Holy Magic Century (Europe).zip
 
-#game: Holy Magic Century (France)
-#file: Holy Magic Century (France).zip
+# game: Holy Magic Century (France)
+# file: Holy Magic Century (France).zip
 
-#game: Holy Magic Century (Germany)
-#file: Holy Magic Century (Germany).zip
+# game: Holy Magic Century (Germany)
+# file: Holy Magic Century (Germany).zip
 
 game: Hoshi no Kirby 64 (Japan)
 files:
@@ -1046,38 +1046,38 @@ files:
   Hoshi no Kirby 64 (Japan) (Rev 2).zip
   Hoshi no Kirby 64 (Japan) (Rev 3).zip
 
-#game: Hot Wheels - Turbo Racing (Europe) (En,Fr,De)
-#file: Hot Wheels - Turbo Racing (Europe) (En,Fr,De).zip
+# game: Hot Wheels - Turbo Racing (Europe) (En,Fr,De)
+# file: Hot Wheels - Turbo Racing (Europe) (En,Fr,De).zip
 
-#game: Hot Wheels - Turbo Racing (USA)
-#file: Hot Wheels - Turbo Racing (USA).zip
+# game: Hot Wheels - Turbo Racing (USA)
+# file: Hot Wheels - Turbo Racing (USA).zip
 
-#game: HSV Adventure Racing! (Australia)
-#file: HSV Adventure Racing! (Australia).zip
+# game: HSV Adventure Racing! (Australia)
+# file: HSV Adventure Racing! (Australia).zip
 
 game: Human Grand Prix - The New Generation (Japan)
 file: Human Grand Prix - The New Generation (Japan).zip
 
-#game: Hybrid Heaven (Europe) (En,Fr,De)
-#file: Hybrid Heaven (Europe) (En,Fr,De).zip
+# game: Hybrid Heaven (Europe) (En,Fr,De)
+# file: Hybrid Heaven (Europe) (En,Fr,De).zip
 
 game: Hybrid Heaven (Japan)
 file: Hybrid Heaven (Japan).zip
 
-#game: Hybrid Heaven (USA)
-#file: Hybrid Heaven (USA).zip
+# game: Hybrid Heaven (USA)
+# file: Hybrid Heaven (USA).zip
 
-#game: Hydro Thunder (Europe)
-#file: Hydro Thunder (Europe).zip
+# game: Hydro Thunder (Europe)
+# file: Hydro Thunder (Europe).zip
 
-#game: Hydro Thunder (France)
-#file: Hydro Thunder (France).zip
+# game: Hydro Thunder (France)
+# file: Hydro Thunder (France).zip
 
-#game: Hydro Thunder (USA)
-#file: Hydro Thunder (USA).zip
+# game: Hydro Thunder (USA)
+# file: Hydro Thunder (USA).zip
 
-#game: Hydro Thunder (USA) (LodgeNet)
-#file: Hydro Thunder (USA) (LodgeNet).zip
+# game: Hydro Thunder (USA) (LodgeNet)
+# file: Hydro Thunder (USA) (LodgeNet).zip
 
 game: Hyper Olympics in Nagano 64 (Japan)
 file: Hyper Olympics in Nagano 64 (Japan).zip
@@ -1088,62 +1088,62 @@ file: Ide Yosuke no Mahjong Juku (Japan).zip
 game: Iggy-kun no Bura Bura Poyon (Japan)
 file: Iggy-kun no Bura Bura Poyon (Japan).zip
 
-#game: Iggy's Reckin' Balls (Europe)
-#file: Iggy's Reckin' Balls (Europe).zip
+# game: Iggy's Reckin' Balls (Europe)
+# file: Iggy's Reckin' Balls (Europe).zip
 
-#game: Iggy's Reckin' Balls (USA)
-#file: Iggy's Reckin' Balls (USA).zip
+# game: Iggy's Reckin' Balls (USA)
+# file: Iggy's Reckin' Balls (USA).zip
 
-#game: Iggy's Reckin' Balls (USA) (Beta)
-#file: Iggy's Reckin' Balls (USA) (Beta).zip
+# game: Iggy's Reckin' Balls (USA) (Beta)
+# file: Iggy's Reckin' Balls (USA) (Beta).zip
 
-#game: In-Fisherman - Bass Hunter 64 (Europe)
-#file: In-Fisherman - Bass Hunter 64 (Europe).zip
+# game: In-Fisherman - Bass Hunter 64 (Europe)
+# file: In-Fisherman - Bass Hunter 64 (Europe).zip
 
-#game: In-Fisherman - Bass Hunter 64 (USA)
-#file: In-Fisherman - Bass Hunter 64 (USA).zip
+# game: In-Fisherman - Bass Hunter 64 (USA)
+# file: In-Fisherman - Bass Hunter 64 (USA).zip
 
-#game: Indiana Jones and the Infernal Machine (Australia) (Proto)
-#file: Indiana Jones and the Infernal Machine (Australia) (Proto).zip
+# game: Indiana Jones and the Infernal Machine (Australia) (Proto)
+# file: Indiana Jones and the Infernal Machine (Australia) (Proto).zip
 
-#game: Indiana Jones and the Infernal Machine (USA)
-#file: Indiana Jones and the Infernal Machine (USA).zip
+# game: Indiana Jones and the Infernal Machine (USA)
+# file: Indiana Jones and the Infernal Machine (USA).zip
 
-#game: Indy Racing 2000 (USA)
-#file: Indy Racing 2000 (USA).zip
+# game: Indy Racing 2000 (USA)
+# file: Indy Racing 2000 (USA).zip
 
-#game: International Superstar Soccer '98 (Europe)
-#file: International Superstar Soccer '98 (Europe).zip
+# game: International Superstar Soccer '98 (Europe)
+# file: International Superstar Soccer '98 (Europe).zip
 
-#game: International Superstar Soccer '98 (Europe) (Beta) (1998-03-02)
-#file: International Superstar Soccer '98 (Europe) (Beta) (1998-03-02).zip
+# game: International Superstar Soccer '98 (Europe) (Beta) (1998-03-02)
+# file: International Superstar Soccer '98 (Europe) (Beta) (1998-03-02).zip
 
-#game: International Superstar Soccer '98 (USA)
-#file: International Superstar Soccer '98 (USA).zip
+# game: International Superstar Soccer '98 (USA)
+# file: International Superstar Soccer '98 (USA).zip
 
-#game: International Superstar Soccer 2000 (Europe) (En,De)
-#file: International Superstar Soccer 2000 (Europe) (En,De).zip
+# game: International Superstar Soccer 2000 (Europe) (En,De)
+# file: International Superstar Soccer 2000 (Europe) (En,De).zip
 
-#game: International Superstar Soccer 2000 (Europe) (Fr,It)
-#file: International Superstar Soccer 2000 (Europe) (Fr,It).zip
+# game: International Superstar Soccer 2000 (Europe) (Fr,It)
+# file: International Superstar Soccer 2000 (Europe) (Fr,It).zip
 
-#game: International Superstar Soccer 2000 (USA) (En,Es)
-#file: International Superstar Soccer 2000 (USA) (En,Es).zip
+# game: International Superstar Soccer 2000 (USA) (En,Es)
+# file: International Superstar Soccer 2000 (USA) (En,Es).zip
 
-#game: International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)
-#file: International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).zip
+# game: International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)
+# file: International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).zip
 
-#game: International Superstar Soccer 64 (Europe)
-#file: International Superstar Soccer 64 (Europe).zip
+# game: International Superstar Soccer 64 (Europe)
+# file: International Superstar Soccer 64 (Europe).zip
 
-#game: International Superstar Soccer 64 (USA)
-#file: International Superstar Soccer 64 (USA).zip
+# game: International Superstar Soccer 64 (USA)
+# file: International Superstar Soccer 64 (USA).zip
 
-#game: International Track & Field - Summer Games (Europe) (En,Fr,De)
-#file: International Track & Field - Summer Games (Europe) (En,Fr,De).zip
+# game: International Track & Field - Summer Games (Europe) (En,Fr,De)
+# file: International Track & Field - Summer Games (Europe) (En,Fr,De).zip
 
-#game: International Track & Field 2000 (USA)
-#file: International Track & Field 2000 (USA).zip
+# game: International Track & Field 2000 (USA)
+# file: International Track & Field 2000 (USA).zip
 
 game: Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)
 file: Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan).zip
@@ -1165,26 +1165,26 @@ files:
 game: Jangou Simulation Mahjong Dou 64 (Japan)
 file: Jangou Simulation Mahjong Dou 64 (Japan).zip
 
-#game: Jeopardy! (USA)
-#file: Jeopardy! (USA).zip
+# game: Jeopardy! (USA)
+# file: Jeopardy! (USA).zip
 
-#game: Jeremy McGrath Supercross 2000 (Europe)
-#file: Jeremy McGrath Supercross 2000 (Europe).zip
+# game: Jeremy McGrath Supercross 2000 (Europe)
+# file: Jeremy McGrath Supercross 2000 (Europe).zip
 
-#game: Jeremy McGrath Supercross 2000 (USA)
-#file: Jeremy McGrath Supercross 2000 (USA).zip
+# game: Jeremy McGrath Supercross 2000 (USA)
+# file: Jeremy McGrath Supercross 2000 (USA).zip
 
-#game: Jeremy McGrath Supercross 2000 (USA) (Beta)
-#file: Jeremy McGrath Supercross 2000 (USA) (Beta).zip
+# game: Jeremy McGrath Supercross 2000 (USA) (Beta)
+# file: Jeremy McGrath Supercross 2000 (USA) (Beta).zip
 
-#game: Jet Force Gemini (Europe) (En,Fr,De,Es)
-#file: Jet Force Gemini (Europe) (En,Fr,De,Es).zip
+# game: Jet Force Gemini (Europe) (En,Fr,De,Es)
+# file: Jet Force Gemini (Europe) (En,Fr,De,Es).zip
 
-#game: Jet Force Gemini (USA)
-#file: Jet Force Gemini (USA).zip
+# game: Jet Force Gemini (USA)
+# file: Jet Force Gemini (USA).zip
 
-#game: Jet Force Gemini (USA) (Demo) (Kiosk)
-#file: Jet Force Gemini (USA) (Demo) (Kiosk).zip
+# game: Jet Force Gemini (USA) (Demo) (Kiosk)
+# file: Jet Force Gemini (USA) (Demo) (Kiosk).zip
 
 game: Jikkyou G1 Stable (Japan)
 files:
@@ -1242,32 +1242,32 @@ file: Jikuu Senshi Turok (Japan).zip
 game: Jinsei Game 64 (Japan)
 file: Jinsei Game 64 (Japan).zip
 
-#game: John Romero's Daikatana (Europe) (En,Fr,De)
-#file: John Romero's Daikatana (Europe) (En,Fr,De).zip
+# game: John Romero's Daikatana (Europe) (En,Fr,De)
+# file: John Romero's Daikatana (Europe) (En,Fr,De).zip
 
 game: John Romero's Daikatana (Japan)
 file: John Romero's Daikatana (Japan).zip
 
-#game: John Romero's Daikatana (USA)
-#file: John Romero's Daikatana (USA).zip
+# game: John Romero's Daikatana (USA)
+# file: John Romero's Daikatana (USA).zip
 
 game: Kakutou Denshou - F-Cup Maniax (Japan)
 file: Kakutou Denshou - F-Cup Maniax (Japan).zip
 
-#game: Ken Griffey Jr.'s Slugfest (USA)
-#file: Ken Griffey Jr.'s Slugfest (USA).zip
+# game: Ken Griffey Jr.'s Slugfest (USA)
+# file: Ken Griffey Jr.'s Slugfest (USA).zip
 
-#game: Killer Instinct Gold (Europe)
-#file: Killer Instinct Gold (Europe).zip
+# game: Killer Instinct Gold (Europe)
+# file: Killer Instinct Gold (Europe).zip
 
-#game: Killer Instinct Gold (USA)
-#file: Killer Instinct Gold (USA).zip
+# game: Killer Instinct Gold (USA)
+# file: Killer Instinct Gold (USA).zip
 
-#game: Killer Instinct Gold (USA) (Rev 1)
-#file: Killer Instinct Gold (USA) (Rev 1).zip
+# game: Killer Instinct Gold (USA) (Rev 1)
+# file: Killer Instinct Gold (USA) (Rev 1).zip
 
-#game: Killer Instinct Gold (USA) (Rev 2)
-#file: Killer Instinct Gold (USA) (Rev 2).zip
+# game: Killer Instinct Gold (USA) (Rev 2)
+# file: Killer Instinct Gold (USA) (Rev 2).zip
 
 game: King Hill 64 - Extreme Snowboarding (Japan)
 file: King Hill 64 - Extreme Snowboarding (Japan).zip
@@ -1275,176 +1275,176 @@ file: King Hill 64 - Extreme Snowboarding (Japan).zip
 game: Kiratto Kaiketsu! 64 Tanteidan (Japan)
 file: Kiratto Kaiketsu! 64 Tanteidan (Japan).zip
 
-#game: Kirby 64 - The Crystal Shards (Europe)
-#file: Kirby 64 - The Crystal Shards (Europe).zip
+# game: Kirby 64 - The Crystal Shards (Europe)
+# file: Kirby 64 - The Crystal Shards (Europe).zip
 
-#game: Kirby 64 - The Crystal Shards (USA)
-#file: Kirby 64 - The Crystal Shards (USA).zip
+# game: Kirby 64 - The Crystal Shards (USA)
+# file: Kirby 64 - The Crystal Shards (USA).zip
 
-#game: Kirby 64 - The Crystal Shards (USA) (LodgeNet)
-#file: Kirby 64 - The Crystal Shards (USA) (LodgeNet).zip
+# game: Kirby 64 - The Crystal Shards (USA) (LodgeNet)
+# file: Kirby 64 - The Crystal Shards (USA) (LodgeNet).zip
 
-#game: Knife Edge - Nose Gunner (Europe)
-#file: Knife Edge - Nose Gunner (Europe).zip
+# game: Knife Edge - Nose Gunner (Europe)
+# file: Knife Edge - Nose Gunner (Europe).zip
 
 game: Knife Edge - Nose Gunner (Japan)
 file: Knife Edge - Nose Gunner (Japan).zip
 
-#game: Knife Edge - Nose Gunner (USA)
-#file: Knife Edge - Nose Gunner (USA).zip
+# game: Knife Edge - Nose Gunner (USA)
+# file: Knife Edge - Nose Gunner (USA).zip
 
-#game: Knockout Kings 2000 (Europe)
-#file: Knockout Kings 2000 (Europe).zip
+# game: Knockout Kings 2000 (Europe)
+# file: Knockout Kings 2000 (Europe).zip
 
-#game: Knockout Kings 2000 (USA)
-#file: Knockout Kings 2000 (USA).zip
+# game: Knockout Kings 2000 (USA)
+# file: Knockout Kings 2000 (USA).zip
 
-#game: Kobe Bryant in NBA Courtside (Europe)
-#file: Kobe Bryant in NBA Courtside (Europe).zip
+# game: Kobe Bryant in NBA Courtside (Europe)
+# file: Kobe Bryant in NBA Courtside (Europe).zip
 
-#game: Kobe Bryant in NBA Courtside (USA)
-#file: Kobe Bryant in NBA Courtside (USA).zip
+# game: Kobe Bryant in NBA Courtside (USA)
+# file: Kobe Bryant in NBA Courtside (USA).zip
 
 game: Last Legion UX (Japan)
 file: Last Legion UX (Japan).zip
 
-#game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)
-#file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).zip
+# game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)
+# file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).zip
 
-#game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)
-#file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).zip
+# game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)
+# file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).zip
 
-#game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)
-#file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).zip
+# game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)
+# file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).zip
 
-#game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)
-#file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console).zip
+# game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)
+# file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console).zip
 
-#game: Legend of Zelda, The - Majora's Mask (Europe) (GameCube)
-#file: Legend of Zelda, The - Majora's Mask (Europe) (GameCube).zip
+# game: Legend of Zelda, The - Majora's Mask (Europe) (GameCube)
+# file: Legend of Zelda, The - Majora's Mask (Europe) (GameCube).zip
 
-#game: Legend of Zelda, The - Majora's Mask (USA)
-#file: Legend of Zelda, The - Majora's Mask (USA).zip
+# game: Legend of Zelda, The - Majora's Mask (USA)
+# file: Legend of Zelda, The - Majora's Mask (USA).zip
 
-#game: Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)
-#file: Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).zip
+# game: Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)
+# file: Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).zip
 
-#game: Legend of Zelda, The - Majora's Mask (USA) (GameCube)
-#file: Legend of Zelda, The - Majora's Mask (USA) (GameCube).zip
+# game: Legend of Zelda, The - Majora's Mask (USA) (GameCube)
+# file: Legend of Zelda, The - Majora's Mask (USA) (GameCube).zip
 
-#game: Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)
-#file: Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).zip
+# game: Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)
+# file: Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).zip
 
-#game: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (GameCube)
-#file: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (GameCube).zip
+# game: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (GameCube)
+# file: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (GameCube).zip
 
-#game: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)
-#file: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug).zip
+# game: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)
+# file: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug).zip
 
-#game: Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)
-#file: Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).zip
+# game: Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)
+# file: Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)
-#file: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).zip
+# game: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)
+# file: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug)
-#file: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug).zip
+# game: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug)
+# file: Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)
-#file: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).zip
+# game: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)
+# file: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)
-#file: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).zip
+# game: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)
+# file: Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)
-#file: Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).zip
+# game: Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)
+# file: Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (USA)
-#file: Legend of Zelda, The - Ocarina of Time (USA).zip
+# game: Legend of Zelda, The - Ocarina of Time (USA)
+# file: Legend of Zelda, The - Ocarina of Time (USA).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (USA) (Beta)
-#file: Legend of Zelda, The - Ocarina of Time (USA) (Beta).zip
+# game: Legend of Zelda, The - Ocarina of Time (USA) (Beta)
+# file: Legend of Zelda, The - Ocarina of Time (USA) (Beta).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (USA) (GameCube)
-#file: Legend of Zelda, The - Ocarina of Time (USA) (GameCube).zip
+# game: Legend of Zelda, The - Ocarina of Time (USA) (GameCube)
+# file: Legend of Zelda, The - Ocarina of Time (USA) (GameCube).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)
-#file: Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).zip
+# game: Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)
+# file: Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)
-#file: Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).zip
+# game: Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)
+# file: Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).zip
 
-#game: Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)
-#file: Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).zip
+# game: Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)
+# file: Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).zip
 
-#game: LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)
-#file: LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).zip
+# game: LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)
+# file: LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).zip
 
-#game: LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)
-#file: LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).zip
+# game: LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)
+# file: LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).zip
 
 game: Let's Smash (Japan)
 file: Let's Smash (Japan).zip
 
-#game: Lode Runner 3-D (Europe) (En,Fr,De,Es,It)
-#file: Lode Runner 3-D (Europe) (En,Fr,De,Es,It).zip
+# game: Lode Runner 3-D (Europe) (En,Fr,De,Es,It)
+# file: Lode Runner 3-D (Europe) (En,Fr,De,Es,It).zip
 
 game: Lode Runner 3-D (Japan)
 file: Lode Runner 3-D (Japan).zip
 
-#game: Lode Runner 3-D (USA)
-#file: Lode Runner 3-D (USA).zip
+# game: Lode Runner 3-D (USA)
+# file: Lode Runner 3-D (USA).zip
 
-#game: Lylat Wars (Australia) (En,Fr,De)
-#file: Lylat Wars (Australia) (En,Fr,De).zip
+# game: Lylat Wars (Australia) (En,Fr,De)
+# file: Lylat Wars (Australia) (En,Fr,De).zip
 
-#game: Lylatwars (Europe) (En,Fr,De)
-#file: Lylatwars (Europe) (En,Fr,De).zip
+# game: Lylatwars (Europe) (En,Fr,De)
+# file: Lylatwars (Europe) (En,Fr,De).zip
 
-#game: Mace - The Dark Age (Europe)
-#file: Mace - The Dark Age (Europe).zip
+# game: Mace - The Dark Age (Europe)
+# file: Mace - The Dark Age (Europe).zip
 
-#game: Mace - The Dark Age (USA)
-#file: Mace - The Dark Age (USA).zip
+# game: Mace - The Dark Age (USA)
+# file: Mace - The Dark Age (USA).zip
 
-#game: Mace - The Dark Age (USA) (Beta)
-#file: Mace - The Dark Age (USA) (Beta).zip
+# game: Mace - The Dark Age (USA) (Beta)
+# file: Mace - The Dark Age (USA) (Beta).zip
 
-#game: Madden Football 64 (Europe)
-#file: Madden Football 64 (Europe).zip
+# game: Madden Football 64 (Europe)
+# file: Madden Football 64 (Europe).zip
 
-#game: Madden Football 64 (USA)
-#file: Madden Football 64 (USA).zip
+# game: Madden Football 64 (USA)
+# file: Madden Football 64 (USA).zip
 
-#game: Madden NFL 2000 (USA)
-#file: Madden NFL 2000 (USA).zip
+# game: Madden NFL 2000 (USA)
+# file: Madden NFL 2000 (USA).zip
 
-#game: Madden NFL 2001 (USA)
-#file: Madden NFL 2001 (USA).zip
+# game: Madden NFL 2001 (USA)
+# file: Madden NFL 2001 (USA).zip
 
-#game: Madden NFL 2002 (USA)
-#file: Madden NFL 2002 (USA).zip
+# game: Madden NFL 2002 (USA)
+# file: Madden NFL 2002 (USA).zip
 
-#game: Madden NFL 99 (Europe)
-#file: Madden NFL 99 (Europe).zip
+# game: Madden NFL 99 (Europe)
+# file: Madden NFL 99 (Europe).zip
 
-#game: Madden NFL 99 (USA)
-#file: Madden NFL 99 (USA).zip
+# game: Madden NFL 99 (USA)
+# file: Madden NFL 99 (USA).zip
 
-#game: Madden NFL 99 (USA) (1998-08-05) (Beta)
-#file: Madden NFL 99 (USA) (1998-08-05) (Beta).zip
+# game: Madden NFL 99 (USA) (1998-08-05) (Beta)
+# file: Madden NFL 99 (USA) (1998-08-05) (Beta).zip
 
-#game: Madden NFL 99 (USA) (Rev 1)
-#file: Madden NFL 99 (USA) (Rev 1).zip
+# game: Madden NFL 99 (USA) (Rev 1)
+# file: Madden NFL 99 (USA) (Rev 1).zip
 
-#game: Magical Tetris Challenge (Europe)
-#file: Magical Tetris Challenge (Europe).zip
+# game: Magical Tetris Challenge (Europe)
+# file: Magical Tetris Challenge (Europe).zip
 
-#game: Magical Tetris Challenge (Germany)
-#file: Magical Tetris Challenge (Germany).zip
+# game: Magical Tetris Challenge (Germany)
+# file: Magical Tetris Challenge (Germany).zip
 
-#game: Magical Tetris Challenge (USA)
-#file: Magical Tetris Challenge (USA).zip
+# game: Magical Tetris Challenge (USA)
+# file: Magical Tetris Challenge (USA).zip
 
 game: Magical Tetris Challenge featuring Mickey (Japan)
 file: Magical Tetris Challenge featuring Mickey (Japan).zip
@@ -1458,415 +1458,415 @@ file: Mahjong Hourouki Classic (Japan).zip
 game: Mahjong Master (Japan)
 file: Mahjong Master (Japan).zip
 
-#game: Major League Baseball Featuring Ken Griffey Jr. (Australia)
-#file: Major League Baseball Featuring Ken Griffey Jr. (Australia).zip
+# game: Major League Baseball Featuring Ken Griffey Jr. (Australia)
+# file: Major League Baseball Featuring Ken Griffey Jr. (Australia).zip
 
-#game: Major League Baseball Featuring Ken Griffey Jr. (USA)
-#file: Major League Baseball Featuring Ken Griffey Jr. (USA).zip
+# game: Major League Baseball Featuring Ken Griffey Jr. (USA)
+# file: Major League Baseball Featuring Ken Griffey Jr. (USA).zip
 
-#game: Mario Golf (Europe)
-#file: Mario Golf (Europe).zip
+# game: Mario Golf (Europe)
+# file: Mario Golf (Europe).zip
 
-#game: Mario Golf (USA)
-#file: Mario Golf (USA).zip
+# game: Mario Golf (USA)
+# file: Mario Golf (USA).zip
 
-#game: Mario Golf (USA) (LodgeNet)
-#file: Mario Golf (USA) (LodgeNet).zip
+# game: Mario Golf (USA) (LodgeNet)
+# file: Mario Golf (USA) (LodgeNet).zip
 
 game: Mario Golf 64 (Japan)
 files:
   Mario Golf 64 (Japan).zip
   Mario Golf 64 (Japan) (Rev 1).zip
 
-#game: Mario Kart 64 (Europe)
-#file: Mario Kart 64 (Europe).zip
+# game: Mario Kart 64 (Europe)
+# file: Mario Kart 64 (Europe).zip
 
-#game: Mario Kart 64 (Europe) (Rev 1)
-#file: Mario Kart 64 (Europe) (Rev 1).zip
+# game: Mario Kart 64 (Europe) (Rev 1)
+# file: Mario Kart 64 (Europe) (Rev 1).zip
 
 game: Mario Kart 64 (Japan)
 files:
   Mario Kart 64 (Japan).zip
   Mario Kart 64 (Japan) (Rev 1).zip
 
-#game: Mario Kart 64 (USA)
-#file: Mario Kart 64 (USA).zip
+# game: Mario Kart 64 (USA)
+# file: Mario Kart 64 (USA).zip
 
-#game: Mario Kart 64 (USA) (LodgeNet)
-#file: Mario Kart 64 (USA) (LodgeNet).zip
+# game: Mario Kart 64 (USA) (LodgeNet)
+# file: Mario Kart 64 (USA) (LodgeNet).zip
 
 game: Mario no Photopie (Japan)
 file: Mario no Photopie (Japan).zip
 
-#game: Mario Party (Europe) (En,Fr,De)
-#file: Mario Party (Europe) (En,Fr,De).zip
+# game: Mario Party (Europe) (En,Fr,De)
+# file: Mario Party (Europe) (En,Fr,De).zip
 
 game: Mario Party (Japan)
 file: Mario Party (Japan).zip
 
-#game: Mario Party (USA)
-#file: Mario Party (USA).zip
+# game: Mario Party (USA)
+# file: Mario Party (USA).zip
 
-#game: Mario Party 2 (Europe) (En,Fr,De,Es,It)
-#file: Mario Party 2 (Europe) (En,Fr,De,Es,It).zip
+# game: Mario Party 2 (Europe) (En,Fr,De,Es,It)
+# file: Mario Party 2 (Europe) (En,Fr,De,Es,It).zip
 
-#game: Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)
-#file: Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).zip
+# game: Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)
+# file: Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).zip
 
 game: Mario Party 2 (Japan)
 files:
   Mario Party 2 (Japan).zip
   Mario Party 2 (Japan) (Wii Virtual Console).zip
 
-#game: Mario Party 2 (USA)
-#file: Mario Party 2 (USA).zip
+# game: Mario Party 2 (USA)
+# file: Mario Party 2 (USA).zip
 
-#game: Mario Party 2 (USA) (Wii Virtual Console)
-#file: Mario Party 2 (USA) (Wii Virtual Console).zip
+# game: Mario Party 2 (USA) (Wii Virtual Console)
+# file: Mario Party 2 (USA) (Wii Virtual Console).zip
 
-#game: Mario Party 3 (Europe) (En,Fr,De,Es)
-#file: Mario Party 3 (Europe) (En,Fr,De,Es).zip
+# game: Mario Party 3 (Europe) (En,Fr,De,Es)
+# file: Mario Party 3 (Europe) (En,Fr,De,Es).zip
 
 game: Mario Party 3 (Japan)
 file: Mario Party 3 (Japan).zip
 
-#game: Mario Party 3 (USA)
-#file: Mario Party 3 (USA).zip
+# game: Mario Party 3 (USA)
+# file: Mario Party 3 (USA).zip
 
-#game: Mario Party 3 (USA) (Beta)
-#file: Mario Party 3 (USA) (Beta).zip
+# game: Mario Party 3 (USA) (Beta)
+# file: Mario Party 3 (USA) (Beta).zip
 
-#game: Mario Party 3 (USA) (LodgeNet)
-#file: Mario Party 3 (USA) (LodgeNet).zip
+# game: Mario Party 3 (USA) (LodgeNet)
+# file: Mario Party 3 (USA) (LodgeNet).zip
 
 game: Mario Story (Japan)
 file: Mario Story (Japan).zip
 
-#game: Mario Tennis (Europe)
-#file: Mario Tennis (Europe).zip
+# game: Mario Tennis (Europe)
+# file: Mario Tennis (Europe).zip
 
-#game: Mario Tennis (Europe) (Wii Virtual Console)
-#file: Mario Tennis (Europe) (Wii Virtual Console).zip
+# game: Mario Tennis (Europe) (Wii Virtual Console)
+# file: Mario Tennis (Europe) (Wii Virtual Console).zip
 
-#game: Mario Tennis (USA)
-#file: Mario Tennis (USA).zip
+# game: Mario Tennis (USA)
+# file: Mario Tennis (USA).zip
 
-#game: Mario Tennis (USA) (LodgeNet)
-#file: Mario Tennis (USA) (LodgeNet).zip
+# game: Mario Tennis (USA) (LodgeNet)
+# file: Mario Tennis (USA) (LodgeNet).zip
 
-#game: Mario Tennis (USA) (Wii Virtual Console)
-#file: Mario Tennis (USA) (Wii Virtual Console).zip
+# game: Mario Tennis (USA) (Wii Virtual Console)
+# file: Mario Tennis (USA) (Wii Virtual Console).zip
 
 game: Mario Tennis 64 (Japan)
 files:
   Mario Tennis 64 (Japan).zip
   Mario Tennis 64 (Japan) (Wii Virtual Console).zip
 
-#game: Mega Man 64 (USA)
-#file: Mega Man 64 (USA).zip
+# game: Mega Man 64 (USA)
+# file: Mega Man 64 (USA).zip
 
-#game: Mega Man 64 (USA) (Beta)
-#file: Mega Man 64 (USA) (Beta).zip
+# game: Mega Man 64 (USA) (Beta)
+# file: Mega Man 64 (USA) (Beta).zip
 
-#game: Mia Hamm Soccer 64 (USA) (En,Es)
-#file: Mia Hamm Soccer 64 (USA) (En,Es).zip
+# game: Mia Hamm Soccer 64 (USA) (En,Es)
+# file: Mia Hamm Soccer 64 (USA) (En,Es).zip
 
-#game: Michael Owen's WLS 2000 (Europe)
-#file: Michael Owen's WLS 2000 (Europe).zip
+# game: Michael Owen's WLS 2000 (Europe)
+# file: Michael Owen's WLS 2000 (Europe).zip
 
-#game: Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta)
-#file: Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta).zip
+# game: Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta)
+# file: Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta).zip
 
 game: Mickey no Racing Challenge USA (Japan)
 file: Mickey no Racing Challenge USA (Japan).zip
 
-#game: Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)
-#file: Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).zip
+# game: Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)
+# file: Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).zip
 
-#game: Mickey's Speedway USA (USA)
-#file: Mickey's Speedway USA (USA).zip
+# game: Mickey's Speedway USA (USA)
+# file: Mickey's Speedway USA (USA).zip
 
-#game: Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)
-#file: Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).zip
+# game: Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)
+# file: Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).zip
 
-#game: Micro Machines 64 Turbo (USA)
-#file: Micro Machines 64 Turbo (USA).zip
+# game: Micro Machines 64 Turbo (USA)
+# file: Micro Machines 64 Turbo (USA).zip
 
-#game: Midway's Greatest Arcade Hits - Volume 1 (USA)
-#file: Midway's Greatest Arcade Hits - Volume 1 (USA).zip
+# game: Midway's Greatest Arcade Hits - Volume 1 (USA)
+# file: Midway's Greatest Arcade Hits - Volume 1 (USA).zip
 
-#game: Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet)
-#file: Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet).zip
+# game: Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet)
+# file: Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet).zip
 
-#game: Mike Piazza's Strike Zone (USA)
-#file: Mike Piazza's Strike Zone (USA).zip
+# game: Mike Piazza's Strike Zone (USA)
+# file: Mike Piazza's Strike Zone (USA).zip
 
-#game: Milo's Astro Lanes (Europe)
-#file: Milo's Astro Lanes (Europe).zip
+# game: Milo's Astro Lanes (Europe)
+# file: Milo's Astro Lanes (Europe).zip
 
-#game: Milo's Astro Lanes (USA)
-#file: Milo's Astro Lanes (USA).zip
+# game: Milo's Astro Lanes (USA)
+# file: Milo's Astro Lanes (USA).zip
 
-#game: Mini Racers (USA) (Ja) (Proto)
-#file: Mini Racers (USA) (Ja) (Proto).zip
+# game: Mini Racers (USA) (Ja) (Proto)
+# file: Mini Racers (USA) (Ja) (Proto).zip
 
-#game: Mischief Makers (Europe)
-#file: Mischief Makers (Europe).zip
+# game: Mischief Makers (Europe)
+# file: Mischief Makers (Europe).zip
 
-#game: Mischief Makers (USA)
-#file: Mischief Makers (USA).zip
+# game: Mischief Makers (USA)
+# file: Mischief Makers (USA).zip
 
-#game: Mischief Makers (USA) (Rev 1)
-#file: Mischief Makers (USA) (Rev 1).zip
+# game: Mischief Makers (USA) (Rev 1)
+# file: Mischief Makers (USA) (Rev 1).zip
 
-#game: Mission - Impossible (Europe)
-#file: Mission - Impossible (Europe).zip
+# game: Mission - Impossible (Europe)
+# file: Mission - Impossible (Europe).zip
 
-#game: Mission - Impossible (Europe) (Beta)
-#file: Mission - Impossible (Europe) (Beta).zip
+# game: Mission - Impossible (Europe) (Beta)
+# file: Mission - Impossible (Europe) (Beta).zip
 
-#game: Mission - Impossible (France)
-#file: Mission - Impossible (France).zip
+# game: Mission - Impossible (France)
+# file: Mission - Impossible (France).zip
 
-#game: Mission - Impossible (Germany)
-#file: Mission - Impossible (Germany).zip
+# game: Mission - Impossible (Germany)
+# file: Mission - Impossible (Germany).zip
 
-#game: Mission - Impossible (Italy)
-#file: Mission - Impossible (Italy).zip
+# game: Mission - Impossible (Italy)
+# file: Mission - Impossible (Italy).zip
 
-#game: Mission - Impossible (Spain)
-#file: Mission - Impossible (Spain).zip
+# game: Mission - Impossible (Spain)
+# file: Mission - Impossible (Spain).zip
 
-#game: Mission - Impossible (Spain) (Rev 1)
-#file: Mission - Impossible (Spain) (Rev 1).zip
+# game: Mission - Impossible (Spain) (Rev 1)
+# file: Mission - Impossible (Spain) (Rev 1).zip
 
-#game: Mission - Impossible (USA)
-#file: Mission - Impossible (USA).zip
+# game: Mission - Impossible (USA)
+# file: Mission - Impossible (USA).zip
 
-#game: Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)
-#file: Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It).zip
+# game: Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)
+# file: Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It).zip
 
-#game: Monaco Grand Prix (USA)
-#file: Monaco Grand Prix (USA).zip
+# game: Monaco Grand Prix (USA)
+# file: Monaco Grand Prix (USA).zip
 
-#game: Monopoly (USA)
-#file: Monopoly (USA).zip
+# game: Monopoly (USA)
+# file: Monopoly (USA).zip
 
-#game: Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)
-#file: Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).zip
+# game: Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)
+# file: Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).zip
 
-#game: Monster Truck Madness 64 (USA)
-#file: Monster Truck Madness 64 (USA).zip
+# game: Monster Truck Madness 64 (USA)
+# file: Monster Truck Madness 64 (USA).zip
 
 game: Morita Shougi 64 (Japan)
 file: Morita Shougi 64 (Japan).zip
 
-#game: Mortal Kombat 4 (Europe)
-#file: Mortal Kombat 4 (Europe).zip
+# game: Mortal Kombat 4 (Europe)
+# file: Mortal Kombat 4 (Europe).zip
 
-#game: Mortal Kombat 4 (USA)
-#file: Mortal Kombat 4 (USA).zip
+# game: Mortal Kombat 4 (USA)
+# file: Mortal Kombat 4 (USA).zip
 
-#game: Mortal Kombat 4 (USA) (LodgeNet)
-#file: Mortal Kombat 4 (USA) (LodgeNet).zip
+# game: Mortal Kombat 4 (USA) (LodgeNet)
+# file: Mortal Kombat 4 (USA) (LodgeNet).zip
 
-#game: Mortal Kombat Mythologies - Sub-Zero (Europe)
-#file: Mortal Kombat Mythologies - Sub-Zero (Europe).zip
+# game: Mortal Kombat Mythologies - Sub-Zero (Europe)
+# file: Mortal Kombat Mythologies - Sub-Zero (Europe).zip
 
-#game: Mortal Kombat Mythologies - Sub-Zero (USA)
-#file: Mortal Kombat Mythologies - Sub-Zero (USA).zip
+# game: Mortal Kombat Mythologies - Sub-Zero (USA)
+# file: Mortal Kombat Mythologies - Sub-Zero (USA).zip
 
-#game: Mortal Kombat Trilogy (Europe)
-#file: Mortal Kombat Trilogy (Europe).zip
+# game: Mortal Kombat Trilogy (Europe)
+# file: Mortal Kombat Trilogy (Europe).zip
 
-#game: Mortal Kombat Trilogy (USA)
-#file: Mortal Kombat Trilogy (USA).zip
+# game: Mortal Kombat Trilogy (USA)
+# file: Mortal Kombat Trilogy (USA).zip
 
-#game: Mortal Kombat Trilogy (USA) (1996-05-13) (Beta)
-#file: Mortal Kombat Trilogy (USA) (1996-05-13) (Beta).zip
+# game: Mortal Kombat Trilogy (USA) (1996-05-13) (Beta)
+# file: Mortal Kombat Trilogy (USA) (1996-05-13) (Beta).zip
 
-#game: Mortal Kombat Trilogy (USA) (Rev 1)
-#file: Mortal Kombat Trilogy (USA) (Rev 1).zip
+# game: Mortal Kombat Trilogy (USA) (Rev 1)
+# file: Mortal Kombat Trilogy (USA) (Rev 1).zip
 
-#game: Mortal Kombat Trilogy (USA) (Rev 2)
-#file: Mortal Kombat Trilogy (USA) (Rev 2).zip
+# game: Mortal Kombat Trilogy (USA) (Rev 2)
+# file: Mortal Kombat Trilogy (USA) (Rev 2).zip
 
-#game: MRC - Multi-Racing Championship (Europe) (En,Fr,De)
-#file: MRC - Multi-Racing Championship (Europe) (En,Fr,De).zip
+# game: MRC - Multi-Racing Championship (Europe) (En,Fr,De)
+# file: MRC - Multi-Racing Championship (Europe) (En,Fr,De).zip
 
 game: MRC - Multi-Racing Championship (Japan)
 file: MRC - Multi-Racing Championship (Japan).zip
 
-#game: MRC - Multi-Racing Championship (USA)
-#file: MRC - Multi-Racing Championship (USA).zip
+# game: MRC - Multi-Racing Championship (USA)
+# file: MRC - Multi-Racing Championship (USA).zip
 
-#game: Ms. Pac-Man - Maze Madness (USA)
-#file: Ms. Pac-Man - Maze Madness (USA).zip
+# game: Ms. Pac-Man - Maze Madness (USA)
+# file: Ms. Pac-Man - Maze Madness (USA).zip
 
-#game: Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)
-#file: Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).zip
+# game: Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)
+# file: Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).zip
 
-#game: Mystical Ninja Starring Goemon (Europe)
-#file: Mystical Ninja Starring Goemon (Europe).zip
+# game: Mystical Ninja Starring Goemon (Europe)
+# file: Mystical Ninja Starring Goemon (Europe).zip
 
-#game: Mystical Ninja Starring Goemon (USA)
-#file: Mystical Ninja Starring Goemon (USA).zip
+# game: Mystical Ninja Starring Goemon (USA)
+# file: Mystical Ninja Starring Goemon (USA).zip
 
-#game: Nagano Winter Olympics '98 (Europe)
-#file: Nagano Winter Olympics '98 (Europe).zip
+# game: Nagano Winter Olympics '98 (Europe)
+# file: Nagano Winter Olympics '98 (Europe).zip
 
-#game: Nagano Winter Olympics '98 (USA)
-#file: Nagano Winter Olympics '98 (USA).zip
+# game: Nagano Winter Olympics '98 (USA)
+# file: Nagano Winter Olympics '98 (USA).zip
 
-#game: Namco Museum 64 (USA)
-#file: Namco Museum 64 (USA).zip
+# game: Namco Museum 64 (USA)
+# file: Namco Museum 64 (USA).zip
 
-#game: NASCAR 2000 (USA)
-#file: NASCAR 2000 (USA).zip
+# game: NASCAR 2000 (USA)
+# file: NASCAR 2000 (USA).zip
 
-#game: NASCAR 99 (Europe) (En,Fr,De)
-#file: NASCAR 99 (Europe) (En,Fr,De).zip
+# game: NASCAR 99 (Europe) (En,Fr,De)
+# file: NASCAR 99 (Europe) (En,Fr,De).zip
 
-#game: NASCAR 99 (USA)
-#file: NASCAR 99 (USA).zip
+# game: NASCAR 99 (USA)
+# file: NASCAR 99 (USA).zip
 
-#game: NBA Courtside 2 featuring Kobe Bryant (USA)
-#file: NBA Courtside 2 featuring Kobe Bryant (USA).zip
+# game: NBA Courtside 2 featuring Kobe Bryant (USA)
+# file: NBA Courtside 2 featuring Kobe Bryant (USA).zip
 
-#game: NBA Hangtime (Europe)
-#file: NBA Hangtime (Europe).zip
+# game: NBA Hangtime (Europe)
+# file: NBA Hangtime (Europe).zip
 
-#game: NBA Hangtime (USA)
-#file: NBA Hangtime (USA).zip
+# game: NBA Hangtime (USA)
+# file: NBA Hangtime (USA).zip
 
 game: NBA in the Zone '98 (Japan)
 file: NBA in the Zone '98 (Japan).zip
 
-#game: NBA in the Zone '98 (USA)
-#file: NBA in the Zone '98 (USA).zip
+# game: NBA in the Zone '98 (USA)
+# file: NBA in the Zone '98 (USA).zip
 
-#game: NBA in the Zone '99 (USA)
-#file: NBA in the Zone '99 (USA).zip
+# game: NBA in the Zone '99 (USA)
+# file: NBA in the Zone '99 (USA).zip
 
 game: NBA in the Zone 2 (Japan)
 file: NBA in the Zone 2 (Japan).zip
 
-#game: NBA in the Zone 2000 (Europe)
-#file: NBA in the Zone 2000 (Europe).zip
+# game: NBA in the Zone 2000 (Europe)
+# file: NBA in the Zone 2000 (Europe).zip
 
-#game: NBA in the Zone 2000 (USA)
-#file: NBA in the Zone 2000 (USA).zip
+# game: NBA in the Zone 2000 (USA)
+# file: NBA in the Zone 2000 (USA).zip
 
-#game: NBA Jam 2000 (Europe)
-#file: NBA Jam 2000 (Europe).zip
+# game: NBA Jam 2000 (Europe)
+# file: NBA Jam 2000 (Europe).zip
 
-#game: NBA Jam 2000 (USA)
-#file: NBA Jam 2000 (USA).zip
+# game: NBA Jam 2000 (USA)
+# file: NBA Jam 2000 (USA).zip
 
-#game: NBA Jam 99 (Europe)
-#file: NBA Jam 99 (Europe).zip
+# game: NBA Jam 99 (Europe)
+# file: NBA Jam 99 (Europe).zip
 
-#game: NBA Jam 99 (USA)
-#file: NBA Jam 99 (USA).zip
+# game: NBA Jam 99 (USA)
+# file: NBA Jam 99 (USA).zip
 
-#game: NBA Jam 99 (USA) (Beta) (1998-09-25)
-#file: NBA Jam 99 (USA) (Beta) (1998-09-25).zip
+# game: NBA Jam 99 (USA) (Beta) (1998-09-25)
+# file: NBA Jam 99 (USA) (Beta) (1998-09-25).zip
 
-#game: NBA Live 2000 (Europe) (En,Fr,De,Es)
-#file: NBA Live 2000 (Europe) (En,Fr,De,Es).zip
+# game: NBA Live 2000 (Europe) (En,Fr,De,Es)
+# file: NBA Live 2000 (Europe) (En,Fr,De,Es).zip
 
-#game: NBA Live 2000 (USA) (En,Fr,De,Es)
-#file: NBA Live 2000 (USA) (En,Fr,De,Es).zip
+# game: NBA Live 2000 (USA) (En,Fr,De,Es)
+# file: NBA Live 2000 (USA) (En,Fr,De,Es).zip
 
-#game: NBA Live 99 (Europe) (En,Fr,De,Es,It)
-#file: NBA Live 99 (Europe) (En,Fr,De,Es,It).zip
+# game: NBA Live 99 (Europe) (En,Fr,De,Es,It)
+# file: NBA Live 99 (Europe) (En,Fr,De,Es,It).zip
 
-#game: NBA Live 99 (USA) (En,Fr,De,Es,It)
-#file: NBA Live 99 (USA) (En,Fr,De,Es,It).zip
+# game: NBA Live 99 (USA) (En,Fr,De,Es,It)
+# file: NBA Live 99 (USA) (En,Fr,De,Es,It).zip
 
-#game: NBA Pro 98 (Europe)
-#file: NBA Pro 98 (Europe).zip
+# game: NBA Pro 98 (Europe)
+# file: NBA Pro 98 (Europe).zip
 
-#game: NBA Pro 99 (Europe)
-#file: NBA Pro 99 (Europe).zip
+# game: NBA Pro 99 (Europe)
+# file: NBA Pro 99 (Europe).zip
 
-#game: NBA Showtime - NBA on NBC (USA)
-#file: NBA Showtime - NBA on NBC (USA).zip
+# game: NBA Showtime - NBA on NBC (USA)
+# file: NBA Showtime - NBA on NBC (USA).zip
 
 game: Neon Genesis Evangelion (Japan)
 file: Neon Genesis Evangelion (Japan).zip
 
-#game: New Tetris, The (Europe)
-#file: New Tetris, The (Europe).zip
+# game: New Tetris, The (Europe)
+# file: New Tetris, The (Europe).zip
 
-#game: New Tetris, The (USA)
-#file: New Tetris, The (USA).zip
+# game: New Tetris, The (USA)
+# file: New Tetris, The (USA).zip
 
-#game: New Tetris, The (USA) (LodgeNet)
-#file: New Tetris, The (USA) (LodgeNet).zip
+# game: New Tetris, The (USA) (LodgeNet)
+# file: New Tetris, The (USA) (LodgeNet).zip
 
-#game: NFL Blitz - Special Edition (USA)
-#file: NFL Blitz - Special Edition (USA).zip
+# game: NFL Blitz - Special Edition (USA)
+# file: NFL Blitz - Special Edition (USA).zip
 
-#game: NFL Blitz (USA)
-#file: NFL Blitz (USA).zip
+# game: NFL Blitz (USA)
+# file: NFL Blitz (USA).zip
 
-#game: NFL Blitz 2000 (USA)
-#file: NFL Blitz 2000 (USA).zip
+# game: NFL Blitz 2000 (USA)
+# file: NFL Blitz 2000 (USA).zip
 
-#game: NFL Blitz 2000 (USA) (Rev 1)
-#file: NFL Blitz 2000 (USA) (Rev 1).zip
+# game: NFL Blitz 2000 (USA) (Rev 1)
+# file: NFL Blitz 2000 (USA) (Rev 1).zip
 
-#game: NFL Blitz 2001 (USA)
-#file: NFL Blitz 2001 (USA).zip
+# game: NFL Blitz 2001 (USA)
+# file: NFL Blitz 2001 (USA).zip
 
-#game: NFL QB Club 2001 (USA)
-#file: NFL QB Club 2001 (USA).zip
+# game: NFL QB Club 2001 (USA)
+# file: NFL QB Club 2001 (USA).zip
 
-#game: NFL Quarterback Club 2000 (Europe)
-#file: NFL Quarterback Club 2000 (Europe).zip
+# game: NFL Quarterback Club 2000 (Europe)
+# file: NFL Quarterback Club 2000 (Europe).zip
 
-#game: NFL Quarterback Club 2000 (USA)
-#file: NFL Quarterback Club 2000 (USA).zip
+# game: NFL Quarterback Club 2000 (USA)
+# file: NFL Quarterback Club 2000 (USA).zip
 
-#game: NFL Quarterback Club 98 (Europe)
-#file: NFL Quarterback Club 98 (Europe).zip
+# game: NFL Quarterback Club 98 (Europe)
+# file: NFL Quarterback Club 98 (Europe).zip
 
-#game: NFL Quarterback Club 98 (USA)
-#file: NFL Quarterback Club 98 (USA).zip
+# game: NFL Quarterback Club 98 (USA)
+# file: NFL Quarterback Club 98 (USA).zip
 
-#game: NFL Quarterback Club 99 (Europe)
-#file: NFL Quarterback Club 99 (Europe).zip
+# game: NFL Quarterback Club 99 (Europe)
+# file: NFL Quarterback Club 99 (Europe).zip
 
-#game: NFL Quarterback Club 99 (USA)
-#file: NFL Quarterback Club 99 (USA).zip
+# game: NFL Quarterback Club 99 (USA)
+# file: NFL Quarterback Club 99 (USA).zip
 
-#game: NHL 99 (Europe) (En,De,Sv,Fi)
-#file: NHL 99 (Europe) (En,De,Sv,Fi).zip
+# game: NHL 99 (Europe) (En,De,Sv,Fi)
+# file: NHL 99 (Europe) (En,De,Sv,Fi).zip
 
-#game: NHL 99 (USA)
-#file: NHL 99 (USA).zip
+# game: NHL 99 (USA)
+# file: NHL 99 (USA).zip
 
-#game: NHL Blades of Steel '99 (USA)
-#file: NHL Blades of Steel '99 (USA).zip
+# game: NHL Blades of Steel '99 (USA)
+# file: NHL Blades of Steel '99 (USA).zip
 
-#game: NHL Breakaway 98 (Europe)
-#file: NHL Breakaway 98 (Europe).zip
+# game: NHL Breakaway 98 (Europe)
+# file: NHL Breakaway 98 (Europe).zip
 
-#game: NHL Breakaway 98 (USA)
-#file: NHL Breakaway 98 (USA).zip
+# game: NHL Breakaway 98 (USA)
+# file: NHL Breakaway 98 (USA).zip
 
-#game: NHL Breakaway 99 (Europe)
-#file: NHL Breakaway 99 (Europe).zip
+# game: NHL Breakaway 99 (Europe)
+# file: NHL Breakaway 99 (Europe).zip
 
-#game: NHL Breakaway 99 (USA)
-#file: NHL Breakaway 99 (USA).zip
+# game: NHL Breakaway 99 (USA)
+# file: NHL Breakaway 99 (USA).zip
 
-#game: NHL Pro 99 (Europe)
-#file: NHL Pro 99 (Europe).zip
+# game: NHL Pro 99 (Europe)
+# file: NHL Pro 99 (Europe).zip
 
-#game: Nightmare Creatures (USA)
-#file: Nightmare Creatures (USA).zip
+# game: Nightmare Creatures (USA)
+# file: Nightmare Creatures (USA).zip
 
 game: Nintama Rantarou 64 Game Gallery (Japan)
 file: Nintama Rantarou 64 Game Gallery (Japan).zip
@@ -1877,23 +1877,23 @@ file: Nintendo 64 Modem (Japan) (Add-on).zip
 game: Nintendo All-Star! Dairantou Smash Brothers (Japan)
 file: Nintendo All-Star! Dairantou Smash Brothers (Japan).zip
 
-#game: Nuclear Strike 64 (Europe) (En,Fr)
-#file: Nuclear Strike 64 (Europe) (En,Fr).zip
+# game: Nuclear Strike 64 (Europe) (En,Fr)
+# file: Nuclear Strike 64 (Europe) (En,Fr).zip
 
-#game: Nuclear Strike 64 (Germany)
-#file: Nuclear Strike 64 (Germany).zip
+# game: Nuclear Strike 64 (Germany)
+# file: Nuclear Strike 64 (Germany).zip
 
-#game: Nuclear Strike 64 (Germany) (1999-11-17) (Beta)
-#file: Nuclear Strike 64 (Germany) (1999-11-17) (Beta).zip
+# game: Nuclear Strike 64 (Germany) (1999-11-17) (Beta)
+# file: Nuclear Strike 64 (Germany) (1999-11-17) (Beta).zip
 
-#game: Nuclear Strike 64 (USA)
-#file: Nuclear Strike 64 (USA).zip
+# game: Nuclear Strike 64 (USA)
+# file: Nuclear Strike 64 (USA).zip
 
-#game: Nuclear Strike 64 (USA) (1999-09-21) (Beta)
-#file: Nuclear Strike 64 (USA) (1999-09-21) (Beta).zip
+# game: Nuclear Strike 64 (USA) (1999-09-21) (Beta)
+# file: Nuclear Strike 64 (USA) (1999-09-21) (Beta).zip
 
-#game: Nuclear Strike 64 (USA) (Beta) (Earlier)
-#file: Nuclear Strike 64 (USA) (Beta) (Earlier).zip
+# game: Nuclear Strike 64 (USA) (Beta) (Earlier)
+# file: Nuclear Strike 64 (USA) (Beta) (Earlier).zip
 
 game: Nushi Zuri 64 - Shiokaze ni Notte (Japan)
 file: Nushi Zuri 64 - Shiokaze ni Notte (Japan).zip
@@ -1903,64 +1903,64 @@ files:
   Nushi Zuri 64 (Japan).zip
   Nushi Zuri 64 (Japan) (Rev 1).zip
 
-#game: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)
-#file: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto).zip
+# game: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)
+# file: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto).zip
 
-#game: O.D.T. (USA) (En,Fr,Es) (Proto)
-#file: O.D.T. (USA) (En,Fr,Es) (Proto).zip
+# game: O.D.T. (USA) (En,Fr,Es) (Proto)
+# file: O.D.T. (USA) (En,Fr,Es) (Proto).zip
 
-#game: Off Road Challenge (Europe)
-#file: Off Road Challenge (Europe).zip
+# game: Off Road Challenge (Europe)
+# file: Off Road Challenge (Europe).zip
 
-#game: Off Road Challenge (USA)
-#file: Off Road Challenge (USA).zip
+# game: Off Road Challenge (USA)
+# file: Off Road Challenge (USA).zip
 
 game: Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)
 files:
   Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).zip
   Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).zip
 
-#game: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)
-#file: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).zip
+# game: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)
+# file: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).zip
 
-#game: Ogre Battle 64 - Person of Lordly Caliber (USA)
-#file: Ogre Battle 64 - Person of Lordly Caliber (USA).zip
+# game: Ogre Battle 64 - Person of Lordly Caliber (USA)
+# file: Ogre Battle 64 - Person of Lordly Caliber (USA).zip
 
-#game: Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)
-#file: Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).zip
+# game: Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)
+# file: Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).zip
 
-#game: Olympic Hockey 98 (Europe) (En,Fr,De,Es)
-#file: Olympic Hockey 98 (Europe) (En,Fr,De,Es).zip
+# game: Olympic Hockey 98 (Europe) (En,Fr,De,Es)
+# file: Olympic Hockey 98 (Europe) (En,Fr,De,Es).zip
 
 game: Olympic Hockey 98 (Japan)
 file: Olympic Hockey 98 (Japan).zip
 
-#game: Olympic Hockey 98 (USA)
-#file: Olympic Hockey 98 (USA).zip
+# game: Olympic Hockey 98 (USA)
+# file: Olympic Hockey 98 (USA).zip
 
 game: Onegai Monsters (Japan)
 file: Onegai Monsters (Japan).zip
 
-#game: Operation WinBack (Europe) (En,Fr,De,Es,It)
-#file: Operation WinBack (Europe) (En,Fr,De,Es,It).zip
+# game: Operation WinBack (Europe) (En,Fr,De,Es,It)
+# file: Operation WinBack (Europe) (En,Fr,De,Es,It).zip
 
 game: Pachinko 365 Nichi (Japan)
 file: Pachinko 365 Nichi (Japan).zip
 
-#game: Paper Mario (Europe) (En,Fr,De,Es)
-#file: Paper Mario (Europe) (En,Fr,De,Es).zip
+# game: Paper Mario (Europe) (En,Fr,De,Es)
+# file: Paper Mario (Europe) (En,Fr,De,Es).zip
 
-#game: Paper Mario (USA)
-#file: Paper Mario (USA).zip
+# game: Paper Mario (USA)
+# file: Paper Mario (USA).zip
 
-#game: Paper Mario (USA) (LodgeNet)
-#file: Paper Mario (USA) (LodgeNet).zip
+# game: Paper Mario (USA) (LodgeNet)
+# file: Paper Mario (USA) (LodgeNet).zip
 
-#game: Paperboy (Europe)
-#file: Paperboy (Europe).zip
+# game: Paperboy (Europe)
+# file: Paperboy (Europe).zip
 
-#game: Paperboy (USA)
-#file: Paperboy (USA).zip
+# game: Paperboy (USA)
+# file: Paperboy (USA).zip
 
 game: Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)
 file: Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan).zip
@@ -1968,38 +1968,38 @@ file: Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan).zip
 game: PD Ultraman Battle Collection 64 (Japan)
 file: PD Ultraman Battle Collection 64 (Japan).zip
 
-#game: Penny Racers (Europe)
-#file: Penny Racers (Europe).zip
+# game: Penny Racers (Europe)
+# file: Penny Racers (Europe).zip
 
-#game: Penny Racers (USA)
-#file: Penny Racers (USA).zip
+# game: Penny Racers (USA)
+# file: Penny Racers (USA).zip
 
-#game: Perfect Dark (Europe) (2000-04-26) (Debug)
-#file: Perfect Dark (Europe) (2000-04-26) (Debug).zip
+# game: Perfect Dark (Europe) (2000-04-26) (Debug)
+# file: Perfect Dark (Europe) (2000-04-26) (Debug).zip
 
-#game: Perfect Dark (Europe) (En,Fr,De,Es,It)
-#file: Perfect Dark (Europe) (En,Fr,De,Es,It).zip
+# game: Perfect Dark (Europe) (En,Fr,De,Es,It)
+# file: Perfect Dark (Europe) (En,Fr,De,Es,It).zip
 
 game: Perfect Dark (Japan)
 file: Perfect Dark (Japan).zip
 
-#game: Perfect Dark (USA)
-#file: Perfect Dark (USA).zip
+# game: Perfect Dark (USA)
+# file: Perfect Dark (USA).zip
 
-#game: Perfect Dark (USA) (2000-03-22) (Debug)
-#file: Perfect Dark (USA) (2000-03-22) (Debug).zip
+# game: Perfect Dark (USA) (2000-03-22) (Debug)
+# file: Perfect Dark (USA) (2000-03-22) (Debug).zip
 
-#game: Perfect Dark (USA) (Rev 1)
-#file: Perfect Dark (USA) (Rev 1).zip
+# game: Perfect Dark (USA) (Rev 1)
+# file: Perfect Dark (USA) (Rev 1).zip
 
-#game: PGA European Tour (USA)
-#file: PGA European Tour (USA).zip
+# game: PGA European Tour (USA)
+# file: PGA European Tour (USA).zip
 
-#game: PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta)
-#file: PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta).zip
+# game: PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta)
+# file: PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta).zip
 
-#game: PGA European Tour Golf (Europe) (En,Fr,De,Es,It)
-#file: PGA European Tour Golf (Europe) (En,Fr,De,Es,It).zip
+# game: PGA European Tour Golf (Europe) (En,Fr,De,Es,It)
+# file: PGA European Tour Golf (Europe) (En,Fr,De,Es,It).zip
 
 game: Pikachuu Genki de Chuu (Japan)
 file: Pikachuu Genki de Chuu (Japan).zip
@@ -2007,148 +2007,148 @@ file: Pikachuu Genki de Chuu (Japan).zip
 game: Pikachuu Genki de Chuu (Japan) (Beta)
 file: Pikachuu Genki de Chuu (Japan) (Beta).zip
 
-#game: Pilotwings 64 (Europe) (En,Fr,De)
-#file: Pilotwings 64 (Europe) (En,Fr,De).zip
+# game: Pilotwings 64 (Europe) (En,Fr,De)
+# file: Pilotwings 64 (Europe) (En,Fr,De).zip
 
 game: Pilotwings 64 (Japan)
 file: Pilotwings 64 (Japan).zip
 
-#game: Pilotwings 64 (USA)
-#file: Pilotwings 64 (USA).zip
+# game: Pilotwings 64 (USA)
+# file: Pilotwings 64 (USA).zip
 
-#game: Pilotwings 64 (USA) (LodgeNet)
-#file: Pilotwings 64 (USA) (LodgeNet).zip
+# game: Pilotwings 64 (USA) (LodgeNet)
+# file: Pilotwings 64 (USA) (LodgeNet).zip
 
-#game: Pokemon Puzzle League (Europe)
-#file: Pokemon Puzzle League (Europe).zip
+# game: Pokemon Puzzle League (Europe)
+# file: Pokemon Puzzle League (Europe).zip
 
-#game: Pokemon Puzzle League (Europe) (Wii Virtual Console)
-#file: Pokemon Puzzle League (Europe) (Wii Virtual Console).zip
+# game: Pokemon Puzzle League (Europe) (Wii Virtual Console)
+# file: Pokemon Puzzle League (Europe) (Wii Virtual Console).zip
 
-#game: Pokemon Puzzle League (France)
-#file: Pokemon Puzzle League (France).zip
+# game: Pokemon Puzzle League (France)
+# file: Pokemon Puzzle League (France).zip
 
-#game: Pokemon Puzzle League (France) (Wii Virtual Console)
-#file: Pokemon Puzzle League (France) (Wii Virtual Console).zip
+# game: Pokemon Puzzle League (France) (Wii Virtual Console)
+# file: Pokemon Puzzle League (France) (Wii Virtual Console).zip
 
-#game: Pokemon Puzzle League (Germany)
-#file: Pokemon Puzzle League (Germany).zip
+# game: Pokemon Puzzle League (Germany)
+# file: Pokemon Puzzle League (Germany).zip
 
-#game: Pokemon Puzzle League (Germany) (Wii Virtual Console)
-#file: Pokemon Puzzle League (Germany) (Wii Virtual Console).zip
+# game: Pokemon Puzzle League (Germany) (Wii Virtual Console)
+# file: Pokemon Puzzle League (Germany) (Wii Virtual Console).zip
 
-#game: Pokemon Puzzle League (USA)
-#file: Pokemon Puzzle League (USA).zip
+# game: Pokemon Puzzle League (USA)
+# file: Pokemon Puzzle League (USA).zip
 
-#game: Pokemon Puzzle League (USA) (Wii Virtual Console)
-#file: Pokemon Puzzle League (USA) (Wii Virtual Console).zip
+# game: Pokemon Puzzle League (USA) (Wii Virtual Console)
+# file: Pokemon Puzzle League (USA) (Wii Virtual Console).zip
 
-#game: Pokemon Snap (Australia)
-#file: Pokemon Snap (Australia).zip
+# game: Pokemon Snap (Australia)
+# file: Pokemon Snap (Australia).zip
 
-#game: Pokemon Snap (Europe)
-#file: Pokemon Snap (Europe).zip
+# game: Pokemon Snap (Europe)
+# file: Pokemon Snap (Europe).zip
 
-#game: Pokemon Snap (France)
-#file: Pokemon Snap (France).zip
+# game: Pokemon Snap (France)
+# file: Pokemon Snap (France).zip
 
-#game: Pokemon Snap (Germany)
-#file: Pokemon Snap (Germany).zip
+# game: Pokemon Snap (Germany)
+# file: Pokemon Snap (Germany).zip
 
-#game: Pokemon Snap (Italy)
-#file: Pokemon Snap (Italy).zip
+# game: Pokemon Snap (Italy)
+# file: Pokemon Snap (Italy).zip
 
 game: Pokemon Snap (Japan)
 files:
   Pokemon Snap (Japan).zip
   Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).zip
 
-#game: Pokemon Snap (Spain)
-#file: Pokemon Snap (Spain).zip
+# game: Pokemon Snap (Spain)
+# file: Pokemon Snap (Spain).zip
 
-#game: Pokemon Snap (USA)
-#file: Pokemon Snap (USA).zip
+# game: Pokemon Snap (USA)
+# file: Pokemon Snap (USA).zip
 
-#game: Pokemon Snap (USA) (LodgeNet)
-#file: Pokemon Snap (USA) (LodgeNet).zip
+# game: Pokemon Snap (USA) (LodgeNet)
+# file: Pokemon Snap (USA) (LodgeNet).zip
 
-#game: Pokemon Snap Station (USA) (Demo) (Kiosk)
-#file: Pokemon Snap Station (USA) (Demo) (Kiosk).zip
+# game: Pokemon Snap Station (USA) (Demo) (Kiosk)
+# file: Pokemon Snap Station (USA) (Demo) (Kiosk).zip
 
-#game: Pokemon Stadium (Europe)
-#file: Pokemon Stadium (Europe).zip
+# game: Pokemon Stadium (Europe)
+# file: Pokemon Stadium (Europe).zip
 
-#game: Pokemon Stadium (Europe) (Rev 1)
-#file: Pokemon Stadium (Europe) (Rev 1).zip
+# game: Pokemon Stadium (Europe) (Rev 1)
+# file: Pokemon Stadium (Europe) (Rev 1).zip
 
-#game: Pokemon Stadium (France)
-#file: Pokemon Stadium (France).zip
+# game: Pokemon Stadium (France)
+# file: Pokemon Stadium (France).zip
 
-#game: Pokemon Stadium (Germany)
-#file: Pokemon Stadium (Germany).zip
+# game: Pokemon Stadium (Germany)
+# file: Pokemon Stadium (Germany).zip
 
-#game: Pokemon Stadium (Italy)
-#file: Pokemon Stadium (Italy).zip
+# game: Pokemon Stadium (Italy)
+# file: Pokemon Stadium (Italy).zip
 
 game: Pokemon Stadium (Japan)
 file: Pokemon Stadium (Japan).zip
 
-#game: Pokemon Stadium (Spain)
-#file: Pokemon Stadium (Spain).zip
+# game: Pokemon Stadium (Spain)
+# file: Pokemon Stadium (Spain).zip
 
-#game: Pokemon Stadium (USA)
-#file: Pokemon Stadium (USA).zip
+# game: Pokemon Stadium (USA)
+# file: Pokemon Stadium (USA).zip
 
-#game: Pokemon Stadium (USA) (Rev 1)
-#file: Pokemon Stadium (USA) (Rev 1).zip
+# game: Pokemon Stadium (USA) (Rev 1)
+# file: Pokemon Stadium (USA) (Rev 1).zip
 
-#game: Pokemon Stadium (USA) (Rev 2)
-#file: Pokemon Stadium (USA) (Rev 2).zip
+# game: Pokemon Stadium (USA) (Rev 2)
+# file: Pokemon Stadium (USA) (Rev 2).zip
 
-#game: Pokemon Stadium 2 (Europe)
-#file: Pokemon Stadium 2 (Europe).zip
+# game: Pokemon Stadium 2 (Europe)
+# file: Pokemon Stadium 2 (Europe).zip
 
-#game: Pokemon Stadium 2 (France)
-#file: Pokemon Stadium 2 (France).zip
+# game: Pokemon Stadium 2 (France)
+# file: Pokemon Stadium 2 (France).zip
 
-#game: Pokemon Stadium 2 (Germany)
-#file: Pokemon Stadium 2 (Germany).zip
+# game: Pokemon Stadium 2 (Germany)
+# file: Pokemon Stadium 2 (Germany).zip
 
-#game: Pokemon Stadium 2 (Italy)
-#file: Pokemon Stadium 2 (Italy).zip
+# game: Pokemon Stadium 2 (Italy)
+# file: Pokemon Stadium 2 (Italy).zip
 
 game: Pokemon Stadium 2 (Japan)
 file: Pokemon Stadium 2 (Japan).zip
 
-#game: Pokemon Stadium 2 (Spain)
-#file: Pokemon Stadium 2 (Spain).zip
+# game: Pokemon Stadium 2 (Spain)
+# file: Pokemon Stadium 2 (Spain).zip
 
-#game: Pokemon Stadium 2 (USA)
-#file: Pokemon Stadium 2 (USA).zip
+# game: Pokemon Stadium 2 (USA)
+# file: Pokemon Stadium 2 (USA).zip
 
 game: Pokemon Stadium Kin Gin (Japan)
 file: Pokemon Stadium Kin Gin (Japan).zip
 
-#game: Polaris SnoCross (USA)
-#file: Polaris SnoCross (USA).zip
+# game: Polaris SnoCross (USA)
+# file: Polaris SnoCross (USA).zip
 
 game: Power League 64 (Japan)
 file: Power League 64 (Japan).zip
 
-#game: Power Rangers - Lightspeed Rescue (Europe)
-#file: Power Rangers - Lightspeed Rescue (Europe).zip
+# game: Power Rangers - Lightspeed Rescue (Europe)
+# file: Power Rangers - Lightspeed Rescue (Europe).zip
 
-#game: Power Rangers - Lightspeed Rescue (USA)
-#file: Power Rangers - Lightspeed Rescue (USA).zip
+# game: Power Rangers - Lightspeed Rescue (USA)
+# file: Power Rangers - Lightspeed Rescue (USA).zip
 
-#game: Powerpuff Girls, The - Chemical X-Traction (USA)
-#file: Powerpuff Girls, The - Chemical X-Traction (USA).zip
+# game: Powerpuff Girls, The - Chemical X-Traction (USA)
+# file: Powerpuff Girls, The - Chemical X-Traction (USA).zip
 
-#game: Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27)
-#file: Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27).zip
+# game: Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27)
+# file: Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27).zip
 
-#game: Premier Manager 64 (Europe)
-#file: Premier Manager 64 (Europe).zip
+# game: Premier Manager 64 (Europe)
+# file: Premier Manager 64 (Europe).zip
 
 game: Pro Mahjong Kiwame 64 (Japan)
 files:
@@ -2167,26 +2167,26 @@ file: Puyo Puyoon Party (Japan).zip
 game: Puzzle Bobble 64 (Japan)
 file: Puzzle Bobble 64 (Japan).zip
 
-#game: Quake (Europe)
-#file: Quake (Europe).zip
+# game: Quake (Europe)
+# file: Quake (Europe).zip
 
-#game: Quake (USA)
-#file: Quake (USA).zip
+# game: Quake (USA)
+# file: Quake (USA).zip
 
-#game: Quake II (Europe)
-#file: Quake II (Europe).zip
+# game: Quake II (Europe)
+# file: Quake II (Europe).zip
 
-#game: Quake II (USA)
-#file: Quake II (USA).zip
+# game: Quake II (USA)
+# file: Quake II (USA).zip
 
-#game: Quest 64 (USA)
-#file: Quest 64 (USA).zip
+# game: Quest 64 (USA)
+# file: Quest 64 (USA).zip
 
-#game: Racing Simulation 2 (Germany)
-#file: Racing Simulation 2 (Germany).zip
+# game: Racing Simulation 2 (Germany)
+# file: Racing Simulation 2 (Germany).zip
 
-#game: Rakugakids (Europe)
-#file: Rakugakids (Europe).zip
+# game: Rakugakids (Europe)
+# file: Rakugakids (Europe).zip
 
 game: Rakugakids (Japan)
 file: Rakugakids (Japan).zip
@@ -2194,227 +2194,227 @@ file: Rakugakids (Japan).zip
 game: Rally '99 (Japan)
 file: Rally '99 (Japan).zip
 
-#game: Rally Challenge 2000 (USA)
-#file: Rally Challenge 2000 (USA).zip
+# game: Rally Challenge 2000 (USA)
+# file: Rally Challenge 2000 (USA).zip
 
-#game: Rampage - World Tour (Europe)
-#file: Rampage - World Tour (Europe).zip
+# game: Rampage - World Tour (Europe)
+# file: Rampage - World Tour (Europe).zip
 
-#game: Rampage - World Tour (USA)
-#file: Rampage - World Tour (USA).zip
+# game: Rampage - World Tour (USA)
+# file: Rampage - World Tour (USA).zip
 
-#game: Rampage 2 - Universal Tour (Europe)
-#file: Rampage 2 - Universal Tour (Europe).zip
+# game: Rampage 2 - Universal Tour (Europe)
+# file: Rampage 2 - Universal Tour (Europe).zip
 
-#game: Rampage 2 - Universal Tour (USA)
-#file: Rampage 2 - Universal Tour (USA).zip
+# game: Rampage 2 - Universal Tour (USA)
+# file: Rampage 2 - Universal Tour (USA).zip
 
-#game: Rampage 2 - Universal Tour (USA) (LodgeNet)
-#file: Rampage 2 - Universal Tour (USA) (LodgeNet).zip
+# game: Rampage 2 - Universal Tour (USA) (LodgeNet)
+# file: Rampage 2 - Universal Tour (USA) (LodgeNet).zip
 
-#game: Rat Attack (Europe) (En,Fr,De,Es,It,Nl)
-#file: Rat Attack (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Rat Attack (Europe) (En,Fr,De,Es,It,Nl)
+# file: Rat Attack (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Rat Attack! (USA)
-#file: Rat Attack! (USA).zip
+# game: Rat Attack! (USA)
+# file: Rat Attack! (USA).zip
 
-#game: Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)
-#file: Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).zip
+# game: Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)
+# file: Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).zip
 
-#game: Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)
-#file: Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).zip
+# game: Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)
+# file: Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).zip
 
-#game: Razmoket, Les - La Chasse aux Tresors (France)
-#file: Razmoket, Les - La Chasse aux Tresors (France).zip
+# game: Razmoket, Les - La Chasse aux Tresors (France)
+# file: Razmoket, Les - La Chasse aux Tresors (France).zip
 
-#game: Razor Freestyle Scooter (USA)
-#file: Razor Freestyle Scooter (USA).zip
+# game: Razor Freestyle Scooter (USA)
+# file: Razor Freestyle Scooter (USA).zip
 
-#game: Re-Volt (Europe) (En,Fr,De,Es)
-#file: Re-Volt (Europe) (En,Fr,De,Es).zip
+# game: Re-Volt (Europe) (En,Fr,De,Es)
+# file: Re-Volt (Europe) (En,Fr,De,Es).zip
 
-#game: Re-Volt (USA)
-#file: Re-Volt (USA).zip
+# game: Re-Volt (USA)
+# file: Re-Volt (USA).zip
 
-#game: Ready 2 Rumble Boxing - Round 2 (USA)
-#file: Ready 2 Rumble Boxing - Round 2 (USA).zip
+# game: Ready 2 Rumble Boxing - Round 2 (USA)
+# file: Ready 2 Rumble Boxing - Round 2 (USA).zip
 
-#game: Ready 2 Rumble Boxing (Europe) (En,Fr,De)
-#file: Ready 2 Rumble Boxing (Europe) (En,Fr,De).zip
+# game: Ready 2 Rumble Boxing (Europe) (En,Fr,De)
+# file: Ready 2 Rumble Boxing (Europe) (En,Fr,De).zip
 
-#game: Ready 2 Rumble Boxing (USA)
-#file: Ready 2 Rumble Boxing (USA).zip
+# game: Ready 2 Rumble Boxing (USA)
+# file: Ready 2 Rumble Boxing (USA).zip
 
-#game: Ready 2 Rumble Boxing (USA) (LodgeNet)
-#file: Ready 2 Rumble Boxing (USA) (LodgeNet).zip
+# game: Ready 2 Rumble Boxing (USA) (LodgeNet)
+# file: Ready 2 Rumble Boxing (USA) (LodgeNet).zip
 
-#game: Resident Evil 2 (Europe) (En,Fr)
-#file: Resident Evil 2 (Europe) (En,Fr).zip
+# game: Resident Evil 2 (Europe) (En,Fr)
+# file: Resident Evil 2 (Europe) (En,Fr).zip
 
-#game: Resident Evil 2 (USA)
-#file: Resident Evil 2 (USA).zip
+# game: Resident Evil 2 (USA)
+# file: Resident Evil 2 (USA).zip
 
-#game: Resident Evil 2 (USA) (Rev 1)
-#file: Resident Evil 2 (USA) (Rev 1).zip
+# game: Resident Evil 2 (USA) (Rev 1)
+# file: Resident Evil 2 (USA) (Rev 1).zip
 
-#game: Road Rash 64 (Europe)
-#file: Road Rash 64 (Europe).zip
+# game: Road Rash 64 (Europe)
+# file: Road Rash 64 (Europe).zip
 
-#game: Road Rash 64 (Europe) (Beta) (1999-10-12)
-#file: Road Rash 64 (Europe) (Beta) (1999-10-12).zip
+# game: Road Rash 64 (Europe) (Beta) (1999-10-12)
+# file: Road Rash 64 (Europe) (Beta) (1999-10-12).zip
 
-#game: Road Rash 64 (USA)
-#file: Road Rash 64 (USA).zip
+# game: Road Rash 64 (USA)
+# file: Road Rash 64 (USA).zip
 
-#game: Road Rash 64 (USA) (Beta 1)
-#file: Road Rash 64 (USA) (Beta 1).zip
+# game: Road Rash 64 (USA) (Beta 1)
+# file: Road Rash 64 (USA) (Beta 1).zip
 
-#game: Road Rash 64 (USA) (Beta 2)
-#file: Road Rash 64 (USA) (Beta 2).zip
+# game: Road Rash 64 (USA) (Beta 2)
+# file: Road Rash 64 (USA) (Beta 2).zip
 
-#game: Roadsters (Europe) (En,Fr,De,Es,It,Nl)
-#file: Roadsters (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Roadsters (Europe) (En,Fr,De,Es,It,Nl)
+# file: Roadsters (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Roadsters (USA) (En,Fr,Es)
-#file: Roadsters (USA) (En,Fr,Es).zip
+# game: Roadsters (USA) (En,Fr,Es)
+# file: Roadsters (USA) (En,Fr,Es).zip
 
 game: Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)
 file: Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).zip
 
-#game: Robotech - Crystal Dreams (USA) (Proto 1)
-#file: Robotech - Crystal Dreams (USA) (Proto 1).zip
+# game: Robotech - Crystal Dreams (USA) (Proto 1)
+# file: Robotech - Crystal Dreams (USA) (Proto 1).zip
 
-#game: Robotech - Crystal Dreams (USA) (Proto 2)
-#file: Robotech - Crystal Dreams (USA) (Proto 2).zip
+# game: Robotech - Crystal Dreams (USA) (Proto 2)
+# file: Robotech - Crystal Dreams (USA) (Proto 2).zip
 
-#game: Robotron 64 (Europe)
-#file: Robotron 64 (Europe).zip
+# game: Robotron 64 (Europe)
+# file: Robotron 64 (Europe).zip
 
-#game: Robotron 64 (USA)
-#file: Robotron 64 (USA).zip
+# game: Robotron 64 (USA)
+# file: Robotron 64 (USA).zip
 
-#game: Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)
-#file: Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29).zip
+# game: Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)
+# file: Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29).zip
 
-#game: Rocket - Robot on Wheels (Europe) (En,Fr,De)
-#file: Rocket - Robot on Wheels (Europe) (En,Fr,De).zip
+# game: Rocket - Robot on Wheels (Europe) (En,Fr,De)
+# file: Rocket - Robot on Wheels (Europe) (En,Fr,De).zip
 
-#game: Rocket - Robot on Wheels (USA)
-#file: Rocket - Robot on Wheels (USA).zip
+# game: Rocket - Robot on Wheels (USA)
+# file: Rocket - Robot on Wheels (USA).zip
 
 game: Rockman Dash - Hagane no Boukenshin (Japan)
 file: Rockman Dash - Hagane no Boukenshin (Japan).zip
 
-#game: RR64 - Ridge Racer 64 (Europe)
-#file: RR64 - Ridge Racer 64 (Europe).zip
+# game: RR64 - Ridge Racer 64 (Europe)
+# file: RR64 - Ridge Racer 64 (Europe).zip
 
-#game: RR64 - Ridge Racer 64 (USA)
-#file: RR64 - Ridge Racer 64 (USA).zip
+# game: RR64 - Ridge Racer 64 (USA)
+# file: RR64 - Ridge Racer 64 (USA).zip
 
-#game: RTL World League Soccer 2000 (Germany)
-#file: RTL World League Soccer 2000 (Germany).zip
+# game: RTL World League Soccer 2000 (Germany)
+# file: RTL World League Soccer 2000 (Germany).zip
 
-#game: Rugrats - Die grosse Schatzsuche (Germany)
-#file: Rugrats - Die grosse Schatzsuche (Germany).zip
+# game: Rugrats - Die grosse Schatzsuche (Germany)
+# file: Rugrats - Die grosse Schatzsuche (Germany).zip
 
-#game: Rugrats - Scavenger Hunt (USA)
-#file: Rugrats - Scavenger Hunt (USA).zip
+# game: Rugrats - Scavenger Hunt (USA)
+# file: Rugrats - Scavenger Hunt (USA).zip
 
-#game: Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02)
-#file: Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02).zip
+# game: Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02)
+# file: Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02).zip
 
-#game: Rugrats - Treasure Hunt (Europe)
-#file: Rugrats - Treasure Hunt (Europe).zip
+# game: Rugrats - Treasure Hunt (Europe)
+# file: Rugrats - Treasure Hunt (Europe).zip
 
-#game: Rugrats in Paris - The Movie (Europe)
-#file: Rugrats in Paris - The Movie (Europe).zip
+# game: Rugrats in Paris - The Movie (Europe)
+# file: Rugrats in Paris - The Movie (Europe).zip
 
-#game: Rugrats in Paris - The Movie (USA)
-#file: Rugrats in Paris - The Movie (USA).zip
+# game: Rugrats in Paris - The Movie (USA)
+# file: Rugrats in Paris - The Movie (USA).zip
 
-#game: Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)
-#file: Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)
+# file: Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Rush 2 - Extreme Racing USA (USA)
-#file: Rush 2 - Extreme Racing USA (USA).zip
+# game: Rush 2 - Extreme Racing USA (USA)
+# file: Rush 2 - Extreme Racing USA (USA).zip
 
-#game: Rush 2 - Extreme Racing USA (USA) (LodgeNet)
-#file: Rush 2 - Extreme Racing USA (USA) (LodgeNet).zip
+# game: Rush 2 - Extreme Racing USA (USA) (LodgeNet)
+# file: Rush 2 - Extreme Racing USA (USA) (LodgeNet).zip
 
-#game: S.C.A.R.S. (Europe) (En,Fr,De)
-#file: S.C.A.R.S. (Europe) (En,Fr,De).zip
+# game: S.C.A.R.S. (Europe) (En,Fr,De)
+# file: S.C.A.R.S. (Europe) (En,Fr,De).zip
 
-#game: S.C.A.R.S. (USA)
-#file: S.C.A.R.S. (USA).zip
+# game: S.C.A.R.S. (USA)
+# file: S.C.A.R.S. (USA).zip
 
 game: Saikyou Habu Shougi (Japan)
 file: Saikyou Habu Shougi (Japan).zip
 
-#game: San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)
-#file: San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).zip
+# game: San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)
+# file: San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).zip
 
-#game: San Francisco Rush - Extreme Racing (USA) (En,Fr,De)
-#file: San Francisco Rush - Extreme Racing (USA) (En,Fr,De).zip
+# game: San Francisco Rush - Extreme Racing (USA) (En,Fr,De)
+# file: San Francisco Rush - Extreme Racing (USA) (En,Fr,De).zip
 
-#game: San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)
-#file: San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).zip
+# game: San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)
+# file: San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).zip
 
-#game: San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)
-#file: San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)
+# file: San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: San Francisco Rush 2049 (USA)
-#file: San Francisco Rush 2049 (USA).zip
+# game: San Francisco Rush 2049 (USA)
+# file: San Francisco Rush 2049 (USA).zip
 
-#game: Scooby-Doo! - Classic Creep Capers (Europe)
-#file: Scooby-Doo! - Classic Creep Capers (Europe).zip
+# game: Scooby-Doo! - Classic Creep Capers (Europe)
+# file: Scooby-Doo! - Classic Creep Capers (Europe).zip
 
-#game: Scooby-Doo! - Classic Creep Capers (USA)
-#file: Scooby-Doo! - Classic Creep Capers (USA).zip
+# game: Scooby-Doo! - Classic Creep Capers (USA)
+# file: Scooby-Doo! - Classic Creep Capers (USA).zip
 
-#game: Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)
-#file: Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).zip
+# game: Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)
+# file: Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).zip
 
 game: SD Hiryuu no Ken Densetsu (Japan)
 file: SD Hiryuu no Ken Densetsu (Japan).zip
 
-#game: Sesame Street - Elmo's Letter Adventure (USA)
-#file: Sesame Street - Elmo's Letter Adventure (USA).zip
+# game: Sesame Street - Elmo's Letter Adventure (USA)
+# file: Sesame Street - Elmo's Letter Adventure (USA).zip
 
-#game: Sesame Street - Elmo's Number Journey (USA)
-#file: Sesame Street - Elmo's Number Journey (USA).zip
+# game: Sesame Street - Elmo's Number Journey (USA)
+# file: Sesame Street - Elmo's Number Journey (USA).zip
 
-#game: Shadow Man (Brazil)
-#file: Shadow Man (Brazil).zip
+# game: Shadow Man (Brazil)
+# file: Shadow Man (Brazil).zip
 
-#game: Shadow Man (Europe) (En,Es,It)
-#file: Shadow Man (Europe) (En,Es,It).zip
+# game: Shadow Man (Europe) (En,Es,It)
+# file: Shadow Man (Europe) (En,Es,It).zip
 
-#game: Shadow Man (France)
-#file: Shadow Man (France).zip
+# game: Shadow Man (France)
+# file: Shadow Man (France).zip
 
-#game: Shadow Man (Germany)
-#file: Shadow Man (Germany).zip
+# game: Shadow Man (Germany)
+# file: Shadow Man (Germany).zip
 
-#game: Shadow Man (USA)
-#file: Shadow Man (USA).zip
+# game: Shadow Man (USA)
+# file: Shadow Man (USA).zip
 
-#game: Shadowgate 64 - Trials of the Four Towers (Europe)
-#file: Shadowgate 64 - Trials of the Four Towers (Europe).zip
+# game: Shadowgate 64 - Trials of the Four Towers (Europe)
+# file: Shadowgate 64 - Trials of the Four Towers (Europe).zip
 
-#game: Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)
-#file: Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It).zip
+# game: Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)
+# file: Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It).zip
 
-#game: Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)
-#file: Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).zip
+# game: Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)
+# file: Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).zip
 
 game: Shadowgate 64 - Trials of the Four Towers (Japan)
 file: Shadowgate 64 - Trials of the Four Towers (Japan).zip
 
-#game: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)
-#file: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).zip
+# game: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)
+# file: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).zip
 
-#game: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)
-#file: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta).zip
+# game: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)
+# file: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta).zip
 
 game: Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)
 file: Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan).zip
@@ -2425,8 +2425,8 @@ file: Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan).zip
 game: SimCity 2000 (Japan)
 file: SimCity 2000 (Japan).zip
 
-#game: SimCopter 64 (USA) (Proto)
-#file: SimCopter 64 (USA) (Proto).zip
+# game: SimCopter 64 (USA) (Proto)
+# file: SimCopter 64 (USA) (Proto).zip
 
 game: Snobo Kids (Japan)
 file: Snobo Kids (Japan).zip
@@ -2434,132 +2434,132 @@ file: Snobo Kids (Japan).zip
 game: Snow Speeder (Japan)
 file: Snow Speeder (Japan).zip
 
-#game: Snowboard Kids (Europe, Australia)
-#file: Snowboard Kids (Europe, Australia).zip
+# game: Snowboard Kids (Europe, Australia)
+# file: Snowboard Kids (Europe, Australia).zip
 
-#game: Snowboard Kids (USA)
-#file: Snowboard Kids (USA).zip
+# game: Snowboard Kids (USA)
+# file: Snowboard Kids (USA).zip
 
-#game: Snowboard Kids 2 (Australia)
-#file: Snowboard Kids 2 (Australia).zip
+# game: Snowboard Kids 2 (Australia)
+# file: Snowboard Kids 2 (Australia).zip
 
-#game: Snowboard Kids 2 (USA)
-#file: Snowboard Kids 2 (USA).zip
+# game: Snowboard Kids 2 (USA)
+# file: Snowboard Kids 2 (USA).zip
 
 game: Sonic Wings Assault (Japan)
 file: Sonic Wings Assault (Japan).zip
 
-#game: South Park - Chef's Luv Shack (Europe)
-#file: South Park - Chef's Luv Shack (Europe).zip
+# game: South Park - Chef's Luv Shack (Europe)
+# file: South Park - Chef's Luv Shack (Europe).zip
 
-#game: South Park - Chef's Luv Shack (USA)
-#file: South Park - Chef's Luv Shack (USA).zip
+# game: South Park - Chef's Luv Shack (USA)
+# file: South Park - Chef's Luv Shack (USA).zip
 
-#game: South Park (Brazil)
-#file: South Park (Brazil).zip
+# game: South Park (Brazil)
+# file: South Park (Brazil).zip
 
-#game: South Park (Europe) (En,Fr,Es)
-#file: South Park (Europe) (En,Fr,Es).zip
+# game: South Park (Europe) (En,Fr,Es)
+# file: South Park (Europe) (En,Fr,Es).zip
 
-#game: South Park (Germany)
-#file: South Park (Germany).zip
+# game: South Park (Germany)
+# file: South Park (Germany).zip
 
-#game: South Park (USA)
-#file: South Park (USA).zip
+# game: South Park (USA)
+# file: South Park (USA).zip
 
-#game: South Park Rally (Europe)
-#file: South Park Rally (Europe).zip
+# game: South Park Rally (Europe)
+# file: South Park Rally (Europe).zip
 
-#game: South Park Rally (Europe) (Beta) (2000-01-08)
-#file: South Park Rally (Europe) (Beta) (2000-01-08).zip
+# game: South Park Rally (Europe) (Beta) (2000-01-08)
+# file: South Park Rally (Europe) (Beta) (2000-01-08).zip
 
-#game: South Park Rally (Europe) (Beta) (2000-01-17)
-#file: South Park Rally (Europe) (Beta) (2000-01-17).zip
+# game: South Park Rally (Europe) (Beta) (2000-01-17)
+# file: South Park Rally (Europe) (Beta) (2000-01-17).zip
 
-#game: South Park Rally (USA)
-#file: South Park Rally (USA).zip
+# game: South Park Rally (USA)
+# file: South Park Rally (USA).zip
 
-#game: South Park Rally (USA) (Beta) (2000-01-14)
-#file: South Park Rally (USA) (Beta) (2000-01-14).zip
+# game: South Park Rally (USA) (Beta) (2000-01-14)
+# file: South Park Rally (USA) (Beta) (2000-01-14).zip
 
-#game: South Park Rally (USA) (Beta) (2000-01-27)
-#file: South Park Rally (USA) (Beta) (2000-01-27).zip
+# game: South Park Rally (USA) (Beta) (2000-01-27)
+# file: South Park Rally (USA) (Beta) (2000-01-27).zip
 
 game: Space Dynamites (Japan)
 file: Space Dynamites (Japan).zip
 
-#game: Space Invaders (USA)
-#file: Space Invaders (USA).zip
+# game: Space Invaders (USA)
+# file: Space Invaders (USA).zip
 
-#game: SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)
-#file: SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt).zip
+# game: SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)
+# file: SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt).zip
 
 game: SpaceStation Silicon Valley (Japan) (Proto)
 file: SpaceStation Silicon Valley (Japan) (Proto).zip
 
-#game: SpaceStation Silicon Valley (USA)
-#file: SpaceStation Silicon Valley (USA).zip
+# game: SpaceStation Silicon Valley (USA)
+# file: SpaceStation Silicon Valley (USA).zip
 
-#game: SpaceStation Silicon Valley (USA) (Rev 1)
-#file: SpaceStation Silicon Valley (USA) (Rev 1).zip
+# game: SpaceStation Silicon Valley (USA) (Rev 1)
+# file: SpaceStation Silicon Valley (USA) (Rev 1).zip
 
-#game: Spider-Man (USA)
-#file: Spider-Man (USA).zip
+# game: Spider-Man (USA)
+# file: Spider-Man (USA).zip
 
 game: Star Fox 64 (Japan)
 files:
   Star Fox 64 (Japan).zip
   Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).zip
 
-#game: Star Fox 64 (USA)
-#file: Star Fox 64 (USA).zip
+# game: Star Fox 64 (USA)
+# file: Star Fox 64 (USA).zip
 
-#game: Star Fox 64 (USA) (LodgeNet)
-#file: Star Fox 64 (USA) (LodgeNet).zip
+# game: Star Fox 64 (USA) (LodgeNet)
+# file: Star Fox 64 (USA) (LodgeNet).zip
 
-#game: Star Fox 64 (USA) (Rev 1)
-#file: Star Fox 64 (USA) (Rev 1).zip
+# game: Star Fox 64 (USA) (Rev 1)
+# file: Star Fox 64 (USA) (Rev 1).zip
 
 game: Star Soldier - Vanishing Earth (Japan) (En)
 files:
   Star Soldier - Vanishing Earth (Japan) (En).zip
   Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10).zip
 
-#game: Star Soldier - Vanishing Earth (USA)
-#file: Star Soldier - Vanishing Earth (USA).zip
+# game: Star Soldier - Vanishing Earth (USA)
+# file: Star Soldier - Vanishing Earth (USA).zip
 
 game: Star Twins (Japan)
 file: Star Twins (Japan).zip
 
-#game: Star Wars - Rogue Squadron (Europe) (En,Fr,De)
-#file: Star Wars - Rogue Squadron (Europe) (En,Fr,De).zip
+# game: Star Wars - Rogue Squadron (Europe) (En,Fr,De)
+# file: Star Wars - Rogue Squadron (Europe) (En,Fr,De).zip
 
-#game: Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)
-#file: Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).zip
+# game: Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)
+# file: Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).zip
 
-#game: Star Wars - Rogue Squadron (USA)
-#file: Star Wars - Rogue Squadron (USA).zip
+# game: Star Wars - Rogue Squadron (USA)
+# file: Star Wars - Rogue Squadron (USA).zip
 
-#game: Star Wars - Rogue Squadron (USA) (LodgeNet)
-#file: Star Wars - Rogue Squadron (USA) (LodgeNet).zip
+# game: Star Wars - Rogue Squadron (USA) (LodgeNet)
+# file: Star Wars - Rogue Squadron (USA) (LodgeNet).zip
 
-#game: Star Wars - Rogue Squadron (USA) (Rev 1)
-#file: Star Wars - Rogue Squadron (USA) (Rev 1).zip
+# game: Star Wars - Rogue Squadron (USA) (Rev 1)
+# file: Star Wars - Rogue Squadron (USA) (Rev 1).zip
 
-#game: Star Wars - Shadows of the Empire (Europe)
-#file: Star Wars - Shadows of the Empire (Europe).zip
+# game: Star Wars - Shadows of the Empire (Europe)
+# file: Star Wars - Shadows of the Empire (Europe).zip
 
-#game: Star Wars - Shadows of the Empire (USA)
-#file: Star Wars - Shadows of the Empire (USA).zip
+# game: Star Wars - Shadows of the Empire (USA)
+# file: Star Wars - Shadows of the Empire (USA).zip
 
-#game: Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)
-#file: Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).zip
+# game: Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)
+# file: Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).zip
 
-#game: Star Wars - Shadows of the Empire (USA) (Rev 1)
-#file: Star Wars - Shadows of the Empire (USA) (Rev 1).zip
+# game: Star Wars - Shadows of the Empire (USA) (Rev 1)
+# file: Star Wars - Shadows of the Empire (USA) (Rev 1).zip
 
-#game: Star Wars - Shadows of the Empire (USA) (Rev 2)
-#file: Star Wars - Shadows of the Empire (USA) (Rev 2).zip
+# game: Star Wars - Shadows of the Empire (USA) (Rev 2)
+# file: Star Wars - Shadows of the Empire (USA) (Rev 2).zip
 
 game: Star Wars - Shutsugeki! Rogue Chuutai (Japan)
 file: Star Wars - Shutsugeki! Rogue Chuutai (Japan).zip
@@ -2567,44 +2567,44 @@ file: Star Wars - Shutsugeki! Rogue Chuutai (Japan).zip
 game: Star Wars - Teikoku no Kage (Japan)
 file: Star Wars - Teikoku no Kage (Japan).zip
 
-#game: Star Wars Episode I - Battle for Naboo (Europe)
-#file: Star Wars Episode I - Battle for Naboo (Europe).zip
+# game: Star Wars Episode I - Battle for Naboo (Europe)
+# file: Star Wars Episode I - Battle for Naboo (Europe).zip
 
-#game: Star Wars Episode I - Battle for Naboo (USA)
-#file: Star Wars Episode I - Battle for Naboo (USA).zip
+# game: Star Wars Episode I - Battle for Naboo (USA)
+# file: Star Wars Episode I - Battle for Naboo (USA).zip
 
-#game: Star Wars Episode I - Battle for Naboo (USA) (Beta)
-#file: Star Wars Episode I - Battle for Naboo (USA) (Beta).zip
+# game: Star Wars Episode I - Battle for Naboo (USA) (Beta)
+# file: Star Wars Episode I - Battle for Naboo (USA) (Beta).zip
 
-#game: Star Wars Episode I - Racer (Europe) (En,Fr,De)
-#file: Star Wars Episode I - Racer (Europe) (En,Fr,De).zip
+# game: Star Wars Episode I - Racer (Europe) (En,Fr,De)
+# file: Star Wars Episode I - Racer (Europe) (En,Fr,De).zip
 
 game: Star Wars Episode I - Racer (Japan)
 file: Star Wars Episode I - Racer (Japan).zip
 
-#game: Star Wars Episode I - Racer (USA)
-#file: Star Wars Episode I - Racer (USA).zip
+# game: Star Wars Episode I - Racer (USA)
+# file: Star Wars Episode I - Racer (USA).zip
 
-#game: StarCraft 64 (Australia)
-#file: StarCraft 64 (Australia).zip
+# game: StarCraft 64 (Australia)
+# file: StarCraft 64 (Australia).zip
 
-#game: StarCraft 64 (Germany) (Proto)
-#file: StarCraft 64 (Germany) (Proto).zip
+# game: StarCraft 64 (Germany) (Proto)
+# file: StarCraft 64 (Germany) (Proto).zip
 
-#game: StarCraft 64 (USA)
-#file: StarCraft 64 (USA).zip
+# game: StarCraft 64 (USA)
+# file: StarCraft 64 (USA).zip
 
-#game: StarCraft 64 (USA) (Beta)
-#file: StarCraft 64 (USA) (Beta).zip
+# game: StarCraft 64 (USA) (Beta)
+# file: StarCraft 64 (USA) (Beta).zip
 
-#game: Starshot - Space Circus Fever (Europe) (En,Fr,De)
-#file: Starshot - Space Circus Fever (Europe) (En,Fr,De).zip
+# game: Starshot - Space Circus Fever (Europe) (En,Fr,De)
+# file: Starshot - Space Circus Fever (Europe) (En,Fr,De).zip
 
-#game: Starshot - Space Circus Fever (USA) (En,Fr,Es)
-#file: Starshot - Space Circus Fever (USA) (En,Fr,Es).zip
+# game: Starshot - Space Circus Fever (USA) (En,Fr,Es)
+# file: Starshot - Space Circus Fever (USA) (En,Fr,Es).zip
 
-#game: Stunt Racer 64 (USA)
-#file: Stunt Racer 64 (USA).zip
+# game: Stunt Racer 64 (USA)
+# file: Stunt Racer 64 (USA).zip
 
 game: Super B-Daman - Battle Phoenix 64 (Japan)
 file: Super B-Daman - Battle Phoenix 64 (Japan).zip
@@ -2612,11 +2612,11 @@ file: Super B-Daman - Battle Phoenix 64 (Japan).zip
 game: Super Bowling (Japan)
 file: Super Bowling (Japan).zip
 
-#game: Super Bowling (USA)
-#file: Super Bowling (USA).zip
+# game: Super Bowling (USA)
+# file: Super Bowling (USA).zip
 
-#game: Super Mario 64 (Europe) (En,Fr,De)
-#file: Super Mario 64 (Europe) (En,Fr,De).zip
+# game: Super Mario 64 (Europe) (En,Fr,De)
+# file: Super Mario 64 (Europe) (En,Fr,De).zip
 
 game: Super Mario 64 (Japan)
 file: Super Mario 64 (Japan).zip
@@ -2624,11 +2624,11 @@ file: Super Mario 64 (Japan).zip
 game: Super Mario 64 (Japan) (Rev 3) (Shindou Edition)
 file: Super Mario 64 (Japan) (Rev 3) (Shindou Edition).zip
 
-#game: Super Mario 64 (USA)
-#file: Super Mario 64 (USA).zip
+# game: Super Mario 64 (USA)
+# file: Super Mario 64 (USA).zip
 
-#game: Super Mario 64 (USA) (LodgeNet)
-#file: Super Mario 64 (USA) (LodgeNet).zip
+# game: Super Mario 64 (USA) (LodgeNet)
+# file: Super Mario 64 (USA) (LodgeNet).zip
 
 game: Super Robot Spirits (Japan)
 file: Super Robot Spirits (Japan).zip
@@ -2636,389 +2636,389 @@ file: Super Robot Spirits (Japan).zip
 game: Super Robot Taisen 64 (Japan)
 file: Super Robot Taisen 64 (Japan).zip
 
-#game: Super Smash Bros. (Australia)
-#file: Super Smash Bros. (Australia).zip
+# game: Super Smash Bros. (Australia)
+# file: Super Smash Bros. (Australia).zip
 
-#game: Super Smash Bros. (Europe) (En,Fr,De)
-#file: Super Smash Bros. (Europe) (En,Fr,De).zip
+# game: Super Smash Bros. (Europe) (En,Fr,De)
+# file: Super Smash Bros. (Europe) (En,Fr,De).zip
 
-#game: Super Smash Bros. (USA)
-#file: Super Smash Bros. (USA).zip
+# game: Super Smash Bros. (USA)
+# file: Super Smash Bros. (USA).zip
 
-#game: Super Smash Bros. (USA) (LodgeNet)
-#file: Super Smash Bros. (USA) (LodgeNet).zip
+# game: Super Smash Bros. (USA) (LodgeNet)
+# file: Super Smash Bros. (USA) (LodgeNet).zip
 
 game: Super Speed Race 64 (Japan)
 file: Super Speed Race 64 (Japan).zip
 
-#game: Supercross 2000 (Europe) (En,Fr,De)
-#file: Supercross 2000 (Europe) (En,Fr,De).zip
+# game: Supercross 2000 (Europe) (En,Fr,De)
+# file: Supercross 2000 (Europe) (En,Fr,De).zip
 
-#game: Supercross 2000 (USA)
-#file: Supercross 2000 (USA).zip
+# game: Supercross 2000 (USA)
+# file: Supercross 2000 (USA).zip
 
-#game: Superman - The New Superman Aventures (USA) (En,Fr,Es)
-#file: Superman - The New Superman Aventures (USA) (En,Fr,Es).zip
+# game: Superman - The New Superman Aventures (USA) (En,Fr,Es)
+# file: Superman - The New Superman Aventures (USA) (En,Fr,Es).zip
 
-#game: Superman (Europe) (En,Fr,De,Es,It,Nl)
-#file: Superman (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Superman (Europe) (En,Fr,De,Es,It,Nl)
+# file: Superman (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Superman (USA) (Beta) (1998-09-06)
-#file: Superman (USA) (Beta) (1998-09-06).zip
+# game: Superman (USA) (Beta) (1998-09-06)
+# file: Superman (USA) (Beta) (1998-09-06).zip
 
 game: Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)
 file: Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan).zip
 
-#game: Sydney 2000 (Europe) (Proto)
-#file: Sydney 2000 (Europe) (Proto).zip
+# game: Sydney 2000 (Europe) (Proto)
+# file: Sydney 2000 (Europe) (Proto).zip
 
-#game: Sydney 2000 (USA) (Proto)
-#file: Sydney 2000 (USA) (Proto).zip
+# game: Sydney 2000 (USA) (Proto)
+# file: Sydney 2000 (USA) (Proto).zip
 
-#game: Tamiya Racing 64 (USA) (Proto)
-#file: Tamiya Racing 64 (USA) (Proto).zip
+# game: Tamiya Racing 64 (USA) (Proto)
+# file: Tamiya Racing 64 (USA) (Proto).zip
 
-#game: Tarzan (Europe)
-#file: Tarzan (Europe).zip
+# game: Tarzan (Europe)
+# file: Tarzan (Europe).zip
 
-#game: Tarzan (France)
-#file: Tarzan (France).zip
+# game: Tarzan (France)
+# file: Tarzan (France).zip
 
-#game: Tarzan (Germany)
-#file: Tarzan (Germany).zip
+# game: Tarzan (Germany)
+# file: Tarzan (Germany).zip
 
-#game: Tarzan (USA)
-#file: Tarzan (USA).zip
+# game: Tarzan (USA)
+# file: Tarzan (USA).zip
 
-#game: Taz Express (Europe) (En,Fr,De,Es,It,Nl)
-#file: Taz Express (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Taz Express (Europe) (En,Fr,De,Es,It,Nl)
+# file: Taz Express (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Taz Express (USA) (Proto) (2000-05-15)
-#file: Taz Express (USA) (Proto) (2000-05-15).zip
+# game: Taz Express (USA) (Proto) (2000-05-15)
+# file: Taz Express (USA) (Proto) (2000-05-15).zip
 
-#game: Telefoot Soccer 2000 (France)
-#file: Telefoot Soccer 2000 (France).zip
+# game: Telefoot Soccer 2000 (France)
+# file: Telefoot Soccer 2000 (France).zip
 
 game: Tetris 64 (Japan) (En)
 file: Tetris 64 (Japan) (En).zip
 
-#game: Tetrisphere (Europe)
-#file: Tetrisphere (Europe).zip
+# game: Tetrisphere (Europe)
+# file: Tetrisphere (Europe).zip
 
-#game: Tetrisphere (USA)
-#file: Tetrisphere (USA).zip
+# game: Tetrisphere (USA)
+# file: Tetrisphere (USA).zip
 
-#game: TG Rally 2 (Europe)
-#file: TG Rally 2 (Europe).zip
+# game: TG Rally 2 (Europe)
+# file: TG Rally 2 (Europe).zip
 
-#game: Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)
-#file: Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).zip
+# game: Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)
+# file: Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).zip
 
-#game: Tigger's Honey Hunt (USA)
-#file: Tigger's Honey Hunt (USA).zip
+# game: Tigger's Honey Hunt (USA)
+# file: Tigger's Honey Hunt (USA).zip
 
-#game: Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)
-#file: Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)
+# file: Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Tom and Jerry in Fists of Furry (USA)
-#file: Tom and Jerry in Fists of Furry (USA).zip
+# game: Tom and Jerry in Fists of Furry (USA)
+# file: Tom and Jerry in Fists of Furry (USA).zip
 
-#game: Tom Clancy's Rainbow Six (Europe)
-#file: Tom Clancy's Rainbow Six (Europe).zip
+# game: Tom Clancy's Rainbow Six (Europe)
+# file: Tom Clancy's Rainbow Six (Europe).zip
 
-#game: Tom Clancy's Rainbow Six (France)
-#file: Tom Clancy's Rainbow Six (France).zip
+# game: Tom Clancy's Rainbow Six (France)
+# file: Tom Clancy's Rainbow Six (France).zip
 
-#game: Tom Clancy's Rainbow Six (Germany)
-#file: Tom Clancy's Rainbow Six (Germany).zip
+# game: Tom Clancy's Rainbow Six (Germany)
+# file: Tom Clancy's Rainbow Six (Germany).zip
 
-#game: Tom Clancy's Rainbow Six (USA)
-#file: Tom Clancy's Rainbow Six (USA).zip
+# game: Tom Clancy's Rainbow Six (USA)
+# file: Tom Clancy's Rainbow Six (USA).zip
 
-#game: Tommy Thunder (USA) (Proto) (1997-10-01)
-#file: Tommy Thunder (USA) (Proto) (1997-10-01).zip
+# game: Tommy Thunder (USA) (Proto) (1997-10-01)
+# file: Tommy Thunder (USA) (Proto) (1997-10-01).zip
 
-#game: Tonic Trouble (Europe) (Beta)
-#file: Tonic Trouble (Europe) (Beta).zip
+# game: Tonic Trouble (Europe) (Beta)
+# file: Tonic Trouble (Europe) (Beta).zip
 
-#game: Tonic Trouble (Europe) (En,Fr,De,Es,It)
-#file: Tonic Trouble (Europe) (En,Fr,De,Es,It).zip
+# game: Tonic Trouble (Europe) (En,Fr,De,Es,It)
+# file: Tonic Trouble (Europe) (En,Fr,De,Es,It).zip
 
-#game: Tonic Trouble (USA) (Rev 1)
-#file: Tonic Trouble (USA) (Rev 1).zip
+# game: Tonic Trouble (USA) (Rev 1)
+# file: Tonic Trouble (USA) (Rev 1).zip
 
-#game: Tony Hawk's Pro Skater (USA)
-#file: Tony Hawk's Pro Skater (USA).zip
+# game: Tony Hawk's Pro Skater (USA)
+# file: Tony Hawk's Pro Skater (USA).zip
 
-#game: Tony Hawk's Pro Skater (USA) (Beta)
-#file: Tony Hawk's Pro Skater (USA) (Beta).zip
+# game: Tony Hawk's Pro Skater (USA) (Beta)
+# file: Tony Hawk's Pro Skater (USA) (Beta).zip
 
-#game: Tony Hawk's Pro Skater (USA) (Rev 1)
-#file: Tony Hawk's Pro Skater (USA) (Rev 1).zip
+# game: Tony Hawk's Pro Skater (USA) (Rev 1)
+# file: Tony Hawk's Pro Skater (USA) (Rev 1).zip
 
-#game: Tony Hawk's Pro Skater 2 (Europe)
-#file: Tony Hawk's Pro Skater 2 (Europe).zip
+# game: Tony Hawk's Pro Skater 2 (Europe)
+# file: Tony Hawk's Pro Skater 2 (Europe).zip
 
-#game: Tony Hawk's Pro Skater 2 (USA)
-#file: Tony Hawk's Pro Skater 2 (USA).zip
+# game: Tony Hawk's Pro Skater 2 (USA)
+# file: Tony Hawk's Pro Skater 2 (USA).zip
 
-#game: Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)
-#file: Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).zip
+# game: Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)
+# file: Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).zip
 
-#game: Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)
-#file: Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04).zip
+# game: Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)
+# file: Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04).zip
 
-#game: Tony Hawk's Pro Skater 3 (USA)
-#file: Tony Hawk's Pro Skater 3 (USA).zip
+# game: Tony Hawk's Pro Skater 3 (USA)
+# file: Tony Hawk's Pro Skater 3 (USA).zip
 
-#game: Tony Hawk's Skateboarding (Europe)
-#file: Tony Hawk's Skateboarding (Europe).zip
+# game: Tony Hawk's Skateboarding (Europe)
+# file: Tony Hawk's Skateboarding (Europe).zip
 
 game: Toon Panic (Japan) (Proto)
 file: Toon Panic (Japan) (Proto).zip
 
-#game: Top Gear Hyper Bike (Europe)
-#file: Top Gear Hyper Bike (Europe).zip
+# game: Top Gear Hyper Bike (Europe)
+# file: Top Gear Hyper Bike (Europe).zip
 
 game: Top Gear Hyper Bike (Japan)
 file: Top Gear Hyper Bike (Japan).zip
 
-#game: Top Gear Hyper-Bike (USA)
-#file: Top Gear Hyper-Bike (USA).zip
+# game: Top Gear Hyper-Bike (USA)
+# file: Top Gear Hyper-Bike (USA).zip
 
-#game: Top Gear Hyper-Bike (USA) (Beta)
-#file: Top Gear Hyper-Bike (USA) (Beta).zip
+# game: Top Gear Hyper-Bike (USA) (Beta)
+# file: Top Gear Hyper-Bike (USA) (Beta).zip
 
-#game: Top Gear Overdrive (Europe)
-#file: Top Gear Overdrive (Europe).zip
+# game: Top Gear Overdrive (Europe)
+# file: Top Gear Overdrive (Europe).zip
 
 game: Top Gear Overdrive (Japan)
 file: Top Gear Overdrive (Japan).zip
 
-#game: Top Gear Overdrive (USA)
-#file: Top Gear Overdrive (USA).zip
+# game: Top Gear Overdrive (USA)
+# file: Top Gear Overdrive (USA).zip
 
-#game: Top Gear Overdrive (USA) (Beta)
-#file: Top Gear Overdrive (USA) (Beta).zip
+# game: Top Gear Overdrive (USA) (Beta)
+# file: Top Gear Overdrive (USA) (Beta).zip
 
-#game: Top Gear Rally (Asia) (En)
-#file: Top Gear Rally (Asia) (En).zip
+# game: Top Gear Rally (Asia) (En)
+# file: Top Gear Rally (Asia) (En).zip
 
-#game: Top Gear Rally (Europe)
-#file: Top Gear Rally (Europe).zip
+# game: Top Gear Rally (Europe)
+# file: Top Gear Rally (Europe).zip
 
 game: Top Gear Rally (Japan)
 file: Top Gear Rally (Japan).zip
 
-#game: Top Gear Rally (USA)
-#file: Top Gear Rally (USA).zip
+# game: Top Gear Rally (USA)
+# file: Top Gear Rally (USA).zip
 
-#game: Top Gear Rally 2 (Europe)
-#file: Top Gear Rally 2 (Europe).zip
+# game: Top Gear Rally 2 (Europe)
+# file: Top Gear Rally 2 (Europe).zip
 
-#game: Top Gear Rally 2 (Europe) (Beta) (1999-08-31)
-#file: Top Gear Rally 2 (Europe) (Beta) (1999-08-31).zip
+# game: Top Gear Rally 2 (Europe) (Beta) (1999-08-31)
+# file: Top Gear Rally 2 (Europe) (Beta) (1999-08-31).zip
 
 game: Top Gear Rally 2 (Japan)
 file: Top Gear Rally 2 (Japan).zip
 
-#game: Top Gear Rally 2 (USA)
-#file: Top Gear Rally 2 (USA).zip
+# game: Top Gear Rally 2 (USA)
+# file: Top Gear Rally 2 (USA).zip
 
-#game: Top Gear Rally 2 (USA) (Beta)
-#file: Top Gear Rally 2 (USA) (Beta).zip
+# game: Top Gear Rally 2 (USA) (Beta)
+# file: Top Gear Rally 2 (USA) (Beta).zip
 
-#game: Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)
-#file: Toy Story 2 - Buzz l'Eclair a la Rescousse! (France).zip
+# game: Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)
+# file: Toy Story 2 - Buzz l'Eclair a la Rescousse! (France).zip
 
-#game: Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)
-#file: Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).zip
+# game: Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)
+# file: Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).zip
 
-#game: Toy Story 2 - Buzz Lightyear to the Rescue! (USA)
-#file: Toy Story 2 - Buzz Lightyear to the Rescue! (USA).zip
+# game: Toy Story 2 - Buzz Lightyear to the Rescue! (USA)
+# file: Toy Story 2 - Buzz Lightyear to the Rescue! (USA).zip
 
-#game: Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)
-#file: Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).zip
+# game: Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)
+# file: Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).zip
 
-#game: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)
-#file: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany).zip
+# game: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)
+# file: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany).zip
 
-#game: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)
-#file: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1).zip
+# game: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)
+# file: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1).zip
 
 game: Transformers - Beast Wars Metals 64 (Japan)
 file: Transformers - Beast Wars Metals 64 (Japan).zip
 
-#game: Transformers - Beast Wars Transmetals (USA)
-#file: Transformers - Beast Wars Transmetals (USA).zip
+# game: Transformers - Beast Wars Transmetals (USA)
+# file: Transformers - Beast Wars Transmetals (USA).zip
 
-#game: Triple Play 2000 (USA)
-#file: Triple Play 2000 (USA).zip
+# game: Triple Play 2000 (USA)
+# file: Triple Play 2000 (USA).zip
 
 game: Tsumi to Batsu - Hoshi no Keishousha (Japan)
 file: Tsumi to Batsu - Hoshi no Keishousha (Japan).zip
 
-#game: Turok - Dinosaur Hunter (Europe)
-#file: Turok - Dinosaur Hunter (Europe).zip
+# game: Turok - Dinosaur Hunter (Europe)
+# file: Turok - Dinosaur Hunter (Europe).zip
 
-#game: Turok - Dinosaur Hunter (Europe) (Rev 1)
-#file: Turok - Dinosaur Hunter (Europe) (Rev 1).zip
+# game: Turok - Dinosaur Hunter (Europe) (Rev 1)
+# file: Turok - Dinosaur Hunter (Europe) (Rev 1).zip
 
-#game: Turok - Dinosaur Hunter (Europe) (Rev 2)
-#file: Turok - Dinosaur Hunter (Europe) (Rev 2).zip
+# game: Turok - Dinosaur Hunter (Europe) (Rev 2)
+# file: Turok - Dinosaur Hunter (Europe) (Rev 2).zip
 
-#game: Turok - Dinosaur Hunter (Germany)
-#file: Turok - Dinosaur Hunter (Germany).zip
+# game: Turok - Dinosaur Hunter (Germany)
+# file: Turok - Dinosaur Hunter (Germany).zip
 
-#game: Turok - Dinosaur Hunter (Germany) (Rev 1)
-#file: Turok - Dinosaur Hunter (Germany) (Rev 1).zip
+# game: Turok - Dinosaur Hunter (Germany) (Rev 1)
+# file: Turok - Dinosaur Hunter (Germany) (Rev 1).zip
 
-#game: Turok - Dinosaur Hunter (Germany) (Rev 2)
-#file: Turok - Dinosaur Hunter (Germany) (Rev 2).zip
+# game: Turok - Dinosaur Hunter (Germany) (Rev 2)
+# file: Turok - Dinosaur Hunter (Germany) (Rev 2).zip
 
-#game: Turok - Dinosaur Hunter (USA)
-#file: Turok - Dinosaur Hunter (USA).zip
+# game: Turok - Dinosaur Hunter (USA)
+# file: Turok - Dinosaur Hunter (USA).zip
 
-#game: Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997)
-#file: Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997).zip
+# game: Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997)
+# file: Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997).zip
 
-#game: Turok - Dinosaur Hunter (USA) (Rev 1)
-#file: Turok - Dinosaur Hunter (USA) (Rev 1).zip
+# game: Turok - Dinosaur Hunter (USA) (Rev 1)
+# file: Turok - Dinosaur Hunter (USA) (Rev 1).zip
 
-#game: Turok - Dinosaur Hunter (USA) (Rev 2)
-#file: Turok - Dinosaur Hunter (USA) (Rev 2).zip
+# game: Turok - Dinosaur Hunter (USA) (Rev 2)
+# file: Turok - Dinosaur Hunter (USA) (Rev 2).zip
 
-#game: Turok - Legenden des Verlorenen Landes (Germany)
-#file: Turok - Legenden des Verlorenen Landes (Germany).zip
+# game: Turok - Legenden des Verlorenen Landes (Germany)
+# file: Turok - Legenden des Verlorenen Landes (Germany).zip
 
-#game: Turok - Rage Wars (Europe)
-#file: Turok - Rage Wars (Europe).zip
+# game: Turok - Rage Wars (Europe)
+# file: Turok - Rage Wars (Europe).zip
 
-#game: Turok - Rage Wars (Europe) (En,Fr,It)
-#file: Turok - Rage Wars (Europe) (En,Fr,It).zip
+# game: Turok - Rage Wars (Europe) (En,Fr,It)
+# file: Turok - Rage Wars (Europe) (En,Fr,It).zip
 
-#game: Turok - Rage Wars (USA)
-#file: Turok - Rage Wars (USA).zip
+# game: Turok - Rage Wars (USA)
+# file: Turok - Rage Wars (USA).zip
 
-#game: Turok - Rage Wars (USA) (Rev 1)
-#file: Turok - Rage Wars (USA) (Rev 1).zip
+# game: Turok - Rage Wars (USA) (Rev 1)
+# file: Turok - Rage Wars (USA) (Rev 1).zip
 
-#game: Turok 2 - Seeds of Evil (Europe)
-#file: Turok 2 - Seeds of Evil (Europe).zip
+# game: Turok 2 - Seeds of Evil (Europe)
+# file: Turok 2 - Seeds of Evil (Europe).zip
 
-#game: Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)
-#file: Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk).zip
+# game: Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)
+# file: Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk).zip
 
-#game: Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)
-#file: Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).zip
+# game: Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)
+# file: Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).zip
 
-#game: Turok 2 - Seeds of Evil (Germany)
-#file: Turok 2 - Seeds of Evil (Germany).zip
+# game: Turok 2 - Seeds of Evil (Germany)
+# file: Turok 2 - Seeds of Evil (Germany).zip
 
-#game: Turok 2 - Seeds of Evil (USA)
-#file: Turok 2 - Seeds of Evil (USA).zip
+# game: Turok 2 - Seeds of Evil (USA)
+# file: Turok 2 - Seeds of Evil (USA).zip
 
-#game: Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)
-#file: Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk).zip
+# game: Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)
+# file: Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk).zip
 
-#game: Turok 2 - Seeds of Evil (USA) (Rev 1)
-#file: Turok 2 - Seeds of Evil (USA) (Rev 1).zip
+# game: Turok 2 - Seeds of Evil (USA) (Rev 1)
+# file: Turok 2 - Seeds of Evil (USA) (Rev 1).zip
 
-#game: Turok 3 - Shadow of Oblivion (Europe)
-#file: Turok 3 - Shadow of Oblivion (Europe).zip
+# game: Turok 3 - Shadow of Oblivion (Europe)
+# file: Turok 3 - Shadow of Oblivion (Europe).zip
 
-#game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31)
-#file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31).zip
+# game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31)
+# file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31).zip
 
-#game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b]
-#file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b].zip
+# game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b]
+# file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b].zip
 
-#game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b]
-#file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b].zip
+# game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b]
+# file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b].zip
 
-#game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T211412)
-#file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T211412).zip
+# game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T211412)
+# file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T211412).zip
 
-#game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245)
-#file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245).zip
+# game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245)
+# file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245).zip
 
-#game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18)
-#file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18).zip
+# game: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18)
+# file: Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18).zip
 
-#game: Turok 3 - Shadow of Oblivion (USA)
-#file: Turok 3 - Shadow of Oblivion (USA).zip
+# game: Turok 3 - Shadow of Oblivion (USA)
+# file: Turok 3 - Shadow of Oblivion (USA).zip
 
-#game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03)
-#file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03).zip
+# game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03)
+# file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03).zip
 
-#game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)
-#file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26).zip
+# game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)
+# file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26).zip
 
-#game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16)
-#file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16).zip
+# game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16)
+# file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16).zip
 
-#game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18)
-#file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).zip
+# game: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18)
+# file: Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).zip
 
-#game: Twisted Edge - Extreme Snowboarding (USA)
-#file: Twisted Edge - Extreme Snowboarding (USA).zip
+# game: Twisted Edge - Extreme Snowboarding (USA)
+# file: Twisted Edge - Extreme Snowboarding (USA).zip
 
-#game: Twisted Edge - Snowboarding (Europe)
-#file: Twisted Edge - Snowboarding (Europe).zip
+# game: Twisted Edge - Snowboarding (Europe)
+# file: Twisted Edge - Snowboarding (Europe).zip
 
 game: Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)
 file: Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).zip
 
-#game: V-Rally Edition 99 (Europe) (En,Fr,De)
-#file: V-Rally Edition 99 (Europe) (En,Fr,De).zip
+# game: V-Rally Edition 99 (Europe) (En,Fr,De)
+# file: V-Rally Edition 99 (Europe) (En,Fr,De).zip
 
 game: V-Rally Edition 99 (Japan)
 file: V-Rally Edition 99 (Japan).zip
 
-#game: V-Rally Edition 99 (USA)
-#file: V-Rally Edition 99 (USA).zip
+# game: V-Rally Edition 99 (USA)
+# file: V-Rally Edition 99 (USA).zip
 
 game: Viewpoint 2064 (Japan) (Proto)
 file: Viewpoint 2064 (Japan) (Proto).zip
 
-#game: Vigilante 8 - 2nd Offense (Europe)
-#file: Vigilante 8 - 2nd Offense (Europe).zip
+# game: Vigilante 8 - 2nd Offense (Europe)
+# file: Vigilante 8 - 2nd Offense (Europe).zip
 
-#game: Vigilante 8 - 2nd Offense (USA)
-#file: Vigilante 8 - 2nd Offense (USA).zip
+# game: Vigilante 8 - 2nd Offense (USA)
+# file: Vigilante 8 - 2nd Offense (USA).zip
 
-#game: Vigilante 8 (Europe)
-#file: Vigilante 8 (Europe).zip
+# game: Vigilante 8 (Europe)
+# file: Vigilante 8 (Europe).zip
 
-#game: Vigilante 8 (France)
-#file: Vigilante 8 (France).zip
+# game: Vigilante 8 (France)
+# file: Vigilante 8 (France).zip
 
-#game: Vigilante 8 (Germany)
-#file: Vigilante 8 (Germany).zip
+# game: Vigilante 8 (Germany)
+# file: Vigilante 8 (Germany).zip
 
-#game: Vigilante 8 (USA)
-#file: Vigilante 8 (USA).zip
+# game: Vigilante 8 (USA)
+# file: Vigilante 8 (USA).zip
 
 game: Violence Killer - Turok New Generation (Japan)
 file: Violence Killer - Turok New Generation (Japan).zip
 
-#game: Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)
-#file: Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)
+# file: Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Virtual Chess 64 (USA) (En,Fr,Es)
-#file: Virtual Chess 64 (USA) (En,Fr,Es).zip
+# game: Virtual Chess 64 (USA) (En,Fr,Es)
+# file: Virtual Chess 64 (USA) (En,Fr,Es).zip
 
-#game: Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet)
-#file: Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet).zip
+# game: Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet)
+# file: Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet).zip
 
-#game: Virtual Pool 64 (Europe)
-#file: Virtual Pool 64 (Europe).zip
+# game: Virtual Pool 64 (Europe)
+# file: Virtual Pool 64 (Europe).zip
 
-#game: Virtual Pool 64 (USA)
-#file: Virtual Pool 64 (USA).zip
+# game: Virtual Pool 64 (USA)
+# file: Virtual Pool 64 (USA).zip
 
-#game: Virtual Pool 64 (USA) (LodgeNet)
-#file: Virtual Pool 64 (USA) (LodgeNet).zip
+# game: Virtual Pool 64 (USA) (LodgeNet)
+# file: Virtual Pool 64 (USA) (LodgeNet).zip
 
 game: Virtual Pro Wrestling 2 - Oudou Keishou (Japan)
 file: Virtual Pro Wrestling 2 - Oudou Keishou (Japan).zip
@@ -3026,26 +3026,26 @@ file: Virtual Pro Wrestling 2 - Oudou Keishou (Japan).zip
 game: Virtual Pro Wrestling 64 (Japan)
 file: Virtual Pro Wrestling 64 (Japan).zip
 
-#game: Waialae Country Club - True Golf Classics (Europe)
-#file: Waialae Country Club - True Golf Classics (Europe).zip
+# game: Waialae Country Club - True Golf Classics (Europe)
+# file: Waialae Country Club - True Golf Classics (Europe).zip
 
-#game: Waialae Country Club - True Golf Classics (Europe) (Rev 1)
-#file: Waialae Country Club - True Golf Classics (Europe) (Rev 1).zip
+# game: Waialae Country Club - True Golf Classics (Europe) (Rev 1)
+# file: Waialae Country Club - True Golf Classics (Europe) (Rev 1).zip
 
-#game: Waialae Country Club - True Golf Classics (USA)
-#file: Waialae Country Club - True Golf Classics (USA).zip
+# game: Waialae Country Club - True Golf Classics (USA)
+# file: Waialae Country Club - True Golf Classics (USA).zip
 
-#game: Waialae Country Club - True Golf Classics (USA) (Rev 1)
-#file: Waialae Country Club - True Golf Classics (USA) (Rev 1).zip
+# game: Waialae Country Club - True Golf Classics (USA) (Rev 1)
+# file: Waialae Country Club - True Golf Classics (USA) (Rev 1).zip
 
-#game: War Gods (Europe)
-#file: War Gods (Europe).zip
+# game: War Gods (Europe)
+# file: War Gods (Europe).zip
 
-#game: War Gods (USA)
-#file: War Gods (USA).zip
+# game: War Gods (USA)
+# file: War Gods (USA).zip
 
-#game: Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)
-#file: Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De).zip
+# game: Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)
+# file: Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De).zip
 
 game: Wave Race 64 - Kawasaki Jet Ski (Japan)
 files:
@@ -3055,181 +3055,181 @@ files:
 game: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)
 file: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).zip
 
-#game: Wave Race 64 - Kawasaki Jet Ski (USA)
-#file: Wave Race 64 - Kawasaki Jet Ski (USA).zip
+# game: Wave Race 64 - Kawasaki Jet Ski (USA)
+# file: Wave Race 64 - Kawasaki Jet Ski (USA).zip
 
-#game: Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet)
-#file: Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet).zip
+# game: Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet)
+# file: Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet).zip
 
-#game: Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)
-#file: Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).zip
+# game: Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)
+# file: Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).zip
 
-#game: Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)
-#file: Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es).zip
+# game: Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)
+# file: Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es).zip
 
-#game: Wayne Gretzky's 3D Hockey '98 (USA)
-#file: Wayne Gretzky's 3D Hockey '98 (USA).zip
+# game: Wayne Gretzky's 3D Hockey '98 (USA)
+# file: Wayne Gretzky's 3D Hockey '98 (USA).zip
 
-#game: Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)
-#file: Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).zip
+# game: Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)
+# file: Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).zip
 
 game: Wayne Gretzky's 3D Hockey (Japan)
 file: Wayne Gretzky's 3D Hockey (Japan).zip
 
-#game: Wayne Gretzky's 3D Hockey (USA)
-#file: Wayne Gretzky's 3D Hockey (USA).zip
+# game: Wayne Gretzky's 3D Hockey (USA)
+# file: Wayne Gretzky's 3D Hockey (USA).zip
 
-#game: Wayne Gretzky's 3D Hockey (USA) (Rev 1)
-#file: Wayne Gretzky's 3D Hockey (USA) (Rev 1).zip
+# game: Wayne Gretzky's 3D Hockey (USA) (Rev 1)
+# file: Wayne Gretzky's 3D Hockey (USA) (Rev 1).zip
 
-#game: WCW Backstage Assault (USA)
-#file: WCW Backstage Assault (USA).zip
+# game: WCW Backstage Assault (USA)
+# file: WCW Backstage Assault (USA).zip
 
-#game: WCW Mayhem (Europe)
-#file: WCW Mayhem (Europe).zip
+# game: WCW Mayhem (Europe)
+# file: WCW Mayhem (Europe).zip
 
-#game: WCW Mayhem (USA)
-#file: WCW Mayhem (USA).zip
+# game: WCW Mayhem (USA)
+# file: WCW Mayhem (USA).zip
 
-#game: WCW Nitro (USA)
-#file: WCW Nitro (USA).zip
+# game: WCW Nitro (USA)
+# file: WCW Nitro (USA).zip
 
-#game: WCW vs. nWo - World Tour (Europe)
-#file: WCW vs. nWo - World Tour (Europe).zip
+# game: WCW vs. nWo - World Tour (Europe)
+# file: WCW vs. nWo - World Tour (Europe).zip
 
-#game: WCW vs. nWo - World Tour (USA)
-#file: WCW vs. nWo - World Tour (USA).zip
+# game: WCW vs. nWo - World Tour (USA)
+# file: WCW vs. nWo - World Tour (USA).zip
 
-#game: WCW vs. nWo - World Tour (USA) (Rev 1)
-#file: WCW vs. nWo - World Tour (USA) (Rev 1).zip
+# game: WCW vs. nWo - World Tour (USA) (Rev 1)
+# file: WCW vs. nWo - World Tour (USA) (Rev 1).zip
 
-#game: WCW-nWo Revenge (Europe)
-#file: WCW-nWo Revenge (Europe).zip
+# game: WCW-nWo Revenge (Europe)
+# file: WCW-nWo Revenge (Europe).zip
 
-#game: WCW-nWo Revenge (USA)
-#file: WCW-nWo Revenge (USA).zip
+# game: WCW-nWo Revenge (USA)
+# file: WCW-nWo Revenge (USA).zip
 
-#game: Wetrix (Europe) (En,Fr,De,Es,It,Nl)
-#file: Wetrix (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Wetrix (Europe) (En,Fr,De,Es,It,Nl)
+# file: Wetrix (Europe) (En,Fr,De,Es,It,Nl).zip
 
 game: Wetrix (Japan)
 file: Wetrix (Japan).zip
 
-#game: Wetrix (USA) (En,Fr,De,Es,It,Nl)
-#file: Wetrix (USA) (En,Fr,De,Es,It,Nl).zip
+# game: Wetrix (USA) (En,Fr,De,Es,It,Nl)
+# file: Wetrix (USA) (En,Fr,De,Es,It,Nl).zip
 
-#game: Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)
-#file: Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05).zip
+# game: Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)
+# file: Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05).zip
 
-#game: Wheel of Fortune (USA)
-#file: Wheel of Fortune (USA).zip
+# game: Wheel of Fortune (USA)
+# file: Wheel of Fortune (USA).zip
 
-#game: Wide-Boy64 AGB (World) (v0.00b) (Beta)
-#file: Wide-Boy64 AGB (World) (v0.00b) (Beta).zip
+# game: Wide-Boy64 AGB (World) (v0.00b) (Beta)
+# file: Wide-Boy64 AGB (World) (v0.00b) (Beta).zip
 
-#game: Wide-Boy64 AGB (World) (v0.02c)
-#file: Wide-Boy64 AGB (World) (v0.02c).zip
+# game: Wide-Boy64 AGB (World) (v0.02c)
+# file: Wide-Boy64 AGB (World) (v0.02c).zip
 
-#game: Wide-Boy64 AGB (World) (v0.04c)
-#file: Wide-Boy64 AGB (World) (v0.04c).zip
+# game: Wide-Boy64 AGB (World) (v0.04c)
+# file: Wide-Boy64 AGB (World) (v0.04c).zip
 
-#game: Wide-Boy64 CGB (World) (v1.02)
-#file: Wide-Boy64 CGB (World) (v1.02).zip
+# game: Wide-Boy64 CGB (World) (v1.02)
+# file: Wide-Boy64 CGB (World) (v1.02).zip
 
 game: Wild Choppers (Japan)
 file: Wild Choppers (Japan).zip
 
-#game: Wildwaters (USA) (1999-06-15) (Proto)
-#file: Wildwaters (USA) (1999-06-15) (Proto).zip
+# game: Wildwaters (USA) (1999-06-15) (Proto)
+# file: Wildwaters (USA) (1999-06-15) (Proto).zip
 
-#game: WinBack - Covert Operations (USA)
-#file: WinBack - Covert Operations (USA).zip
+# game: WinBack - Covert Operations (USA)
+# file: WinBack - Covert Operations (USA).zip
 
 game: WinBack (Japan)
 files:
   WinBack (Japan).zip
   WinBack (Japan) (Rev 1).zip
 
-#game: Wipeout 64 (Europe)
-#file: Wipeout 64 (Europe).zip
+# game: Wipeout 64 (Europe)
+# file: Wipeout 64 (Europe).zip
 
-#game: Wipeout 64 (Europe) (Beta)
-#file: Wipeout 64 (Europe) (Beta).zip
+# game: Wipeout 64 (Europe) (Beta)
+# file: Wipeout 64 (Europe) (Beta).zip
 
-#game: Wipeout 64 (USA)
-#file: Wipeout 64 (USA).zip
+# game: Wipeout 64 (USA)
+# file: Wipeout 64 (USA).zip
 
 game: Wonder Project J2 - Koruro no Mori no Jozet (Japan)
 file: Wonder Project J2 - Koruro no Mori no Jozet (Japan).zip
 
-#game: World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)
-#file: World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+# game: World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)
+# file: World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
 
-#game: World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)
-#file: World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).zip
+# game: World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)
+# file: World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).zip
 
-#game: World Driver Championship (Europe) (En,Fr,De,Es,It)
-#file: World Driver Championship (Europe) (En,Fr,De,Es,It).zip
+# game: World Driver Championship (Europe) (En,Fr,De,Es,It)
+# file: World Driver Championship (Europe) (En,Fr,De,Es,It).zip
 
-#game: World Driver Championship (USA)
-#file: World Driver Championship (USA).zip
+# game: World Driver Championship (USA)
+# file: World Driver Championship (USA).zip
 
-#game: Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)
-#file: Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).zip
+# game: Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)
+# file: Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).zip
 
-#game: Worms Armageddon (USA) (En,Fr,Es)
-#file: Worms Armageddon (USA) (En,Fr,Es).zip
+# game: Worms Armageddon (USA) (En,Fr,Es)
+# file: Worms Armageddon (USA) (En,Fr,Es).zip
 
-#game: WWF Attitude (Europe)
-#file: WWF Attitude (Europe).zip
+# game: WWF Attitude (Europe)
+# file: WWF Attitude (Europe).zip
 
-#game: WWF Attitude (Germany)
-#file: WWF Attitude (Germany).zip
+# game: WWF Attitude (Germany)
+# file: WWF Attitude (Germany).zip
 
-#game: WWF Attitude (USA)
-#file: WWF Attitude (USA).zip
+# game: WWF Attitude (USA)
+# file: WWF Attitude (USA).zip
 
-#game: WWF No Mercy (Europe)
-#file: WWF No Mercy (Europe).zip
+# game: WWF No Mercy (Europe)
+# file: WWF No Mercy (Europe).zip
 
-#game: WWF No Mercy (Europe) (Rev 1)
-#file: WWF No Mercy (Europe) (Rev 1).zip
+# game: WWF No Mercy (Europe) (Rev 1)
+# file: WWF No Mercy (Europe) (Rev 1).zip
 
-#game: WWF No Mercy (USA)
-#file: WWF No Mercy (USA).zip
+# game: WWF No Mercy (USA)
+# file: WWF No Mercy (USA).zip
 
-#game: WWF No Mercy (USA) (Beta) (2000-09-11)
-#file: WWF No Mercy (USA) (Beta) (2000-09-11).zip
+# game: WWF No Mercy (USA) (Beta) (2000-09-11)
+# file: WWF No Mercy (USA) (Beta) (2000-09-11).zip
 
-#game: WWF No Mercy (USA) (Rev 1)
-#file: WWF No Mercy (USA) (Rev 1).zip
+# game: WWF No Mercy (USA) (Rev 1)
+# file: WWF No Mercy (USA) (Rev 1).zip
 
-#game: WWF War Zone (Europe)
-#file: WWF War Zone (Europe).zip
+# game: WWF War Zone (Europe)
+# file: WWF War Zone (Europe).zip
 
-#game: WWF War Zone (USA)
-#file: WWF War Zone (USA).zip
+# game: WWF War Zone (USA)
+# file: WWF War Zone (USA).zip
 
-#game: WWF WrestleMania 2000 (Europe)
-#file: WWF WrestleMania 2000 (Europe).zip
+# game: WWF WrestleMania 2000 (Europe)
+# file: WWF WrestleMania 2000 (Europe).zip
 
 game: WWF WrestleMania 2000 (Japan)
 file: WWF WrestleMania 2000 (Japan).zip
 
-#game: WWF WrestleMania 2000 (USA)
-#file: WWF WrestleMania 2000 (USA).zip
+# game: WWF WrestleMania 2000 (USA)
+# file: WWF WrestleMania 2000 (USA).zip
 
-#game: X'treme Roller (USA) (Proto)
-#file: X'treme Roller (USA) (Proto).zip
+# game: X'treme Roller (USA) (Proto)
+# file: X'treme Roller (USA) (Proto).zip
 
-#game: Xena - Warrior Princess - The Talisman of Fate (Europe)
-#file: Xena - Warrior Princess - The Talisman of Fate (Europe).zip
+# game: Xena - Warrior Princess - The Talisman of Fate (Europe)
+# file: Xena - Warrior Princess - The Talisman of Fate (Europe).zip
 
-#game: Xena - Warrior Princess - The Talisman of Fate (USA)
-#file: Xena - Warrior Princess - The Talisman of Fate (USA).zip
+# game: Xena - Warrior Princess - The Talisman of Fate (USA)
+# file: Xena - Warrior Princess - The Talisman of Fate (USA).zip
 
-#game: Xplorer 64 (Germany) (v1.067) (Unl)
-#file: Xplorer 64 (Germany) (v1.067) (Unl).zip
+# game: Xplorer 64 (Germany) (v1.067) (Unl)
+# file: Xplorer 64 (Germany) (v1.067) (Unl).zip
 
 game: Yakouchuu II - Satsujin Kouro (Japan)
 file: Yakouchuu II - Satsujin Kouro (Japan).zip
@@ -3237,14 +3237,14 @@ file: Yakouchuu II - Satsujin Kouro (Japan).zip
 game: Yoshi Story (Japan)
 file: Yoshi Story (Japan).zip
 
-#game: Yoshi's Story (Europe) (En,Fr,De)
-#file: Yoshi's Story (Europe) (En,Fr,De).zip
+# game: Yoshi's Story (Europe) (En,Fr,De)
+# file: Yoshi's Story (Europe) (En,Fr,De).zip
 
-#game: Yoshi's Story (USA) (En,Ja)
-#file: Yoshi's Story (USA) (En,Ja).zip
+# game: Yoshi's Story (USA) (En,Ja)
+# file: Yoshi's Story (USA) (En,Ja).zip
 
-#game: Yoshi's Story (USA) (En,Ja) (LodgeNet)
-#file: Yoshi's Story (USA) (En,Ja) (LodgeNet).zip
+# game: Yoshi's Story (USA) (En,Ja) (LodgeNet)
+# file: Yoshi's Story (USA) (En,Ja) (LodgeNet).zip
 
 game: Yuke Yuke!! Trouble Makers (Japan)
 file: Yuke Yuke!! Trouble Makers (Japan).zip

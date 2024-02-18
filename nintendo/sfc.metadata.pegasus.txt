@@ -340,8 +340,8 @@ description:
 #   Aladdin (USA).zip
 #   Aladdin (USA) (Beta).zip
 
-game: Aladdin (World) (Disney Classic Games)
-file: Aladdin (World) (Disney Classic Games).zip
+# game: Aladdin (World) (Disney Classic Games)
+# file: Aladdin (World) (Disney Classic Games).zip
 
 game: アルバートオデッセイ
 sort_title: あるばーとおでっせい1
@@ -619,7 +619,8 @@ publisher: やまのん
 description:
   やのまんより1994年12月2日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。SFC版の『アレサシリーズ』の続編。戦闘では前作と同様に最大で4方向に敵が出現するものの、正面に敵がいないことがあるので、側方からの襲撃や背後からの襲撃の場合、まずは方向を変えねばならない。また、戦闘ダメージが数値化され、こちらが打撃を与えた敵と、未だ打撃を与えていない敵が区別できるようになった。
 
-game: Arkanoid - Doh It Again (Japan) (En)
+game: アルカノイド Doh It Again
+sort_title: あるかのいどSFC
 file: Arkanoid - Doh It Again (Japan) (En).zip
 
 # game: Arkanoid - Doh It Again (USA)
@@ -634,20 +635,24 @@ file: Arkanoid - Doh It Again (Japan) (En).zip
 # game: Art of Fighting (USA)
 # file: Art of Fighting (USA).zip
 
-game: Aryol (Japan)
+game: アリョール
+sort_title: ありょーる
 file: Aryol (Japan).zip
 
-game: Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu (Japan)
+game: 朝日新聞連載 加藤一二三九段 心技流
+sort_title: あさひしんぶんれんさいかとうひふみくだんしんぎりゅう
 file: Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu (Japan).zip
 
-game: Asameshimae Nyanko (Japan)
+game: あさめしまえにゃんこ
+sort_title: あさめしまえにゃんこ
 file: Asameshimae Nyanko (Japan).zip
 
-game: Ashita no Joe (Japan)
+game: あしたのジョー
+sort_title: あしたのじょー
 file: Ashita no Joe (Japan).zip
 
-game: Assault Suits Valken (World) (Switch)
-file: Assault Suits Valken (World) (Switch).zip
+# game: Assault Suits Valken (World) (Switch)
+# file: Assault Suits Valken (World) (Switch).zip
 
 # game: Asterix (Europe) (En,Fr,De,Es)
 # files:
@@ -657,13 +662,14 @@ file: Assault Suits Valken (World) (Switch).zip
 # game: Asterix & Obelix (Europe) (En,Fr,De,Es)
 # file: Asterix & Obelix (Europe) (En,Fr,De,Es).zip
 
-game: Astrohawk (World) (Beta) (Unl)
-file: Astrohawk (World) (Beta) (Unl).zip
+# game: Astrohawk (World) (Beta) (Unl)
+# file: Astrohawk (World) (Beta) (Unl).zip
 
-game: Astrohawk (World) (Unl)
-file: Astrohawk (World) (Unl).zip
+# game: Astrohawk (World) (Unl)
+# file: Astrohawk (World) (Unl).zip
 
-game: Atlas, The - Renaissance Voyager (Japan)
+game: ジ・アトラス Renaissance Voyager
+sort_title: じあとらすSFC
 files:
   Atlas, The - Renaissance Voyager (Japan).zip
   Atlas, The - Renaissance Voyager (Japan) (Rev 1) (NP).zip
@@ -674,7 +680,8 @@ files:
 # game: Axelay (Europe)
 # file: Axelay (Europe).zip
 
-game: Axelay (Japan)
+game: アクスレイ
+sort_title: あくすれい
 file: Axelay (Japan).zip
 
 # game: Axelay (USA)
@@ -682,8 +689,8 @@ file: Axelay (Japan).zip
 #   Axelay (USA).zip
 #   Axelay (USA) (Sample).zip
 
-game: Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl)
-file: Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl).zip
+# game: Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl)
+# file: Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl).zip
 
 # game: B.O.B. (Europe)
 # file: B.O.B. (Europe).zip
@@ -694,21 +701,26 @@ file: Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl).zip
 # game: Baby T-Rex (USA) (Beta)
 # file: Baby T-Rex (USA) (Beta).zip
 
-game: Bahamut Lagoon (Japan)
+game: バハムートラグーン
+sort_title: ばはむーとらぐーん
 files:
   Bahamut Lagoon (Japan).zip
   Bahamut Lagoon (Japan) (Virtual Console).zip
 
-game: Bakukyuu Renpatsu!! Super B-Daman (Japan)
+game: 爆球連発!! スーパービーダマン
+sort_title: ばくきゅうれんぱつすーぱーびーだまん
 file: Bakukyuu Renpatsu!! Super B-Daman (Japan).zip
 
-game: Bakumatsu Kourinden Oni (Japan)
+game: 幕末降臨伝ONI
+sort_title: ばくまつこうりんでんおに
 file: Bakumatsu Kourinden Oni (Japan).zip
 
-game: Bakutou Dochers - Bumps-jima wa Oosawagi (Japan)
+game: 爆投ドッチャーズ バンプス島は大騒ぎ
+sort_title: ばくとうどっちゃーず
 file: Bakutou Dochers - Bumps-jima wa Oosawagi (Japan).zip
 
-game: Ball Bullet Gun (Japan)
+game: ボール・ブレット・ガン
+sort_title: ぼーるぶれっとがん
 file: Ball Bullet Gun (Japan).zip
 
 # game: Ballz 3D - Fighting at Its Ballziest (USA)
@@ -716,7 +728,8 @@ file: Ball Bullet Gun (Japan).zip
 #   Ballz 3D - Fighting at Its Ballziest (USA).zip
 #   Ballz 3D - Fighting at Its Ballziest (USA) (Beta).zip
 
-game: Barbarossa (Japan)
+game: バルバロッサ
+sort_title: ばるばろっさ
 file: Barbarossa (Japan).zip
 
 # game: Barbie Super Model (USA)
@@ -725,7 +738,8 @@ file: Barbarossa (Japan).zip
 # game: Barbie Vacation Adventure (USA) (Proto)
 # file: Barbie Vacation Adventure (USA) (Proto).zip
 
-game: Barkley no Power Dunk (Japan) (En)
+game: バークレーのパワーダンク
+sort_title: ばーくれーのぱわーだんく
 file: Barkley no Power Dunk (Japan) (En).zip
 
 # game: Barkley Shut Up and Jam! (Europe)
@@ -740,7 +754,8 @@ file: Barkley no Power Dunk (Japan) (En).zip
 # game: BASS Masters Classic - Pro Edition (USA)
 # file: BASS Masters Classic - Pro Edition (USA).zip
 
-game: BASS Masters Classic (Japan)
+game: バスマスターズクラシック
+sort_title: ばすますたーずくらしっく
 file: BASS Masters Classic (Japan).zip
 
 # game: BASS Masters Classic (USA)
@@ -749,7 +764,8 @@ file: BASS Masters Classic (Japan).zip
 # game: Bassin's Black Bass (USA)
 # file: Bassin's Black Bass (USA).zip
 
-game: Bastard!! - Ankoku no Hakaishin (Japan)
+game: バスタード!! 暗黒の破壊神
+sort_title: ばすたーどあんこくのはかいしん
 file: Bastard!! - Ankoku no Hakaishin (Japan).zip
 
 # game: Batman - Revenge of the Joker (USA) (Proto)
@@ -761,7 +777,8 @@ file: Bastard!! - Ankoku no Hakaishin (Japan).zip
 # game: Batman Forever (Europe)
 # file: Batman Forever (Europe).zip
 
-game: Batman Forever (Japan) (En)
+game: バットマン フォーエヴァー
+sort_title: ばっとまんふぉーえう゛ぁー
 files:
   Batman Forever (Japan) (En).zip
   Batman Forever (Japan) (En) (Beta 1).zip
@@ -775,7 +792,8 @@ files:
 # game: Batman Returns (Europe)
 # file: Batman Returns (Europe).zip
 
-game: Batman Returns (Japan) (En)
+game: バットマン リターンズ
+sort_title: ばっとまんりたーんず
 file: Batman Returns (Japan) (En).zip
 
 # game: Batman Returns (USA)
@@ -784,7 +802,8 @@ file: Batman Returns (Japan) (En).zip
 # game: Batman Returns (USA) (Sample)
 # file: Batman Returns (USA) (Sample).zip
 
-game: Battle Blaze (Japan) (En)
+game: バトルブレイズ
+sort_title: ばとるぶれいず
 file: Battle Blaze (Japan) (En).zip
 
 # game: Battle Blaze (USA)
@@ -802,70 +821,87 @@ file: Battle Blaze (Japan) (En).zip
 # game: Battle Clash (USA)
 # file: Battle Clash (USA).zip
 
-game: Battle Commander - Hachibushuu, Shura no Heihou (Japan)
+game: バトルコマンダー 八武衆、修羅の兵法
+sort_title: ばとるこまんだーはちぶしゅうしゅらのへいほう
 file: Battle Commander - Hachibushuu, Shura no Heihou (Japan).zip
 
-game: Battle Cross (Japan)
+game: バトルクロス
+sort_title: ばとるくろす
 file: Battle Cross (Japan).zip
 
-game: Battle Dodge Ball (Japan)
+game: バトルドッジボール
+sort_title: ばとるどっじぼーる1
 file: Battle Dodge Ball (Japan).zip
 
-game: Battle Dodge Ball II (Japan)
+game: バトルドッジボールII
+sort_title: ばとるどっじぼーる2
 file: Battle Dodge Ball II (Japan).zip
 
-game: Battle Grand Prix (Japan) (En)
+game: バトルグランプリ
 file: Battle Grand Prix (Japan) (En).zip
 
 # game: Battle Grand Prix (USA)
 # file: Battle Grand Prix (USA).zip
 
-game: Battle Jockey (Japan)
+game: バトルジョッキー
+sort_title: ばとるじょっきー
 file: Battle Jockey (Japan).zip
 
-game: Battle Master - Kyuukyoku no Senshi-tachi (Japan)
+game: バトル・マスター 究極の戦士たち
+sort_title: ばとるますたーきゅうきょくのせんしたち
 files:
   Battle Master - Kyuukyoku no Senshi-tachi (Japan).zip
   Battle Master - Kyuukyoku no Senshi-tachi (Japan) (Sample).zip
 
-game: Battle Pinball (Japan)
+game: バトルピンボール
+sort_title: ばとるぴんぼーる
 file: Battle Pinball (Japan).zip
 
-game: Battle Racers (Japan)
+game: バトルレーサーズ
+sort_title: ばとるれーさーず
 file: Battle Racers (Japan).zip
 
-game: Battle Robot Retsuden (Japan)
+game: バトルロボット列伝
+sort_title: ばとるろぼっとれつでん
 files:
   Battle Robot Retsuden (Japan).zip
   Battle Robot Retsuden (Japan) (Rev 1).zip
 
-game: Battle Soccer - Field no Hasha (Japan)
+game: バトルサッカー フィールドの覇者
+sort_title: ばとるさっかー1
 file: Battle Soccer - Field no Hasha (Japan).zip
 
-game: Battle Soccer 2 (Japan)
+game: バトルサッカー2
+sort_title: ばとるさっかー2
 file: Battle Soccer 2 (Japan).zip
 
-game: Battle Submarine (Japan)
+game: バトルサブマリン
+sort_title: ばとるさぶまりん
 file: Battle Submarine (Japan).zip
 
-game: Battle Tycoon - Flash Hiders SFX (Japan)
+game: バトルタイクーン
+sort_title: ばとるたいくーん
 files:
   Battle Tycoon - Flash Hiders SFX (Japan).zip
   Battle Tycoon - Flash Hiders SFX (Japan) (Rev 1).zip
 
-game: Battle Zeque Den (Japan)
+game: バトルZEQUE伝
+sort_title: ばとるぜくうでん
 file: Battle Zeque Den (Japan).zip
 
-game: BattleTech (Japan)
+game: バトルテック
+sort_title: ばとるてっく
 file: BattleTech (Japan).zip
 
-game: BattleTech 3050 (Japan)
+game: バトルテック3050
+sort_title: ばとるてっく3050
 file: BattleTech 3050 (Japan).zip
 
 # game: Battletoads in Battlemaniacs (Europe)
 # file: Battletoads in Battlemaniacs (Europe).zip
 
-game: Battletoads in Battlemaniacs (Japan)
+game: バトルトード イン バトルマニアック
+sort_title: ばとるとーどいんばとるまにあっく
 file: Battletoads in Battlemaniacs (Japan).zip
 
 # game: Battletoads in Battlemaniacs (USA)
@@ -908,7 +944,8 @@ file: Battletoads in Battlemaniacs (Japan).zip
 # game: Beethoven's 2nd (USA) (Beta) (1993-09-13)
 # file: Beethoven's 2nd (USA) (Beta) (1993-09-13).zip
 
-game: Benkei Gaiden - Suna no Shou (Japan)
+game: 弁慶外伝 砂の章
+sort_title: べんけいがいでんすなのしょう
 file: Benkei Gaiden - Suna no Shou (Japan).zip
 
 # game: Best of the Best - Championship Karate (Europe)
@@ -920,13 +957,16 @@ file: Benkei Gaiden - Suna no Shou (Japan).zip
 # game: Best of the Best - Championship Karate (USA)
 # file: Best of the Best - Championship Karate (USA).zip
 
-game: Best Shot Pro Golf (Japan)
+game: ベストショットプロゴルフ
+sort_title: べすとしょっとぷろごるふ
 file: Best Shot Pro Golf (Japan).zip
 
-game: Big Ichigeki! Pachi-Slot Daikouryaku (Japan)
+game: ビッグ一撃! パチスロ大攻略
+sort_title: びっぐいちげきぱちすろだいこうりゃく1
 file: Big Ichigeki! Pachi-Slot Daikouryaku (Japan).zip
 
-game: Big Ichigeki! Pachi-Slot Daikouryaku 2 - Universal Collection (Japan)
+game: ビッグ一撃! パチスロ大攻略2 ユニバーサル・コレクション
+sort_title: びっぐいちげきぱちすろだいこうりゃく2
 file: Big Ichigeki! Pachi-Slot Daikouryaku 2 - Universal Collection (Japan).zip
 
 # game: Big Sky Trooper (Europe)
@@ -938,10 +978,12 @@ file: Big Ichigeki! Pachi-Slot Daikouryaku 2 - Universal Collection (Japan).zip
 #   Big Sky Trooper (USA) (Beta 1).zip
 #   Big Sky Trooper (USA) (Beta 2).zip
 
-game: Bijo to Yajuu (Japan)
+game: 美女と野獣
+sort_title: びじょとやじゅう
 file: Bijo to Yajuu (Japan).zip
 
-game: Bike Daisuki! Hashiriya Tamashii (Japan)
+game: バイク大好き! 走り屋魂
+sort_title: ばいくだいすきはしりやたましい
 file: Bike Daisuki! Hashiriya Tamashii (Japan).zip
 
 # game: Biker Mice from Mars (Europe)
@@ -958,7 +1000,8 @@ file: Bike Daisuki! Hashiriya Tamashii (Japan).zip
 # game: Bill Walsh College Football (USA)
 # file: Bill Walsh College Football (USA).zip
 
-game: Bing Bing! Bingo (Japan)
+game: ビンビン! ビンゴ
+sort_title: びんびんびんご
 files:
   Bing Bing! Bingo (Japan).zip
   Bing Bing! Bingo (Japan) (Beta).zip
@@ -966,16 +1009,19 @@ files:
 # game: BioMetal (Europe)
 # file: BioMetal (Europe).zip
 
-game: BioMetal (Japan) (En)
+game: バイオメタル
+sort_title: ばいおめたる
 file: BioMetal (Japan) (En).zip
 
 # game: BioMetal (USA)
 # file: BioMetal (USA).zip
 
-game: Bishin Densetsu Zoku (Japan)
+game: 美神伝説Zoku
+sort_title: びしんでんせつぞく
 file: Bishin Densetsu Zoku (Japan).zip
 
-game: Bishoujo Janshi Suchie-Pai (Japan)
+game: 美少女雀士スーチーパイ
+sort_title: びしょうじょじゃんしすーちーぱい
 files:
   Bishoujo Janshi Suchie-Pai (Japan).zip
   Bishoujo Janshi Suchie-Pai (Japan) (Rev 1).zip 
@@ -1036,13 +1082,15 @@ publisher: エンジェル
 description:
   エンジェルより1996年3月29日にスーパーファミコン用ソフトとして発売された対戦格闘アクションゲーム。大人気の『美少女戦士セーラームーンSuperS』のセーラー戦士たちが主役の座を賭けて戦う。戦闘開始時に能力値を割り振ることが可能。ムーン、マーキュリー、マーズ、ジュピター、ヴィーナス、ちびムーンとのバトルに勝ち抜き、ウラヌス、ネプチューン、プルート、サターンの4戦士に挑戦しよう。
 
-game: Bishoujo Wrestler Retsuden - Blizzard Yuki Rannyuu!! (Japan)
+game: 美少女レスラー列伝 ブリザードYuki乱入!!
+sort_title: びしょうじょれすらーれつでんぶりざーどゆきらんにゅう
 file: Bishoujo Wrestler Retsuden - Blizzard Yuki Rannyuu!! (Japan).zip
 
 # game: Blackhawk (Europe) (En,Fr,De)
 # file: Blackhawk (Europe) (En,Fr,De).zip
 
-game: Blackthorne - Fukushuu no Kuroki Toge (Japan)
+game: ブラックソーン 復習の黒き棘
+sort_title: ぶらっくそーんふくしゅうのくろきとげ
 file: Blackthorne - Fukushuu no Kuroki Toge (Japan).zip
 
 # game: Blackthorne (USA)
@@ -1057,16 +1105,19 @@ file: Blackthorne - Fukushuu no Kuroki Toge (Japan).zip
 # game: BlaZeon - The Bio-Cyborg Challenge (USA)
 # file: BlaZeon - The Bio-Cyborg Challenge (USA).zip
 
-game: BlaZeon (Japan) (En)
+game: ブレイゾン
+sort_title: ぶれいぞん
 file: BlaZeon (Japan) (En).zip
 
 # game: Blazing Skies (Europe)
 # file: Blazing Skies (Europe).zip
 
-game: Block Kuzushi (Japan)
+game: ブロックくずし
+sort_title: ぶろっくくずし
 file: Block Kuzushi (Japan).zip
 
-game: Blue Crystalrod, The (Japan)
+game: ザ・ブルークリスタルロッド
+sort_title: ざぶるーくりすたるろっど
 file: Blue Crystalrod, The (Japan).zip
 
 # game: Blues Brothers, The (Europe)
@@ -1074,7 +1125,8 @@ file: Blue Crystalrod, The (Japan).zip
 #   Blues Brothers, The (Europe).zip
 #   Blues Brothers, The (Europe) (Beta).zip
 
-game: Blues Brothers, The (Japan)
+game: ブルースブラザーズ
+sort_title: ぶるーすぶらざーず
 file: Blues Brothers, The (Japan).zip
 
 # game: Blues Brothers, The (USA)
@@ -1083,18 +1135,20 @@ file: Blues Brothers, The (Japan).zip
 # game: Bobby's World (USA) (Proto)
 # file: Bobby's World (USA) (Proto).zip
 
-game: Bokujou Monogatari (Japan)
+game: 牧場物語
+sort_title: ぼくじょうものがたり1
 files:
   Bokujou Monogatari (Japan).zip
   Bokujou Monogatari (Japan) (Rev 1).zip 
 
-game: Bomberman B-Daman (Japan)
+game: ボンバーマンビーダマン
+sort_title: ぼんばーまんびーだまん
 file: Bomberman B-Daman (Japan).zip
 
-game: Bombuzal (Japan)
+game: ボンバザル
 file: Bombuzal (Japan).zip
 
-game: Bonkers - Hollywood Daisakusen! (Japan)
+game: ボンカーズ ハリウッド大作戦!
 file: Bonkers - Hollywood Daisakusen! (Japan).zip
 
 # game: Bonkers (USA)
@@ -1106,7 +1160,8 @@ file: Bonkers - Hollywood Daisakusen! (Japan).zip
 # game: Boogerman - A Pick and Flick Adventure (USA)
 # file: Boogerman - A Pick and Flick Adventure (USA).zip
 
-game: Bounty Sword (Japan)
+game: バウンティ・ソード
+sort_title: ばうんてぃそーど
 files:
   Bounty Sword (Japan).zip
   Bounty Sword (Japan) (Beta) (1995-05-16).zip
@@ -1119,7 +1174,8 @@ files:
 #   Boxing Legends of the Ring (USA).zip
 #   Boxing Legends of the Ring (USA) (Beta).zip
 
-game: Brain Lord (Japan)
+game: ブレインロード
+sort_title: ぶれいんろーど
 file: Brain Lord (Japan).zip
 
 # game: Brain Lord (USA)
@@ -1139,16 +1195,19 @@ file: Brain Lord (Japan).zip
 #   Bram Stoker's Dracula (USA).zip
 #   Bram Stoker's Dracula (USA) (Beta).zip
 
-game: Brandish (Japan)
+game: ブランディッシュ
+sort_title: ぶらんでぃっしゅ1
 file: Brandish (Japan).zip
 
 # game: Brandish (USA)
 # file: Brandish (USA).zip
 
-game: Brandish 2 - Expert (Japan)
+game: ブランディッシュ2 エキスパート
+sort_title: ぶらんでぃっしゅ2b
 file: Brandish 2 - Expert (Japan).zip
 
-game: Brandish 2 - The Planet Buster (Japan)
+game: ブランディッシュ2 The Planet Buster
+sort_title: ぶらんでぃっしゅ2a
 file: Brandish 2 - The Planet Buster (Japan).zip
 
 # game: Brawl Brothers - Rival Turf! 2 (Europe)
@@ -1220,7 +1279,8 @@ description:
 #   Brutal - Paws of Fury (USA).zip
 #   Brutal - Paws of Fury (USA) (Beta).zip
 
-game: BS-X - Sore wa Namae o Nusumareta Machi no Monogatari (Japan) (Rev 1)
+game: BS-X -それは名前を盗まれた街の物語-
+sort_title: びーえすえっくすそれはなまえをぬすまれたまちのものがたり
 file: BS-X - Sore wa Namae o Nusumareta Machi no Monogatari (Japan) (Rev 1).zip
 
 # game: Bubsy II (Europe)
@@ -1229,8 +1289,8 @@ file: BS-X - Sore wa Namae o Nusumareta Machi no Monogatari (Japan) (Rev 1).zip
 # game: Bubsy II (USA)
 # file: Bubsy II (USA).zip
 
-game: Bubsy II (World) (Bubsy Two-Fur) (Unl)
-file: Bubsy II (World) (Bubsy Two-Fur) (Unl).zip
+# game: Bubsy II (World) (Bubsy Two-Fur) (Unl)
+# file: Bubsy II (World) (Bubsy Two-Fur) (Unl).zip
 
 # game: Bubsy in - Claws Encounters of the Furred Kind (Europe)
 # file: Bubsy in - Claws Encounters of the Furred Kind (Europe).zip
@@ -1241,8 +1301,8 @@ file: Bubsy II (World) (Bubsy Two-Fur) (Unl).zip
 # game: Bubsy in - Claws Encounters of the Furred Kind (USA)
 # file: Bubsy in - Claws Encounters of the Furred Kind (USA).zip
 
-game: Bubsy in - Claws Encounters of the Furred Kind (World) (Bubsy Two-Fur) (Unl)
-file: Bubsy in - Claws Encounters of the Furred Kind (World) (Bubsy Two-Fur) (Unl).zip
+# game: Bubsy in - Claws Encounters of the Furred Kind (World) (Bubsy Two-Fur) (Unl)
+# file: Bubsy in - Claws Encounters of the Furred Kind (World) (Bubsy Two-Fur) (Unl).zip
 
 # game: Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1)
 # file: Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1).zip
@@ -1253,7 +1313,8 @@ file: Bubsy in - Claws Encounters of the Furred Kind (World) (Bubsy Two-Fur) (Un
 # game: Buck Rogers - The Arcade Game (USA) (Beta)
 # file: Buck Rogers - The Arcade Game (USA) (Beta).zip
 
-game: Bugs Bunny - Hachamecha Daibouken (Japan)
+game: バックス・バニー はちゃめちゃ大冒険
+sort_title: ばっくすばにーはちゃめちゃだいぼうけん
 file: Bugs Bunny - Hachamecha Daibouken (Japan).zip
 
 # game: Bugs Bunny - Rabbit Rampage (Europe)
@@ -1264,27 +1325,30 @@ file: Bugs Bunny - Hachamecha Daibouken (Japan).zip
 
 # game: Bulls vs Blazers and the NBA Playoffs (Europe)
 # files:
-  Bulls vs Blazers and the NBA Playoffs (Europe).zip
-  Bulls vs Blazers and the NBA Playoffs (Europe) (Rev 1).zip
+#   Bulls vs Blazers and the NBA Playoffs (Europe).zip
+#   Bulls vs Blazers and the NBA Playoffs (Europe) (Rev 1).zip
 
 # game: Bulls vs Blazers and the NBA Playoffs (USA)
 # files:
 #   Bulls vs Blazers and the NBA Playoffs (USA).zip
 #   Bulls vs Blazers and the NBA Playoffs (USA) (Rev 1).zip
 
-game: Burai - Hachigyoku no Yuushi Densetsu (Japan)
+game: ブライ 八玉の勇士伝説
+sort_title: ぶらいはちぎょくのゆうしでんせつ
 file: Burai - Hachigyoku no Yuushi Densetsu (Japan).zip
 
 # game: Burn-in - Test Cartridge (USA) (Rev D)
 # file: Burn-in - Test Cartridge (USA) (Rev D).zip
 
-game: Bushi Seiryuuden - Futari no Yuusha (Japan)
+game: BUSHI青龍伝 二人の勇者
+sort_title: ぶしせいりゅうでんふたりのゆうしゃ
 file: Bushi Seiryuuden - Futari no Yuusha (Japan).zip
 
 # game: Bust-A-Move (USA)
 # file: Bust-A-Move (USA).zip
 
-game: Cacoma Knight (Japan)
+game: カコマナイト
+sort_title: かこまないと
 file: Cacoma Knight (Japan).zip
 
 # game: Cacoma Knight in Bizyland (USA)
@@ -1302,13 +1366,15 @@ file: Cacoma Knight (Japan).zip
 # game: California Games II (Europe) (En,Fr,De)
 # file: California Games II (Europe) (En,Fr,De).zip
 
-game: California Games II (Japan) (En,Ja)
+game: カリフォルニアゲームズII
+sort_title: かりふぉるにあげーむず2
 file: California Games II (Japan) (En,Ja).zip
 
 # game: California Games II (USA)
 # file: California Games II (USA).zip
 
-game: Cameltry (Japan)
+game: キャメルトライ
+sort_title: きゃめるとらい
 file: Cameltry (Japan).zip
 
 # game: Cannon Fodder (Europe)
@@ -1335,7 +1401,8 @@ file: Cameltry (Japan).zip
 # game: Captain Commando (Europe)
 # file: Captain Commando (Europe).zip
 
-game: Captain Commando (Japan)
+game: キャプテンコマンドー
+sort_title: きゃぷてんこまんどー
 file: Captain Commando (Japan).zip
 
 # game: Captain Commando (USA)
@@ -1347,28 +1414,34 @@ file: Captain Commando (Japan).zip
 # game: Captain Novolin (USA) (En,Fr,Es) (Beta)
 # file: Captain Novolin (USA) (En,Fr,Es) (Beta).zip
 
-game: Captain Tsubasa III - Koutei no Chousen (Japan)
+game: キャプテン翼III 皇帝の挑戦
+sort_title: きゃぷてんつばさ3
 file: Captain Tsubasa III - Koutei no Chousen (Japan).zip
 
-game: Captain Tsubasa IV - Pro no Rival-tachi (Japan)
+game: キャプテン翼IV プロのライバルたち
+sort_title: きゃぷてんつばさ4
 file: Captain Tsubasa IV - Pro no Rival-tachi (Japan).zip
 
-game: Captain Tsubasa J - The Way to World Youth (Japan)
+game: キャプテン翼J THE WAYTO WORLD YOUTH
+sort_title: きゃぷてんつばさJ
 file: Captain Tsubasa J - The Way to World Youth (Japan).zip
 
-game: Captain Tsubasa V - Hasha no Shougou Campione (Japan)
+game: キャプテン翼V 覇者の称号チャンピオーネ
 file: Captain Tsubasa V - Hasha no Shougou Campione (Japan).zip
 
-game: Caravan Shooting Collection (Japan) (En)
+game: キャラバン シーティング コレクション
+sort_title: きゃらばんしゅーてぃんぐこれくしょん
 file: Caravan Shooting Collection (Japan) (En).zip
 
-game: Card Master - Rimusaria no Fuuin (Japan)
+game: カードマスター リムサリアの封印
+sort_title: かーどますたーりむさりあのふういん
 file: Card Master - Rimusaria no Fuuin (Japan).zip
 
 # game: Carrier Aces (Europe)
 # file: Carrier Aces (Europe).zip
 
-game: Carrier Aces (Japan) (En)
+game: キャリアーエース
+sort_title: きゃりあーえーす
 file: Carrier Aces (Japan) (En).zip
 
 # game: Carrier Aces (USA)
@@ -1377,14 +1450,15 @@ file: Carrier Aces (Japan) (En).zip
 # game: Casper (Europe)
 # file: Casper (Europe).zip
 
-game: Casper (Japan)
+game: キャスパー
+sort_title: きゃすぱー
 file: Casper (Japan).zip
 
 # game: Casper (USA)
 # file: Casper (USA).zip
 
-game: Cassette Kensaki - NUS-you S Cassette (Japan) (En)
-file: Cassette Kensaki - NUS-you S Cassette (Japan) (En).zip
+# game: Cassette Kensaki - NUS-you S Cassette (Japan) (En)
+# file: Cassette Kensaki - NUS-you S Cassette (Japan) (En).zip
 
 # game: Castlevania - Dracula X (USA)
 # file: Castlevania - Dracula X (USA).zip
@@ -1398,13 +1472,15 @@ file: Cassette Kensaki - NUS-you S Cassette (Japan) (En).zip
 # game: Castlevania - Vampire's Kiss (Europe) (Castlevania Advance Collection)
 # file: Castlevania - Vampire's Kiss (Europe) (Castlevania Advance Collection).zip
 
-game: CB Chara Wars - Ushinawareta Gag (Japan)
+game: CBキャラウォーズ 失われたギャーグ
+sort_title: しーびーきゃらうぉーずうしなわれたぎゃーぐ
 file: CB Chara Wars - Ushinawareta Gag (Japan).zip
 
 # game: Champions - World Class Soccer (Europe) (En,Fr,De,Es)
 # file: Champions - World Class Soccer (Europe) (En,Fr,De,Es).zip
 
-game: Champions - World Class Soccer (Japan)
+game: チャンピオンズ ワールドクラスサッカー
+sort_title: ちゃんぴおんずわーるどくらすさっかー
 file: Champions - World Class Soccer (Japan).zip
 
 # game: Champions - World Class Soccer (USA) (En,Fr,De,Es)
@@ -1422,7 +1498,8 @@ file: Champions - World Class Soccer (Japan).zip
 # game: Chaos Engine, The (Europe)
 # file: Chaos Engine, The (Europe).zip
 
-game: Chaos Seed - Fuusui Kairouki (Japan)
+game: カオスシード 風水回廊記
+sort_title: かおすしーどふうすいかいあろうき
 file: Chaos Seed - Fuusui Kairouki (Japan).zip
 
 # game: Chavez (USA) (Beta)
@@ -1437,7 +1514,8 @@ file: Chaos Seed - Fuusui Kairouki (Japan).zip
 # game: Chessmaster, The (Europe)
 # file: Chessmaster, The (Europe).zip
 
-game: Chessmaster, The (Japan)
+game: チェスマスター
+sort_title: ちぇすますたー
 file: Chessmaster, The (Japan).zip
 
 # game: Chessmaster, The (USA)
@@ -1452,18 +1530,22 @@ file: Chessmaster, The (Japan).zip
 # game: Chester Cheetah - Wild Wild Quest (USA) (Beta)
 # file: Chester Cheetah - Wild Wild Quest (USA) (Beta).zip
 
-game: Chibi Maruko-chan - Harikiri 365-nichi no Maki (Japan)
+game: ちびまる子ちゃん はりきり365日の巻
+sort_title: ちびまるこちゃんはりきり365にちのまき
 file: Chibi Maruko-chan - Harikiri 365-nichi no Maki (Japan).zip
 
-game: Chibi Maruko-chan - Mezase! Minami no Island!! (Japan)
+game: ちびまる子ちゃん めざせ! 南のアイランド!!
+sort_title: ちびまるこちゃんめざせみなみのあいらんど
 files:
   Chibi Maruko-chan - Mezase! Minami no Island!! (Japan).zip
   Chibi Maruko-chan - Mezase! Minami no Island!! (Japan) (Beta).zip
 
-game: Chinhai (Japan)
+game: 陳牌
+sort_title: ちんはい
 file: Chinhai (Japan).zip
 
-game: Choplifter III - Rescue-Survive (Japan) (En)
+game: チョップリフターIII RESCUE SURVIVE
+sort_title: ちょっぷりふたー3
 file: Choplifter III - Rescue-Survive (Japan) (En).zip
 
 # game: Choplifter III - Rescue-Survive (USA)
@@ -1475,35 +1557,43 @@ file: Choplifter III - Rescue-Survive (Japan) (En).zip
 # game: Choplifter III (Europe)
 # file: Choplifter III (Europe).zip
 
-game: Chou Aniki - Bakuretsu Rantou Hen (Japan)
+game: 超兄貴 爆裂乱闘篇
+sort_title: ちょうあにきばくれつらんとうへん
 file: Chou Aniki - Bakuretsu Rantou Hen (Japan).zip
 
-game: Chou Gojira - Super Godzilla (Japan)
+game: 超ゴジラ
+sort_title: すーぱーごじら
 files:
   Chou Gojira - Super Godzilla (Japan).zip
   Chou Gojira - Super Godzilla (Japan) (Rev 1).zip
 
-game: Chou Mahou Tairiku WOZZ (Japan)
+game: 超魔法大陸WOZZ
+sort_title: ちょうまほうたいりくうぉず
 file: Chou Mahou Tairiku WOZZ (Japan).zip
 
-game: Chou Makai Taisen! Dorabocchan (Japan)
+game: 超魔界対戦! どらぼっちゃん
+sort_title: ちょうまかいたいせんどらぼっちゃん
 files:
   Chou Makai Taisen! Dorabocchan (Japan).zip
   Chou Makai Taisen! Dorabocchan (Japan) (Beta) (1992-12-21).zip
 
-game: Chou Makaimura (Japan)
+game: 超魔界村
+sort_title: ちょうまかいむら
 files:
   Chou Makaimura (Japan).zip
   Chou Makaimura (Japan) (Beta) (1991-06-26).zip
   Chou Makaimura (Japan) (Virtual Console, Switch Online).zip
 
-game: Choujikuu Yousai Macross - Scrambled Valkyrie (Japan) (En)
+game: 超時空要塞マクロス スクランブルバルキリー
+sort_title: ちょうじくうようさいまくろすすくらんぶるばるきりー
 file: Choujikuu Yousai Macross - Scrambled Valkyrie (Japan) (En).zip
 
-game: Choukou Gasshin Xardion (Japan)
+game: 超攻合神サーディオン
+sort_title: ちょうこうがっしんさーでぃおん
 file: Choukou Gasshin Xardion (Japan).zip
 
-game: Chrono Trigger (Japan)
+game: クロノ・トリガー
+sort_title: くろのとりがー
 files:
   Chrono Trigger (Japan).zip
   Chrono Trigger (Japan) (Taikenban Sample ROM).zip
@@ -1519,16 +1609,20 @@ files:
 #   Chuck Rock (USA).zip
 #   Chuck Rock (USA) (Beta).zip
 
-game: Circuit USA (Japan) (En)
+game: サーキットUSA
+sort_title: さーきっとゆーえすえー
 file: Circuit USA (Japan) (En).zip
 
-game: Civilization - Sekai Shichi Daibunmei (Japan)
+game: シヴィライゼーション 世界七大文明
+sort_title: しう゛ぃらいぜーしょんせかいななだいぶんめい
 file: Civilization - Sekai Shichi Daibunmei (Japan).zip
 
-game: Classic Road (Japan)
+game: クラシックロード
+sort_title: くらしっくろーど1
 file: Classic Road (Japan).zip
 
-game: Classic Road II (Japan)
+game: クラシックロードII
+sort_title: くらしっくろーど2
 file: Classic Road II (Japan).zip
 
 # game: Clay Fighter - Tournament Edition (USA)
@@ -1566,12 +1660,14 @@ file: Classic Road II (Japan).zip
 # game: Cliffhanger (USA)
 # file: Cliffhanger (USA).zip
 
-game: Clock Tower (Japan)
+game: クロックタワー
+sort_title: くろっくたわー
 files:
   Clock Tower (Japan).zip
   Clock Tower (Japan) (Beta).zip
 
-game: Clockwerx (Japan)
+game: クロックワークス
+sort_title: くろっくわーくす
 file: Clockwerx (Japan).zip
 
 # game: Clue (USA)
@@ -1585,16 +1681,19 @@ file: Clockwerx (Japan).zip
 #   College Slam (USA).zip
 #   College Slam (USA) (Beta).zip
 
-game: Columns (Japan) (NP)
+game: コラムス
+sort_title: こらむす
 file: Columns (Japan) (NP).zip
 
-game: Combatribes, The (Japan)
+game: コンバットライブス
+sort_title: こんばっとらいぶす
 file: Combatribes, The (Japan).zip
 
 # game: Combatribes, The (USA)
 # file: Combatribes, The (USA).zip
 
-game: Computer Nouryoku Kaiseki - Ultra Baken (Japan)
+game: コンピューター能力解析 ウルトラ馬券
+sort_title: こんぴゅーたーのうりょくかいせきうるとらばけん
 file: Computer Nouryoku Kaiseki - Ultra Baken (Japan).zip
 
 # game: Congo - The Movie - Secret of Zinj (USA) (Proto)
@@ -1614,30 +1713,33 @@ file: Computer Nouryoku Kaiseki - Ultra Baken (Japan).zip
 #   Contra III - The Alien Wars (USA) (Beta).zip
 #   Contra III - The Alien Wars (USA) (Virtual Console).zip
 
-game: Contra III - The Alien Wars (World) (Contra Anniversary Collection)
-file: Contra III - The Alien Wars (World) (Contra Anniversary Collection).zip
+# game: Contra III - The Alien Wars (World) (Contra Anniversary Collection)
+# file: Contra III - The Alien Wars (World) (Contra Anniversary Collection).zip
 
 # game: Contra IV - The Alien Wars (USA) (Beta)
 # file: Contra IV - The Alien Wars (USA) (Beta).zip
 
-game: Contra Spirits (Japan) (En)
+game: 魂斗羅スピリッツ
+sort_title: こんとらすぴりっつ
 files:
   Contra Spirits (Japan) (En).zip
   Contra Spirits (Japan) (Demo).zip
 
-game: Contra Spirits (World) (Contra Anniversary Collection)
-file: Contra Spirits (World) (Contra Anniversary Collection).zip
+# game: Contra Spirits (World) (Contra Anniversary Collection)
+# file: Contra Spirits (World) (Contra Anniversary Collection).zip
 
-game: Controller Test Cassette (Japan)
-file: Controller Test Cassette (Japan).zip
+# game: Controller Test Cassette (Japan)
+# file: Controller Test Cassette (Japan).zip
 
-game: Conveni Wars Barcode Battler Senki - Super Senshi Shutsugeki seyo! (Japan)
+game: バーコードバトラー戦記 スーパー戦士出撃せよ!
+sort_title: ばーこーどばとらーせんきすーぱーせんししゅつげきせよ
 file: Conveni Wars Barcode Battler Senki - Super Senshi Shutsugeki seyo! (Japan).zip
 
 # game: Cool Spot (Europe)
 # file: Cool Spot (Europe).zip
 
-game: Cool Spot (Japan)
+game: クールスポット
+sort_title: くーるすぽっと
 file: Cool Spot (Japan).zip
 
 # game: Cool Spot (USA)
@@ -1655,35 +1757,44 @@ file: Cool Spot (Japan).zip
 # game: Corn Buster (Europe) (Proto)
 # file: Corn Buster (Europe) (Proto).zip
 
-game: Coron Land (Japan)
+game: コロンランド
+sort_title: ころんらんど
 file: Coron Land (Japan).zip
 
-game: Cosmo Gang - The Puzzle (Japan)
+game: コスモギャング ザ パズル
+sort_title: こすもぎゃんぐざぱずる
 file: Cosmo Gang - The Puzzle (Japan).zip
 
-game: Cosmo Gang - The Video (Japan)
+game: コズモギャング ザ ビデオ
+sort_title: こすもぎゃんぐざびでお
 file: Cosmo Gang - The Video (Japan).zip
 
-game: Cosmo Police Galivan II - Arrow of Justice (Japan)
+game: コスモポリスギャリバンII
+sort_title: こすもぽりすぎゃりばん2
 file: Cosmo Police Galivan II - Arrow of Justice (Japan).zip
 
-game: Crash Dummy - Dr. Zabu o Sukuidase (Japan)
+game: クラッシュ・ダミー Dr.ザブを救い出せ
+sort_title: くらっしゅだみーどくたーざぶをすくいだせ
 file: Crash Dummy - Dr. Zabu o Sukuidase (Japan).zip
 
-game: Crayon Shin-chan - Arashi o Yobu Enji (Japan)
+game: クレヨンしんちゃん 嵐を呼ぶ園児
+sort_title: くれよんしんちゃん1
 file: Crayon Shin-chan - Arashi o Yobu Enji (Japan).zip
 
-game: Crayon Shin-chan 2 - Daimaou no Gyakushuu (Japan)
+game: クレヨンしんちゃん2 大魔王の逆襲
+sort_title: くれよんしんちゃん2
 file: Crayon Shin-chan 2 - Daimaou no Gyakushuu (Japan).zip
 
-game: Crystal Beans from Dungeon Explorer (Japan)
+game: クリスタルビーンズ フロム ダンジョンエクスプローラー
+sort_title: くりすたるびーんずふろむだんじょんえくすぷろーらー
 file: Crystal Beans from Dungeon Explorer (Japan).zip
 
-game: Cu-On-Pa SFC (Japan)
+game: クオンパ
+sort_title: くおんぱ
 file: Cu-On-Pa SFC (Japan).zip
 
-game: Cute Angela (World) (Unl)
-file: Cute Angela (World) (Unl).zip
+# game: Cute Angela (World) (Unl)
+# file: Cute Angela (World) (Unl).zip
 
 # game: CutThroat Island (Europe)
 # file: CutThroat Island (Europe).zip
@@ -1693,13 +1804,15 @@ file: Cute Angela (World) (Unl).zip
 #   CutThroat Island (USA).zip
 #   CutThroat Island (USA) (Beta).zip
 
-game: CX4 (World) (Enhancement Chip)
-file: CX4 (World) (Enhancement Chip).zip
+# game: CX4 (World) (Enhancement Chip)
+# file: CX4 (World) (Enhancement Chip).zip
 
-game: Cyber Knight (Japan)
+game: サイバーナイト
+sort_title: さいばーないと1
 file: Cyber Knight (Japan).zip
 
-game: Cyber Knight II - Chikyuu Teikoku no Yabou (Japan)
+game: サイバーナイトII 地球帝国の野望
+sort_title: さいばーないと2
 file: Cyber Knight II - Chikyuu Teikoku no Yabou (Japan).zip
 
 # game: Cyber Spin (USA)
@@ -1714,7 +1827,8 @@ file: Cyber Knight II - Chikyuu Teikoku no Yabou (Japan).zip
 # game: Cybernator (USA) (Beta) (1992-11-xx)
 # file: Cybernator (USA) (Beta) (1992-11-xx).zip
 
-game: Cyborg 009 (Japan)
+game: サイボーグ009
+sort_title: さいぼーぐぜろぜろないん
 files:
   Cyborg 009 (Japan).zip
   Cyborg 009 (Japan) (Beta).zip
@@ -1750,18 +1864,22 @@ publisher: バンプレスト
 description:
   バンプレストより1995年3月17日にスーパーファミコン用ソフトとして発売されたシミュレーションゲーム。SDで表現されたロボットたちが競演するクロスオーバー作品「スーパーロボット大戦」の「DC戦争シリーズ」の第4作目にして最終作。前作から、反撃時の行動選択やオリジナル主人公の設定などが追加。また、敵フェイズにおける行動を選べるマニュアルモード、追加された精神コマンドなど後のシリーズに受け継がれた。
 
-game: Daibakushou Jinsei Gekijou - Dokidoki Seishun Hen (Japan)
+game: 大爆笑人生劇場 ドキドキ青春編
+sort_title: だいばくしょうじんせいげきじょうどきどきせいしゅんへん
 file: Daibakushou Jinsei Gekijou - Dokidoki Seishun Hen (Japan).zip
 
-game: Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan)
+game: 大爆笑人生劇場 大江戸日記
+sort_title: だいばくしょうじんせいげきじょうおおえどにっき
 file: Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan).zip
 
-game: Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan)
+game: 大爆笑人生劇場 ずっこけサラリーマン編
+sort_title: だいばくしょうじんせいげきじょうずっこけさらりーまんへん
 files:
   Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan).zip
   Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan) (Rev 1) (NP).zip 
 
-game: Daibakushou Jinsei Gekijou (Japan)
+game: 大爆笑人生劇場
+sort_title: だいばくしょうじんせいげきじょう
 file: Daibakushou Jinsei Gekijou (Japan).zip
 
 game: 大貝獣物語
@@ -1780,40 +1898,47 @@ publisher: ハドソン
 description:
   ハドソンより1996年8月2日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。ファミコン用ソフト『貝獣物語』より続くシリーズ第3作目。幻大陸「シェルドラド」を舞台に主人公である火の貝の勇者を操作し、暗黒魔導師ダークを倒して世界を救出する事を目的としている。前作『大貝獣物語』で好評であった「わが町システム」や「スタンプラリー」、「すけっと」などのシステムを再び導入している。
 
-game: Daikoukai Jidai II (Japan)
+game: 大航海時代II
+sort_title: だいこうかいじだい2
 file: Daikoukai Jidai II (Japan).zip
 
-game: Daisenryaku Expert (Japan)
+game: 大戦略エキスパート
+sort_title: だいせんりゃくえきすぱーと1
 file: Daisenryaku Expert (Japan).zip
 
-game: Daisenryaku Expert WWII - War in Europe (Japan)
+game: 大戦略エキスパートWWII WAR IN EUROPE
+sort_title: だいせんりゃくえきすぱーと2
 file: Daisenryaku Expert WWII - War in Europe (Japan).zip
 
-game: Darius Force (Japan) (En)
+game: ダライアスフォース
+sort_title: だらいあすふぉーす
 file: Darius Force (Japan) (En).zip
 
-game: Darius Force (World) (Darius Cozmic Collection)
-file: Darius Force (World) (Darius Cozmic Collection).zip
+# game: Darius Force (World) (Darius Cozmic Collection)
+# file: Darius Force (World) (Darius Cozmic Collection).zip
 
 # game: Darius Twin (Europe)
 # file: Darius Twin (Europe).zip
 
-game: Darius Twin (Japan)
+game: ダライアスツイン
+sort_title: だらいあすついん
 file: Darius Twin (Japan).zip
 
 # game: Darius Twin (USA)
 # file: Darius Twin (USA).zip
 
-game: Darius Twin (World) (Darius Cozmic Collection)
-file: Darius Twin (World) (Darius Cozmic Collection).zip
+# game: Darius Twin (World) (Darius Cozmic Collection)
+# file: Darius Twin (World) (Darius Cozmic Collection).zip
 
-game: Darius Twin (World) (Ja) (Darius Cozmic Collection)
-file: Darius Twin (World) (Ja) (Darius Cozmic Collection).zip
+# game: Darius Twin (World) (Ja) (Darius Cozmic Collection)
+# file: Darius Twin (World) (Ja) (Darius Cozmic Collection).zip
 
-game: Dark Half (Japan)
+game: ダークハーフ
+sort_title: だーくはーふ
 file: Dark Half (Japan).zip
 
-game: Dark Kingdom (Japan)
+game: ダークキングダム
+sort_title: だーくきんぐだむ
 files:
   Dark Kingdom (Japan).zip
   Dark Kingdom (Japan) (Beta).zip
@@ -2137,7 +2262,8 @@ file: Dossun! Ganseki Battle (Japan).zip
 # game: Double Dragon V - The Shadow Falls (USA)
 # file: Double Dragon V - The Shadow Falls (USA).zip
 
-game: Doukyuusei 2 (Japan) (NP)
+game: 同級生2
+sort_title: どうきゅうせい2
 file: Doukyuusei 2 (Japan) (NP).zip
 
 game: Down the World - Mervil's Ambition (Japan)
@@ -2175,26 +2301,32 @@ file: Dragon Ball Z - Hyper Dimension (Japan).zip
 # game: Dragon Ball Z - Super Butouden (France)
 # file: Dragon Ball Z - Super Butouden (France).zip
 
-game: Dragon Ball Z - Super Butouden (Japan)
+game: ドラゴンボールZ 超武闘伝
+sort_title: どらごんぼーるZすーぱーぶとうでん1
 files:
   Dragon Ball Z - Super Butouden (Japan).zip
   Dragon Ball Z - Super Butouden (Japan) (Beta).zip
 
-game: Dragon Ball Z - Super Butouden 2 (Japan)
+game: ドラゴンボールZ 超武闘伝2
+sort_title: どらごんぼーるZすーぱーぶとうでん2
 files:
   Dragon Ball Z - Super Butouden 2 (Japan).zip
   Dragon Ball Z - Super Butouden 2 (Japan) (Rev 1).zip
 
-game: Dragon Ball Z - Super Butouden 3 (Japan)
+game: ドラゴンボールZ 超武闘伝3
+sort_title: どらごんぼーるZすーぱーぶとうでん3
 file: Dragon Ball Z - Super Butouden 3 (Japan).zip
 
-game: Dragon Ball Z - Super Gokuu Den - Kakusei Hen (Japan)
+game: ドラゴンボールZ 超悟空伝 覚醒編
+sort_title: どらごんぼーるZすーぱーごくうでんB
 file: Dragon Ball Z - Super Gokuu Den - Kakusei Hen (Japan).zip
 
-game: Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan)
+game: ドラゴンボールZ 超悟空伝 突撃編
+sort_title: どらごんぼーるZすーぱーごくうでんA
 file: Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan).zip
 
-game: Dragon Ball Z - Super Saiya Densetsu (Japan)
+game: ドラゴンボールZ 超サイヤ伝説
+sort_title: どらごんぼーるZすーぱーさいやでんせつ
 files:
   Dragon Ball Z - Super Saiya Densetsu (Japan).zip
   Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1).zip
@@ -2307,23 +2439,23 @@ file: Drift King Shutokou Battle '94 - Tsuchiya Keiichi & Bandou Masaaki (Japan)
 game: Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki (Japan)
 file: Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki (Japan).zip
 
-game: DSP1 (World) (Enhancement Chip)
-file: DSP1 (World) (Enhancement Chip).zip
+# game: DSP1 (World) (Enhancement Chip)
+# file: DSP1 (World) (Enhancement Chip).zip
 
-game: DSP1 B (World) (Enhancement Chip)
-file: DSP1 B (World) (Enhancement Chip).zip
+# game: DSP1 B (World) (Enhancement Chip)
+# file: DSP1 B (World) (Enhancement Chip).zip
 
-game: DSP1 Tech Demo (USA) (Tech Demo)
-file: DSP1 Tech Demo (USA) (Tech Demo).zip
+# game: DSP1 Tech Demo (USA) (Tech Demo)
+# file: DSP1 Tech Demo (USA) (Tech Demo).zip
 
-game: DSP2 (World) (Enhancement Chip)
-file: DSP2 (World) (Enhancement Chip).zip
+# game: DSP2 (World) (Enhancement Chip)
+# file: DSP2 (World) (Enhancement Chip).zip
 
-game: DSP3 (Japan) (Enhancement Chip)
-file: DSP3 (Japan) (Enhancement Chip).zip
+# game: DSP3 (Japan) (Enhancement Chip)
+# file: DSP3 (Japan) (Enhancement Chip).zip
 
-game: DSP4 (World) (Enhancement Chip)
-file: DSP4 (World) (Enhancement Chip).zip
+# game: DSP4 (World) (Enhancement Chip)
+# file: DSP4 (World) (Enhancement Chip).zip
 
 game: Dual Orb - Seirei Tama Densetsu (Japan)
 files:
@@ -2432,10 +2564,12 @@ file: Elfaria II - The Quest of the Meld (Japan).zip
 # game: Elite Soccer (USA)
 # file: Elite Soccer (USA).zip
 
-game: Elnard (Japan)
+game: エルナード
+sort_title: えるなーど
 file: Elnard (Japan).zip
 
-game: Emerald Dragon (Japan)
+game: エメラルドドラゴン
+sort_title: えめらるどどらごん
 file: Emerald Dragon (Japan).zip
 
 game: Emit Vol. 1 - Toki no Maigo (Japan)
@@ -2450,7 +2584,8 @@ file: Emit Vol. 3 - Watashi ni Sayonara o (Japan).zip
 # game: Emmitt Smith Football (USA)
 # file: Emmitt Smith Football (USA).zip
 
-game: Energy Breaker (Japan)
+game: エナジーブレイカー
+sort_title: えなじーぶれいかー
 file: Energy Breaker (Japan).zip
 
 # game: Equinox (Europe)
@@ -2492,12 +2627,14 @@ file: Esparks - Ijikuu kara no Raihousha (Japan).zip
 # game: ESPN Sunday Night NFL (USA) (Beta) [b]
 # file: ESPN Sunday Night NFL (USA) (Beta) [b].zip
 
-game: Estpolis Denki (Japan)
+game: エストポリス伝記
+sort_title: えすとぽりすでんき1
 files:
   Estpolis Denki (Japan).zip
   Estpolis Denki (Japan) (Rev 1).zip
 
-game: Estpolis Denki II (Japan)
+game: エストポリス伝記II
+sort_title: えすとぽりすでんき2
 file: Estpolis Denki II (Japan).zip
 
 # game: Eurit (USA) (Proto) (1995-05-24)
@@ -2612,10 +2749,12 @@ files:
 # game: Family Feud (USA) (Rev 1)
 # file: Family Feud (USA) (Rev 1).zip
 
-game: Farland Story (Japan)
+game: ファーランドストーリー
+sort_title: ふぁーらんどすとーりー1
 file: Farland Story (Japan).zip
 
-game: Farland Story 2 (Japan)
+game: ファーランドストーリー2
+sort_title: ふぁーらんどすとーりー2
 file: Farland Story 2 (Japan).zip
 
 # game: Fatal Fury (Europe)
@@ -2653,8 +2792,8 @@ files:
 # game: Fever Pitch Soccer (Europe) (En,Fr,De,Es,It)
 # file: Fever Pitch Soccer (Europe) (En,Fr,De,Es,It).zip
 
-game: FIFA - A Caminho Da Copa 98 (Brazil) (En,Fr,De,Es,It,Sv)
-file: FIFA - A Caminho Da Copa 98 (Brazil) (En,Fr,De,Es,It,Sv).zip
+# game: FIFA - A Caminho Da Copa 98 (Brazil) (En,Fr,De,Es,It,Sv)
+# file: FIFA - A Caminho Da Copa 98 (Brazil) (En,Fr,De,Es,It,Sv).zip
 
 # game: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv) (A8FE)
 # file: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv) (A8FE).zip
@@ -2683,10 +2822,12 @@ file: FIFA International Soccer (Japan).zip
 # game: FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv)
 # file: FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv).zip
 
-game: Fighter's History - Mizoguchi Kikiippatsu!! (Japan)
+game: ファイターズヒストリー 溝口危機一髪!!
+sort_title: ふぁいたーずひすとりーみぞぐちききいっぱい
 file: Fighter's History - Mizoguchi Kikiippatsu!! (Japan).zip
 
-game: Fighter's History (Japan)
+game: ファイターズヒストリー
+sort_title: ふぁいたーずひすとりー
 file: Fighter's History (Japan).zip
 
 # game: Fighter's History (USA) (Beta)
@@ -2695,7 +2836,8 @@ file: Fighter's History (Japan).zip
 # game: Fighter's History (USA) (Rev 1)
 # file: Fighter's History (USA) (Rev 1).zip
 
-game: Fighting Baseball (Japan)
+game: ファイティングベースボール
+sort_title: ふぁいてぃんぐべーすぼーる
 file: Fighting Baseball (Japan).zip
 
 # game: Final Fantasy - Mystic Quest (USA)
@@ -2760,7 +2902,8 @@ description:
 #   Final Fight (Europe).zip
 #   Final Fight (Europe) (Virtual Console).zip
 
-game: Final Fight (Japan)
+game: ファイナルファイト
+sort_title: ふぁいなるふぁいと1
 files:
   Final Fight (Japan).zip
   Final Fight (Japan) (Capcom Town).zip
@@ -2777,7 +2920,8 @@ files:
 #   Final Fight 2 (Europe).zip
 #   Final Fight 2 (Europe) (Virtual Console).zip
 
-game: Final Fight 2 (Japan)
+game: ファイナルファイト2
+sort_title: ふぁいなるふぁいと2
 file: Final Fight 2 (Japan).zip
 
 # game: Final Fight 2 (USA)
@@ -2794,24 +2938,29 @@ file: Final Fight 2 (Japan).zip
 #   Final Fight 3 (USA) (Beta).zip
 #   Final Fight 3 (USA) (Virtual Console).zip
 
-game: Final Fight Guy (Japan)
+game: ファイナルファイト・ガイ
+sort_title: ふぁいなるふぁいとがい
 file: Final Fight Guy (Japan).zip
 
 # game: Final Fight Guy (USA)
 # file: Final Fight Guy (USA).zip
 
-game: Final Fight Tough (Japan)
+game: ファイナルファイト タフ
+sort_title: ふぁいなるふぁいとたふ
 files:
   Final Fight Tough (Japan).zip
   Final Fight Tough (Japan) (Virtual Console).zip
 
-game: Final Knockout (Japan) (En)
+game: ファイナルノックアウト
+sort_title: ふぁいなるのっくあうと
 file: Final Knockout (Japan) (En).zip
 
-game: Final Stretch (Japan)
+game: ファイナル・ストレッチ
+sort_title: ふぁいなるすとれっち
 file: Final Stretch (Japan).zip
 
-game: Finalset (Japan)
+game: ファイナルセット
+sort_title: ふぁいなるせっと
 files:
   Finalset (Japan).zip
   Finalset (Japan) (Beta).zip
@@ -2842,10 +2991,12 @@ publisher: 任天堂
 description:
   任天堂より1999年9月1日にスーパーファミコン用(ニンテンドーパワー書き換え専)ソフトとして発売されたシミュレーションRPG。『ファイアーエムブレムシリーズ』第5作目で、前作『聖戦の系譜』の外伝となる。主公のリーフ王子を操作し、レンスター王国復興のために戦いを挑む。新たに「疲労」「体格」「行動」などの要素が追加された。また、2000年1月21日にROMカセットソフトとしても発売されている。
 
-game: Fire Fighting (Japan)
+game: ファイヤー・ファイティング
+sort_title: ふぁいやーふぃあてぃんぐ
 file: Fire Fighting (Japan).zip
 
-game: Fire Pro Joshi - All Star Dream Slam (Japan)
+game: ファイプロ女子オールスタードリームスラム
+sort_title: ふぁいぷろじょしおーるすたーどりーむすらむ
 file: Fire Pro Joshi - All Star Dream Slam (Japan).zip
 
 # game: Firearm (USA) (Proto) (1993-12-17)
@@ -2890,8 +3041,8 @@ file: First Samurai (Japan).zip
 # game: First Samurai (USA)
 # file: First Samurai (USA).zip
 
-game: First Samurai (World) (QUByte Classics)
-file: First Samurai (World) (QUByte Classics).zip
+# game: First Samurai (World) (QUByte Classics)
+# file: First Samurai (World) (QUByte Classics).zip
 
 game: Fishing Koushien (Japan)
 file: Fishing Koushien (Japan).zip
@@ -3032,7 +3183,8 @@ files:
 game: G.O.D - Mezame yo to Yobu Koe ga Kikoe (Japan)
 file: G.O.D - Mezame yo to Yobu Koe ga Kikoe (Japan).zip
 
-game: Gaia Gensouki (Japan)
+game: ガイア幻想紀
+sort_title: がいあげんそうき
 file: Gaia Gensouki (Japan).zip
 
 game: Gaia Saver - Hero Saidai no Sakusen (Japan)
@@ -3148,17 +3300,20 @@ file: Ganso Pachinko Ou (Japan).zip
 # game: Gargoyles (USA) (Proto) (1994-07-19)
 # file: Gargoyles (USA) (Proto) (1994-07-19).zip
 
-game: Garou Densetsu - Shukumei no Tatakai (Japan)
+game: 餓狼伝説 宿命の闘い
+sort_title: がろうでんせつ1
 files:
   Garou Densetsu - Shukumei no Tatakai (Japan).zip
   Garou Densetsu - Shukumei no Tatakai (Japan) (Rev 1).zip
 
-game: Garou Densetsu 2 - Aratanaru Tatakai (Japan)
+game: 餓狼伝説2 新たなる闘い
+sort_title: がろうでんせつ2
 files:
   Garou Densetsu 2 - Aratanaru Tatakai (Japan).zip
   Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Rev 1).zip
 
-game: Garou Densetsu Special (Japan)
+game: 餓狼伝説SPECIAL
+sort_title: がろうでんせつすぺしゃる
 file: Garou Densetsu Special (Japan).zip
 
 # game: Garry Kitchen's Super Battletank - War in the Gulf (USA)
@@ -3170,7 +3325,8 @@ file: Garou Densetsu Special (Japan).zip
 # game: Garry Kitchen's Super Battletank (Europe)
 # file: Garry Kitchen's Super Battletank (Europe).zip
 
-game: Gdleen (Japan)
+game: ガデュリン
+sort_title: がでゅりん
 files:
   Gdleen (Japan).zip
   Gdleen (Japan) (Rev 1).zip 
@@ -3193,7 +3349,8 @@ file: Gekitou Burning Pro Wres (Japan).zip
 game: Genjuu Ryodan (Japan) (NP)
 file: Genjuu Ryodan (Japan) (NP).zip
 
-game: Genocide 2 (Japan)
+game: ジェノサイド2
+sort_title: じぇのさいど2
 files:
   Genocide 2 (Japan).zip
   Genocide 2 (Japan) (Beta).zip
@@ -3247,13 +3404,16 @@ file: Ginga Sengoku Gunyuuden Rai (Japan).zip
 game: Gionbana (Japan)
 file: Gionbana (Japan).zip
 
-game: Go Go Ackman (Japan)
+game: ゴーゴーアックマン
+sort_title: ごーごーあっくまん1
 file: Go Go Ackman (Japan).zip
 
-game: Go Go Ackman 2 (Japan)
+game: ゴーゴーアックマン2
+sort_title: ごーごーあっくまん2
 file: Go Go Ackman 2 (Japan).zip
 
-game: Go Go Ackman 3 (Japan)
+game: ゴーゴーアックマン3
+sort_title: ごーごーあっくまん3
 file: Go Go Ackman 3 (Japan).zip
 
 game: Go! Go! Dodge League (Japan)
@@ -3402,19 +3562,22 @@ publisher: バナレックス
 description:
   バナレックスより1993年9月23日にスーパーファミコン用ソフトとして発売された痛快横スクロールアクションゲーム。人気アニメ『GS美神』を原作としたゲーム作品となる。原作の囲気を活かしたアクションとグラフィックを再現している。主人公の美神令子となり、武器の「神通棍」を駆使して襲い掛かる悪霊や化け物を倒して7つの宝石を見つけ出し、時価数百億円という秘宝を手に入れるのが目的となる。
 
-game: GT Racing (Japan)
+game: GTレーシング
+sort_title: じーてぃーれーしんぐ
 file: GT Racing (Japan).zip
 
 # game: GunForce - Battle Fire Engulfed Terror Island (Europe) (Proto)
 # file: GunForce - Battle Fire Engulfed Terror Island (Europe) (Proto).zip
 
-game: GunForce (Japan) (En)
+game: ガンフォース
+sort_title: がんふぉーす
 file: GunForce (Japan) (En).zip
 
 # game: GunForce (USA)
 # file: GunForce (USA).zip
 
-game: Habu Meijin no Omoshiro Shougi (Japan)
+game: 羽生名人のおもしろ将棋
+sort_title: はぶめいじんのおもしろしょうぎ
 file: Habu Meijin no Omoshiro Shougi (Japan).zip
 
 # game: Hagane - The Final Conflict (Europe)
@@ -3423,25 +3586,30 @@ file: Habu Meijin no Omoshiro Shougi (Japan).zip
 # game: Hagane - The Final Conflict (USA)
 # file: Hagane - The Final Conflict (USA).zip
 
-game: Hagane (Japan)
+game: 鋼
+sort_title: はがね
 files:
   Hagane (Japan).zip
   Hagane (Japan) (Beta) [b].zip
 
-game: Haisei Mahjong - Ryouga (Japan)
+game: 牌勢麻雀 凌駕
+sort_title: はいせいまーじゃんりょうが
 file: Haisei Mahjong - Ryouga (Japan).zip
 
-game: Hakunetsu Pro Yakyuu - Ganba League (Japan)
+game: 白熱プロ野球 ガンバリーグ
+sort_title: はくねつぷろやきゅう91がんばりーぐ
 files:
   Hakunetsu Pro Yakyuu - Ganba League (Japan).zip
   Hakunetsu Pro Yakyuu - Ganba League (Japan) (Rev 1).zip
 
-game: Hakunetsu Pro Yakyuu '93 - Ganba League (Japan)
+game: 白熱プロ野球'93 ガンバリーグ
+sort_title: はくねつぷろやきゅう93がんばりーぐ
 files:
   Hakunetsu Pro Yakyuu '93 - Ganba League (Japan).zip
   Hakunetsu Pro Yakyuu '93 - Ganba League (Japan) (Beta).zip
 
-game: Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan)
+game: 白熱プロ野球'94 ガンバリーグ
+sort_title: はくねつぷろやきゅう94がんばりーぐ
 files:
   Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan).zip
   Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan) (Beta).zip
@@ -3452,7 +3620,8 @@ files:
 # game: HAL's Hole in One Golf (USA)
 # file: HAL's Hole in One Golf (USA).zip
 
-game: Hameln no Violin Hiki (Japan)
+game: ハーメルンのバイオリン弾き
+sort_title: はーめるんのばいおりんひき
 file: Hameln no Violin Hiki (Japan).zip
 
 # game: Hammer Lock Wrestling (USA)
@@ -3460,28 +3629,34 @@ file: Hameln no Violin Hiki (Japan).zip
 #   Hammer Lock Wrestling (USA).zip
 #   Hammer Lock Wrestling (USA) (Beta).zip
 
-game: Hana no Keiji - Kumo no Kanata ni (Japan)
+game: 花の慶次 雲のかなたに
+sort_title: はなのけいじくものかなたに
 file: Hana no Keiji - Kumo no Kanata ni (Japan).zip
 
-game: Hanafuda Ou (Japan)
+game: 花札王
+sort_title: はなふだおう
 file: Hanafuda Ou (Japan).zip
 
 # game: Hanguk Pro Yagu (Korea)
 # file: Hanguk Pro Yagu (Korea).zip
 
-game: Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan)
+game: 半熟英雄 ああ、世界よ半熟なれ…!!
+sort_title: はんじゅくひーろー
 file: Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan).zip
 
-game: Hansei Zaru Jiro-kun no Daibouken (Japan)
+game: 反省ザルジローくんの大冒険
+sort_title: はんせいざるじろーくんのだいぼうけん
 file: Hansei Zaru Jiro-kun no Daibouken (Japan).zip
 
-game: Haou Taikei Ryuu Knight - Lord of Paladin (Japan)
+game: 覇王大系リューナイト ロードオブパラディン
+sort_title: はおうたいけいりゅーないとろーどおぶぱらでぃん
 files:
   Haou Taikei Ryuu Knight - Lord of Paladin (Japan).zip
   Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Beta).zip
   Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Rev 1).zip
 
-game: Harapeko Bakka (Japan)
+game: はらぺこバッカ
+sort_title: はらぺこばっか
 file: Harapeko Bakka (Japan).zip
 
 # game: HardBall III (USA)
@@ -3506,34 +3681,42 @@ file: Harapeko Bakka (Japan).zip
 #   Harvest Moon (USA).zip
 #   Harvest Moon (USA) (Beta).zip
 
-game: Hashire Hebereke (Japan)
+game: はしれへべれけ
+sort_title: はしれへべれけ
 file: Hashire Hebereke (Japan).zip
 
-game: Hat Trick Hero (Japan) (En)
+game: ハットトリックヒーロー
+sort_title: はっととりっくひーろー1
 file: Hat Trick Hero (Japan) (En).zip
 
-game: Hat Trick Hero 2 (Japan)
+game: ハットトリックヒーロー2
+sort_title: はっととりっくひーろー2
 file: Hat Trick Hero 2 (Japan).zip
 
-game: Hatayama Hatch no Pro Yakyuu News! - Jitsumei Ban (Japan)
+game: はた山ハッチのプロ野球ニュース! 実名版
+sort_title: はたやまはっちのぷろやきゅうにゅーすじつめいばん
 file: Hatayama Hatch no Pro Yakyuu News! - Jitsumei Ban (Japan).zip
 
 # game: Havoc (USA) (Demo)
 # file: Havoc (USA) (Demo).zip
 
-game: Hayazashi Nidan Morita Shougi (Japan)
+game: 早指し二段森田将棋
+sort_title: はやざしにだんもりたしょうぎ1
 file: Hayazashi Nidan Morita Shougi (Japan).zip
 
-game: Hayazashi Nidan Morita Shougi 2 (Japan)
+game: 早指し二段森田将棋2
+sort_title: はやざしにだんもりたしょうぎ2
 file: Hayazashi Nidan Morita Shougi 2 (Japan).zip
 
 # game: Head-On Soccer (USA)
 # file: Head-On Soccer (USA).zip
 
-game: Hebereke no Oishii Puzzle wa Irimasenka (Japan)
+game: へべれけのおいしいパズルをいりませんか
+sort_title: へべれけのおいしいぱずるをいりませんか
 file: Hebereke no Oishii Puzzle wa Irimasenka (Japan).zip
 
-game: Hebereke no Popoon (Japan)
+game: へべれけのぽぷん
+sort_title: へべれけのぽぷん
 files:
   Hebereke no Popoon (Japan).zip
   Hebereke no Popoon (Japan) (Beta) (1993-11-03).zip 
@@ -3544,111 +3727,143 @@ files:
 # game: Hebereke's Popoon (Europe)
 # file: Hebereke's Popoon (Europe).zip
 
-game: Heian Fuuunden (Japan)
+game: 平安風雲伝
+sort_title: へいあんふううんでん
 file: Heian Fuuunden (Japan).zip
 
-game: Heisei Gunjin Shougi (Japan)
+game: 平成軍人将棋
+sort_title: へいせいぐんじんしょうぎ
 file: Heisei Gunjin Shougi (Japan).zip
 
-game: Heisei Inu Monogatari Bow - Pop'n Smash!! (Japan)
+game: 平成イヌ物語バウ ポップンスマッシュ
+sort_title: へいせいいぬものがたりばうぽっぷんすまっしゅ
 file: Heisei Inu Monogatari Bow - Pop'n Smash!! (Japan).zip
 
-game: Heisei Shin Onigashima - Kouhen (Japan)
+game: 平成 新・鬼ヶ島 後編
+sort_title: へいせいしんおにがしまb
 file: Heisei Shin Onigashima - Kouhen (Japan).zip
 
-game: Heisei Shin Onigashima - Zenpen (Japan)
+game: 平成 新・鬼ヶ島 前編
+sort_title: へいせいしんおにがしまa
 file: Heisei Shin Onigashima - Zenpen (Japan).zip
 
-game: Heiwa Pachinko World (Japan)
+game: HEIWAパチンコワールド
+sort_title: へいわぱちんこわーるど1
 file: Heiwa Pachinko World (Japan).zip
 
-game: Heiwa Pachinko World 2 (Japan)
+game: HEIWAパチンコワールド2
+sort_title: へいわぱちんこわーるど2
 file: Heiwa Pachinko World 2 (Japan).zip
 
-game: Heiwa Pachinko World 3 (Japan)
+game: HEIWAパチンコワールド3
+sort_title: へいわぱちんこわーるど3
 file: Heiwa Pachinko World 3 (Japan).zip
 
-game: Heiwa Parlor! Mini 8 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! Mini 8
+sort_title: ぱーらーみに8
 file: Heiwa Parlor! Mini 8 - Pachinko Jikki Simulation Game (Japan).zip
 
-game: Hello! Pac-Man (Japan)
+game: ハロー! パックマン
+sort_title: はろーぱっくまん
 file: Hello! Pac-Man (Japan).zip
 
-game: Heracles no Eikou III - Kamigami no Chinmoku (Japan)
+game: ヘラクレスの栄光III 神々の沈黙
+sort_title: へらくれすのえいこう3
 file: Heracles no Eikou III - Kamigami no Chinmoku (Japan).zip
 
-game: Heracles no Eikou IV - Kamigami kara no Okurimono (Japan)
+game: ヘラクレスの栄光IV 神々からの贈り物
+sort_title: へらくれすのえいこう4
 files:
   Heracles no Eikou IV - Kamigami kara no Okurimono (Japan).zip
   Heracles no Eikou IV - Kamigami kara no Okurimono (Japan) (Virtual Console).zip
 
-game: Hero Senki - Project Olympus (Japan)
+game: ヒーロー戦記 プロジェクトオリュンポス
+sort_title: ひーろーせんきぷろじぇくとおりゅんぽす
 file: Hero Senki - Project Olympus (Japan).zip
 
-game: Hi no Ouji - Yamato Takeru (Japan)
+game: 火の皇子 ヤマトタケル
+sort_title: ひのおうじやまとたける
 file: Hi no Ouji - Yamato Takeru (Japan).zip
 
-game: Higashio Osamu Kanshuu Super Pro Yakyuu Stadium (Japan)
+game: 東尾修監修 スーパープロ野球スタジアム
+sort_title: ひがしおおさむかんしゅうすーぱーぷろやきゅうすたじあむ
 file: Higashio Osamu Kanshuu Super Pro Yakyuu Stadium (Japan).zip
 
 # game: Hind Strike (USA) (Unl)
 # file: Hind Strike (USA) (Unl).zip
 
-game: Hiouden - Mamono-tachi to no Chikai (Japan)
+game: 緋王伝 魔物達との近い
+sort_title: ひおうでんまものたちとのちかい
 file: Hiouden - Mamono-tachi to no Chikai (Japan).zip
 
-game: Hiryuu no Ken S - Golden Fighter (Japan)
+game: 飛龍の拳S ゴールデンファイター
+sort_title: ひりゅうのけんSごーるでんふぁいたー
 file: Hiryuu no Ken S - Golden Fighter (Japan).zip
 
-game: Hiryuu no Ken S - Hyper Version (Japan)
+game: 飛龍の拳S ハイパーバージョン
+sort_title: ひりゅうのけんSはいぱーばーじょん
 file: Hiryuu no Ken S - Hyper Version (Japan).zip
 
-game: Hissatsu Pachinko Collection (Japan)
+game: 必殺パチンココレクション
+sort_title: ひっさつぱちんここれくしょん1
 file: Hissatsu Pachinko Collection (Japan).zip
 
-game: Hissatsu Pachinko Collection 2 (Japan)
+game: 必殺パチンココレクション2
+sort_title: ひっさつぱちんここれくしょん2
 file: Hissatsu Pachinko Collection 2 (Japan).zip
 
-game: Hissatsu Pachinko Collection 3 (Japan)
+game: 必殺パチンココレクション3
+sort_title: ひっさつぱちんここれくしょん3
 file: Hissatsu Pachinko Collection 3 (Japan).zip
 
-game: Hissatsu Pachinko Collection 4 (Japan)
+game: 必殺パチンココレクション4
+sort_title: ひっさつぱちんここれくしょん4
 file: Hissatsu Pachinko Collection 4 (Japan).zip
 
-game: Hisshou 777 Fighter - Pachi-Slot Ryuuguu Densetsu (Japan)
+game: 必勝777ファイター パチスロ竜宮伝説
+sort_title: ひっしょう777ふぁいたー1
 file: Hisshou 777 Fighter - Pachi-Slot Ryuuguu Densetsu (Japan).zip
 
-game: Hisshou 777 Fighter II - Pachi-Slot Maruhi Jouhou (Japan)
+game: 必勝777ファイターII パチスロマル秘情報
+sort_title: ひっしょう777ふぁいたー2
 file: Hisshou 777 Fighter II - Pachi-Slot Maruhi Jouhou (Japan).zip
 
-game: Hisshou 777 Fighter III - Kokuryuu Ou no Fukkatsu (Japan)
+game: 必勝777ファイターIII 黒竜王の復活
+sort_title: ひっしょう777ふぁいたー3
 file: Hisshou 777 Fighter III - Kokuryuu Ou no Fukkatsu (Japan).zip
 
-game: Hisshou Pachi-Slot Fun (Japan)
+game: 必勝パチスロファン
+sort_title: ひっしょうぱちすろふぁん
 file: Hisshou Pachi-Slot Fun (Japan).zip
 
 # game: Hit the Ice - VHL - The Official Video Hockey League (USA)
 # file: Hit the Ice - VHL - The Official Video Hockey League (USA).zip
 
-game: Hokuto no Ken 5 - Tenma Ryuuseiden Ai Zetsu Shou (Japan)
+game: 北斗の拳5 天魔流星伝 哀絶章
+sort_title: ほくとのけん5SFC
 file: Hokuto no Ken 5 - Tenma Ryuuseiden Ai Zetsu Shou (Japan).zip
 
-game: Hokuto no Ken 6 - Gekitou Denshouken Haou e no Michi (Japan)
+game: 北斗の拳6 激闘伝拳 覇王への道
+sort_title: ほくとのけん6SFC
 file: Hokuto no Ken 6 - Gekitou Denshouken Haou e no Michi (Japan).zip
 
-game: Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan)
+game: 北斗の拳7 聖拳列伝 伝承者への道
+sort_title: ほくとのけん7SFC
 file: Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan).zip
 
-game: Holy Striker (Japan)
+game: ホーリーストライカー
+sort_title: ほーりーすとらいかー
 file: Holy Striker (Japan).zip
 
-game: Holy Umbrella - Dondera no Mubou!! (Japan)
+game: ホーリーアンブレラ ドンデラの無謀!!
+sort_title: ほーりーあんぶれらどんでらのむぼう
 file: Holy Umbrella - Dondera no Mubou!! (Japan).zip
 
 # game: Home Alone (Europe)
 # file: Home Alone (Europe).zip
 
-game: Home Alone (Japan)
+game: ホーム・アローン
+sort_title: ほーむあろーん
 file: Home Alone (Japan).zip
 
 # game: Home Alone (USA)
@@ -3663,37 +3878,45 @@ file: Home Alone (Japan).zip
 # game: Home Improvement - Power Tool Pursuit! (USA)
 # file: Home Improvement - Power Tool Pursuit! (USA).zip
 
-game: Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (CM) (Unl)
-file: Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (CM) (Unl).zip
+game: 香港97 (非公認)
+files:
+  Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (CM) (Unl).zip
+  Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (Unl).zip
 
-game: Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (Unl)
-file: Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (Unl).zip
-
-game: Honkaku Mahjong - Tetsuman (Japan)
+game: 本格麻雀 徹萬
+sort_title: ほんかくまーじゃんてつまん1
 file: Honkaku Mahjong - Tetsuman (Japan).zip
 
-game: Honkaku Mahjong - Tetsuman II (Japan)
+game: 本格麻雀 徹萬II
+sort_title: ほんかくまーじゃんてつまん2
 file: Honkaku Mahjong - Tetsuman II (Japan).zip
 
-game: Honkaku Shougi - Fuuunji Ryuuou (Japan)
+game: 本格将棋 風雲児龍王
+sort_title: ほんかくしょうぎふううんじりゅうおう
 file: Honkaku Shougi - Fuuunji Ryuuou (Japan).zip
 
-game: Honkakuha Igo - Gosei (Japan)
+game: 本格派囲碁 碁聖
+sort_title: ほんかくはいごごせい
 file: Honkakuha Igo - Gosei (Japan).zip
 
-game: Honke Hanafuda (Japan)
+game: 本家花札
+sort_title: ほんけはなふだ
 file: Honke Hanafuda (Japan).zip
 
-game: Honke Sankyo Fever - Jikki Simulation (Japan)
+game: 本家 SANKYO FEVER 実機シミュレーション
+sort_title: ほんけさんきょうふぃーばー1
 file: Honke Sankyo Fever - Jikki Simulation (Japan).zip
 
-game: Honke Sankyo Fever 2 - Jikki Simulation (Japan)
+game: 本家 SANKYO FEVER 実機シミュレーション2
+sort_title: ほんけさんきょうふぃーばー2
 file: Honke Sankyo Fever 2 - Jikki Simulation (Japan).zip
 
-game: Honke Sankyo Fever 3 - Jikki Simulation (Japan)
+game: 本家 SANKYO FEVER 実機シミュレーション3
+sort_title: ほんけさんきょうふぃーばー3
 file: Honke Sankyo Fever 3 - Jikki Simulation (Japan).zip
 
-game: Honoo no Toukyuuji - Dodge Danpei (Japan)
+game: 炎の闘球児 ドッジ弾平
+sort_title: ほのおのとうきゅうじどっじだんぺい
 files:
   Honoo no Toukyuuji - Dodge Danpei (Japan).zip
   Honoo no Toukyuuji - Dodge Danpei (Japan) (Sample).zip
@@ -3701,7 +3924,8 @@ files:
 # game: Hook (Europe)
 # file: Hook (Europe).zip
 
-game: Hook (Japan)
+game: フック
+sort_title: ふっく
 file: Hook (Japan).zip
 
 # game: Hook (USA)
@@ -3726,28 +3950,34 @@ publisher: 任天堂
 description:
   任天堂より1996年3月21日にスーパーファミコン用ソフトとして発売されたカービィのゲームが6つも入ったソフト。美しいCGを背景に、コピー能力をますますパワーアップさせたカービィが飛んだり跳ねたり大活躍する。そして最大の特長は、今までのシリーズではできなかった2人同時協力プレイができることが挙げられる。いつでも気軽に遊べる2種類のサブゲームもつけて贅沢三昧の仕上がりとなっている。
 
-game: Houkago in Beppin Jogakuin (Japan)
+game: 放課後 in Beppin 女学院
+sort_title: ほうかごいんべっぴんじょがくいん
 file: Houkago in Beppin Jogakuin (Japan).zip
 
-game: Hourai Gakuen no Bouken! - Tenkousei Scramble (Japan)
+game: 蓬莱学園の冒険! 転校生スクランブル
+sort_title: ほうらいがくえんのぼうけん
 file: Hourai Gakuen no Bouken! - Tenkousei Scramble (Japan).zip
 
-game: Human Baseball (Japan)
+game: ヒューマンベースボール
+sort_title: ひゅーまんべーすぼーる
 file: Human Baseball (Japan).zip
 
-game: Human Grand Prix (Japan) (En)
+game: ヒューマングランプリ
+sort_title: ひゅーまんぐらんぷり1
 file: Human Grand Prix (Japan) (En).zip
 
-game: Human Grand Prix 2 (Japan) (Beta)
-file: Human Grand Prix 2 (Japan) (Beta).zip
+game: ヒューマングランプリII
+sort_title: ひゅーまんぐらんぷり2
+files:
+  Human Grand Prix II (Japan) (En).zip
+  Human Grand Prix 2 (Japan) (Beta).zip
 
-game: Human Grand Prix II (Japan) (En)
-file: Human Grand Prix II (Japan) (En).zip
-
-game: Human Grand Prix III - F1 Triple Battle (Japan) (En)
+game: ヒューマングランプリIII F1トリプルバトル
+sort_title: ひゅーまんぐらんぷり3
 file: Human Grand Prix III - F1 Triple Battle (Japan) (En).zip
 
-game: Human Grand Prix IV - F1 Dream Battle (Japan) (En)
+game: ヒューマングランプリIV F1ドリームバトル
+sort_title: ひゅーまんぐらんぷり4
 file: Human Grand Prix IV - F1 Dream Battle (Japan) (En).zip
 
 # game: Humans, The (Europe)
@@ -3756,8 +3986,8 @@ file: Human Grand Prix IV - F1 Dream Battle (Japan) (En).zip
 # game: Humans, The (Germany)
 # file: Humans, The (Germany).zip
 
-game: Humans, The (World) (QUByte Classics)
-file: Humans, The (World) (QUByte Classics).zip
+# game: Humans, The (World) (QUByte Classics)
+# file: Humans, The (World) (QUByte Classics).zip
 
 # game: Hungry Dinosaurs (Europe)
 # file: Hungry Dinosaurs (Europe).zip
@@ -3778,7 +4008,8 @@ file: Humans, The (World) (QUByte Classics).zip
 # game: Hurricanes (USA)
 # file: Hurricanes (USA).zip
 
-game: Hyper Iria (Japan)
+game: ハイパーイリア
+sort_title: はいぱーいりあ
 files:
   Hyper Iria (Japan).zip
   Hyper Iria (Japan) (Sample) (1995-07-03).zip
@@ -3794,13 +4025,15 @@ files:
 # game: HyperZone (Europe)
 # file: HyperZone (Europe).zip
 
-game: HyperZone (Japan) (En)
+game: ハイパーゾーン
+sort_title: はいぱーぞーん
 file: HyperZone (Japan) (En).zip
 
 # game: HyperZone (USA)
 # file: HyperZone (USA).zip
 
-game: Idea no Hi (Japan)
+game: イデアの日
+sort_title: いであのひ
 file: Idea no Hi (Japan).zip
 
 # game: Ignition Factor, The (USA)
@@ -3808,15 +4041,18 @@ file: Idea no Hi (Japan).zip
 #   Ignition Factor, The (USA).zip
 #   Ignition Factor, The (USA) (Beta).zip
 
-game: Igo Club (Japan)
+game: 囲碁倶楽部
+sort_title: いごくらぶ
 files:
   Igo Club (Japan).zip
   Igo Club (Japan) (Rev 2).zip
 
-game: Ihatovo Monogatari (Japan)
+game: イーハトーヴォ物語
+sort_title: いーはとーう゛ぉものがたり
 file: Ihatovo Monogatari (Japan).zip
 
-game: Ikari no Yousai (Japan)
+game: 怒りの要塞
+sort_title: いかりのようさい
 file: Ikari no Yousai (Japan).zip
 
 # game: Illusion of Gaia (USA)
@@ -3839,7 +4075,8 @@ file: Ikari no Yousai (Japan).zip
 # game: Illusion of Time (Spain)
 # file: Illusion of Time (Spain).zip
 
-game: Illvanian no Shiro (Japan)
+game: イルバニアンの城
+sort_title: いるばにあんのしろ
 files:
   Illvanian no Shiro (Japan).zip
   Illvanian no Shiro (Japan) (Beta) (1994-08-23).zip
@@ -3849,7 +4086,8 @@ files:
 #   Imperium (USA).zip
 #   Imperium (USA) (Beta).zip
 
-game: Inazuma Serve da! Super Beach Volley (Japan) (En)
+game: 稲妻サーブだ!! スーパービーチバレー
+sort_title: いなずまさーぶだすーぱーびーちばれー
 file: Inazuma Serve da! Super Beach Volley (Japan) (En).zip
 
 # game: Incantation (Europe)
@@ -3877,7 +4115,8 @@ file: Inazuma Serve da! Super Beach Volley (Japan) (En).zip
 # game: Indiana Jones' Greatest Adventures (Europe)
 # file: Indiana Jones' Greatest Adventures (Europe).zip
 
-game: Indiana Jones' Greatest Adventures (Japan)
+game: インディ・ジョーンズ Greatest Adventures
+sort_title: いんでぃじょーんずぐれいてすとあどべんちゃー
 file: Indiana Jones' Greatest Adventures (Japan).zip
 
 # game: Indiana Jones' Greatest Adventures (USA)
@@ -3910,13 +4149,15 @@ file: Indiana Jones' Greatest Adventures (Japan).zip
 # game: International Tennis Tour (Europe)
 # file: International Tennis Tour (Europe).zip
 
-game: International Tennis Tour (Japan) (En)
+game: インターナショナル テニスツアー
+sort_title: いんたーなしょなるてにすつあー
 file: International Tennis Tour (Japan) (En).zip
 
 # game: International Tennis Tour (USA)
 # file: International Tennis Tour (USA).zip
 
-game: Ippatsu Gyakuten (Japan)
+game: 一発逆転
+sort_title: いっぱつぎゃくてん
 file: Ippatsu Gyakuten (Japan).zip
 
 # game: Irem Skins Game, The (USA)
@@ -3925,19 +4166,22 @@ file: Ippatsu Gyakuten (Japan).zip
 # game: Irem Skins Game, The (USA) (Arcade)
 # file: Irem Skins Game, The (USA) (Arcade).zip
 
-game: Iron Commando - Koutetsu no Senshi (Japan)
+game: アイアンコマンドー 鋼鉄の戦士
+sort_title: あいあんこまんどーこうてつのせんし
 file: Iron Commando - Koutetsu no Senshi (Japan).zip
 
 # game: Iron Commando (Europe) (Proto)
 # file: Iron Commando (Europe) (Proto).zip
 
-game: Iron Commando (World) (QUByte Classics)
-file: Iron Commando (World) (QUByte Classics).zip
+# game: Iron Commando (World) (QUByte Classics)
+# file: Iron Commando (World) (QUByte Classics).zip
 
-game: Isozuri - Ritou Hen (Japan)
+game: 磯釣り 離島篇
+sort_title: いそづりりとうへん
 file: Isozuri - Ritou Hen (Japan).zip
 
-game: Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)
+game: いただきストリート2 ネオンサインはバラ色に
+sort_title: いただきすとりーと2
 files:
   Itadaki Street 2 - Neon Sign wa Barairo ni (Japan).zip
   Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta) (1993-12-20).zip
@@ -3948,10 +4192,12 @@ files:
 # game: Itchy & Scratchy Game, The (USA)
 # file: Itchy & Scratchy Game, The (USA).zip
 
-game: Itoi Shigesato no Bass Tsuri No. 1 (Japan)
+game: 糸井重里のバス釣りNo.1
+sort_title: いといしげさとのばすつりなんばーわん
 file: Itoi Shigesato no Bass Tsuri No. 1 (Japan).zip
 
-game: Itou Hatasu Rokudan no Shougi Doujou (Japan)
+game: 伊藤果六段の将棋道場
+sort_title: いとうはたすろくだんのしょうぎどうじょう
 files:
   Itou Hatasu Rokudan no Shougi Doujou (Japan).zip
   Itou Hatasu Rokudan no Shougi Doujou (Japan) (Rev 1).zip
@@ -3964,39 +4210,48 @@ files:
 #   Izzy's Quest for the Olympic Rings (USA).zip
 #   Izzy's Quest for the Olympic Rings (USA) (Beta).zip
 
-game: J.League '96 Dream Stadium (Japan)
+game: Jリーグ'96 ドリームスタジアム
+sort_title: じぇいりーぐ96どりーむすたじあむ
 file: J.League '96 Dream Stadium (Japan).zip
 
-game: J.League Excite Stage '94 (Japan)
+game: Jリーグエキサイトステージ'94
+sort_title: じぇいりーぐえきさいとすてーじ94
 files:
   J.League Excite Stage '94 (Japan).zip
   J.League Excite Stage '94 (Japan) (Rev 1).zip
 
-game: J.League Excite Stage '95 (Japan)
+game: Jリーグエキサイトステージ'95
+sort_title: じぇいりーぐえきさいとすてーじ95
 files:
   J.League Excite Stage '95 (Japan).zip
   J.League Excite Stage '95 (Japan) (Demo).zip
 
-game: J.League Excite Stage '96 (Japan)
+game: Jリーグエキサイトステージ'96
+sort_title: じぇいりーぐえきさいとすてーじ96
 files:
   J.League Excite Stage '96 (Japan).zip
   J.League Excite Stage '96 (Japan) (Rev 1).zip
 
-game: J.League Soccer - Prime Goal (Japan)
+game: Jリーグサッカー プライムゴール
+sort_title: じぇいりーぐさっかーぷらいむごーる1
 files:
   J.League Soccer - Prime Goal (Japan).zip
   J.League Soccer - Prime Goal (Japan) (Rev 1).zip
 
-game: J.League Soccer - Prime Goal 2 (Japan)
+game: Jリーグサッカー プライムゴール2
+sort_title: じぇいりーぐさっかーぷらいむごーる2
 file: J.League Soccer - Prime Goal 2 (Japan).zip
 
-game: J.League Soccer - Prime Goal 3 (Japan)
+game: Jリーグサッカー プライムゴール3
+sort_title: じぇいりーぐさっかーぷらいむごーる3
 file: J.League Soccer - Prime Goal 3 (Japan).zip
 
-game: J.League Super Soccer '95 - Jikkyou Stadium (Japan)
+game: Jリーグスーパーサッカー'95 実況スタジアム
+sort_title: じぇいりーぐすーぱーさっかー95
 file: J.League Super Soccer '95 - Jikkyou Stadium (Japan).zip
 
-game: J.League Super Soccer (Japan)
+game: Jリーグスーパーサッカー
+sort_title: じぇいりーぐすーぱーさっかー1
 file: J.League Super Soccer (Japan).zip
 
 # game: J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA)
@@ -4005,8 +4260,8 @@ file: J.League Super Soccer (Japan).zip
 # game: J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe)
 # file: J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe).zip
 
-game: J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany)
-file: J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany).zip
+# game: J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany)
+# file: J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany).zip
 
 # game: Jack Nicklaus Golf (Europe)
 # file: Jack Nicklaus Golf (Europe).zip
@@ -4017,7 +4272,8 @@ file: J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany).zip
 # game: Jack Nicklaus Golf (USA)
 # file: Jack Nicklaus Golf (USA).zip
 
-game: Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En)
+game: ビッグラン
+sort_title: びっぐらん
 files:
   Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En).zip
   Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1).zip
@@ -4031,13 +4287,16 @@ files:
 # game: James Pond's Crazy Sports (Europe)
 # file: James Pond's Crazy Sports (Europe).zip
 
-game: Jammes (Japan)
+game: ジャムズ
+sort_title: じゃむず
 file: Jammes (Japan).zip
 
-game: Janyuuki - Gokuu Randa (Japan)
+game: 雀遊記 悟空乱打
+sort_title: じゃんゆうきごくうらんだ
 file: Janyuuki - Gokuu Randa (Japan).zip
 
-game: JB The Super Bass (Japan)
+game: JB ザ・スーパーバス
+sort_title: じぇいびーざすーぱーばす
 file: JB The Super Bass (Japan).zip
 
 # game: Jeff's Shoot'Em Up (USA) (Proto)
@@ -4049,68 +4308,80 @@ file: JB The Super Bass (Japan).zip
 #   Jelly Boy (Europe) (Beta 1).zip
 #   Jelly Boy (Europe) (Beta 2).zip
 
-game: Jelly Boy 2 (Japan) (Proto)
+game: ジェリーボーイ2 (開発版)
+sort_title: じぇりーぼーい2
 file: Jelly Boy 2 (Japan) (Proto).zip
 
 # game: Jeopardy! - Deluxe Edition (USA)
 # file: Jeopardy! - Deluxe Edition (USA).zip
 
-game: Jeopardy! - Sports Edition (USA)
-file: Jeopardy! - Sports Edition (USA).zip
+# game: Jeopardy! - Sports Edition (USA)
+# file: Jeopardy! - Sports Edition (USA).zip
 
 # game: Jeopardy! (USA)
 # file: Jeopardy! (USA).zip
 
-game: Jerry Boy (Japan)
+game: ジェリーボーイ
 file: Jerry Boy (Japan).zip
 
 # game: Jetsons, The - Invasion of the Planet Pirates (USA)
 # file: Jetsons, The - Invasion of the Planet Pirates (USA).zip
 
-game: Jigsaw Party (Japan)
+game: ジグソーパーティー
+sort_title: じぐそーぱーてぃー
 files:
   Jigsaw Party (Japan).zip
   Jigsaw Party (Japan) (Beta) (1994-03-25).zip
 
-game: Jikkyou Oshaberi Parodius (Japan)
+game: 実況おしゃべりパロディウス
+sort_title: じっきょうおしゃべりぱろでぃうす
 file: Jikkyou Oshaberi Parodius (Japan).zip
 
-game: Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan)
+game: 実況パワープロレスリング'96 MAX VOLTAGE
+sort_title: じっきょうぱわーぷろれすりんぐ96まっくすぼるてーじ
 file: Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan).zip
 
-game: Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan)
+game: 実況パワフルプロ野球 Basic版'98
+sort_title: じっきょうぱわふるぷろやきゅう98べーしっくばん
 file: Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan).zip
 
-game: Jikkyou Powerful Pro Yakyuu '94 (Japan)
+game: 実況パワフルプロ野球'94
+sort_title: じっきょうぱわふるぷろやきゅう94
 file: Jikkyou Powerful Pro Yakyuu '94 (Japan).zip
 
-game: Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan)
+game: 実況パワフルプロ野球'96 開幕版
+sort_title: じっきょうぱわふるぷろやきゅう96かいまくばん
 files:
   Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan).zip
   Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan) (Rev 1).zip
 
-game: Jikkyou Powerful Pro Yakyuu 2 (Japan)
+game: 実況パワフルプロ野球2
+sort_title: じっきょうぱわふるぷろやきゅう2
 files:
   Jikkyou Powerful Pro Yakyuu 2 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 1).zip
   Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 2).zip
 
-game: Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan)
+game: 実況パワフルプロ野球3 '97春
+sort_title: じっきょうぱわふるぷろやきゅう3b
 files:
   Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan).zip
   Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan) (Rev 1).zip
 
-game: Jikkyou Powerful Pro Yakyuu 3 (Japan)
+game: 実況パワフルプロ野球3
+sort_title: じっきょうぱわふるぷろやきゅう3a
 files:
   Jikkyou Powerful Pro Yakyuu 3 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 3 (Japan) (Rev 1).zip
 
-game: Jikkyou World Soccer - Perfect Eleven (Japan)
+game: 実況ワールドサッカー パーフェクトイレブン
+sort_title: じっきょうわーるどさっかー1
 files:
   Jikkyou World Soccer - Perfect Eleven (Japan).zip
   Jikkyou World Soccer - Perfect Eleven (Japan) (Rev 1).zip
 
-game: Jikkyou World Soccer 2 - Fighting Eleven (Japan)
+game: 実況ワールドサッカー2 ファイティングイレブン
+sort_title: じっきょうわーるどさっかー2
 files:
   Jikkyou World Soccer 2 - Fighting Eleven (Japan).zip
   Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Beta).zip
@@ -4125,8 +4396,8 @@ files:
 # game: Jim Power - The Lost Dimension in 3D (USA)
 # file: Jim Power - The Lost Dimension in 3D (USA).zip
 
-game: Jim Power - The Lost Dimension in 3D (World) (QUByte Classics)
-file: Jim Power - The Lost Dimension in 3D (World) (QUByte Classics).zip
+# game: Jim Power - The Lost Dimension in 3D (World) (QUByte Classics)
+# file: Jim Power - The Lost Dimension in 3D (World) (QUByte Classics).zip
 
 # game: Jimmy Connors Pro Tennis Tour (Europe)
 # file: Jimmy Connors Pro Tennis Tour (Europe).zip
@@ -4140,7 +4411,8 @@ file: Jim Power - The Lost Dimension in 3D (World) (QUByte Classics).zip
 # game: Jimmy Connors Pro Tennis Tour (Germany) (Beta)
 # file: Jimmy Connors Pro Tennis Tour (Germany) (Beta).zip
 
-game: Jimmy Connors Pro Tennis Tour (Japan)
+game: ジミー コナーズのプロテニスツアー
+sort_title: じみーこなーずのぷろてにすつあー
 file: Jimmy Connors Pro Tennis Tour (Japan).zip
 
 # game: Jimmy Connors Pro Tennis Tour (USA)
@@ -4149,36 +4421,46 @@ file: Jimmy Connors Pro Tennis Tour (Japan).zip
 # game: Jimmy Houston's Bass Tournament U.S.A. (USA)
 # file: Jimmy Houston's Bass Tournament U.S.A. (USA).zip
 
-game: Jissen Bass Fishing Hisshouhou in USA (Japan)
+game: 実戦バスフィッシング必勝法 in USA
+sort_title: じっせんばすふぃっしんぐひっしょうほう
 file: Jissen Bass Fishing Hisshouhou in USA (Japan).zip
 
-game: Jissen Kyoutei (Japan)
+game: 実戦競艇
+sort_title: じっせんきょうてい
 file: Jissen Kyoutei (Japan).zip
 
-game: Jissen Pachi-Slot Hisshouhou! Twin (Japan)
+game: 実戦パチスロ必勝法! TWIN
+sort_title: じっせんぱちすろひっしょうほうついん1
 file: Jissen Pachi-Slot Hisshouhou! Twin (Japan).zip
 
-game: Jissen Pachi-Slot Hisshouhou! Twin Vol. 2 (Japan)
+game: 実戦パチスロ必勝法! TWIN Vol.2
+sort_title: じっせんぱちすろひっしょうほうついん2
 file: Jissen Pachi-Slot Hisshouhou! Twin Vol. 2 (Japan).zip
 
-game: Jissen Pachinko Hisshouhou! 2 (Japan)
+game: 実戦パチンコ必勝法! 2
+sort_title: じっせんぱちんこひっしょうほう2
 file: Jissen Pachinko Hisshouhou! 2 (Japan).zip
 
-game: Jissen! Mahjong Shinan (Japan)
+game: 実戦! 麻雀指南
+sort_title: じっせんまーじゃんしなん
 file: Jissen! Mahjong Shinan (Japan).zip
 
-game: Jissen! Pachi-Slot Hisshouhou! (Japan)
+game: 実戦! パチスロ必勝法!
+sort_title: じっせんぱちすろひっしょうほう1
 file: Jissen! Pachi-Slot Hisshouhou! (Japan).zip
 
-game: Jissen! Pachi-Slot Hisshouhou! 2 (Japan)
+game: 実戦! パチスロ必勝法! 2
+sort_title: じっせんぱちすろひっしょうほう2
 files:
   Jissen! Pachi-Slot Hisshouhou! 2 (Japan).zip
   Jissen! Pachi-Slot Hisshouhou! 2 (Japan) (Rev 1).zip
 
-game: Jissen! Pachi-Slot Hisshouhou! Classic (Japan)
+game: 実戦! パチスロ必勝法! Classic
+sort_title: じっせんぱちすろひっしょうほうくらしっく
 file: Jissen! Pachi-Slot Hisshouhou! Classic (Japan).zip
 
-game: Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu (Japan)
+game: 実戦! パチスロ必勝法! 山佐伝説
+sort_title: じっせんぱちすろひっしょうほうやまさでんせつ
 file: Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu (Japan).zip
 
 # game: Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl)
@@ -4657,25 +4939,32 @@ file: Kouryuu no Mimi (Japan).zip
 game: Kouryuuki (Japan)
 file: Kouryuuki (Japan).zip
 
-game: Koushien 2 (Japan)
+game: 甲子園2
+sort_title: こうしえん2
 file: Koushien 2 (Japan).zip
 
-game: Koushien 3 (Japan)
+game: 甲子園3
+sort_title: こうしえん3
 file: Koushien 3 (Japan).zip
 
-game: Koushien 4 (Japan)
+game: 甲子園4
+sort_title: こうしえん4
 file: Koushien 4 (Japan).zip
 
-game: Kousoku Shikou Shougi Ou (Japan)
+game: 高速思考 将棋皇
+sort_title: こうそくしこうしょうぎおう
 file: Kousoku Shikou Shougi Ou (Japan).zip
 
-game: Koutetsu no Kishi (Japan)
+game: 鋼鉄の騎士
+sort_title: こうてつのきし1
 file: Koutetsu no Kishi (Japan).zip
 
-game: Koutetsu no Kishi 2 - Sabaku no Rommel Gundan (Japan)
+game: 鋼鉄の騎士2 砂漠のロンメル軍団
+sort_title: こうてつのきし2
 file: Koutetsu no Kishi 2 - Sabaku no Rommel Gundan (Japan).zip
 
-game: Koutetsu no Kishi 3 - Gekitotsu Europe Sensen (Japan)
+game: 鋼鉄の騎士3 激突ヨーロッパ戦線
+sort_title: こうてつのきし3
 files:
   Koutetsu no Kishi 3 - Gekitotsu Europe Sensen (Japan).zip
   Koutetsu no Kishi 3 - Gekitotsu Europe Sensen (Japan) (Rev 1).zip
@@ -4696,10 +4985,9 @@ file: Krusty World (Japan).zip
 # file: Krusty's Super Fun House (USA) (Rev 1).zip
 
 game: Kunio no Oden (Japan)
-file: Kunio no Oden (Japan).zip
-
-game: Kunio no Oden (Japan) (Beta)
-file: Kunio no Oden (Japan) (Beta).zip
+files:
+  Kunio no Oden (Japan).zip
+  Kunio no Oden (Japan) (Beta).zip
 
 game: Kunio-kun no Dodge Ball Da yo Zenin Shuugou! - Tournament Special (Japan)
 file: Kunio-kun no Dodge Ball Da yo Zenin Shuugou! - Tournament Special (Japan).zip
@@ -4784,10 +5072,12 @@ file: Last Bible III (Japan).zip
 game: Leading Company (Japan)
 file: Leading Company (Japan).zip
 
-game: Leading Jockey (Japan)
+game: リーディングジョッキー
+sort_title: りーでぃんぐじょっきー1
 file: Leading Jockey (Japan).zip
 
-game: Leading Jockey 2 (Japan)
+game: リーディングジョッキー2
+sort_title: りーでぃんぐじょっきー2
 file: Leading Jockey 2 (Japan).zip
 
 # game: Legend (Europe)
@@ -4799,8 +5089,8 @@ file: Leading Jockey 2 (Japan).zip
 # game: Legend (USA) (Beta)
 # file: Legend (USA) (Beta).zip
 
-game: Legend (World) (QUByte Classics)
-file: Legend (World) (QUByte Classics).zip
+# game: Legend (World) (QUByte Classics)
+# file: Legend (World) (QUByte Classics).zip
 
 # game: Legend of the Mystical Ninja, The (Europe)
 # file: Legend of the Mystical Ninja, The (Europe).zip
@@ -4886,10 +5176,12 @@ file: Libble Rabble (Japan).zip
 # game: Liberty or Death (USA)
 # file: Liberty or Death (USA).zip
 
-game: Light Fantasy (Japan)
+game: ライトファンタジー
+sort_title: らいとふぁんたじー1
 file: Light Fantasy (Japan).zip
 
-game: Light Fantasy II (Japan)
+game: ライトファンタジーII
+sort_title: らいとふぁんたじー2
 file: Light Fantasy II (Japan).zip
 
 # game: Lion King, The (Europe)
@@ -4905,20 +5197,19 @@ file: Lion King, The (Japan).zip
 #   Lion King, The (USA) (Beta 2).zip
 #   Lion King, The (USA) (Beta 3).zip
 
-game: Lion King, The (World) (Disney Classic Games)
-file: Lion King, The (World) (Disney Classic Games).zip
+# game: Lion King, The (World) (Disney Classic Games)
+# file: Lion King, The (World) (Disney Classic Games).zip
 
-game: Lion King, The (World) (Ja) (Disney Classic Games)
-file: Lion King, The (World) (Ja) (Disney Classic Games).zip
+# game: Lion King, The (World) (Ja) (Disney Classic Games)
+# file: Lion King, The (World) (Ja) (Disney Classic Games).zip
 
 # game: Little Magic (Europe) (Proto)
 # file: Little Magic (Europe) (Proto).zip
 
 game: Little Magic (Japan)
-file: Little Magic (Japan).zip
-
-game: Little Magic (Japan) (Beta)
-file: Little Magic (Japan) (Beta).zip
+files:
+  Little Magic (Japan).zip
+  Little Magic (Japan) (Beta).zip
 
 game: Little Master - Nijiiro no Maseki (Japan)
 files:
@@ -5162,10 +5453,12 @@ file: Mahjong Touhaiden, The (Japan).zip
 game: Mahou Poi Poi Poitto! (Japan)
 file: Mahou Poi Poi Poitto! (Japan).zip
 
-game: Mahoujin Guruguru (Japan)
+game: 魔法陣グルグル
+sort_title: まほうじんぐるぐる1
 file: Mahoujin Guruguru (Japan).zip
 
-game: Mahoujin Guruguru 2 (Japan)
+game: 魔法陣グルグル2
+sort_title: まほうじんぐるぐる2
 file: Mahoujin Guruguru 2 (Japan).zip
 
 game: Majin Tensei (Japan)
@@ -5393,8 +5686,8 @@ file: Mega lo Mania - Jikuu Daisenryaku (Japan).zip
 # game: Mega Man X (USA) (Rev 1)
 # file: Mega Man X (USA) (Rev 1).zip
 
-game: Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection)
-file: Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection).zip
+# game: Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection)
+# file: Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection).zip
 
 # game: Mega Man X2 (Europe)
 # file: Mega Man X2 (Europe).zip
@@ -5402,8 +5695,8 @@ file: Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection).zip
 # game: Mega Man X2 (USA)
 # file: Mega Man X2 (USA).zip
 
-game: Mega Man X2 (World) (Mega Man X Legacy Collection)
-file: Mega Man X2 (World) (Mega Man X Legacy Collection).zip
+# game: Mega Man X2 (World) (Mega Man X Legacy Collection)
+# file: Mega Man X2 (World) (Mega Man X Legacy Collection).zip
 
 # game: Mega Man X3 (Europe)
 # file: Mega Man X3 (Europe).zip
@@ -5411,8 +5704,8 @@ file: Mega Man X2 (World) (Mega Man X Legacy Collection).zip
 # game: Mega Man X3 (USA)
 # file: Mega Man X3 (USA).zip
 
-game: Mega Man X3 (World) (Mega Man X Legacy Collection)
-file: Mega Man X3 (World) (Mega Man X Legacy Collection).zip
+# game: Mega Man X3 (World) (Mega Man X Legacy Collection)
+# file: Mega Man X3 (World) (Mega Man X Legacy Collection).zip
 
 # game: Mega-lo-Mania (Europe) (En,Fr,De)
 # file: Mega-lo-Mania (Europe) (En,Fr,De).zip
@@ -5432,8 +5725,8 @@ file: Melfand Stories (Japan).zip
 # game: Metal Jack (USA) (Proto) (1992-07-30)
 # file: Metal Jack (USA) (Proto) (1992-07-30).zip
 
-game: Metal Jack (USA) (Proto) (Earlier)
-file: Metal Jack (USA) (Proto) (Earlier).zip
+# game: Metal Jack (USA) (Proto) (Earlier)
+# file: Metal Jack (USA) (Proto) (Earlier).zip
 
 # game: Metal Marines (Europe)
 # file: Metal Marines (Europe).zip
@@ -5754,7 +6047,8 @@ file: Mr. Nutz (Japan) (En).zip
 # game: Muhammad Ali Heavyweight Boxing (USA) (Proto)
 # file: Muhammad Ali Heavyweight Boxing (USA) (Proto).zip
 
-game: Mujintou Monogatari (Japan)
+game: 無人島物語
+sort_title: むじんとうものがたり
 file: Mujintou Monogatari (Japan).zip
 
 game: Multi Play Volleyball (Japan)
@@ -6166,21 +6460,24 @@ publisher: カルチャーブレーン
 description:
   カルチャーブレーンより1996年8月9日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。人気アニメ『忍たま乱太郎』を題材にしたゲーム作品となる。さらわれた団蔵を救うため、忍たまたちを操作して様々な忍術と忍具を駆使してドクタケ忍者と戦っていく。また、アドベンチャー要素もあり、ストーリーではいくつかの選択肢を選びながら進行していく。
 
-game: Nintendo Power Menu Program (Japan) (NP)
-files:
-  Nintendo Power Menu Program (Japan) (NP).zip
-  Nintendo Power Menu Program (Japan) (Rev 1) (NP).zip
+# game: Nintendo Power Menu Program (Japan) (NP)
+# files:
+#   Nintendo Power Menu Program (Japan) (NP).zip
+#   Nintendo Power Menu Program (Japan) (Rev 1) (NP).zip
 
 # game: Nintendo Scope 6 (Europe)
 # file: Nintendo Scope 6 (Europe).zip
 
-game: Nishijin Pachinko 3 (Japan)
+game: 西陣パチンコ3
+sort_title: にしじんぱちんこ3
 file: Nishijin Pachinko 3 (Japan).zip
 
-game: Nishijin Pachinko Monogatari (Japan)
+game: 西陣パチンコ物語
+sort_title: にしじんぱちんこ1
 file: Nishijin Pachinko Monogatari (Japan).zip
 
-game: Nishijin Pachinko Monogatari 2 (Japan)
+game: 西陣パチンコ物語2
+sort_title: にしじんぱちんこ2
 file: Nishijin Pachinko Monogatari 2 (Japan).zip
 
 game: Nitropunks - Might Heads (Japan)
@@ -6222,8 +6519,8 @@ files:
 # game: Noughts & Crosses (USA) (Possible Proto) (Nintendo Gateway System)
 # file: Noughts & Crosses (USA) (Possible Proto) (Nintendo Gateway System).zip
 
-game: NTF 2.5 Test Cartridge (USA) (Rev A)
-file: NTF 2.5 Test Cartridge (USA) (Rev A).zip
+# game: NTF 2.5 Test Cartridge (USA) (Rev A)
+# file: NTF 2.5 Test Cartridge (USA) (Rev A).zip
 
 game: Nuke Your Mum! (World) (Unl)
 file: Nuke Your Mum! (World) (Unl).zip
@@ -7112,7 +7409,8 @@ file: Putty Moon (Japan) (En).zip
 # game: Puzzle Bobble - Bust-A-Move (Europe) (Rev 1)
 # file: Puzzle Bobble - Bust-A-Move (Europe) (Rev 1).zip
 
-game: Puzzle Bobble (Japan)
+game: パズルボブル
+sort_title: ぱずるぼぶる
 file: Puzzle Bobble (Japan).zip
 
 game: Puzzle Nintama Rantarou - Ninjutsu Gakuen Puzzle Taikai no Dan (Japan)
@@ -7200,22 +7498,27 @@ file: Ramos Ruy no World Wide Soccer (Japan) (En).zip
 # game: Rampart (USA)
 # file: Rampart (USA).zip
 
-game: Ranma 1-2 - Akanekodan Teki Hihou (Japan)
+game: らんま1/2 朱猫団的秘宝
+sort_title: らんま1/2あかねこだんてきひほう
 file: Ranma 1-2 - Akanekodan Teki Hihou (Japan).zip
 
-game: Ranma 1-2 - Bakuretsu Rantou Hen (Japan)
+game: らんま1/2 爆裂乱闘編
+sort_title: らんま1/2ばくれつらんとうへん
 file: Ranma 1-2 - Bakuretsu Rantou Hen (Japan).zip
 
-game: Ranma 1-2 - Chougi Ranbu Hen (Japan)
+game: らんま1/2 超技乱舞編
+sort_title: らんま1/2ちょうぎらんぶへん
 file: Ranma 1-2 - Chougi Ranbu Hen (Japan).zip
 
-game: Ranma 1-2 - Chounai Gekitou Hen (Japan)
+game: らんま1/2 町内激闘編
+sort_title: らんま1/2ちょうないげきとうへん
 file: Ranma 1-2 - Chounai Gekitou Hen (Japan).zip
 
 # game: Ranma 1-2 - Hard Battle (USA)
 # file: Ranma 1-2 - Hard Battle (USA).zip
 
-game: Ranma 1-2 - Ougi Jaanken (Japan)
+game: らんま1/2 奥義邪暗拳
+sort_title: らんま1/2おうぎじゃあんけん
 file: Ranma 1-2 - Ougi Jaanken (Japan).zip
 
 # game: Ranma 1-2 (Europe)
@@ -7514,7 +7817,8 @@ description:
 # game: Roger Clemens' MVP Baseball (USA) (Rev 1)
 # file: Roger Clemens' MVP Baseball (USA) (Rev 1).zip
 
-game: Rokudenashi Blues - Taiketsu! Tokyo Shitennou (Japan)
+game: ろくでなしブルース 対決!東京四天王
+sort_title: ろくでなしぶるーすたいけつとうきょうしてんのう
 file: Rokudenashi Blues - Taiketsu! Tokyo Shitennou (Japan).zip
 
 # game: Romance of the Three Kingdoms II (USA)
@@ -7526,34 +7830,42 @@ file: Rokudenashi Blues - Taiketsu! Tokyo Shitennou (Japan).zip
 # game: Romance of the Three Kingdoms IV - Wall of Fire (USA)
 # file: Romance of the Three Kingdoms IV - Wall of Fire (USA).zip
 
-game: Romancing Sa-Ga (Japan)
+game: ロマンシング サ・ガ
+sort_title: ろまんしんぐさが1
 files:
   Romancing Sa-Ga (Japan).zip
   Romancing Sa-Ga (Japan) (Rev 1).zip
   Romancing Sa-Ga (Japan) (Rev 1) (Virtual Console).zip
 
-game: Romancing Sa-Ga 2 (Japan)
+game: ロマンシング サ・ガ2
+sort_title: ろまんしんぐさが2
 file: Romancing Sa-Ga 2 (Japan).zip
 
-game: Romancing Sa-Ga 3 (Japan)
+game: ロマンシング サ・ガ3
+sort_title: ろまんしんぐさが3
 files:
   Romancing Sa-Ga 3 (Japan).zip
   Romancing Sa-Ga 3 (Japan) (Rev 1).zip
   Romancing Sa-Ga 3 (Japan) (Taikenban Sample ROM).zip
 
-game: Royal Conquest (Japan) (En)
+game: ロイヤルコンクエスト
+sort_title: ろいやるこんくえすと
 file: Royal Conquest (Japan) (En).zip
 
-game: RPG Tsukuru - Super Dante (Japan)
+game: RPGツクール SUPER DANTE
+sort_title: あーるぴーじーつくーる1
 file: RPG Tsukuru - Super Dante (Japan).zip
 
-game: RPG Tsukuru 2 (Japan)
+game: RPGツクール2
+sort_title: あーるぴーじーつくーる2
 file: RPG Tsukuru 2 (Japan).zip
 
-game: Rudra no Hihou (Japan)
+game: ルドラの秘宝
+sort_title: るどらのひほう
 file: Rudra no Hihou (Japan).zip
 
-game: Ruin Arm (Japan)
+game: ルインアーム
+sort_title: るいんあーむ
 file: Ruin Arm (Japan).zip
 
 # game: Run Saber (Europe)
@@ -7580,12 +7892,14 @@ file: Rushing Beat Shura (Japan).zip
 game: Ryuukiheidan Dunzarv (Japan)
 file: Ryuukiheidan Dunzarv (Japan).zip
 
-game: Ryuuko no Ken (Japan)
+game: 龍虎の拳
+sort_title: りゅうこのけん1
 files:
   Ryuuko no Ken (Japan).zip
   Ryuuko no Ken (Japan) (Rev 1).zip
 
-game: Ryuuko no Ken 2 (Japan)
+game: 龍虎の拳2
+sort_title: りゅうこのけん2
 file: Ryuuko no Ken 2 (Japan).zip
 
 # game: S.O.S - Sink or Swim (Europe)
@@ -7637,8 +7951,8 @@ files:
   Sangokushi Eiketsuden (Japan).zip
   Sangokushi Eiketsuden (Japan) (Rev 1).zip
 
-game: Sangokushi III (Hong Kong)
-file: Sangokushi III (Hong Kong).zip
+# game: Sangokushi III (Hong Kong)
+# file: Sangokushi III (Hong Kong).zip
 
 game: Sangokushi III (Japan)
 files:
@@ -7734,8 +8048,8 @@ files:
 # game: Secret of Evermore (Spain) (Rev 2)
 # file: Secret of Evermore (Spain) (Rev 2).zip
 
-game: Secret of Evermore (Unknown) (Beta) (Non-working)
-file: Secret of Evermore (Unknown) (Beta) (Non-working).zip
+# game: Secret of Evermore (Unknown) (Beta) (Non-working)
+# file: Secret of Evermore (Unknown) (Beta) (Non-working).zip
 
 # game: Secret of Evermore (USA)
 # file: Secret of Evermore (USA).zip
@@ -7761,11 +8075,11 @@ file: Secret of Evermore (Unknown) (Beta) (Non-working).zip
 # game: Secret of Mana (USA) (Virtual Console)
 # file: Secret of Mana (USA) (Virtual Console).zip
 
-game: Secret of Mana (World) (De) (Collection of Mana)
-file: Secret of Mana (World) (De) (Collection of Mana).zip
+# game: Secret of Mana (World) (De) (Collection of Mana)
+# file: Secret of Mana (World) (De) (Collection of Mana).zip
 
-game: Secret of Mana (World) (Fr) (Rev 1) (Collection of Mana)
-file: Secret of Mana (World) (Fr) (Rev 1) (Collection of Mana).zip
+# game: Secret of Mana (World) (Fr) (Rev 1) (Collection of Mana)
+# file: Secret of Mana (World) (Fr) (Rev 1) (Collection of Mana).zip
 
 game: Seifuku Densetsu - Pretty Fighter (Japan)
 files:
@@ -7775,13 +8089,15 @@ files:
 game: Seijuu Maden Beasts & Blades (Japan)
 file: Seijuu Maden Beasts & Blades (Japan).zip
 
-game: Seiken Densetsu 2 (Japan)
+game: 聖剣伝説2
+sort_title: せいけんでんせつ2
 files:
   Seiken Densetsu 2 (Japan).zip
   Seiken Densetsu 2 (Japan) (Rev 1) (Seiken Densetsu Collection).zip
   Seiken Densetsu 2 (Japan) (Rev 1) (Virtual Console).zip
 
-game: Seiken Densetsu 3 (Japan)
+game: 聖剣伝説3
+sort_title: せいけんでんせつ3
 files:
   Seiken Densetsu 3 (Japan).zip
   Seiken Densetsu 3 (Japan) (Seiken Densetsu Collection).zip
@@ -7829,8 +8145,8 @@ file: Sgt. Saunders' Combat! (Japan).zip
 game: Shadowrun (Japan) (En,Ja)
 file: Shadowrun (Japan) (En,Ja).zip
 
-game: Shadowrun (Sweden)
-file: Shadowrun (Sweden).zip
+# game: Shadowrun (Sweden)
+# file: Shadowrun (Sweden).zip
 
 # game: Shadowrun (USA)
 # file: Shadowrun (USA).zip
@@ -7897,17 +8213,20 @@ file: Shin Kidou Senki Gundam W - Endless Duel (Japan).zip
 game: Shin Mahjong (Japan)
 file: Shin Mahjong (Japan).zip
 
-game: Shin Megami Tensei (Japan)
+game: 真・女神転生
+sort_title: しんめがみてんせい1
 files:
   Shin Megami Tensei (Japan).zip
   Shin Megami Tensei (Japan) (Rev 1).zip
 
-game: Shin Megami Tensei if... (Japan)
+game: 真・女神転生 if...
+sort_title: しんめがみてんせいif
 files:
   Shin Megami Tensei if... (Japan).zip
   Shin Megami Tensei if... (Japan) (Rev 1).zip
 
-game: Shin Megami Tensei II (Japan)
+game: 真・女神転生II
+sort_title: しんめがみてんせい2
 files:
   Shin Megami Tensei II (Japan).zip
   Shin Megami Tensei II (Japan) (Rev 1).zip
@@ -8192,10 +8511,9 @@ file: SNSP Aging Ver 1.02 (Japan) (En).zip
 # file: Soccer Kid (Europe) (En,Fr,De,Es,It).zip
 
 game: Soccer Kid (Japan)
-file: Soccer Kid (Japan).zip
-
-game: Soccer Kid (Japan) (Beta)
-file: Soccer Kid (Japan) (Beta).zip
+files:
+  Soccer Kid (Japan).zip
+  Soccer Kid (Japan) (Beta).zip
 
 # game: Soccer Shootout (Europe)
 # file: Soccer Shootout (Europe).zip
@@ -8220,19 +8538,22 @@ file: Song Master (Japan).zip
 # game: Sonic Blast Man (Europe)
 # file: Sonic Blast Man (Europe).zip
 
-game: Sonic Blast Man (Japan)
+game: ソニックブラストマン
+sort_title: そにっくぶらすとまん1
 file: Sonic Blast Man (Japan).zip
 
 # game: Sonic Blast Man (USA)
 # file: Sonic Blast Man (USA).zip
 
-game: Sonic Blast Man II (Japan)
+game: ソニックブラストマンII
+sort_title: そにっくぶらすとまん2
 file: Sonic Blast Man II (Japan).zip
 
 # game: Sonic Blast Man II (USA)
 # file: Sonic Blast Man II (USA).zip
 
-game: Sonic Wings (Japan)
+game: ソニックウイングス
+sort_title: そにっくういんぐす1
 file: Sonic Wings (Japan).zip
 
 game: Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan)
@@ -8445,14 +8766,14 @@ file: Sprinter Monogatari - Mezase!! Ikkakusenkin (Japan).zip
 game: St. Andrews - Eikou to Rekishi no Old Course (Japan)
 file: St. Andrews - Eikou to Rekishi no Old Course (Japan).zip
 
-game: ST010 (Japan, USA) (Enhancement Chip)
-file: ST010 (Japan, USA) (Enhancement Chip).zip
+# game: ST010 (Japan, USA) (Enhancement Chip)
+# file: ST010 (Japan, USA) (Enhancement Chip).zip
 
-game: ST011 (Japan) (Enhancement Chip)
-file: ST011 (Japan) (Enhancement Chip).zip
+# game: ST011 (Japan) (Enhancement Chip)
+# file: ST011 (Japan) (Enhancement Chip).zip
 
-game: ST018 (Japan) (Enhancement Chip)
-file: ST018 (Japan) (Enhancement Chip).zip
+# game: ST018 (Japan) (Enhancement Chip)
+# file: ST018 (Japan) (Enhancement Chip).zip
 
 game: Stable Star - Kyuusha Monogatari (Japan)
 file: Stable Star - Kyuusha Monogatari (Japan).zip
@@ -8979,11 +9300,11 @@ file: Super Chinese World 3 - Chou Jigen Daisakusen (Japan).zip
 # game: Super Conflict (USA)
 # file: Super Conflict (USA).zip
 
-game: Super Copa (Brazil) (Es,Pt) (Beta) (1994-02-28)
-file: Super Copa (Brazil) (Es,Pt) (Beta) (1994-02-28).zip
+# game: Super Copa (Brazil) (Es,Pt) (Beta) (1994-02-28)
+# file: Super Copa (Brazil) (Es,Pt) (Beta) (1994-02-28).zip
 
-game: Super Copa (Latin America) (Es,Pt)
-file: Super Copa (Latin America) (Es,Pt).zip
+# game: Super Copa (Latin America) (Es,Pt)
+# file: Super Copa (Latin America) (Es,Pt).zip
 
 game: Super Cup Soccer (Japan) (En)
 file: Super Cup Soccer (Japan) (En).zip
@@ -9105,11 +9426,11 @@ publisher: 日本物産
 description:
   日本物産より1992年10月23日にスーパーファミコン用ソフトとして発売されたレースゲーム。本作はスピード感抜群の人気F1レースゲーム『スーパーF1サーカス』の、システム面はそのままに、FOCAの認可を取り、チーム名やドライバー名が全て実名化されて登場する限定バージョンとなる。プレイヤーは弱小チームからスタートし、世界の頂点であるワールドチャンプを目指して世界各地を転戦していこう。
 
-game: Super Famicom Aging Program Ver. 1.00 (Japan) (En)
-file: Super Famicom Aging Program Ver. 1.00 (Japan) (En).zip
+# game: Super Famicom Aging Program Ver. 1.00 (Japan) (En)
+# file: Super Famicom Aging Program Ver. 1.00 (Japan) (En).zip
 
-game: Super Famicom Box 4S Attraction (Japan)
-file: Super Famicom Box 4S Attraction (Japan).zip
+# game: Super Famicom Box 4S Attraction (Japan)
+# file: Super Famicom Box 4S Attraction (Japan).zip
 
 game: スーパーファミコンウォーズ
 sort_title: すーぱーふぁみこんうぉーず
@@ -9176,7 +9497,8 @@ publisher: ナムコ
 description:
   ナムコより1996年2月29日にスーパーファミコン用ソフトとして発売された。大人気プロ野球ゲーム『スーパーファミスタ』第5弾。高低差を駆使した3D仕様を採用しており、本物さながらの手に汗握る試合を楽しむことができる。チームと球場を自由に選んで対戦する「一球勝負」、勝利試合の成績ごとに資金が追加され好きな選手を補強していく「夢のFA」など、多彩な8モードを搭載している。
 
-game: Super Final Match Tennis (Japan)
+game: スーパーファイナルマッチテニス
+sort_title: すーぱーふぁいなるまっちてにす
 file: Super Final Match Tennis (Japan).zip
 
 game: スーパーファイヤープロレスリング クイーンズスペシャル
@@ -9201,9 +9523,6 @@ publisher: ヒューマン
 description:
   ヒューマンより1992年12月25日にスーパーファミコン用ソフトとして発売されたプロレスゲーム。人気プロレスゲーム『スーパーファイヤープロレスリング』の続編。炎のカリスマ・沖田勝志など新たに8人が追加され、レスラーは総勢25人になり、試合開始前のパフォーマンスも可能になった。関節技をかけると一瞬にして腕や足を折る「クリティカル」が導入されるなど、よりエキサイティングな試合を楽しむことができる。
 
-game: Super Fire Pro Wrestling 3 (Japan) (Demo)
-file: Super Fire Pro Wrestling 3 (Japan) (Demo).zip
-
 game: スーパーファイヤープロレスリングIII イージータイプ
 sort_title: すーぱーふぁいやーぷろれすりんぐ3いーじーたいぷ
 file: Super Fire Pro Wrestling III - Easy Type (Japan).zip
@@ -9216,6 +9535,7 @@ sort_title: すーぱーふぁいやーぷろれすりんぐ3
 files:
   Super Fire Pro Wrestling III - Final Bout (Japan).zip
   Super Fire Pro Wrestling III - Final Bout (Japan) (Rev 1).zip
+  Super Fire Pro Wrestling 3 (Japan) (Demo).zip
 publisher: ヒューマン
 description:
   ヒューマンより1993年12月28日にスーパーファミコン用ソフトとして発売されたプロレスゲーム。大人気プロレスゲーム『ファイヤープロレスリング』シリーズの続編。登場キャラクター数は56人と前作より大幅に増加したほか、レスラーの動きや技の数など、さまざまな改良が加えられている。また、4人同時プレイも楽しめるバトルロイヤルモードを新たに搭載している。
@@ -9309,25 +9629,25 @@ file: Super Gachapon World - SD Gundam X (Japan).zip
 # game: Super Game Boy (Europe) (Beta) (1994-03-24)
 # file: Super Game Boy (Europe) (Beta) (1994-03-24).zip
 
-game: Super Game Boy (Japan, USA) (En)
-files:
-  Super Game Boy (Japan, USA) (En).zip
-  Super Game Boy (Japan, USA) (En) (Beta) (1994-03-06).zip
-  Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23).zip
-  Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23) (Alt).zip
-  Super Game Boy (Japan, USA) (En) (Rev 1).zip
+# game: Super Game Boy (Japan, USA) (En)
+# files:
+#   Super Game Boy (Japan, USA) (En).zip
+#   Super Game Boy (Japan, USA) (En) (Beta) (1994-03-06).zip
+#   Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23).zip
+#   Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23) (Alt).zip
+#   Super Game Boy (Japan, USA) (En) (Rev 1).zip
 
-game: Super Game Boy (World) (Rev 2)
-file: Super Game Boy (World) (Rev 2).zip
+# game: Super Game Boy (World) (Rev 2)
+# file: Super Game Boy (World) (Rev 2).zip
 
-game: Super Game Boy 2 (Japan)
-file: Super Game Boy 2 (Japan).zip
+# game: Super Game Boy 2 (Japan)
+# file: Super Game Boy 2 (Japan).zip
 
-game: Super Game Boy 2 SGB2-CPU (Japan) (Enhancement Chip)
-file: Super Game Boy 2 SGB2-CPU (Japan) (Enhancement Chip).zip
+# game: Super Game Boy 2 SGB2-CPU (Japan) (Enhancement Chip)
+# file: Super Game Boy 2 SGB2-CPU (Japan) (Enhancement Chip).zip
 
-game: Super Game Boy SGB-CPU (World) (Enhancement Chip)
-file: Super Game Boy SGB-CPU (World) (Enhancement Chip).zip
+# game: Super Game Boy SGB-CPU (World) (Enhancement Chip)
+# file: Super Game Boy SGB-CPU (World) (Enhancement Chip).zip
 
 game: Super Genjin (Japan)
 file: Super Genjin (Japan).zip
@@ -9469,13 +9789,16 @@ publisher: タカラ
 description:
   タカラより1996年11月29日にスーパーファミコン用ソフトとして発売されたボードゲーム。人気ボードゲームを題材とした『スーパー人生ゲーム』の第3弾。ゲームは、ルーレットを回して恋愛や転職など盛り沢山のイベントが発生するコマを進めるすごろく形式で進行する。そして、資産の多い順で勝敗を決する。本作ではルーレットの回し方が変わり、コースが4つになり、イベントも増え、セーブ箇所が3つになっている。
 
-game: Super Keiba (Japan)
+game: スーパー競馬
+sort_title: すーぱーけいば1
 file: Super Keiba (Japan).zip
 
-game: Super Keiba 2 (Japan)
+game: スーパー競馬2
+sort_title: すーぱーけいば2
 file: Super Keiba 2 (Japan).zip
 
-game: Super Keirin (Japan)
+game: スーパー競輪
+sort_title: すーぱーけいりん
 file: Super Keirin (Japan).zip
 
 game: Super Kick Boxing - Best of the Best (Japan) (En)
@@ -9842,8 +10165,8 @@ file: Super Punch-Out!! (Japan) (NP).zip
 # game: Super Punch-Out!! (USA)
 # file: Super Punch-Out!! (USA).zip
 
-game: Super Punch-Out!! (World) (GameCube)
-file: Super Punch-Out!! (World) (GameCube).zip
+# game: Super Punch-Out!! (World) (GameCube)
+# file: Super Punch-Out!! (World) (GameCube).zip
 
 # game: Super Putty (Europe)
 # file: Super Putty (Europe).zip

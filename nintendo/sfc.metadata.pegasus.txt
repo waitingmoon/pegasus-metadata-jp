@@ -8818,7 +8818,7 @@ sort_title: しんせいきじーぴーえっくすさいばーふぉーみゅ�
 file: Shinseiki GPX - Cyber Formula (Japan).zip
 
 game: 神聖紀オデッセリア
-sort_title: しんんせいきおでっせりあ1
+sort_title: しんせいきおでっせりあ1
 files:
   Shinseiki Odysselya (Japan).zip
   Shinseiki Odysselya (Japan) (Sample).zip

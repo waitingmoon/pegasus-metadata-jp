@@ -1732,8 +1732,9 @@ files:
 # game: Contra Spirits (World) (Contra Anniversary Collection)
 # file: Contra Spirits (World) (Contra Anniversary Collection).zip
 
-# game: Controller Test Cassette (Japan)
-# file: Controller Test Cassette (Japan).zip
+game: コントローラ テストカセット
+sort_title: こんとろーらてすとかせっと
+file: Controller Test Cassette (Japan).zip
 
 game: バーコードバトラー戦記 スーパー戦士出撃せよ!
 sort_title: ばーこーどばとらーせんきすーぱーせんししゅつげきせよ
@@ -6816,10 +6817,11 @@ publisher: カルチャーブレーン
 description:
   カルチャーブレーンより1996年8月9日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。人気アニメ『忍たま乱太郎』を題材にしたゲーム作品となる。さらわれた団蔵を救うため、忍たまたちを操作して様々な忍術と忍具を駆使してドクタケ忍者と戦っていく。また、アドベンチャー要素もあり、ストーリーではいくつかの選択肢を選びながら進行していく。
 
-# game: Nintendo Power Menu Program (Japan) (NP)
-# files:
-#   Nintendo Power Menu Program (Japan) (NP).zip
-#   Nintendo Power Menu Program (Japan) (Rev 1) (NP).zip
+game: ニンテンドウパワー SFメモリ
+sort_title: にんてんどうぱわーえすえふめもり
+files:
+  Nintendo Power Menu Program (Japan) (NP).zip
+  Nintendo Power Menu Program (Japan) (Rev 1) (NP).zip
 
 # game: Nintendo Scope 6 (Europe)
 # file: Nintendo Scope 6 (Europe).zip
@@ -7186,20 +7188,25 @@ file: Panic in Nakayoshi World (Japan).zip
 # game: Paperboy 2 (USA)
 # file: Paperboy 2 (USA).zip
 
-# game: Parame ROM Cassette Vol. 1 (Japan) (Unl)
-# file: Parame ROM Cassette Vol. 1 (Japan) (Unl).zip
+game: ぱらめROMカセット1号 (非公認)
+sort_title: ぱらめろむかせっと1
+file: Parame ROM Cassette Vol. 1 (Japan) (Unl).zip
 
-# game: Parame ROM Cassette Vol. 2 (Japan) (Unl)
-# file: Parame ROM Cassette Vol. 2 (Japan) (Unl).zip
+game: ぱらめROMカセット2号 (非公認)
+sort_title: ぱらめろむかせっと2
+file: Parame ROM Cassette Vol. 2 (Japan) (Unl).zip
 
-# game: Parame ROM Cassette Vol. 3 (Japan) (Unl)
-# file: Parame ROM Cassette Vol. 3 (Japan) (Unl).zip
+game: ぱらめROMカセット3号 (非公認)
+sort_title: ぱらめろむかせっと3
+file: Parame ROM Cassette Vol. 3 (Japan) (Unl).zip
 
-# game: Parame ROM Cassette Vol. 4 (Japan) (Unl)
-# file: Parame ROM Cassette Vol. 4 (Japan) (Unl).zip
+game: ぱらめROMカセット4号 (非公認)
+sort_title: ぱらめろむかせっと4
+file: Parame ROM Cassette Vol. 4 (Japan) (Unl).zip
 
-# game: Parame ROM Cassette Vol. 5 (Japan) (Unl)
-# file: Parame ROM Cassette Vol. 5 (Japan) (Unl).zip
+game: ぱらめROMカセット5号 (非公認)
+sort_title: ぱらめろむかせっと6
+file: Parame ROM Cassette Vol. 5 (Japan) (Unl).zip
 
 game: Parlor! Mini
 sort_title: ぱーらーみに1
@@ -9600,8 +9607,9 @@ file: Strike Gunner S.T.G (Japan) (En).zip
 # game: Stunt Race FX (USA) (Rev 1)
 # file: Stunt Race FX (USA) (Rev 1).zip
 
-# game: Sufami Turbo (Japan)
-# file: Sufami Turbo (Japan).zip
+game: スーファミターボ
+sort_title: すーふぁみたーぼ
+file: Sufami Turbo (Japan).zip
 
 game: すごいへべれけ
 sort_title: すごいへべれけ
@@ -10074,8 +10082,9 @@ description:
 # game: Super Famicom Aging Program Ver. 1.00 (Japan) (En)
 # file: Super Famicom Aging Program Ver. 1.00 (Japan) (En).zip
 
-# game: Super Famicom Box 4S Attraction (Japan)
-# file: Super Famicom Box 4S Attraction (Japan).zip
+game: スーパーファミコンボックス
+sort_title: すーぱーふぁみこんぼっくす
+file: Super Famicom Box 4S Attraction (Japan).zip
 
 game: スーパーファミコンウォーズ
 sort_title: すーぱーふぁみこんうぉーず

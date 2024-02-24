@@ -12892,7 +12892,7 @@ files:
 # game: Wizard of Oz, The (USA)
 # file: Wizard of Oz, The (USA).zip
 
-game: ウィザードリー外伝IV 胎魔の鼓動
+game: ウィザードリィ外伝IV 胎魔の鼓動
 sort_title: うぃざーどりぃがいでん4
 files:
   Wizardry Gaiden IV - Taima no Kodou (Japan).zip

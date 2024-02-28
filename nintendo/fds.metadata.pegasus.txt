@@ -20,10 +20,9 @@ game: [BIOS] Twin Famicom (Japan) (En)
 file: [BIOS] Twin Famicom (Japan) (En).zip
 
 game: Adian no Tsue (Japan)
-file: Adian no Tsue (Japan).zip
-
-game: Adian no Tsue (Japan) (Beta) (1986-10-29)
-file: Adian no Tsue (Japan) (Beta) (1986-10-29).zip
+files:
+  Adian no Tsue (Japan).zip
+  Adian no Tsue (Japan) (Beta) (1986-10-29).zip
 
 game: Ai Senshi Nicol (Japan)
 file: Ai Senshi Nicol (Japan).zip
@@ -35,22 +34,16 @@ game: Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)
 file: Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl).zip
 
 game: Akumajou Dracula (Japan)
-file: Akumajou Dracula (Japan).zip
-
-game: Akumajou Dracula (Japan) (Rev 1)
-file: Akumajou Dracula (Japan) (Rev 1).zip
-
-game: Akumajou Dracula (Japan) (Rev 2) (Disk Writer)
-file: Akumajou Dracula (Japan) (Rev 2) (Disk Writer).zip
-
-game: Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console)
-file: Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console).zip
-
-game: Akuu Senki Raijin (Japan) (Beta) (1987-06-10)
-file: Akuu Senki Raijin (Japan) (Beta) (1987-06-10).zip
+files:
+  Akumajou Dracula (Japan).zip
+  Akumajou Dracula (Japan) (Rev 1).zip
+  Akumajou Dracula (Japan) (Rev 2) (Disk Writer).zip
+  Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console).zip
 
 game: Akuu Senki Raijin (Japan) (Disk Writer)
-file: Akuu Senki Raijin (Japan) (Disk Writer).zip
+files:
+  Akuu Senki Raijin (Japan) (Disk Writer).zip
+  Akuu Senki Raijin (Japan) (Beta) (1987-06-10).zip
 
 game: Aliens - Alien 2 (Japan) (Proto) (1986-12-15)
 file: Aliens - Alien 2 (Japan) (Proto) (1986-12-15).zip
@@ -92,19 +85,15 @@ game: Big Challenge! Juudou Senshuken (Japan)
 file: Big Challenge! Juudou Senshuken (Japan).zip
 
 game: Bio Miracle Bokutte Upa (Japan)
-file: Bio Miracle Bokutte Upa (Japan).zip
-
-game: Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console)
-file: Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console).zip
-
-game: Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console)
-file: Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console).zip
+files:
+  Bio Miracle Bokutte Upa (Japan).zip
+  Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console).zip
+  Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console).zip
 
 game: Bishoujo Alien Battle (Japan) (Unl)
-file: Bishoujo Alien Battle (Japan) (Unl).zip
-
-game: Bishoujo Alien Battle (Japan) (Unl) (Alt) [b]
-file: Bishoujo Alien Battle (Japan) (Unl) (Alt) [b].zip
+files:
+  Bishoujo Alien Battle (Japan) (Unl).zip
+  Bishoujo Alien Battle (Japan) (Unl) (Alt) [b].zip
 
 game: Bishoujo Control (Japan) (Unl)
 file: Bishoujo Control (Japan) (Unl).zip
@@ -137,10 +126,9 @@ game: Bishoujo Shashinkan - Studio Cut (Japan) (Unl)
 file: Bishoujo Shashinkan - Studio Cut (Japan) (Unl).zip
 
 game: Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl)
-file: Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl).zip
-
-game: Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl)
-file: Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl).zip
+files:
+  Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl).zip
+  Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl).zip
 
 game: Bomberman (Japan) (Disk Writer)
 file: Bomberman (Japan) (Disk Writer).zip
@@ -149,13 +137,10 @@ game: Breeder (Japan)
 file: Breeder (Japan).zip
 
 game: Bubble Bobble (Japan)
-file: Bubble Bobble (Japan).zip
-
-game: Bubble Bobble (Japan) (3DS Virtual Console)
-file: Bubble Bobble (Japan) (3DS Virtual Console).zip
-
-game: Bubble Bobble (Japan) (Wii and Wii U Virtual Console)
-file: Bubble Bobble (Japan) (Wii and Wii U Virtual Console).zip
+files:
+  Bubble Bobble (Japan).zip
+  Bubble Bobble (Japan) (3DS Virtual Console).zip
+  Bubble Bobble (Japan) (Wii and Wii U Virtual Console).zip
 
 game: BurgerTime (Japan) (Disk Writer)
 file: BurgerTime (Japan) (Disk Writer).zip
@@ -170,10 +155,9 @@ game: Cleopatra no Mahou (Japan)
 file: Cleopatra no Mahou (Japan).zip
 
 game: Clu Clu Land (Japan) (En) (Disk Writer)
-file: Clu Clu Land (Japan) (En) (Disk Writer).zip
-
-game: Clu Clu Land (Japan) (En) (GameCube, Virtual Console)
-file: Clu Clu Land (Japan) (En) (GameCube, Virtual Console).zip
+files:
+  Clu Clu Land (Japan) (En) (Disk Writer).zip
+  Clu Clu Land (Japan) (En) (GameCube, Virtual Console).zip
 
 game: Cocona World (Japan)
 file: Cocona World (Japan).zip
@@ -200,10 +184,9 @@ game: Date de Blackjack (Japan) (Unl)
 file: Date de Blackjack (Japan) (Unl).zip
 
 game: Dead Zone (Japan)
-file: Dead Zone (Japan).zip
-
-game: Dead Zone (Japan) (Beta) (1986-10-06)
-file: Dead Zone (Japan) (Beta) (1986-10-06).zip
+files:
+  Dead Zone (Japan).zip
+  Dead Zone (Japan) (Beta) (1986-10-06).zip
 
 game: Dig Dug (Japan) (Disk Writer)
 file: Dig Dug (Japan) (Disk Writer).zip
@@ -212,10 +195,9 @@ game: Dig Dug II (Japan) (Disk Writer)
 file: Dig Dug II (Japan) (Disk Writer).zip
 
 game: Dirty Pair - Project Eden (Japan)
-file: Dirty Pair - Project Eden (Japan).zip
-
-game: Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer)
-file: Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer).zip
+files:
+  Dirty Pair - Project Eden (Japan).zip
+  Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer).zip
 
 game: Disk Hacker - Version 1.0 (Japan) (Unl)
 file: Disk Hacker - Version 1.0 (Japan) (Unl).zip
@@ -248,28 +230,24 @@ game: Dr. Chaos - Jigoku no Tobira (Japan)
 file: Dr. Chaos - Jigoku no Tobira (Japan).zip
 
 game: Dracula II - Noroi no Fuuin (Japan)
-file: Dracula II - Noroi no Fuuin (Japan).zip
-
-game: Dracula II - Noroi no Fuuin (Japan) (Virtual Console)
-file: Dracula II - Noroi no Fuuin (Japan) (Virtual Console).zip
+files:
+  Dracula II - Noroi no Fuuin (Japan).zip
+  Dracula II - Noroi no Fuuin (Japan) (Virtual Console).zip
 
 game: Druid - Kyoufu no Tobira (Japan)
-file: Druid - Kyoufu no Tobira (Japan).zip
-
-game: Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24)
-file: Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24).zip
-
-game: Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11)
-file: Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11).zip
+files:
+  Druid - Kyoufu no Tobira (Japan).zip
+  Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24).zip
 
 game: Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer)
-file: Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer).zip
+files:
+  Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer).zip
+  Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11).zip
 
 game: Egger Land (Japan)
-file: Egger Land (Japan).zip
-
-game: Egger Land (Japan) (Rev 1) (Possible Proto)
-file: Egger Land (Japan) (Rev 1) (Possible Proto).zip
+files:
+  Egger Land (Japan).zip
+  Egger Land (Japan) (Rev 1) (Possible Proto).zip
 
 game: Electrician (Japan)
 file: Electrician (Japan).zip
@@ -278,16 +256,11 @@ game: Emi-chan no Moero Yakyuuken! (Japan) (Unl)
 file: Emi-chan no Moero Yakyuuken! (Japan) (Unl).zip
 
 game: Esper Dream (Japan)
-file: Esper Dream (Japan).zip
-
-game: Esper Dream (Japan) (Rev 1) (3DS Virtual Console)
-file: Esper Dream (Japan) (Rev 1) (3DS Virtual Console).zip
-
-game: Esper Dream (Japan) (Rev 1) (Disk Writer)
-file: Esper Dream (Japan) (Rev 1) (Disk Writer).zip
-
-game: Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console)
-file: Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console).zip
+files:
+  Esper Dream (Japan).zip
+  Esper Dream (Japan) (Rev 1) (3DS Virtual Console).zip
+  Esper Dream (Japan) (Rev 1) (Disk Writer).zip
+  Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console).zip
 
 game: Exciting Baseball (Japan)
 file: Exciting Baseball (Japan).zip
@@ -302,10 +275,9 @@ game: Exciting Soccer - Konami Cup (Japan)
 file: Exciting Soccer - Konami Cup (Japan).zip
 
 game: Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)
-file: Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl).zip
-
-game: Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt) [b]
-file: Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt) [b].zip
+files:
+  Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl).zip
+  Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt) [b].zip
 
 game: Fairytale (Japan)
 file: Fairytale (Japan).zip
@@ -314,37 +286,27 @@ game: Falsion (Japan)
 file: Falsion (Japan).zip
 
 game: Famicom Grand Prix - F1 Race (Japan)
-file: Famicom Grand Prix - F1 Race (Japan).zip
-
-game: Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer)
-file: Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer).zip
+files:
+  Famicom Grand Prix - F1 Race (Japan).zip
+  Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer).zip
 
 game: Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System)
-file: Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System).zip
-
-game: Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System)
-file: Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System).zip
-
-game: Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System)
-file: Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System).zip
+files:
+  Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System).zip
+  Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System).zip
+  Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System).zip
 
 game: Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)
-file: Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan).zip
-
-game: Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console)
-file: Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console).zip
+files:
+  Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan).zip
+  Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console).zip
 
 game: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1)
-file: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1).zip
-
-game: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer)
-file: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer).zip
-
-game: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console)
-file: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console).zip
-
-game: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console)
-file: Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).zip
+files:
+  Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1).zip
+  Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer).zip
+  Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console).zip
+  Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).zip
 
 game: Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)
 file: Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan).zip
@@ -353,43 +315,32 @@ game: Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan)
 file: Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan).zip
 
 game: Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan)
-file: Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan).zip
-
-game: Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console)
-file: Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console).zip
+files:
+  Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan).zip
+  Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console).zip
 
 game: Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3)
-file: Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3).zip
-
-game: Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console)
-file: Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console).zip
-
-game: Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console)
-file: Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).zip
+files:
+  Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3).zip
+  Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console).zip
+  Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).zip
 
 game: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4)
-file: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4).zip
-
-game: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console)
-file: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console).zip
+files:
+  Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4).zip
+  Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console).zip
 
 game: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan)
-file: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan).zip
-
-game: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console)
-file: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console).zip
-
-game: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Beta)
-file: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Beta).zip
-
-game: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console)
-file: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console).zip
+files:
+  Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan).zip
+  Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console).zip
+  Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Beta).zip
+  Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console).zip
 
 game: Family Composer (Japan) (Disk Writer)
-file: Family Composer (Japan) (Disk Writer).zip
-
-game: Family Composer (Japan) (Rev 1) (Possible Proto)
-file: Family Composer (Japan) (Rev 1) (Possible Proto).zip
+files:
+  Family Composer (Japan) (Disk Writer).zip
+  Family Composer (Japan) (Rev 1) (Possible Proto).zip
 
 game: Famimaga Disk Vol. 1 - Hong Kong (Japan)
 file: Famimaga Disk Vol. 1 - Hong Kong (Japan).zip
@@ -467,43 +418,33 @@ game: German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan)
 file: German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan).zip
 
 game: Ginga Denshou - Galaxy Odyssey (Japan)
-file: Ginga Denshou - Galaxy Odyssey (Japan).zip
-
-game: Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto)
-file: Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto).zip
+files:
+  Ginga Denshou - Galaxy Odyssey (Japan).zip
+  Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto).zip
 
 game: Gokuraku Yuugi - Game Tengoku (Japan)
 file: Gokuraku Yuugi - Game Tengoku (Japan).zip
 
 game: Golf - Japan Course (Japan)
-file: Golf - Japan Course (Japan).zip
-
-game: Golf - Japan Course (Japan) (DV 2)
-file: Golf - Japan Course (Japan) (DV 2).zip
-
-game: Golf - Japan Course (Japan) (Prize Card)
-file: Golf - Japan Course (Japan) (Prize Card).zip
+files:
+  Golf - Japan Course (Japan).zip
+  Golf - Japan Course (Japan) (DV 2).zip
+  Golf - Japan Course (Japan) (Prize Card).zip
 
 game: Golf - Special Course (Japan) (Prize Card)
 file: Golf - Special Course (Japan) (Prize Card).zip
 
 game: Golf - US Course (Japan)
-file: Golf - US Course (Japan).zip
-
-game: Golf - US Course (Japan) (DV 1)
-file: Golf - US Course (Japan) (DV 1).zip
-
-game: Golf - US Course (Japan) (DV 2) (Disk Writer)
-file: Golf - US Course (Japan) (DV 2) (Disk Writer).zip
+files:
+  Golf - US Course (Japan).zip
+  Golf - US Course (Japan) (DV 1).zip
+  Golf - US Course (Japan) (DV 2) (Disk Writer).zip
 
 game: Golf (Japan)
-file: Golf (Japan).zip
-
-game: Golf (Japan) (Rev 1)
-file: Golf (Japan) (Rev 1).zip
-
-game: Golf (Japan) (Rev 2) (Possible Proto)
-file: Golf (Japan) (Rev 2) (Possible Proto).zip
+files:
+  Golf (Japan).zip
+  Golf (Japan) (Rev 1).zip
+  Golf (Japan) (Rev 2) (Possible Proto).zip
 
 game: Golf, The - Bishoujo Classic (Japan) (Unl)
 file: Golf, The - Bishoujo Classic (Japan) (Unl).zip
@@ -524,10 +465,9 @@ game: Gun.Smoke (Japan)
 file: Gun.Smoke (Japan).zip
 
 game: Gyruss (Japan)
-file: Gyruss (Japan).zip
-
-game: Gyruss (Japan) (Beta) (1988-10-03)
-file: Gyruss (Japan) (Beta) (1988-10-03).zip
+files:
+  Gyruss (Japan).zip
+  Gyruss (Japan) (Beta) (1988-10-03).zip
 
 game: Halley Wars (Japan)
 file: Halley Wars (Japan).zip
@@ -539,13 +479,10 @@ game: Hayama Reiko no Date de Blackjack (Japan) (Unl)
 file: Hayama Reiko no Date de Blackjack (Japan) (Unl).zip
 
 game: Hikari Shinwa - Palthena no Kagami (Japan)
-file: Hikari Shinwa - Palthena no Kagami (Japan).zip
-
-game: Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1)
-file: Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1).zip
-
-game: Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console)
-file: Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console).zip
+files:
+  Hikari Shinwa - Palthena no Kagami (Japan).zip
+  Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1).zip
+  Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console).zip
 
 game: Hikaru Genji - Roller Panic (Japan)
 file: Hikaru Genji - Roller Panic (Japan).zip
@@ -563,19 +500,12 @@ game: Ice Hockey (Japan)
 file: Ice Hockey (Japan).zip
 
 game: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10)
-file: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10).zip
-
-game: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer)
-file: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer).zip
-
-game: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer)
-file: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer).zip
-
-game: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4)
-file: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4).zip
-
-game: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6)
-file: Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6).zip
+files:
+  Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10).zip
+  Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer).zip
+  Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer).zip
+  Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4).zip
+  Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6).zip
 
 game: Igo - Kyuu Roban Taikyoku (Japan)
 file: Igo - Kyuu Roban Taikyoku (Japan).zip
@@ -614,31 +544,27 @@ game: Kieta Princess (Japan)
 file: Kieta Princess (Japan).zip
 
 game: Kiki Kaikai - Dotou Hen (Japan)
-file: Kiki Kaikai - Dotou Hen (Japan).zip
-
-game: Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer)
-file: Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer).zip
+files:
+  Kiki Kaikai - Dotou Hen (Japan).zip
+  Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer).zip
 
 game: Kind Gal's (Japan) (Disk 1) (Unl)
-file: Kind Gal's (Japan) (Disk 1) (Unl).zip
-
-game: Kind Gal's (Japan) (Disk 2) (Unl)
-file: Kind Gal's (Japan) (Disk 2) (Unl).zip
+files:
+  Kind Gal's (Japan) (Disk 1) (Unl).zip
+  Kind Gal's (Japan) (Disk 2) (Unl).zip
 
 game: Kinnikuman - Kinnikusei Oui Soudatsusen (Japan)
-file: Kinnikuman - Kinnikusei Oui Soudatsusen (Japan).zip
-
-game: Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)
-file: Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer).zip
+files:
+  Kinnikuman - Kinnikusei Oui Soudatsusen (Japan).zip
+  Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer).zip
 
 game: Knight Lore - Majou no Ookami Otoko (Japan)
 file: Knight Lore - Majou no Ookami Otoko (Japan).zip
 
 game: Knight Move (Japan)
-file: Knight Move (Japan).zip
-
-game: Knight Move (Japan) (Rev 1) (Disk Writer)
-file: Knight Move (Japan) (Rev 1) (Disk Writer).zip
+files:
+  Knight Move (Japan).zip
+  Knight Move (Japan) (Rev 1) (Disk Writer).zip
 
 game: Kobayashi Hitomi no Hold Up (Japan) (Unl)
 file: Kobayashi Hitomi no Hold Up (Japan) (Unl).zip
@@ -650,31 +576,24 @@ game: Konamic Ice Hockey (Japan)
 file: Konamic Ice Hockey (Japan).zip
 
 game: Konamic Tennis (Japan)
-file: Konamic Tennis (Japan).zip
-
-game: Konamic Tennis (Japan) (Beta) (1986-10-22)
-file: Konamic Tennis (Japan) (Beta) (1986-10-22).zip
+files:
+  Konamic Tennis (Japan).zip
+  Konamic Tennis (Japan) (Beta) (1986-10-22).zip
 
 game: Koneko Monogatari - The Adventures of Chatran (Japan)
-file: Koneko Monogatari - The Adventures of Chatran (Japan).zip
-
-game: Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03)
-file: Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03).zip
+files:
+  Koneko Monogatari - The Adventures of Chatran (Japan).zip
+  Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03).zip
 
 game: Kosodate Gokko (Japan) (Unl)
 file: Kosodate Gokko (Japan) (Unl).zip
 
 game: Link no Bouken - The Legend of Zelda 2 (Japan)
-file: Link no Bouken - The Legend of Zelda 2 (Japan).zip
-
-game: Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)
-file: Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1).zip
-
-game: Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition)
-file: Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition).zip
-
-game: Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console)
-file: Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console).zip
+files:
+  Link no Bouken - The Legend of Zelda 2 (Japan).zip
+  Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1).zip
+  Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition).zip
+  Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console).zip
 
 game: Lipstick #1 - Lolita Hen (Japan) (Unl)
 file: Lipstick #1 - Lolita Hen (Japan) (Unl).zip
@@ -695,10 +614,9 @@ game: Lutter (Japan) (Disk Writer)
 file: Lutter (Japan) (Disk Writer).zip
 
 game: Madou Senki - Deep Dungeon (Japan)
-file: Madou Senki - Deep Dungeon (Japan).zip
-
-game: Madou Senki - Deep Dungeon (Japan) (Rev 1)
-file: Madou Senki - Deep Dungeon (Japan) (Rev 1).zip
+files:
+  Madou Senki - Deep Dungeon (Japan).zip
+  Madou Senki - Deep Dungeon (Japan) (Rev 1).zip
 
 game: Maerchen Veil (Japan)
 file: Maerchen Veil (Japan).zip
@@ -722,40 +640,30 @@ game: Meikyuu Jiin Dababa (Japan)
 file: Meikyuu Jiin Dababa (Japan).zip
 
 game: Metroid (Japan) (Rev 1)
-file: Metroid (Japan) (Rev 1).zip
-
-game: Metroid (Japan) (Rev 2)
-file: Metroid (Japan) (Rev 2).zip
-
-game: Metroid (Japan) (Rev 3)
-file: Metroid (Japan) (Rev 3).zip
-
-game: Metroid (Japan) (Rev 3) (3DS Virtual Console)
-file: Metroid (Japan) (Rev 3) (3DS Virtual Console).zip
-
-game: Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console)
-file: Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console).zip
+files:
+  Metroid (Japan) (Rev 1).zip
+  Metroid (Japan) (Rev 2).zip
+  Metroid (Japan) (Rev 3).zip
+  Metroid (Japan) (Rev 3) (3DS Virtual Console).zip
+  Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console).zip
 
 game: Michael English Daibouken (Japan)
-file: Michael English Daibouken (Japan).zip
-
-game: Michael English Daibouken (Japan) (Sample) (1987-03-25)
-file: Michael English Daibouken (Japan) (Sample) (1987-03-25).zip
+files:
+  Michael English Daibouken (Japan).zip
+  Michael English Daibouken (Japan) (Sample) (1987-03-25).zip
 
 game: Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)
-file: Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).zip
-
-game: Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1)
-file: Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1).zip
+files:
+  Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).zip
+  Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1).zip
 
 game: Money Game, The (Japan) (Proto)
 file: Money Game, The (Japan) (Proto).zip
 
 game: Monitor Puzzle Kineko, The - Kinetic Connection (Japan)
-file: Monitor Puzzle Kineko, The - Kinetic Connection (Japan).zip
-
-game: Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto)
-file: Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto).zip
+files:
+  Monitor Puzzle Kineko, The - Kinetic Connection (Japan).zip
+  Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto).zip
 
 game: Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)
 file: Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer).zip
@@ -776,16 +684,11 @@ game: Nazo no Kabe - Block Kuzushi (Japan)
 file: Nazo no Kabe - Block Kuzushi (Japan).zip
 
 game: Nazo no Murasamejou (Japan)
-file: Nazo no Murasamejou (Japan).zip
-
-game: Nazo no Murasamejou (Japan) (GameCube)
-file: Nazo no Murasamejou (Japan) (GameCube).zip
-
-game: Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console)
-file: Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console).zip
-
-game: Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)
-file: Nazo no Murasamejou (World) (Ja) (3DS Virtual Console).zip
+files:
+  Nazo no Murasamejou (Japan).zip
+  Nazo no Murasamejou (Japan) (GameCube).zip
+  Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console).zip
+  Nazo no Murasamejou (World) (Ja) (3DS Virtual Console).zip
 
 game: Nazoler Land - Dainigou (Japan)
 file: Nazoler Land - Dainigou (Japan).zip
@@ -803,28 +706,23 @@ game: Neunzehn - 19 (Japan)
 file: Neunzehn - 19 (Japan).zip
 
 game: Nomura no Famicom Trade (Japan) (Proto) (FTAJ)
-file: Nomura no Famicom Trade (Japan) (Proto) (FTAJ).zip
-
-game: Nomura no Famicom Trade (Japan) (Proto) (FTBJ)
-file: Nomura no Famicom Trade (Japan) (Proto) (FTBJ).zip
-
-game: Nomura no Famicom Trade (Japan) (Proto) (FTEJ)
-file: Nomura no Famicom Trade (Japan) (Proto) (FTEJ).zip
+files:
+  Nomura no Famicom Trade (Japan) (Proto) (FTAJ).zip
+  Nomura no Famicom Trade (Japan) (Proto) (FTBJ).zip
+  Nomura no Famicom Trade (Japan) (Proto) (FTEJ).zip
 
 game: Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan)
 file: Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan).zip
 
 game: Othello (Japan) (DV 2)
-file: Othello (Japan) (DV 2).zip
-
-game: Othello (Japan) (DV 3, 5) (Disk Writer)
-file: Othello (Japan) (DV 3, 5) (Disk Writer).zip
+files:
+  Othello (Japan) (DV 2).zip
+  Othello (Japan) (DV 3, 5) (Disk Writer).zip
 
 game: Otocky (Japan)
-file: Otocky (Japan).zip
-
-game: Otocky (Japan) (Beta) (1986-04-15)
-file: Otocky (Japan) (Beta) (1986-04-15).zip
+files:
+  Otocky (Japan).zip
+  Otocky (Japan) (Beta) (1986-04-15).zip
 
 game: Pac-Man (Japan) (Disk Writer)
 file: Pac-Man (Japan) (Disk Writer).zip
@@ -911,19 +809,12 @@ game: SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan)
 file: SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer).zip
 
 game: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan)
-file: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan).zip
-
-game: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer)
-file: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer).zip
-
-game: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1)
-file: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1).zip
-
-game: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console)
-file: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console).zip
-
-game: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console)
-file: SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console).zip
+files:
+  SD Gundam World - Gachapon Senshi - Scramble Wars (Japan).zip
+  SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer).zip
+  SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1).zip
+  SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console).zip
+  SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console).zip
 
 game: Section-Z (Japan)
 file: Section-Z (Japan).zip
@@ -941,10 +832,9 @@ game: Shanghai (Japan) (Proto) (1986-10-16)
 file: Shanghai (Japan) (Proto) (1986-10-16).zip
 
 game: Shanghai II (Japan) (Proto) (Dragon Layout)
-file: Shanghai II (Japan) (Proto) (Dragon Layout).zip
-
-game: Shanghai II (Japan) (Proto) (Scorpion Layout)
-file: Shanghai II (Japan) (Proto) (Scorpion Layout).zip
+files:
+  Shanghai II (Japan) (Proto) (Dragon Layout).zip
+  Shanghai II (Japan) (Proto) (Scorpion Layout).zip
 
 game: Silviana - Ai Ippai no Little Angel (Japan)
 file: Silviana - Ai Ippai no Little Angel (Japan).zip
@@ -1028,16 +918,11 @@ game: Super Mario Bros. (Japan)
 file: Super Mario Bros. (Japan).zip
 
 game: Super Mario Bros. 2 (Japan) (En)
-file: Super Mario Bros. 2 (Japan) (En).zip
-
-game: Super Mario Bros. 2 (Japan) (En) (DV 2)
-file: Super Mario Bros. 2 (Japan) (En) (DV 2).zip
-
-game: Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.)
-file: Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.).zip
-
-game: Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)
-file: Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).zip
+files:
+  Super Mario Bros. 2 (Japan) (En).zip
+  Super Mario Bros. 2 (Japan) (En) (DV 2).zip
+  Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.).zip
+  Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).zip
 
 game: Tama & Friends - Sanchoume Daibouken (Japan)
 file: Tama & Friends - Sanchoume Daibouken (Japan).zip
@@ -1046,31 +931,25 @@ game: Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshou
 file: Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer).zip
 
 game: Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan)
-file: Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan).zip
-
-game: Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13)
-file: Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13).zip
+files:
+  Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan).zip
+  Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13).zip
 
 game: Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan)
-file: Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan).zip
-
-game: Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console)
-file: Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console).zip
+files:
+  Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan).zip
+  Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console).zip
 
 game: Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan)
-file: Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan).zip
-
-game: Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console)
-file: Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console).zip
+files:
+  Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan).zip
+  Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console).zip
 
 game: Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan)
-file: Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan).zip
-
-game: Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer)
-file: Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer).zip
-
-game: Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console)
-file: Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console).zip
+files:
+  Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan).zip
+  Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer).zip
+  Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console).zip
 
 game: Tarot Uranai (Japan)
 file: Tarot Uranai (Japan).zip
@@ -1079,10 +958,9 @@ game: Tennis (Japan)
 file: Tennis (Japan).zip
 
 game: Tenshitachi no Houkago (Japan) (Disk 1) (Unl)
-file: Tenshitachi no Houkago (Japan) (Disk 1) (Unl).zip
-
-game: Tenshitachi no Houkago (Japan) (Disk 2) (Unl)
-file: Tenshitachi no Houkago (Japan) (Disk 2) (Unl).zip
+files:
+  Tenshitachi no Houkago (Japan) (Disk 1) (Unl).zip
+  Tenshitachi no Houkago (Japan) (Disk 2) (Unl).zip
 
 game: Time Twist - Rekishi no Katasumi de... - Kouhen (Japan)
 file: Time Twist - Rekishi no Katasumi de... - Kouhen (Japan).zip
@@ -1103,10 +981,9 @@ game: Tooyama no Kinsan Space Chou - Mr. Gold (Japan)
 file: Tooyama no Kinsan Space Chou - Mr. Gold (Japan).zip
 
 game: Topple Zip (Japan)
-file: Topple Zip (Japan).zip
-
-game: Topple Zip (Japan) (Project EGG)
-file: Topple Zip (Japan) (Project EGG).zip
+files:
+  Topple Zip (Japan).zip
+  Topple Zip (Japan) (Project EGG).zip
 
 game: Transformers - The Headmasters (Japan)
 file: Transformers - The Headmasters (Japan).zip
@@ -1115,28 +992,25 @@ game: TwinBee (Japan) (Disk Writer)
 file: TwinBee (Japan) (Disk Writer).zip
 
 game: Ultraman - Kaijuu Teikoku no Gyakushuu (Japan)
-file: Ultraman - Kaijuu Teikoku no Gyakushuu (Japan).zip
-
-game: Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer)
-file: Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer).zip
+files:
+  Ultraman - Kaijuu Teikoku no Gyakushuu (Japan).zip
+  Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer).zip
 
 game: Ultraman 2 - Shutsugeki Katokutai (Japan)
 file: Ultraman 2 - Shutsugeki Katokutai (Japan).zip
 
 game: Ultraman Club - Chikyuu Dakkan Sakusen (Japan)
-file: Ultraman Club - Chikyuu Dakkan Sakusen (Japan).zip
-
-game: Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)
-file: Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).zip
+files:
+  Ultraman Club - Chikyuu Dakkan Sakusen (Japan).zip
+  Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).zip
 
 game: Volleyball (Japan)
 file: Volleyball (Japan).zip
 
-game: Vs. Excitebike (Japan, USA) (En) (Virtual Console)
-file: Vs. Excitebike (Japan, USA) (En) (Virtual Console).zip
-
 game: Vs. Excitebike (Japan) (En)
-file: Vs. Excitebike (Japan) (En).zip
+files:
+  Vs. Excitebike (Japan) (En).zip
+  Vs. Excitebike (Japan, USA) (En) (Virtual Console).zip
 
 game: Wakusei Aton Gaiden (Japan) (National Tax Agency Demo)
 file: Wakusei Aton Gaiden (Japan) (National Tax Agency Demo).zip
@@ -1160,19 +1034,17 @@ game: Youkai Yashiki (Japan)
 file: Youkai Yashiki (Japan).zip
 
 game: Yume Koujou - Doki Doki Panic (Japan) (DV 1)
-file: Yume Koujou - Doki Doki Panic (Japan) (DV 1).zip
-
-game: Yume Koujou - Doki Doki Panic (Japan) (DV 2)
-file: Yume Koujou - Doki Doki Panic (Japan) (DV 2).zip
+files:
+  Yume Koujou - Doki Doki Panic (Japan) (DV 1).zip
+  Yume Koujou - Doki Doki Panic (Japan) (DV 2).zip
 
 game: Yuu Maze (Japan)
 file: Yuu Maze (Japan).zip
 
 game: Yuushi no Monshou - Deep Dungeon (Japan)
-file: Yuushi no Monshou - Deep Dungeon (Japan).zip
-
-game: Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer)
-file: Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer).zip
+files:
+  Yuushi no Monshou - Deep Dungeon (Japan).zip
+  Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer).zip
 
 game: Zanac (Japan)
 file: Zanac (Japan).zip
@@ -1184,19 +1056,10 @@ game: Zatsugaku Olympic Quiz Part II (Japan) (Unl)
 file: Zatsugaku Olympic Quiz Part II (Japan) (Unl).zip
 
 game: Zelda no Densetsu - The Hyrule Fantasy (Japan)
-file: Zelda no Densetsu - The Hyrule Fantasy (Japan).zip
-
-game: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) (1985-12-28)
-file: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) (1985-12-28).zip
-
-game: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)
-file: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition).zip
-
-game: Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube)
-file: Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube).zip
-
-game: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)
-file: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1).zip
-
-game: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console)
-file: Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console).zip
+files:
+  Zelda no Densetsu - The Hyrule Fantasy (Japan).zip
+  Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) (1985-12-28).zip
+  Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition).zip
+  Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube).zip
+  Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1).zip
+  Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console).zip

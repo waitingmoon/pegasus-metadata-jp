@@ -4,8 +4,8 @@
 # game: [BIOS] Nintendo 64 - PIF (Europe)
 # file: [BIOS] Nintendo 64 - PIF (Europe).zip
 
-game: [BIOS] Nintendo 64 - PIF (Japan, USA)
-file: [BIOS] Nintendo 64 - PIF (Japan, USA).zip
+# game: [BIOS] Nintendo 64 - PIF (Japan, USA)
+# file: [BIOS] Nintendo 64 - PIF (Japan, USA).zip
 
 # game: 007 - The World Is Not Enough (Europe) (En,Fr,De)
 # file: 007 - The World Is Not Enough (Europe) (En,Fr,De).zip
@@ -22,7 +22,8 @@ file: [BIOS] Nintendo 64 - PIF (Japan, USA).zip
 # game: 1080 Snowboarding (Europe) (En,Ja,Fr,De)
 # file: 1080 Snowboarding (Europe) (En,Ja,Fr,De).zip
 
-game: 1080 Snowboarding (Japan, USA) (En,Ja)
+game: 1080° スノーボーディング
+sort_title: てんえいてぃすのーぼーでぃんぐ
 file: 1080 Snowboarding (Japan, USA) (En,Ja).zip
 
 # game: 1080 Snowboarding (USA) (En,Ja) (LodgeNet)
@@ -37,19 +38,24 @@ file: 1080 Snowboarding (Japan, USA) (En,Ja).zip
 # game: 40 Winks (USA) (Proto) (2000-01-10)
 # file: 40 Winks (USA) (Proto) (2000-01-10).zip
 
-game: 64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)
+game: 64で発見!!たまごっち みんなでたまごっちワールド
+sort_title: ろくよんではっけんたまごっちみんなでたまごっちわーるど
 file: 64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).zip
 
-game: 64 Hanafuda - Tenshi no Yakusoku (Japan)
+game: 64花札 天使の約束
+sort_title: ろくよんはなふだてんしのやくそく
 file: 64 Hanafuda - Tenshi no Yakusoku (Japan).zip
 
-game: 64 Oozumou (Japan)
+game: 64大相撲
+sort_title: ろくよんおおずもう1
 file: 64 Oozumou (Japan).zip
 
-game: 64 Oozumou 2 (Japan)
+game: 64大相撲2
+sort_title: ろくよんおおずもう2
 file: 64 Oozumou 2 (Japan).zip
 
-game: 64 Trump Collection - Alice no Wakuwaku Trump World (Japan)
+game: 64トランプコレクション アリスのわくわくトランプワールド
+sort_title: ろくよんとらんぷこれくしょんありすのわくわくとらんぷわーるど
 file: 64 Trump Collection - Alice no Wakuwaku Trump World (Japan).zip
 
 # game: Action Replay Pro 64 (Europe) (v3.0) (Unl)
@@ -67,7 +73,8 @@ file: 64 Trump Collection - Alice no Wakuwaku Trump World (Japan).zip
 # game: AeroGauge (Europe) (En,Fr,De)
 # file: AeroGauge (Europe) (En,Fr,De).zip
 
-game: AeroGauge (Japan) (Rev 1)
+game: エアロゲイジ
+sort_title: えあろげいじ
 files:
   AeroGauge (Japan) (Rev 1).zip
   AeroGauge (Japan) (Demo) (Kiosk).zip
@@ -75,7 +82,8 @@ files:
 # game: AeroGauge (USA)
 # file: AeroGauge (USA).zip
 
-game: AI Shougi 3 (Japan)
+game: AI将棋3
+sort_title: えーあいしょうぎ3
 file: AI Shougi 3 (Japan).zip
 
 # game: Aidyn Chronicles - The First Mage (Europe)
@@ -102,16 +110,19 @@ file: AI Shougi 3 (Japan).zip
 # game: Aidyn Chronicles - The First Mage (USA) (Rev 1)
 # file: Aidyn Chronicles - The First Mage (USA) (Rev 1).zip
 
-game: Air Boarder 64 (Japan)
+game: エアーボーダー64
+sort_title: えあーぼーだー64
 file: Air Boarder 64 (Japan).zip
 
 # game: Airboarder 64 (Europe)
 # file: Airboarder 64 (Europe).zip
 
-game: Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)
+game: 悪魔城ドラキュラ黙示録 Real Action Adventure
+sort_title: あくまじょうどらきゅらもくしろく1
 file: Akumajou Dracula Mokushiroku - Real Action Adventure (Japan).zip
 
-game: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)
+game: 悪魔城ドラキュラ黙示録外伝 Legend of Cornell
+sort_title: あくまじょうどらきゅらもくしろく2
 file: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).zip
 
 # game: All Star Tennis '99 (Europe) (En,Fr,De,Es,It)
@@ -165,22 +176,28 @@ file: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).zip
 # game: Automobili Lamborghini (USA)
 # file: Automobili Lamborghini (USA).zip
 
-game: Baku Bomberman (Japan)
+game: 爆ボンバーマン
+sort_title: ばくぼんばーまん1
 file: Baku Bomberman (Japan).zip
 
-game: Baku Bomberman 2 (Japan)
+game: 爆ボンバーマン2
+sort_title: ばくぼんばーまん2
 file: Baku Bomberman 2 (Japan).zip
 
-game: Bakuretsu Muteki Bangaioh (Japan)
+game: 爆裂無敵バンガイオー
+sort_title: ばくれつむてきばんがいおー
 file: Bakuretsu Muteki Bangaioh (Japan).zip
 
-game: Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)
+game: 爆笑人生64 めざせ!リゾート王
+sort_title: ばくしょうじんせい64
 file: Bakushou Jinsei 64 - Mezase! Resort Ou (Japan).zip
 
-game: Banjo to Kazooie no Daibouken (Japan)
+game: バンジョーとカズーイの大冒険
+sort_title: ばんじょーとかずーいのだいぼうけん1
 file: Banjo to Kazooie no Daibouken (Japan).zip
 
-game: Banjo to Kazooie no Daibouken 2 (Japan)
+game: バンジョーとカズーイの大冒険2
+sort_title: ばんじょーとかずーいのだいぼうけん2
 file: Banjo to Kazooie no Daibouken 2 (Japan).zip
 
 # game: Banjo-Kazooie (Europe) (En,Fr,De)
@@ -201,7 +218,8 @@ file: Banjo to Kazooie no Daibouken 2 (Japan).zip
 # game: Banjo-Tooie (USA)
 # file: Banjo-Tooie (USA).zip
 
-game: Bass Rush - ECOGEAR PowerWorm Championship (Japan)
+game: バスラッシュ ECOGEAR PowerWorm Championship (Japan)
+sort_title: ばすらっしゅ
 file: Bass Rush - ECOGEAR PowerWorm Championship (Japan).zip
 
 # game: Bassmasters 2000 (USA)
@@ -231,7 +249,8 @@ file: Bass Rush - ECOGEAR PowerWorm Championship (Japan).zip
 # game: Beetle Adventure Racing! (Europe) (En,Fr,De)
 # file: Beetle Adventure Racing! (Europe) (En,Fr,De).zip
 
-game: Beetle Adventure Racing! (Japan)
+game: ビートルアドベンチャーレーシング
+sort_title: びーとるあどべんちゃーれーしんぐ
 file: Beetle Adventure Racing! (Japan).zip
 
 # game: Beetle Adventure Racing! (USA) (En,Fr,De)
@@ -246,7 +265,8 @@ file: Beetle Adventure Racing! (Japan).zip
 # game: Bio F.R.E.A.K.S. (USA)
 # file: Bio F.R.E.A.K.S. (USA).zip
 
-game: Biohazard 2 (Japan)
+game: バイオハザード2
+sort_title: ばいおはざーど2
 file: Biohazard 2 (Japan).zip
 
 # game: Blast Corps (Europe) (En,De)
@@ -258,7 +278,8 @@ file: Biohazard 2 (Japan).zip
 # game: Blast Corps (USA) (Rev 1)
 # file: Blast Corps (USA) (Rev 1).zip
 
-game: Blastdozer (Japan)
+game: ブラストドーザー
+sort_title: ぶらすとどーざー
 file: Blastdozer (Japan).zip
 
 # game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)
@@ -279,7 +300,8 @@ file: Blastdozer (Japan).zip
 # game: Body Harvest (USA)
 # file: Body Harvest (USA).zip
 
-game: Bokujou Monogatari 2 (Japan)
+game: 牧場物語2
+sort_title: ぼくじょうものがたり2
 files:
   Bokujou Monogatari 2 (Japan).zip
   Bokujou Monogatari 2 (Japan) (Rev 1).zip
@@ -291,13 +313,15 @@ files:
 # game: Bomberman 64 (Europe)
 # file: Bomberman 64 (Europe).zip
 
-game: Bomberman 64 (Japan)
+game: ボンバーマン64
+sort_title: ぼんばーまん64
 file: Bomberman 64 (Japan).zip
 
 # game: Bomberman 64 (USA)
 # file: Bomberman 64 (USA).zip
 
-game: Bomberman Hero - Mirian Oujo o Sukue! (Japan)
+game: ボンバーマンヒーロー ミリアン王女を救え!
+sort_title: ぼんばーまんひーろーみりあんおうじょをすくえ
 file: Bomberman Hero - Mirian Oujo o Sukue! (Japan).zip
 
 # game: Bomberman Hero (Europe)
@@ -315,7 +339,8 @@ file: Bomberman Hero - Mirian Oujo o Sukue! (Japan).zip
 # game: Buck Bumble (Europe) (En,Fr,De,Es,It)
 # file: Buck Bumble (Europe) (En,Fr,De,Es,It).zip
 
-game: Buck Bumble (Japan)
+game: バックバンブル
+sort_title: ばっくばんぶる
 file: Buck Bumble (Japan).zip
 
 # game: Buck Bumble (USA)
@@ -393,7 +418,8 @@ file: Buck Bumble (Japan).zip
 # game: Chameleon Twist (Europe)
 # file: Chameleon Twist (Europe).zip
 
-game: Chameleon Twist (Japan)
+game: カメレオンツイスト
+sort_title: かめれおんついすと1
 file: Chameleon Twist (Japan).zip
 
 # game: Chameleon Twist (USA)
@@ -405,7 +431,8 @@ file: Chameleon Twist (Japan).zip
 # game: Chameleon Twist 2 (Europe)
 # file: Chameleon Twist 2 (Europe).zip
 
-game: Chameleon Twist 2 (Japan)
+game: カメレオンツイスト2
+sort_title: かめれおんついすと2
 file: Chameleon Twist 2 (Japan).zip
 
 # game: Chameleon Twist 2 (USA)
@@ -423,22 +450,28 @@ file: Chameleon Twist 2 (Japan).zip
 # game: Chopper Attack (USA)
 # file: Chopper Attack (USA).zip
 
-game: Choro Q 64 (Japan)
+game: チョロQ64
+sort_title: ちょろきゅー641
 file: Choro Q 64 (Japan).zip
 
-game: Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)
+game: チョロQ64 2 ハチャメチャグランプリレース
+sort_title: ちょろきゅー642
 file: Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan).zip
 
-game: Chou Kuukan Nighter Pro Yakyuu King (Japan)
+game: 超空間ナイター プロ野球キング
+sort_title: ちょうくうかんないたーぷろやきゅうきんぐ1
 file: Chou Kuukan Nighter Pro Yakyuu King (Japan).zip
 
-game: Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)
+game: 超空間ナイター プロ野球キング2
+sort_title: ちょうくうかんないたーぷろやきゅうきんぐ2
 file: Chou Kuukan Nighter Pro Yakyuu King 2 (Japan).zip
 
-game: Chou Snobo Kids (Japan)
+game: 超スノボキッズ
+sort_title: ちょーすのぼきっず
 file: Chou Snobo Kids (Japan).zip
 
-game: City-Tour GP - Zen-Nihon GT Senshuken (Japan)
+game: シティーツアーグランプリ 全日本GT選手権
+sort_title: してぃーつあーぐらんぷりぜんにほんじーてぃーせんしゅけん
 file: City-Tour GP - Zen-Nihon GT Senshuken (Japan).zip
 
 # game: Clay Fighter - Sculptor's Cut (USA)
@@ -474,8 +507,8 @@ file: City-Tour GP - Zen-Nihon GT Senshuken (Japan).zip
 # game: Conker's Bad Fur Day (USA) (Beta) (2000-10-25)
 # file: Conker's Bad Fur Day (USA) (Beta) (2000-10-25).zip
 
-game: Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
-file: Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).zip
+# game: Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
+# file: Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).zip
 
 # game: Cruis'n Exotica (USA)
 # file: Cruis'n Exotica (USA).zip
@@ -504,10 +537,12 @@ file: Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).zip
 # game: Cruis'n World (USA)
 # file: Cruis'n World (USA).zip
 
-game: Custom Robo (Japan)
+game: カスタムロボ
+sort_title: かすたむろぼ1
 file: Custom Robo (Japan).zip
 
-game: Custom Robo V2 (Japan)
+game: カスタムロボV2
+sort_title: かすたむろぼ2
 file: Custom Robo V2 (Japan).zip
 
 # game: CyberTiger (Europe)
@@ -519,7 +554,8 @@ file: Custom Robo V2 (Japan).zip
 # game: Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)
 # file: Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).zip
 
-game: Dance Dance Revolution - Disney Dancing Museum (Japan)
+game: ダンスダンスレボリューション ディズニーダンシングミュージアム
+sort_title: だんすだんすれぼりゅーしょんでぃずにーだんしんぐみゅーじあむ
 file: Dance Dance Revolution - Disney Dancing Museum (Japan).zip
 
 # game: Dark Rift (Europe)
@@ -534,10 +570,12 @@ file: Dance Dance Revolution - Disney Dancing Museum (Japan).zip
 # game: Defi au Tetris Magique (France)
 # file: Defi au Tetris Magique (France).zip
 
-game: Densha de Go! 64 (Japan)
+game: 電車でGO! 64
+sort_title: でんしゃでごー64
 file: Densha de Go! 64 (Japan).zip
 
-game: Derby Stallion 64 (Japan)
+game: ダービースタリオン64
+sort_title: だーびーすたりおん64
 files:
   Derby Stallion 64 (Japan).zip
   Derby Stallion 64 (Japan) (Beta) [b].zip
@@ -551,7 +589,8 @@ files:
 # game: Destruction Derby 64 (USA) (Beta) (1998-07-31)
 # file: Destruction Derby 64 (USA) (Beta) (1998-07-31).zip
 
-game: Dezaemon 3D (Japan)
+game: デザエモン3D
+sort_title: でざえもん3D
 file: Dezaemon 3D (Japan).zip
 
 # game: Diddy Kong Racing (Europe) (En,Fr,De)
@@ -560,7 +599,8 @@ file: Dezaemon 3D (Japan).zip
 # game: Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)
 # file: Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).zip
 
-game: Diddy Kong Racing (Japan)
+game: ディディーコングレーシング
+sort_title: でぃでぃーこんぐれーしんぐ
 file: Diddy Kong Racing (Japan).zip
 
 # game: Diddy Kong Racing (USA) (En,Fr)
@@ -590,7 +630,8 @@ file: Diddy Kong Racing (Japan).zip
 # game: Donkey Kong 64 (Europe) (En,Fr,De,Es)
 # file: Donkey Kong 64 (Europe) (En,Fr,De,Es).zip
 
-game: Donkey Kong 64 (Japan)
+game: ドンキーコング64
+sort_title: どんきーこんぐ64
 file: Donkey Kong 64 (Japan).zip
 
 # game: Donkey Kong 64 (USA)
@@ -605,7 +646,8 @@ file: Donkey Kong 64 (Japan).zip
 # game: Doom 64 (Europe)
 # file: Doom 64 (Europe).zip
 
-game: Doom 64 (Japan)
+game: ドゥーム64
+sort_title: どぅーむ64
 file: Doom 64 (Japan).zip
 
 # game: Doom 64 (USA)
@@ -617,19 +659,23 @@ file: Doom 64 (Japan).zip
 # game: Doom 64 (USA) (Rev 1)
 # file: Doom 64 (USA) (Rev 1).zip
 
-game: Doraemon - Nobita to 3tsu no Seireiseki (Japan)
+game: ドラえもん のび太と3つの精霊石
+sort_title: どらえもんN641
 file: Doraemon - Nobita to 3tsu no Seireiseki (Japan).zip
 
-game: Doraemon 2 - Nobita to Hikari no Shinden (Japan)
+game: ドラえもん2 のび太と光の神殿
+sort_title: どらえもんN642
 file: Doraemon 2 - Nobita to Hikari no Shinden (Japan).zip
 
-game: Doraemon 3 - Nobita no Machi SOS! (Japan)
+game: ドラえもん3 のび太の街SOS!
+sort_title: どらえもんN643
 file: Doraemon 3 - Nobita no Machi SOS! (Japan).zip
 
-game: Doubutsu Banchou (Japan) (Proto)
-file: Doubutsu Banchou (Japan) (Proto).zip
+# game: Doubutsu Banchou (Japan) (Proto)
+# file: Doubutsu Banchou (Japan) (Proto).zip
 
-game: Doubutsu no Mori (Japan)
+game: どうぶつの森
+sort_title: どうぶつのもり
 file: Doubutsu no Mori (Japan).zip
 
 # game: Dr. Mario 64 (USA)
@@ -647,7 +693,8 @@ file: Doubutsu no Mori (Japan).zip
 # game: Dual Heroes (Europe)
 # file: Dual Heroes (Europe).zip
 
-game: Dual Heroes (Japan)
+game: デュアルヒーローズ
+sort_title: でゅあるひーろーず
 file: Dual Heroes (Japan).zip
 
 # game: Dual Heroes (USA)
@@ -707,16 +754,19 @@ file: Dual Heroes (Japan).zip
 # game: EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet)
 # file: EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet).zip
 
-game: Eikou no Saint Andrews (Japan)
+game: 栄光のセントアンドリュース
+sort_title: えいこうのせんとあんどりゅーす
 file: Eikou no Saint Andrews (Japan).zip
 
-game: Eltale Monsters (Japan)
+game: エルテイルモンスターズ
+sort_title: えるているもんすたーず
 file: Eltale Monsters (Japan).zip
 
 # game: Excitebike 64 (Europe)
 # file: Excitebike 64 (Europe).zip
 
-game: Excitebike 64 (Japan)
+game: エキサイトバイク64
+sort_title: えきさいとばいく64
 file: Excitebike 64 (Japan).zip
 
 # game: Excitebike 64 (USA)
@@ -734,7 +784,8 @@ file: Excitebike 64 (Japan).zip
 # game: Extreme-G (Europe) (En,Fr,De,Es,It)
 # file: Extreme-G (Europe) (En,Fr,De,Es,It).zip
 
-game: Extreme-G (Japan)
+game: エクストリームG
+sort_title: えくすとりーむじー1
 file: Extreme-G (Japan).zip
 
 # game: Extreme-G (USA)
@@ -743,7 +794,8 @@ file: Extreme-G (Japan).zip
 # game: Extreme-G XG2 (Europe) (En,Fr,De,Es,It)
 # file: Extreme-G XG2 (Europe) (En,Fr,De,Es,It).zip
 
-game: Extreme-G XG2 (Japan)
+game: エクストリームG2
+sort_title: えくすとりーむじー2
 file: Extreme-G XG2 (Japan).zip
 
 # game: Extreme-G XG2 (USA)
@@ -761,7 +813,8 @@ file: Extreme-G XG2 (Japan).zip
 # game: F-1 World Grand Prix (Germany)
 # file: F-1 World Grand Prix (Germany).zip
 
-game: F-1 World Grand Prix (Japan)
+game: F-1 ワールドグランプリ
+sort_title: えふわんわーるどぐらんぷり
 file: F-1 World Grand Prix (Japan).zip
 
 # game: F-1 World Grand Prix (USA)
@@ -773,7 +826,8 @@ file: F-1 World Grand Prix (Japan).zip
 # game: F-Zero X (Europe)
 # file: F-Zero X (Europe).zip
 
-game: F-Zero X (Japan)
+game: F-ZERO X
+sort_title: えふぜろえっくす
 file: F-Zero X (Japan).zip
 
 # game: F-Zero X (USA)
@@ -800,10 +854,12 @@ file: F-Zero X (Japan).zip
 # game: F1 Racing Championship (USA) (Beta)
 # file: F1 Racing Championship (USA) (Beta).zip
 
-game: Famista 64 (Japan)
+game: ファミスタ64
+sort_title: ふぁみすた64
 file: Famista 64 (Japan).zip
 
-game: FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)
+game: FIFA Road to WORLD CUP 98 ワールドカップへの道
+sort_title: ふぃふぁろーどとぅわーるどかっぷ98
 file: FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).zip
 
 # game: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)
@@ -839,7 +895,8 @@ file: FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).zip
 # game: Fighters Destiny (USA)
 # file: Fighters Destiny (USA).zip
 
-game: Fighting Cup (Japan)
+game: ファイティングカップ
+sort_title: ふぁいてぃんぐかっぷ
 file: Fighting Cup (Japan).zip
 
 # game: Fighting Force 64 (Europe)
@@ -875,13 +932,15 @@ file: Fighting Cup (Japan).zip
 # game: Frogger 2 (USA) (Proto 2)
 # file: Frogger 2 (USA) (Proto 2).zip
 
-game: Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)
+game: 不思議のダンジョン 風来のシレン2 鬼襲来!シレン城!
+sort_title: ふしぎのだんじょんふうらいのしれん2
 file: Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).zip
 
 # game: G.A.S.P!! Fighters' NEXTream (Europe)
 # file: G.A.S.P!! Fighters' NEXTream (Europe).zip
 
-game: G.A.S.P!! Fighters' NEXTream (Japan)
+game: G.A.S.P!! Fighters' NEXTream
+sort_title: がすぷふぁいたーずねくすとりーむ
 file: G.A.S.P!! Fighters' NEXTream (Japan).zip
 
 # game: GameBooster 64 (Europe) (v1.1) (Unl)
@@ -896,19 +955,23 @@ file: G.A.S.P!! Fighters' NEXTream (Japan).zip
 # game: GameShark Pro (USA) (v3.3) (Unl)
 # file: GameShark Pro (USA) (v3.3) (Unl).zip
 
-game: Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)
+game: がんばれゴエモン でろでろ道中 オバケてんこ盛り
+sort_title: がんばれごえもんでろでろどうちゅうおばけてんこもり
 file: Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan).zip
 
-game: Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)
+game: がんばれゴエモン ネオ桃山幕府のおどり
+sort_title: がんばれごえもんねおももやまばくふのおどり
 file: Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan).zip
 
-game: Ganbare! Nippon! Olympics 2000 (Japan)
+game: がんばれ! ニッポン! オリンピック2000
+sort_title: がんばれにっぽんおりんぴっく2000
 file: Ganbare! Nippon! Olympics 2000 (Japan).zip
 
 # game: Gauntlet Legends (Europe)
 # file: Gauntlet Legends (Europe).zip
 
-game: Gauntlet Legends (Japan)
+game: ガントレットレジェンド
+sort_title: がんとれっとれじぇんど
 file: Gauntlet Legends (Japan).zip
 
 # game: Gauntlet Legends (USA)
@@ -917,7 +980,8 @@ file: Gauntlet Legends (Japan).zip
 # game: Gauntlet Legends (USA) (LodgeNet)
 # file: Gauntlet Legends (USA) (LodgeNet).zip
 
-game: Getter Love!! - Cho Renai Party Game Tanjou (Japan)
+game: ゲッターラブ!! ちょー恋愛パーティーゲーム誕生!!
+sort_title: げったーらぶちょーれんあいぱーてぃーげーむたんじょう
 file: Getter Love!! - Cho Renai Party Game Tanjou (Japan).zip
 
 # game: Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)
@@ -953,7 +1017,8 @@ file: Getter Love!! - Cho Renai Party Game Tanjou (Japan).zip
 # game: Glover 2 (USA) (Proto 2)
 # file: Glover 2 (USA) (Proto 2).zip
 
-game: Goemon - Mononoke Sugoroku (Japan)
+game: ゴエモン もののけ双六
+sort_title: ごえもんもののけすごろく
 file: Goemon - Mononoke Sugoroku (Japan).zip
 
 # game: Goemon's Great Adventure (USA)
@@ -965,7 +1030,8 @@ file: Goemon - Mononoke Sugoroku (Japan).zip
 # game: GoldenEye 007 (Europe)
 # file: GoldenEye 007 (Europe).zip
 
-game: GoldenEye 007 (Japan)
+game: ゴールデンアイ 007
+sort_title: ごーるでんあい007
 files:
   GoldenEye 007 (Japan).zip
   GoldenEye 007 (Japan) (Switch Online).zip
@@ -985,16 +1051,19 @@ files:
 # game: GT 64 - Championship Edition (USA) (Beta) (1998-05-25)
 # file: GT 64 - Championship Edition (USA) (Beta) (1998-05-25).zip
 
-game: Hamster Monogatari 64 (Japan)
+game: ハムスター物語64
+sort_title: はむすたーものがたり64
 file: Hamster Monogatari 64 (Japan).zip
 
-game: Harukanaru Augusta - Masters '98 (Japan)
+game: 遙かなるオーガスタ マスターズ'98
+sort_title: はるかなるおーがすたますたーず98
 file: Harukanaru Augusta - Masters '98 (Japan).zip
 
 # game: Harvest Moon 64 (USA)
 # file: Harvest Moon 64 (USA).zip
 
-game: Heiwa Pachinko World 64 (Japan)
+game: HEIWAパチンコワールド64
+sort_title: へいわぱちんこわーるど64
 file: Heiwa Pachinko World 64 (Japan).zip
 
 # game: Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)
@@ -1018,7 +1087,8 @@ file: Heiwa Pachinko World 64 (Japan).zip
 # game: Hexen (Germany)
 # file: Hexen (Germany).zip
 
-game: Hexen (Japan)
+game: HEXEN
+sort_title: へくせん
 file: Hexen (Japan).zip
 
 # game: Hexen (USA)
@@ -1027,7 +1097,8 @@ file: Hexen (Japan).zip
 # game: Hey You, Pikachu! (USA)
 # file: Hey You, Pikachu! (USA).zip
 
-game: Hiryuu no Ken Twin (Japan)
+game: 飛龍の拳ツイン
+sort_title: ひりゅうのけんついん
 file: Hiryuu no Ken Twin (Japan).zip
 
 # game: Holy Magic Century (Europe)
@@ -1039,7 +1110,8 @@ file: Hiryuu no Ken Twin (Japan).zip
 # game: Holy Magic Century (Germany)
 # file: Holy Magic Century (Germany).zip
 
-game: Hoshi no Kirby 64 (Japan)
+game: 星のカービィ64
+sort_title: ほしのかーびぃ64
 files:
   Hoshi no Kirby 64 (Japan).zip
   Hoshi no Kirby 64 (Japan) (Rev 1).zip
@@ -1055,13 +1127,15 @@ files:
 # game: HSV Adventure Racing! (Australia)
 # file: HSV Adventure Racing! (Australia).zip
 
-game: Human Grand Prix - The New Generation (Japan)
+game: ヒューマングランプリ ザ・ニュージェネレーション
+sort_title: ひゅーまんぐらんぷりざにゅーじぇねれーしょん
 file: Human Grand Prix - The New Generation (Japan).zip
 
 # game: Hybrid Heaven (Europe) (En,Fr,De)
 # file: Hybrid Heaven (Europe) (En,Fr,De).zip
 
-game: Hybrid Heaven (Japan)
+game: ハイブリッドヘブン
+sort_title: はいぶりっどへぶん
 file: Hybrid Heaven (Japan).zip
 
 # game: Hybrid Heaven (USA)
@@ -1079,13 +1153,16 @@ file: Hybrid Heaven (Japan).zip
 # game: Hydro Thunder (USA) (LodgeNet)
 # file: Hydro Thunder (USA) (LodgeNet).zip
 
-game: Hyper Olympics in Nagano 64 (Japan)
+game: ハイパーオリンピック イン ナガノ64
+sort_title: はいぱーおりんぴっくいんながの64
 file: Hyper Olympics in Nagano 64 (Japan).zip
 
-game: Ide Yosuke no Mahjong Juku (Japan)
+game: 井出洋介の麻雀塾
+sort_title: いでようすけのまーじゃんじゅく
 file: Ide Yosuke no Mahjong Juku (Japan).zip
 
-game: Iggy-kun no Bura Bura Poyon (Japan)
+game: イギーくんのぶら2ぽよん
+sort_title: いぎーくんのぶらぶらぽよん
 file: Iggy-kun no Bura Bura Poyon (Japan).zip
 
 # game: Iggy's Reckin' Balls (Europe)
@@ -1145,24 +1222,30 @@ file: Iggy-kun no Bura Bura Poyon (Japan).zip
 # game: International Track & Field 2000 (USA)
 # file: International Track & Field 2000 (USA).zip
 
-game: Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)
+game: 糸井重里のバス釣りNo.1 決定版!
+sort_title: いといしげさとのばすつりなんばーわんけっていばん
 file: Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan).zip
 
-game: J.League Dynamite Soccer 64 (Japan)
+game: Jリーグ ダイナマイトサッカー64
+sort_title: じぇいりーぐだいなまいとさっかー64
 file: J.League Dynamite Soccer 64 (Japan).zip
 
-game: J.League Eleven Beat 1997 (Japan)
+game: Jリーグ イレブンビート1997
+sort_title: じぇいりーぐいれぶんびーと1997
 file: J.League Eleven Beat 1997 (Japan).zip
 
-game: J.League Live 64 (Japan)
+game: JリーグLIVE64
+sort_title: じぇいりーぐらいぶ64
 file: J.League Live 64 (Japan).zip
 
-game: J.League Tactics Soccer (Japan)
+game: Jリーグ タクティクスサッカー
+sort_title: じぇいりーぐたくてぃくすさっかー
 files:
   J.League Tactics Soccer (Japan).zip
   J.League Tactics Soccer (Japan) (Rev 1).zip
 
-game: Jangou Simulation Mahjong Dou 64 (Japan)
+game: 雀豪シミュレーション 麻雀道64
+sort_title: じゃんごうしみゅれーしょんまーじゃんどう64
 file: Jangou Simulation Mahjong Dou 64 (Japan).zip
 
 # game: Jeopardy! (USA)
@@ -1186,72 +1269,86 @@ file: Jangou Simulation Mahjong Dou 64 (Japan).zip
 # game: Jet Force Gemini (USA) (Demo) (Kiosk)
 # file: Jet Force Gemini (USA) (Demo) (Kiosk).zip
 
-game: Jikkyou G1 Stable (Japan)
+game: 実況GIステイブル
+sort_title: じっきょうじーわんすていぶる
 files:
   Jikkyou G1 Stable (Japan).zip
   Jikkyou G1 Stable (Japan) (Rev 1).zip
 
-game: Jikkyou J.League 1999 - Perfect Striker 2 (Japan)
+game: 実況 Jリーグ1999 パーフェクトストライカー2
+sort_title: じっきょうじぇいりーぐぱーふぇくすとらいかー2
 files:
   Jikkyou J.League 1999 - Perfect Striker 2 (Japan).zip
   Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1).zip
 
-game: Jikkyou J.League Perfect Striker (Japan)
+game: 実況 Jリーグ パーフェクトストライカー
+sort_title: じっきょうじぇいりーぐぱーふぇくとすとらいかー1
 file: Jikkyou J.League Perfect Striker (Japan).zip
 
-game: Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)
+game: 実況パワフルプロ野球 Basic版2001
+sort_title: じっきょうぱわふるぷろやきゅう2001
 files:
   Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan).zip
   Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1).zip
 
-game: Jikkyou Powerful Pro Yakyuu 2000 (Japan)
+game: 実況パワフルプロ野球2000
+sort_title: じっきょうぱわふるぷろやきゅう2000
 files:
   Jikkyou Powerful Pro Yakyuu 2000 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1).zip
 
-game: Jikkyou Powerful Pro Yakyuu 4 (Japan)
+game: 実況パワフルプロ野球4
+sort_title: じっきょうぱわふるぷろやきゅう4
 files:
   Jikkyou Powerful Pro Yakyuu 4 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30).zip
   Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).zip
 
-game: Jikkyou Powerful Pro Yakyuu 5 (Japan)
+game: 実況パワフルプロ野球5
+sort_title: じっきょうぱわふるぷろやきゅう5
 files:
   Jikkyou Powerful Pro Yakyuu 5 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1).zip
   Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2).zip
 
-game: Jikkyou Powerful Pro Yakyuu 6 (Japan)
+game: 実況パワフルプロ野球6
+sort_title: じっきょうぱわふるぷろやきゅう6
 files:
   Jikkyou Powerful Pro Yakyuu 6 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1).zip
   Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2).zip
 
-game: Jikkyou World Soccer - World Cup France '98 (Japan)
+game: 実況ワールドサッカー ワールドカップ フランス'98
+sort_title: じっきょうわーるどさっかーわーるどかっぷふらんす98
 files:
   Jikkyou World Soccer - World Cup France '98 (Japan).zip
   Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).zip
   Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2).zip
 
-game: Jikkyou World Soccer 3 (Japan)
+game: 実況ワールドサッカー3
+sort_title: じっきょうわーるどさっかー3
 file: Jikkyou World Soccer 3 (Japan).zip
 
-game: Jikuu Senshi Turok (Japan)
+game: 時空戦士テュロック
+sort_title: じくうせんしてゅろっく
 file: Jikuu Senshi Turok (Japan).zip
 
-game: Jinsei Game 64 (Japan)
+game: 人生ゲーム64
+sort_title: じんせいげーむ64
 file: Jinsei Game 64 (Japan).zip
 
 # game: John Romero's Daikatana (Europe) (En,Fr,De)
 # file: John Romero's Daikatana (Europe) (En,Fr,De).zip
 
-game: John Romero's Daikatana (Japan)
+game: 大刀 DAIKATANA
+sort_title: だいかたな
 file: John Romero's Daikatana (Japan).zip
 
 # game: John Romero's Daikatana (USA)
 # file: John Romero's Daikatana (USA).zip
 
-game: Kakutou Denshou - F-Cup Maniax (Japan)
+game: 格闘伝承 F-Cup Maniax
+sort_title: かくとうでんしょうえふかっぷまにあっくす
 file: Kakutou Denshou - F-Cup Maniax (Japan).zip
 
 # game: Ken Griffey Jr.'s Slugfest (USA)
@@ -1269,10 +1366,12 @@ file: Kakutou Denshou - F-Cup Maniax (Japan).zip
 # game: Killer Instinct Gold (USA) (Rev 2)
 # file: Killer Instinct Gold (USA) (Rev 2).zip
 
-game: King Hill 64 - Extreme Snowboarding (Japan)
+game: キングヒル64
+sort_title: きんぐひる64
 file: King Hill 64 - Extreme Snowboarding (Japan).zip
 
-game: Kiratto Kaiketsu! 64 Tanteidan (Japan)
+game: キラッと解決! 64探偵団
+sort_title: きらっとかいけつろくよんたんていだん
 file: Kiratto Kaiketsu! 64 Tanteidan (Japan).zip
 
 # game: Kirby 64 - The Crystal Shards (Europe)
@@ -1287,7 +1386,8 @@ file: Kiratto Kaiketsu! 64 Tanteidan (Japan).zip
 # game: Knife Edge - Nose Gunner (Europe)
 # file: Knife Edge - Nose Gunner (Europe).zip
 
-game: Knife Edge - Nose Gunner (Japan)
+game: ナイフエッジ ノーズガンナー
+sort_title: ないふえっじのーずがんなー
 file: Knife Edge - Nose Gunner (Japan).zip
 
 # game: Knife Edge - Nose Gunner (USA)
@@ -1305,7 +1405,8 @@ file: Knife Edge - Nose Gunner (Japan).zip
 # game: Kobe Bryant in NBA Courtside (USA)
 # file: Kobe Bryant in NBA Courtside (USA).zip
 
-game: Last Legion UX (Japan)
+game: ラストレジオンUX
+sort_title: らすとれじおんUX
 file: Last Legion UX (Japan).zip
 
 # game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)
@@ -1383,13 +1484,15 @@ file: Last Legion UX (Japan).zip
 # game: LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)
 # file: LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).zip
 
-game: Let's Smash (Japan)
+game: Let's スマッシュ
+sort_title: れっつすまっしゅ
 file: Let's Smash (Japan).zip
 
 # game: Lode Runner 3-D (Europe) (En,Fr,De,Es,It)
 # file: Lode Runner 3-D (Europe) (En,Fr,De,Es,It).zip
 
-game: Lode Runner 3-D (Japan)
+game: ロードランナー 3-D
+sort_title: ろーどらんなー3D
 file: Lode Runner 3-D (Japan).zip
 
 # game: Lode Runner 3-D (USA)
@@ -1446,16 +1549,20 @@ file: Lode Runner 3-D (Japan).zip
 # game: Magical Tetris Challenge (USA)
 # file: Magical Tetris Challenge (USA).zip
 
-game: Magical Tetris Challenge featuring Mickey (Japan)
+game: マジカルテトリスチャレンジ featuring ミッキー
+sort_title: まじかるてとりすちゃれんじふゅーちゃりんぐみっきー
 file: Magical Tetris Challenge featuring Mickey (Japan).zip
 
-game: Mahjong 64 (Japan)
+game: 麻雀64
+sort_title: まーじゃん64
 file: Mahjong 64 (Japan).zip
 
-game: Mahjong Hourouki Classic (Japan)
+game: 麻雀放浪記CLASSIC
+sort_title: まーじゃんほうろうきくらしっく
 file: Mahjong Hourouki Classic (Japan).zip
 
-game: Mahjong Master (Japan)
+game: 麻雀MASTER
+sort_title: まーじゃんますたー
 file: Mahjong Master (Japan).zip
 
 # game: Major League Baseball Featuring Ken Griffey Jr. (Australia)
@@ -1473,7 +1580,8 @@ file: Mahjong Master (Japan).zip
 # game: Mario Golf (USA) (LodgeNet)
 # file: Mario Golf (USA) (LodgeNet).zip
 
-game: Mario Golf 64 (Japan)
+game: マリオゴルフ64
+sort_title: まりおごるふ64
 files:
   Mario Golf 64 (Japan).zip
   Mario Golf 64 (Japan) (Rev 1).zip
@@ -1484,7 +1592,8 @@ files:
 # game: Mario Kart 64 (Europe) (Rev 1)
 # file: Mario Kart 64 (Europe) (Rev 1).zip
 
-game: Mario Kart 64 (Japan)
+game: マリオカート64
+sort_title: まりおかーと64
 files:
   Mario Kart 64 (Japan).zip
   Mario Kart 64 (Japan) (Rev 1).zip
@@ -1495,13 +1604,15 @@ files:
 # game: Mario Kart 64 (USA) (LodgeNet)
 # file: Mario Kart 64 (USA) (LodgeNet).zip
 
-game: Mario no Photopie (Japan)
+game: マリオのふぉとぴー
+sort_title: まりおのふぉとぴー
 file: Mario no Photopie (Japan).zip
 
 # game: Mario Party (Europe) (En,Fr,De)
 # file: Mario Party (Europe) (En,Fr,De).zip
 
-game: Mario Party (Japan)
+game: マリオパーティ
+sort_title: まりおぱーてぃ1
 file: Mario Party (Japan).zip
 
 # game: Mario Party (USA)
@@ -1513,7 +1624,8 @@ file: Mario Party (Japan).zip
 # game: Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)
 # file: Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).zip
 
-game: Mario Party 2 (Japan)
+game: マリオパーティ2
+sort_title: まりおぱーてぃ2
 files:
   Mario Party 2 (Japan).zip
   Mario Party 2 (Japan) (Wii Virtual Console).zip
@@ -1527,7 +1639,8 @@ files:
 # game: Mario Party 3 (Europe) (En,Fr,De,Es)
 # file: Mario Party 3 (Europe) (En,Fr,De,Es).zip
 
-game: Mario Party 3 (Japan)
+game: マリオパーティ3
+sort_title: まりおぱーてぃ3
 file: Mario Party 3 (Japan).zip
 
 # game: Mario Party 3 (USA)
@@ -1539,7 +1652,8 @@ file: Mario Party 3 (Japan).zip
 # game: Mario Party 3 (USA) (LodgeNet)
 # file: Mario Party 3 (USA) (LodgeNet).zip
 
-game: Mario Story (Japan)
+game: マリオストーリー
+sort_title: まりおすとーりー
 file: Mario Story (Japan).zip
 
 # game: Mario Tennis (Europe)
@@ -1557,7 +1671,8 @@ file: Mario Story (Japan).zip
 # game: Mario Tennis (USA) (Wii Virtual Console)
 # file: Mario Tennis (USA) (Wii Virtual Console).zip
 
-game: Mario Tennis 64 (Japan)
+game: マリオテニス64
+sort_title: まりおてにす64
 files:
   Mario Tennis 64 (Japan).zip
   Mario Tennis 64 (Japan) (Wii Virtual Console).zip
@@ -1577,7 +1692,8 @@ files:
 # game: Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta)
 # file: Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta).zip
 
-game: Mickey no Racing Challenge USA (Japan)
+game: ミッキーのレーシングチャレンジUSA
+sort_title: みっきーのれーしんぐちゃれんじUSA
 file: Mickey no Racing Challenge USA (Japan).zip
 
 # game: Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)
@@ -1658,7 +1774,8 @@ file: Mickey no Racing Challenge USA (Japan).zip
 # game: Monster Truck Madness 64 (USA)
 # file: Monster Truck Madness 64 (USA).zip
 
-game: Morita Shougi 64 (Japan)
+game: 森田将棋64
+sort_title: もりたしょうぎ64
 file: Morita Shougi 64 (Japan).zip
 
 # game: Mortal Kombat 4 (Europe)
@@ -1694,7 +1811,8 @@ file: Morita Shougi 64 (Japan).zip
 # game: MRC - Multi-Racing Championship (Europe) (En,Fr,De)
 # file: MRC - Multi-Racing Championship (Europe) (En,Fr,De).zip
 
-game: MRC - Multi-Racing Championship (Japan)
+game: MRC マルチレーシングチャンピオンシップ
+sort_title: まるちれーしんぐちゃんぴおんしっぷ
 file: MRC - Multi-Racing Championship (Japan).zip
 
 # game: MRC - Multi-Racing Championship (USA)
@@ -1739,7 +1857,8 @@ file: MRC - Multi-Racing Championship (Japan).zip
 # game: NBA Hangtime (USA)
 # file: NBA Hangtime (USA).zip
 
-game: NBA in the Zone '98 (Japan)
+game: NBA イン ザ ゾーン '98
+sort_title: えぬびーえーいんざぞーん98
 file: NBA in the Zone '98 (Japan).zip
 
 # game: NBA in the Zone '98 (USA)
@@ -1748,7 +1867,8 @@ file: NBA in the Zone '98 (Japan).zip
 # game: NBA in the Zone '99 (USA)
 # file: NBA in the Zone '99 (USA).zip
 
-game: NBA in the Zone 2 (Japan)
+game: NBA イン ザ ゾーン 2
+sort_title: えぬびーえーいんざぞーん2
 file: NBA in the Zone 2 (Japan).zip
 
 # game: NBA in the Zone 2000 (Europe)
@@ -1793,7 +1913,8 @@ file: NBA in the Zone 2 (Japan).zip
 # game: NBA Showtime - NBA on NBC (USA)
 # file: NBA Showtime - NBA on NBC (USA).zip
 
-game: Neon Genesis Evangelion (Japan)
+game: 新世紀エヴァンゲリオン
+sort_title: しんせいきえう゛ぁんげりおん
 file: Neon Genesis Evangelion (Japan).zip
 
 # game: New Tetris, The (Europe)
@@ -1868,13 +1989,15 @@ file: Neon Genesis Evangelion (Japan).zip
 # game: Nightmare Creatures (USA)
 # file: Nightmare Creatures (USA).zip
 
-game: Nintama Rantarou 64 Game Gallery (Japan)
+game: 忍たま乱太郎64 ゲームギャラリー
+sort_title: にんたまらんたろう64げーむぎゃらりー
 file: Nintama Rantarou 64 Game Gallery (Japan).zip
 
-game: Nintendo 64 Modem (Japan) (Add-on)
-file: Nintendo 64 Modem (Japan) (Add-on).zip
+# game: Nintendo 64 Modem (Japan) (Add-on)
+# file: Nintendo 64 Modem (Japan) (Add-on).zip
 
-game: Nintendo All-Star! Dairantou Smash Brothers (Japan)
+game: ニンテンドウオールスター! 大乱闘スマッシュブラザーズ
+sort_title: にんてんどうおーるすたーだいらんとうすまっしゅぶらざーず
 file: Nintendo All-Star! Dairantou Smash Brothers (Japan).zip
 
 # game: Nuclear Strike 64 (Europe) (En,Fr)
@@ -1895,10 +2018,12 @@ file: Nintendo All-Star! Dairantou Smash Brothers (Japan).zip
 # game: Nuclear Strike 64 (USA) (Beta) (Earlier)
 # file: Nuclear Strike 64 (USA) (Beta) (Earlier).zip
 
-game: Nushi Zuri 64 - Shiokaze ni Notte (Japan)
+game: ぬし釣り64 潮風にのって
+sort_title: ぬしつり64しおかぜにのって
 file: Nushi Zuri 64 - Shiokaze ni Notte (Japan).zip
 
-game: Nushi Zuri 64 (Japan)
+game: ぬし釣り64
+sort_title: ぬしつり64
 files:
   Nushi Zuri 64 (Japan).zip
   Nushi Zuri 64 (Japan) (Rev 1).zip
@@ -1915,7 +2040,8 @@ files:
 # game: Off Road Challenge (USA)
 # file: Off Road Challenge (USA).zip
 
-game: Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)
+game: オウガバトル64 Person of Lordly Caliber
+sort_title: おうがばとる64
 files:
   Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).zip
   Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).zip
@@ -1932,19 +2058,22 @@ files:
 # game: Olympic Hockey 98 (Europe) (En,Fr,De,Es)
 # file: Olympic Hockey 98 (Europe) (En,Fr,De,Es).zip
 
-game: Olympic Hockey 98 (Japan)
+game: オリンピックホッケー ナガノ 98
+sort_title: おりんぴっくほっけーながの98
 file: Olympic Hockey 98 (Japan).zip
 
 # game: Olympic Hockey 98 (USA)
 # file: Olympic Hockey 98 (USA).zip
 
-game: Onegai Monsters (Japan)
+game: おねがいモンスター
+sort_title: おねがいもんすたー
 file: Onegai Monsters (Japan).zip
 
 # game: Operation WinBack (Europe) (En,Fr,De,Es,It)
 # file: Operation WinBack (Europe) (En,Fr,De,Es,It).zip
 
-game: Pachinko 365 Nichi (Japan)
+game: パチンコ365日
+sort_title: ぱちんこ365にち
 file: Pachinko 365 Nichi (Japan).zip
 
 # game: Paper Mario (Europe) (En,Fr,De,Es)
@@ -1962,10 +2091,12 @@ file: Pachinko 365 Nichi (Japan).zip
 # game: Paperboy (USA)
 # file: Paperboy (USA).zip
 
-game: Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)
+game: Parlor! PRO64 パチンコ実機シミュレーションゲーム
+sort_title: ぱーらーぷろ64
 file: Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan).zip
 
-game: PD Ultraman Battle Collection 64 (Japan)
+game: PDウルトラマンバトルコレクション64
+sort_title: ぴーでぃーうるとらまんばとるこれくしょん64
 file: PD Ultraman Battle Collection 64 (Japan).zip
 
 # game: Penny Racers (Europe)
@@ -1980,7 +2111,8 @@ file: PD Ultraman Battle Collection 64 (Japan).zip
 # game: Perfect Dark (Europe) (En,Fr,De,Es,It)
 # file: Perfect Dark (Europe) (En,Fr,De,Es,It).zip
 
-game: Perfect Dark (Japan)
+game: パーフェクトダーク
+sort_title: ぱーふぇくとだーく
 file: Perfect Dark (Japan).zip
 
 # game: Perfect Dark (USA)
@@ -2001,16 +2133,17 @@ file: Perfect Dark (Japan).zip
 # game: PGA European Tour Golf (Europe) (En,Fr,De,Es,It)
 # file: PGA European Tour Golf (Europe) (En,Fr,De,Es,It).zip
 
-game: Pikachuu Genki de Chuu (Japan)
-file: Pikachuu Genki de Chuu (Japan).zip
-
-game: Pikachuu Genki de Chuu (Japan) (Beta)
-file: Pikachuu Genki de Chuu (Japan) (Beta).zip
+game: ピカチュウげんきでちゅう
+sort_title: ぴかちゅうげんきげちゅう
+files:
+  Pikachuu Genki de Chuu (Japan).zip
+  Pikachuu Genki de Chuu (Japan) (Beta).zip
 
 # game: Pilotwings 64 (Europe) (En,Fr,De)
 # file: Pilotwings 64 (Europe) (En,Fr,De).zip
 
-game: Pilotwings 64 (Japan)
+game: パイロットウイングス64
+sort_title: ぱいろっとういんぐす64
 file: Pilotwings 64 (Japan).zip
 
 # game: Pilotwings 64 (USA)
@@ -2058,7 +2191,8 @@ file: Pilotwings 64 (Japan).zip
 # game: Pokemon Snap (Italy)
 # file: Pokemon Snap (Italy).zip
 
-game: Pokemon Snap (Japan)
+game: ポケモンスナップ
+sort_title: ぽけもんすなっぷ
 files:
   Pokemon Snap (Japan).zip
   Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).zip
@@ -2090,7 +2224,8 @@ files:
 # game: Pokemon Stadium (Italy)
 # file: Pokemon Stadium (Italy).zip
 
-game: Pokemon Stadium (Japan)
+game: ポケモンスタジアム
+sort_title: ぽけもんすたじあむ1
 file: Pokemon Stadium (Japan).zip
 
 # game: Pokemon Stadium (Spain)
@@ -2117,7 +2252,8 @@ file: Pokemon Stadium (Japan).zip
 # game: Pokemon Stadium 2 (Italy)
 # file: Pokemon Stadium 2 (Italy).zip
 
-game: Pokemon Stadium 2 (Japan)
+game: ポケモンスタジアム2
+sort_title: ぽけもんすたじあむ2
 file: Pokemon Stadium 2 (Japan).zip
 
 # game: Pokemon Stadium 2 (Spain)
@@ -2126,13 +2262,15 @@ file: Pokemon Stadium 2 (Japan).zip
 # game: Pokemon Stadium 2 (USA)
 # file: Pokemon Stadium 2 (USA).zip
 
-game: Pokemon Stadium Kin Gin (Japan)
+game: ポケモンスタジアム金銀
+sort_title: ぽけもんすたじあむきんぎん
 file: Pokemon Stadium Kin Gin (Japan).zip
 
 # game: Polaris SnoCross (USA)
 # file: Polaris SnoCross (USA).zip
 
-game: Power League 64 (Japan)
+game: パワーリーグ64
+sort_title: ぱわーりーぐ64
 file: Power League 64 (Japan).zip
 
 # game: Power Rangers - Lightspeed Rescue (Europe)
@@ -2150,21 +2288,26 @@ file: Power League 64 (Japan).zip
 # game: Premier Manager 64 (Europe)
 # file: Premier Manager 64 (Europe).zip
 
-game: Pro Mahjong Kiwame 64 (Japan)
+game: プロ麻雀 極64
+sort_title: ぷろまーじゃんきわめ64
 files:
   Pro Mahjong Kiwame 64 (Japan).zip
   Pro Mahjong Kiwame 64 (Japan) (Rev 1).zip
 
-game: Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)
+game: プロ麻雀 兵64
+sort_title: ぷろまーじゃんつわもの64
 file: Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan).zip
 
-game: Puyo Puyo Sun 64 (Japan)
+game: ぷよぷよSUN64
+sort_title: ぷよぷよさん64
 file: Puyo Puyo Sun 64 (Japan).zip
 
-game: Puyo Puyoon Party (Japan)
+game: ぷよぷよ～んパーティー
+sort_title: ぷろぷよーんぱーてぃー
 file: Puyo Puyoon Party (Japan).zip
 
-game: Puzzle Bobble 64 (Japan)
+game: パズルボブル64
+sort_title: ぱずるぼぶる64
 file: Puzzle Bobble 64 (Japan).zip
 
 # game: Quake (Europe)
@@ -2188,10 +2331,12 @@ file: Puzzle Bobble 64 (Japan).zip
 # game: Rakugakids (Europe)
 # file: Rakugakids (Europe).zip
 
-game: Rakugakids (Japan)
+game: らくがきっず
+sort_title: らくがきっず
 file: Rakugakids (Japan).zip
 
-game: Rally '99 (Japan)
+game: ラリー'99
+sort_title: らりー99
 file: Rally '99 (Japan).zip
 
 # game: Rally Challenge 2000 (USA)
@@ -2278,7 +2423,8 @@ file: Rally '99 (Japan).zip
 # game: Roadsters (USA) (En,Fr,Es)
 # file: Roadsters (USA) (En,Fr,Es).zip
 
-game: Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)
+game: ロボットポンコッツ 七つの海のカラメル
+sort_title: ろぼっとぽんこっつななつのうみのからめる
 file: Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).zip
 
 # game: Robotech - Crystal Dreams (USA) (Proto 1)
@@ -2302,7 +2448,8 @@ file: Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).zip
 # game: Rocket - Robot on Wheels (USA)
 # file: Rocket - Robot on Wheels (USA).zip
 
-game: Rockman Dash - Hagane no Boukenshin (Japan)
+game: ロックマンDASH 鋼の冒険心
+sort_title: ろっくまんだっしゅ1
 file: Rockman Dash - Hagane no Boukenshin (Japan).zip
 
 # game: RR64 - Ridge Racer 64 (Europe)
@@ -2347,7 +2494,8 @@ file: Rockman Dash - Hagane no Boukenshin (Japan).zip
 # game: S.C.A.R.S. (USA)
 # file: S.C.A.R.S. (USA).zip
 
-game: Saikyou Habu Shougi (Japan)
+game: 最強羽生将棋
+sort_title: さいきょうはぶしょうぎ
 file: Saikyou Habu Shougi (Japan).zip
 
 # game: San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)
@@ -2374,7 +2522,8 @@ file: Saikyou Habu Shougi (Japan).zip
 # game: Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)
 # file: Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).zip
 
-game: SD Hiryuu no Ken Densetsu (Japan)
+game: SD飛龍の拳伝説
+sort_title: えすでぃーひりゅうのけんでんせつ
 file: SD Hiryuu no Ken Densetsu (Japan).zip
 
 # game: Sesame Street - Elmo's Letter Adventure (USA)
@@ -2407,7 +2556,8 @@ file: SD Hiryuu no Ken Densetsu (Japan).zip
 # game: Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)
 # file: Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).zip
 
-game: Shadowgate 64 - Trials of the Four Towers (Japan)
+game: シャドウゲイト64 TRIALS OF THE FOUR TOWERS
+sort_title: しゃどうげいと64
 file: Shadowgate 64 - Trials of the Four Towers (Japan).zip
 
 # game: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)
@@ -2416,22 +2566,27 @@ file: Shadowgate 64 - Trials of the Four Towers (Japan).zip
 # game: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)
 # file: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta).zip
 
-game: Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)
+game: 新日本プロレス 闘魂炎導 BRAVE SPIRITS
+sort_title: しんにほんぷろれすとうこんろーど1
 file: Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan).zip
 
-game: Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)
+game: 新日本プロレス 闘魂炎導2 The Next Generation
+sort_title: しんにほんぷろれすとうこんろーど2
 file: Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan).zip
 
-game: SimCity 2000 (Japan)
+game: シムシティ2000
+sort_title: しむしてぃ2000
 file: SimCity 2000 (Japan).zip
 
 # game: SimCopter 64 (USA) (Proto)
 # file: SimCopter 64 (USA) (Proto).zip
 
-game: Snobo Kids (Japan)
+game: スノボキッズ
+sort_title: すのぼきっず
 file: Snobo Kids (Japan).zip
 
-game: Snow Speeder (Japan)
+game: スノースピーダー
+sort_title: すのーすぴーだー
 file: Snow Speeder (Japan).zip
 
 # game: Snowboard Kids (Europe, Australia)
@@ -2446,7 +2601,8 @@ file: Snow Speeder (Japan).zip
 # game: Snowboard Kids 2 (USA)
 # file: Snowboard Kids 2 (USA).zip
 
-game: Sonic Wings Assault (Japan)
+game: ソニックウイングスアサルト
+sort_title: そにっくういんぐすあさると
 file: Sonic Wings Assault (Japan).zip
 
 # game: South Park - Chef's Luv Shack (Europe)
@@ -2485,7 +2641,8 @@ file: Sonic Wings Assault (Japan).zip
 # game: South Park Rally (USA) (Beta) (2000-01-27)
 # file: South Park Rally (USA) (Beta) (2000-01-27).zip
 
-game: Space Dynamites (Japan)
+game: スペースダイナマイツ
+sort_title: すぺーすだいなまいつ
 file: Space Dynamites (Japan).zip
 
 # game: Space Invaders (USA)
@@ -2494,8 +2651,8 @@ file: Space Dynamites (Japan).zip
 # game: SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)
 # file: SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt).zip
 
-game: SpaceStation Silicon Valley (Japan) (Proto)
-file: SpaceStation Silicon Valley (Japan) (Proto).zip
+# game: SpaceStation Silicon Valley (Japan) (Proto)
+# file: SpaceStation Silicon Valley (Japan) (Proto).zip
 
 # game: SpaceStation Silicon Valley (USA)
 # file: SpaceStation Silicon Valley (USA).zip
@@ -2506,7 +2663,8 @@ file: SpaceStation Silicon Valley (Japan) (Proto).zip
 # game: Spider-Man (USA)
 # file: Spider-Man (USA).zip
 
-game: Star Fox 64 (Japan)
+game: スターフォックス64
+sort_title: すたーふぉっくす64
 files:
   Star Fox 64 (Japan).zip
   Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).zip
@@ -2520,7 +2678,8 @@ files:
 # game: Star Fox 64 (USA) (Rev 1)
 # file: Star Fox 64 (USA) (Rev 1).zip
 
-game: Star Soldier - Vanishing Earth (Japan) (En)
+game: スターソルジャー バニシングアース
+sort_title: すたーそるじゃーばにしんぐあーす
 files:
   Star Soldier - Vanishing Earth (Japan) (En).zip
   Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10).zip
@@ -2528,7 +2687,8 @@ files:
 # game: Star Soldier - Vanishing Earth (USA)
 # file: Star Soldier - Vanishing Earth (USA).zip
 
-game: Star Twins (Japan)
+game: スターツインズ
+sort_title: すたーついんず
 file: Star Twins (Japan).zip
 
 # game: Star Wars - Rogue Squadron (Europe) (En,Fr,De)
@@ -2561,10 +2721,12 @@ file: Star Twins (Japan).zip
 # game: Star Wars - Shadows of the Empire (USA) (Rev 2)
 # file: Star Wars - Shadows of the Empire (USA) (Rev 2).zip
 
-game: Star Wars - Shutsugeki! Rogue Chuutai (Japan)
+game: スター・ウォーズ 出撃! ローグ中隊
+sort_title: すたーうぉーずしゅつげきろーぐちゅうたい
 file: Star Wars - Shutsugeki! Rogue Chuutai (Japan).zip
 
-game: Star Wars - Teikoku no Kage (Japan)
+game: スター・ウォーズ 帝国の影
+sort_title: すたーうぉーずていこくのかげ
 file: Star Wars - Teikoku no Kage (Japan).zip
 
 # game: Star Wars Episode I - Battle for Naboo (Europe)
@@ -2579,7 +2741,8 @@ file: Star Wars - Teikoku no Kage (Japan).zip
 # game: Star Wars Episode I - Racer (Europe) (En,Fr,De)
 # file: Star Wars Episode I - Racer (Europe) (En,Fr,De).zip
 
-game: Star Wars Episode I - Racer (Japan)
+game: スター・ウォーズ エピソード1 レーサー
+sort_title: すたーうぉーずえぴそーど1れーさー
 file: Star Wars Episode I - Racer (Japan).zip
 
 # game: Star Wars Episode I - Racer (USA)
@@ -2606,10 +2769,12 @@ file: Star Wars Episode I - Racer (Japan).zip
 # game: Stunt Racer 64 (USA)
 # file: Stunt Racer 64 (USA).zip
 
-game: Super B-Daman - Battle Phoenix 64 (Japan)
+game: スーパービーダマン バトルフェニックス64
+sort_title: すーぱーびーだまんばとるふぇにっくす64
 file: Super B-Daman - Battle Phoenix 64 (Japan).zip
 
-game: Super Bowling (Japan)
+game: スーパーボウリング
+sort_title: すーぱーぼうりんぐ
 file: Super Bowling (Japan).zip
 
 # game: Super Bowling (USA)
@@ -2618,10 +2783,12 @@ file: Super Bowling (Japan).zip
 # game: Super Mario 64 (Europe) (En,Fr,De)
 # file: Super Mario 64 (Europe) (En,Fr,De).zip
 
-game: Super Mario 64 (Japan)
+game: スーパーマリオ64
+sort_title: すーぱーまりお64
 file: Super Mario 64 (Japan).zip
 
-game: Super Mario 64 (Japan) (Rev 3) (Shindou Edition)
+game: スーパーマリオ64 振動パック対応版
+sort_title: すーぱーまりお64しんどうぱっくたいおうばん
 file: Super Mario 64 (Japan) (Rev 3) (Shindou Edition).zip
 
 # game: Super Mario 64 (USA)
@@ -2630,10 +2797,12 @@ file: Super Mario 64 (Japan) (Rev 3) (Shindou Edition).zip
 # game: Super Mario 64 (USA) (LodgeNet)
 # file: Super Mario 64 (USA) (LodgeNet).zip
 
-game: Super Robot Spirits (Japan)
+game: スーパーロボットスピリッツ
+sort_title: すーぱーろぼっとすぴりっつ
 file: Super Robot Spirits (Japan).zip
 
-game: Super Robot Taisen 64 (Japan)
+game: スーパーロボット大戦64
+sort_title: すーぱーろぼっとたいせん64
 file: Super Robot Taisen 64 (Japan).zip
 
 # game: Super Smash Bros. (Australia)
@@ -2648,7 +2817,8 @@ file: Super Robot Taisen 64 (Japan).zip
 # game: Super Smash Bros. (USA) (LodgeNet)
 # file: Super Smash Bros. (USA) (LodgeNet).zip
 
-game: Super Speed Race 64 (Japan)
+game: スーパースピードレース64
+sort_title: すーぱーすぴーどれーす64
 file: Super Speed Race 64 (Japan).zip
 
 # game: Supercross 2000 (Europe) (En,Fr,De)
@@ -2666,7 +2836,8 @@ file: Super Speed Race 64 (Japan).zip
 # game: Superman (USA) (Beta) (1998-09-06)
 # file: Superman (USA) (Beta) (1998-09-06).zip
 
-game: Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)
+game: 進め!対戦ぱずるだま 闘魂!まるたま町
+sort_title: すすめたいせんぱずるだまとうこんまるたまちょう
 file: Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan).zip
 
 # game: Sydney 2000 (Europe) (Proto)
@@ -2699,7 +2870,8 @@ file: Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan).zip
 # game: Telefoot Soccer 2000 (France)
 # file: Telefoot Soccer 2000 (France).zip
 
-game: Tetris 64 (Japan) (En)
+game: テトリス64
+sort_title: てとりす64
 file: Tetris 64 (Japan) (En).zip
 
 # game: Tetrisphere (Europe)
@@ -2774,13 +2946,15 @@ file: Tetris 64 (Japan) (En).zip
 # game: Tony Hawk's Skateboarding (Europe)
 # file: Tony Hawk's Skateboarding (Europe).zip
 
-game: Toon Panic (Japan) (Proto)
+game: トゥーンパニック (開発版)
+sort_title: とぅーんぱにっく
 file: Toon Panic (Japan) (Proto).zip
 
 # game: Top Gear Hyper Bike (Europe)
 # file: Top Gear Hyper Bike (Europe).zip
 
-game: Top Gear Hyper Bike (Japan)
+game: トップギア・ハイパーバイク
+sort_title: とっぷぎあはいぱーばいく
 file: Top Gear Hyper Bike (Japan).zip
 
 # game: Top Gear Hyper-Bike (USA)
@@ -2792,7 +2966,8 @@ file: Top Gear Hyper Bike (Japan).zip
 # game: Top Gear Overdrive (Europe)
 # file: Top Gear Overdrive (Europe).zip
 
-game: Top Gear Overdrive (Japan)
+game: トップギア オーバードライブ
+sort_title: とっぷぎあおーばーどらいぶ
 file: Top Gear Overdrive (Japan).zip
 
 # game: Top Gear Overdrive (USA)
@@ -2807,7 +2982,8 @@ file: Top Gear Overdrive (Japan).zip
 # game: Top Gear Rally (Europe)
 # file: Top Gear Rally (Europe).zip
 
-game: Top Gear Rally (Japan)
+game: トップギア・ラリー
+sort_title: とっぷぎあらりー1
 file: Top Gear Rally (Japan).zip
 
 # game: Top Gear Rally (USA)
@@ -2819,7 +2995,8 @@ file: Top Gear Rally (Japan).zip
 # game: Top Gear Rally 2 (Europe) (Beta) (1999-08-31)
 # file: Top Gear Rally 2 (Europe) (Beta) (1999-08-31).zip
 
-game: Top Gear Rally 2 (Japan)
+game: トップギア・ラリー2
+sort_title: とっぷぎあらりー2
 file: Top Gear Rally 2 (Japan).zip
 
 # game: Top Gear Rally 2 (USA)
@@ -2846,7 +3023,8 @@ file: Top Gear Rally 2 (Japan).zip
 # game: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)
 # file: Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1).zip
 
-game: Transformers - Beast Wars Metals 64 (Japan)
+game: トランスフォーマー ビーストウォーズメタルス64
+sort_title: とらんすふぉーまーびーすとうぉーずめたるす64
 file: Transformers - Beast Wars Metals 64 (Japan).zip
 
 # game: Transformers - Beast Wars Transmetals (USA)
@@ -2855,7 +3033,8 @@ file: Transformers - Beast Wars Metals 64 (Japan).zip
 # game: Triple Play 2000 (USA)
 # file: Triple Play 2000 (USA).zip
 
-game: Tsumi to Batsu - Hoshi no Keishousha (Japan)
+game: 罪と罰 地球の継承者
+sort_title: つみとばつほしのけいしょうしゃ
 file: Tsumi to Batsu - Hoshi no Keishousha (Japan).zip
 
 # game: Turok - Dinosaur Hunter (Europe)
@@ -2966,20 +3145,22 @@ file: Tsumi to Batsu - Hoshi no Keishousha (Japan).zip
 # game: Twisted Edge - Snowboarding (Europe)
 # file: Twisted Edge - Snowboarding (Europe).zip
 
-game: Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)
+game: ウッチャンナンチャンの炎のチャレンジャー 電流イライラ棒
+sort_title: うっちゃんなんちゃんのほのおのちゃれんじゃーでんりゅういらいらぼう
 file: Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).zip
 
 # game: V-Rally Edition 99 (Europe) (En,Fr,De)
 # file: V-Rally Edition 99 (Europe) (En,Fr,De).zip
 
-game: V-Rally Edition 99 (Japan)
+game: Vラリー EDITION99
+sort_title: ぶいらりーえでぃしょん99
 file: V-Rally Edition 99 (Japan).zip
 
 # game: V-Rally Edition 99 (USA)
 # file: V-Rally Edition 99 (USA).zip
 
-game: Viewpoint 2064 (Japan) (Proto)
-file: Viewpoint 2064 (Japan) (Proto).zip
+# game: Viewpoint 2064 (Japan) (Proto)
+# file: Viewpoint 2064 (Japan) (Proto).zip
 
 # game: Vigilante 8 - 2nd Offense (Europe)
 # file: Vigilante 8 - 2nd Offense (Europe).zip
@@ -2999,7 +3180,8 @@ file: Viewpoint 2064 (Japan) (Proto).zip
 # game: Vigilante 8 (USA)
 # file: Vigilante 8 (USA).zip
 
-game: Violence Killer - Turok New Generation (Japan)
+game: バイオレンスキラー TUROK NEW GENERATION
+sort_title: ばいおれんすきらーてゅろっくにゅーじぇねれーしょん
 file: Violence Killer - Turok New Generation (Japan).zip
 
 # game: Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)
@@ -3020,10 +3202,12 @@ file: Violence Killer - Turok New Generation (Japan).zip
 # game: Virtual Pool 64 (USA) (LodgeNet)
 # file: Virtual Pool 64 (USA) (LodgeNet).zip
 
-game: Virtual Pro Wrestling 2 - Oudou Keishou (Japan)
+game: バーチャルプロレス2 王道継承
+sort_title: ばーちゃるぷろれす2おうどうけいしょう
 file: Virtual Pro Wrestling 2 - Oudou Keishou (Japan).zip
 
-game: Virtual Pro Wrestling 64 (Japan)
+game: バーチャル・プロレスリング64
+sort_title: ばーちゃるぷろれすりんぐ64
 file: Virtual Pro Wrestling 64 (Japan).zip
 
 # game: Waialae Country Club - True Golf Classics (Europe)
@@ -3047,12 +3231,14 @@ file: Virtual Pro Wrestling 64 (Japan).zip
 # game: Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)
 # file: Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De).zip
 
-game: Wave Race 64 - Kawasaki Jet Ski (Japan)
+game: ウェーブレース64
+sort_title: うぇーぶれーす64
 files:
   Wave Race 64 - Kawasaki Jet Ski (Japan).zip
   Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1).zip
 
-game: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)
+game: ウェーブレース64 振動パック対応版
+sort_title: うぇーぶれーす64しんどうぱっくたいおうばん
 file: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).zip
 
 # game: Wave Race 64 - Kawasaki Jet Ski (USA)
@@ -3073,7 +3259,8 @@ file: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).zip
 # game: Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)
 # file: Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).zip
 
-game: Wayne Gretzky's 3D Hockey (Japan)
+game: ウェイン・グレツキー 3Dホッケー
+sort_title: うぇいんぐれつきー3Dほっけー
 file: Wayne Gretzky's 3D Hockey (Japan).zip
 
 # game: Wayne Gretzky's 3D Hockey (USA)
@@ -3112,7 +3299,8 @@ file: Wayne Gretzky's 3D Hockey (Japan).zip
 # game: Wetrix (Europe) (En,Fr,De,Es,It,Nl)
 # file: Wetrix (Europe) (En,Fr,De,Es,It,Nl).zip
 
-game: Wetrix (Japan)
+game: ウェットリス
+sort_title: うぇっとりす
 file: Wetrix (Japan).zip
 
 # game: Wetrix (USA) (En,Fr,De,Es,It,Nl)
@@ -3136,7 +3324,8 @@ file: Wetrix (Japan).zip
 # game: Wide-Boy64 CGB (World) (v1.02)
 # file: Wide-Boy64 CGB (World) (v1.02).zip
 
-game: Wild Choppers (Japan)
+game: ワイルドチョッパーズ
+sort_title: わいるどちょっぱーず
 file: Wild Choppers (Japan).zip
 
 # game: Wildwaters (USA) (1999-06-15) (Proto)
@@ -3145,7 +3334,8 @@ file: Wild Choppers (Japan).zip
 # game: WinBack - Covert Operations (USA)
 # file: WinBack - Covert Operations (USA).zip
 
-game: WinBack (Japan)
+game: WIN BACK
+sort_title: うぃんばっく
 files:
   WinBack (Japan).zip
   WinBack (Japan) (Rev 1).zip
@@ -3159,7 +3349,8 @@ files:
 # game: Wipeout 64 (USA)
 # file: Wipeout 64 (USA).zip
 
-game: Wonder Project J2 - Koruro no Mori no Jozet (Japan)
+game: ワンダープロジェクトJ2 コルロの森のジョゼット
+sort_title: わんだーぷろじぇくとじぇいつーこるろのもりのじょぜっと
 file: Wonder Project J2 - Koruro no Mori no Jozet (Japan).zip
 
 # game: World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)
@@ -3213,7 +3404,8 @@ file: Wonder Project J2 - Koruro no Mori no Jozet (Japan).zip
 # game: WWF WrestleMania 2000 (Europe)
 # file: WWF WrestleMania 2000 (Europe).zip
 
-game: WWF WrestleMania 2000 (Japan)
+game: WWFレッスルマニア2000
+sort_title: だぶりゅーだぶりゅーえふれっするまにあ2000
 file: WWF WrestleMania 2000 (Japan).zip
 
 # game: WWF WrestleMania 2000 (USA)
@@ -3231,10 +3423,12 @@ file: WWF WrestleMania 2000 (Japan).zip
 # game: Xplorer 64 (Germany) (v1.067) (Unl)
 # file: Xplorer 64 (Germany) (v1.067) (Unl).zip
 
-game: Yakouchuu II - Satsujin Kouro (Japan)
+game: 夜光虫II 殺人航路
+sort_title: やこうちゅう2さつじんこうろ
 file: Yakouchuu II - Satsujin Kouro (Japan).zip
 
-game: Yoshi Story (Japan)
+game: ヨッシーストーリー
+sort_title: よっしーすとりー
 file: Yoshi Story (Japan).zip
 
 # game: Yoshi's Story (Europe) (En,Fr,De)
@@ -3246,27 +3440,27 @@ file: Yoshi Story (Japan).zip
 # game: Yoshi's Story (USA) (En,Ja) (LodgeNet)
 # file: Yoshi's Story (USA) (En,Ja) (LodgeNet).zip
 
-game: Yuke Yuke!! Trouble Makers (Japan)
+game: ゆけゆけ!! トラブルメーカーズ
+sort_title: ゆけゆけとらぶるめーかーず
 file: Yuke Yuke!! Trouble Makers (Japan).zip
 
-game: Zelda no Densetsu - Mujura no Kamen (Japan)
+game: ゼルダの伝説 ムジュラの仮面
+sort_title: ぜるだのでんせつむじゅらのかめん
 files:
   Zelda no Densetsu - Mujura no Kamen (Japan).zip
   Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).zip
   Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1).zip
 
-game: Zelda no Densetsu - Toki no Ocarina (Japan)
+game: ゼルダの伝説 時のオカリナ
+sort_title: ぜるだのでんせつときのおかりな
 files:
   Zelda no Densetsu - Toki no Ocarina (Japan).zip
   Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection).zip
   Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1).zip
   Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2).zip
+  Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube).zip
+  Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube).zip
 
-game: Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)
-file: Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube).zip
-
-game: Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)
-file: Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube).zip
-
-game: Zool - Majuu Tsukai Densetsu (Japan)
+game: ズール 魔獣使い伝説
+sort_title: ずーるまじゅうつかいでんせつ
 file: Zool - Majuu Tsukai Densetsu (Japan).zip

@@ -117,11 +117,11 @@ file: Air Boarder 64 (Japan).zip
 # game: Airboarder 64 (Europe)
 # file: Airboarder 64 (Europe).zip
 
-game: 悪魔城ドラキュラ黙示録 Real Action Adventure
+game: 悪魔城ドラキュラ黙示録
 sort_title: あくまじょうどらきゅらもくしろく1
 file: Akumajou Dracula Mokushiroku - Real Action Adventure (Japan).zip
 
-game: 悪魔城ドラキュラ黙示録外伝 Legend of Cornell
+game: 悪魔城ドラキュラ黙示録外伝 LEGEND OF CORNELL
 sort_title: あくまじょうどらきゅらもくしろく2
 file: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).zip
 
@@ -218,7 +218,7 @@ file: Banjo to Kazooie no Daibouken 2 (Japan).zip
 # game: Banjo-Tooie (USA)
 # file: Banjo-Tooie (USA).zip
 
-game: バスラッシュ ECOGEAR PowerWorm Championship (Japan)
+game: バスラッシュ エコギア パワーワームチャンピオンシップ
 sort_title: ばすらっしゅ
 file: Bass Rush - ECOGEAR PowerWorm Championship (Japan).zip
 

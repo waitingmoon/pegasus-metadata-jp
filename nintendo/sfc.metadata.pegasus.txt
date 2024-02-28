@@ -7613,8 +7613,8 @@ files:
 # game: Peace Keepers, The (USA) (Beta)
 # file: Peace Keepers, The (USA) (Beta).zip
 
-game: ペブルビーチの波濤
-sort_title: ぺぶるびーちのはとう
+game: ペブルビーチの波濤 トーナメントエディション
+sort_title: ぺぶるびーちのはとうとーなめんとえでぃしょｎ
 file: Pebble Beach no Hatou New - Tournament Edition (Japan).zip
 
 # game: Peru - Operation Chavin de Huantar (USA) (Demo) (Unl)
@@ -11613,8 +11613,9 @@ game: スーパーレッスルエンジェルス
 sort_title: すーぱーれっするえんじぇるす
 file: Super Wrestle Angels (Japan).zip
 
-# game: Super X-Terminator 2 Sasuke (Japan) (Unl) [b]
-# file: Super X-Terminator 2 Sasuke (Japan) (Unl) [b].zip
+game: スーパーエックスターミネーター2 サスケ (非公認)
+sort_title: すーぱーえっくすたーみねーたー2さすけ
+file: Super X-Terminator 2 Sasuke (Japan) (Unl) [b].zip
 
 game: スーパー野球道
 sort_title: すーぱーやきゅうどう

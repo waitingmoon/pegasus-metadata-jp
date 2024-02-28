@@ -547,10 +547,9 @@ file: AirForce Delta II (Japan) (En,Ja,Fr,De).zip
 # file: AirForce Delta Storm (USA) (En,Ja,Fr,De).zip
 
 game: Aka-chan Doubutsuen (Japan)
-file: Aka-chan Doubutsuen (Japan).zip
-
-game: Aka-chan Doubutsuen (Japan) (Rev 1)
-file: Aka-chan Doubutsuen (Japan) (Rev 1).zip
+files:
+  Aka-chan Doubutsuen (Japan).zip
+  Aka-chan Doubutsuen (Japan) (Rev 1).zip
 
 # game: Akumajou Dracula - Circle of the Moon (China) (Unl)
 # file: Akumajou Dracula - Circle of the Moon (China) (Unl).zip

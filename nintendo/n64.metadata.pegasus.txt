@@ -1392,6 +1392,9 @@ description:
 game: イギーくんのぶら2ぽよん
 sort_title: いぎーくんのぶらぶらぽよん
 file: Iggy-kun no Bura Bura Poyon (Japan).zip
+publisher: アクレイムジャパン
+description:
+   アクレイムジャパンより1998年8月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。主人公のイギーくんをはじめコミカルなキャラが”アーム”を使って、ライバルより先に頂上を目指す3Dアクションレースゲーム。ロープ状の”アーム”は、コースを登る以外にライバルにくっつけることができ、ライバルをぐるぐる回してコース外に投げ飛ばしたりといった、様々なアクションに使うことができる。
 
 # game: Iggy's Reckin' Balls (Europe)
 # file: Iggy's Reckin' Balls (Europe).zip
@@ -1879,6 +1882,9 @@ description:
 game: 麻雀MASTER
 sort_title: まーじゃんますたー
 file: Mahjong Master (Japan).zip
+publisher: コナミ
+description:
+   コナミより1996年12月20日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。雀士がポリゴンで描かれた本格4人打ち麻雀ゲーム。対戦可能なキャラクターは個性豊かな19人が登場する。シンプルだが麻雀に必要な機能は全て用意されている。ゲームモードは「フリー対戦モード」「ストーリーモード」「勝ち抜きモード」「クイズモード」の4つが搭載されている。また、個人記録も確認することができる。
 
 # game: Major League Baseball Featuring Ken Griffey Jr. (Australia)
 # file: Major League Baseball Featuring Ken Griffey Jr. (Australia).zip
@@ -3305,6 +3311,9 @@ description:
 game: スーパーロボット大戦64
 sort_title: すーぱーろぼっとたいせん64
 file: Super Robot Taisen 64 (Japan).zip
+publisher: バンプレスト
+description:
+   バンプレストより1999年10月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションRPG。SDで表現されたロボットたちが競演するクロスオーバー作品「スーパーロボット大戦シリーズ」の一つ。バンプレストオリジナルと呼ばれるゲームオリジナルのキャラクターを大きくピックアップして、本編のシナリオに組み込んだ最初の作品。本作以降、シナリオに重点が置かれるようになった。
 
 # game: Super Smash Bros. (Australia)
 # file: Super Smash Bros. (Australia).zip

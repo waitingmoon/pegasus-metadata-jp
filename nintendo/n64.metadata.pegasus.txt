@@ -25,6 +25,9 @@
 game: 1080° スノーボーディング
 sort_title: てんえいてぃすのーぼーでぃんぐ
 file: 1080 Snowboarding (Japan, USA) (En,Ja).zip
+publisher: 任天堂
+description:
+   任天堂より1998年2月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ハーフパイプも急斜面も思いのまま。5人のライダーがリアルな銀世界を滑走するスノボードゲーム。コンピュータ・ライダーと競う「マッチ・レース」、自分のゴーストとも闘える「タイム・アタック」、トリックで高得点を狙う「トリック・アタック」、総合力が勝負の複合競技「コンテスト」など6種目を搭載している。
 
 # game: 1080 Snowboarding (USA) (En,Ja) (LodgeNet)
 # file: 1080 Snowboarding (USA) (En,Ja) (LodgeNet).zip
@@ -41,22 +44,37 @@ file: 1080 Snowboarding (Japan, USA) (En,Ja).zip
 game: 64で発見!!たまごっち みんなでたまごっちワールド
 sort_title: ろくよんではっけんたまごっちみんなでたまごっちわーるど
 file: 64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1997年12月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ばんぞー博士の発明した「大型たまごっちハウス」で暮らしているたまごっち達を、ボードゲームの形をとりながら育てていく。たまごっち達の様子を見ながら育て、「アドルトっち」から「鶏たまごっち」へ、誰よりも早く変身させることがゲームの目的。ミニゲームも10種類収録されている。
 
 game: 64花札 天使の約束
 sort_title: ろくよんはなふだてんしのやくそく
 file: 64 Hanafuda - Tenshi no Yakusoku (Japan).zip
+publisher: アルトロン
+description:
+   アルトロンより1999年11月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売された花札ゲーム。花札ゲームの面白さはそのままに、切ないラブストーリーをミックス。ストーリーモードでは、主人公が18年前にかわした「また流星群を見ようね」という約束を叶えるために思い出の町に帰り、途中で出会う様々な人々と花札勝負を繰り広げながら、思い出の場所を目指す。
 
 game: 64大相撲
 sort_title: ろくよんおおずもう1
 file: 64 Oozumou (Japan).zip
+publisher: ボトムアップ
+description:
+   ボトムアップより1997年11月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された相撲ゲーム。挌闘アクションとして相撲を楽しむことはもちろん、横綱を目指し育成シミュレーションも楽しめる。前頭15枚目からスタートして、1場所15日間、年間6場所かけて最強の横綱を目指す「横綱サクセスモード」を搭載。育てた力士をゲームに登場する全ての力士と自由に対戦できる「対戦モード」も搭載。
 
 game: 64大相撲2
 sort_title: ろくよんおおずもう2
 file: 64 Oozumou 2 (Japan).zip
+publisher: ボトムアップ
+description:
+   ボトムアップより1999年3月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。個性豊かな力士が横綱目指し、様々な決まり手を繰り出して相撲を取るゲーム。400以上のイベントが発生し、使用する力士のパラメーターを自分自身で作成し、自分だけのオリジナルキャラクターとしてゲームの中に登場させる事が可能。モードは「ストーリーモード」「取り組みモード」「練習モード」が用意されている。
 
 game: 64トランプコレクション アリスのわくわくトランプワールド
 sort_title: ろくよんとらんぷこれくしょんありすのわくわくとらんぷわーるど
 file: 64 Trump Collection - Alice no Wakuwaku Trump World (Japan).zip
+publisher: ボトムアップ
+description:
+   ボトムアップより1998年8月7日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。戦うトランプがコンセプト。ストーリーモードは、アリスの「ふしぎ世界」のユニークなキャラクターが登場する全7ステージ、7つのトランプバトルが収録されている。スタンダードモードでは「ポーカー」「スピード」「セブンブリッジ」「ババ抜き」「ダウト」「大富豪」「七ならべ」等、15種類のゲームが楽しめる。
 
 # game: Action Replay Pro 64 (Europe) (v3.0) (Unl)
 # file: Action Replay Pro 64 (Europe) (v3.0) (Unl).zip
@@ -78,6 +96,9 @@ sort_title: えあろげいじ
 files:
   AeroGauge (Japan) (Rev 1).zip
   AeroGauge (Japan) (Demo) (Kiosk).zip
+publisher: アスキー
+description:
+   アスキーより1997年12月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたレースゲーム。操るのは、地面すれすれを浮かんで走るエアロマシン。時速300Km以上の猛スピードで、近未来的な雰囲気のコースを失踪する。マシンは空中に浮上し飛行することも可能。空中を走行するとスピードアップするので、ライバルマシンを抜き去ることもできる。ゲームモードは「グランプリモード」などの4種類。
 
 # game: AeroGauge (USA)
 # file: AeroGauge (USA).zip
@@ -85,6 +106,9 @@ files:
 game: AI将棋3
 sort_title: えーあいしょうぎ3
 file: AI Shougi 3 (Japan).zip
+publisher: アスキーサムシンググッド
+description:
+   アスキーサムシンググッドより1998年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売された将棋ゲーム。アマ2、3段クラスの棋力を実現した思考ルーティンを搭載。序盤では、プロ棋士の”ひらめき”を思わせるような味わいのある手筋を展開。中盤から終盤にかけての寄せは、コンピュータ将棋ならではの圧倒的な強さ。もちろん、初・中級でも楽しめるよう思考レベルを様々に調整することができる。
 
 # game: Aidyn Chronicles - The First Mage (Europe)
 # file: Aidyn Chronicles - The First Mage (Europe).zip
@@ -113,6 +137,9 @@ file: AI Shougi 3 (Japan).zip
 game: エアーボーダー64
 sort_title: えあーぼーだー64
 file: Air Boarder 64 (Japan).zip
+publisher: ヒューマン
+description:
+   ヒューマンより1998年3月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。近未来が舞台の空中浮遊スポーツアクションゲーム。個性的なキャラクターがアナログスティックならではのアクションを繰り出し、全ステージを制覇するストーリー。様々なアクションポーズを決め、得点を稼ぎ、天才エアーボーダーに挑む。振動パック対応で、操作や行動、障害物への衝突時などに敏感に反応する。
 
 # game: Airboarder 64 (Europe)
 # file: Airboarder 64 (Europe).zip
@@ -120,10 +147,16 @@ file: Air Boarder 64 (Japan).zip
 game: 悪魔城ドラキュラ黙示録
 sort_title: あくまじょうどらきゅらもくしろく1
 file: Akumajou Dracula Mokushiroku - Real Action Adventure (Japan).zip
+publisher: コナミ
+description:
+   コナミより1999年3月11日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。「悪魔城ドラキュラ」シリーズの一作。プレイ可能な2人のキャラクターはそれぞれにストーリーがあるが、最終目的は復活した「ドラキュラ伯爵」を倒すこと。プレイヤーは悪魔城近くの森からスタートし、悪魔城に向かっていく。ステージは「森」「城壁」「時計塔」などの他に3D空間を活かした10ステージが存在する。
 
 game: 悪魔城ドラキュラ黙示録外伝 LEGEND OF CORNELL
 sort_title: あくまじょうどらきゅらもくしろく2
 file: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).zip
+publisher: コナミ
+description:
+   コナミより1999年12月25日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。復活したドラキュラ伯爵を倒すため悪魔城近くの湖からスタートし悪魔城へ向かう。ストーリーモードは、前作「悪魔城ドラキュラ黙示録」から8年の月日をさかのぼる1844年で“コーネル編”“ラインハルト編・キャリー編”“ヘンリー編”の3種類。また、ラインハルトとキャリーは新コスチュームで登場。
 
 # game: All Star Tennis '99 (Europe) (En,Fr,De,Es,It)
 # file: All Star Tennis '99 (Europe) (En,Fr,De,Es,It).zip
@@ -179,26 +212,44 @@ file: Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).zip
 game: 爆ボンバーマン
 sort_title: ばくぼんばーまん1
 file: Baku Bomberman (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1997年9月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。「ボンバーマン」シリーズの一作。ボンバーマンがフルポリゴン完全3Dとなってニンテンドー64に登場。爆弾がでっかくなる「溜めボム」や、爆弾を積み上げて高いところにいる敵をブッ飛ばす「ボムタワー」など新しいワザも満載。本作は難易度は非常に高いが、難易度に反してバランス崩壊起こさない完成度となっている。
 
 game: 爆ボンバーマン2
 sort_title: ばくぼんばーまん2
 file: Baku Bomberman 2 (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1999年12月3日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。爆ボンバーマンの続編。今回は新お助けキャラのポミュが仲間に加わった。ポミュは1人プレイの時は相手を攻撃しながらボンバーマンについていき、2人プレイでは動かすこともできる。ポミュは育てることもでき、色々な形に成長していく。特殊な能力を持つボムも登場し、「水」「炎」「風」「雷」などバラエティ豊か。
 
 game: 爆裂無敵バンガイオー
 sort_title: ばくれつむてきばんがいおー
 file: Bakuretsu Muteki Bangaioh (Japan).zip
+publisher: ESP
+description:
+   ESPより1999年9月3日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。200くらい未来。熱き男達の思い渦巻く「男星」を舞台に、父である牧士万(まきし ばん)の民間警察を手伝う牧士力(まきし りき)と牧士真美(まきし まみ)が、「スペースフルーツ」の密輸で私腹を肥やす該(ガイ)が率いる宇宙ヤクザ「SF虎巣喪組(こすもぐみ)」と闘いを繰り広げる。
 
 game: 爆笑人生64 めざせ!リゾート王
 sort_title: ばくしょうじんせい64
 file: Bakushou Jinsei 64 - Mezase! Resort Ou (Japan).zip
+publisher: タイトー
+description:
+   タイトーより1998年12月24日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。『爆笑!人生劇場』シリーズの一作。サイコロを転がし、土地を買ってホテルを建てていく。株を上手に売買いたり、他のプレイヤーとうまく交渉したりして、素晴らしいリゾートホテルを建ててタウン一番の金持ちを目指す。プレイヤーの誰かが目標金額に到達するか、規定の人数が破産した場合に勝敗が決まる。
 
 game: バンジョーとカズーイの大冒険
 sort_title: ばんじょーとかずーいのだいぼうけん1
 file: Banjo to Kazooie no Daibouken (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1998年12月6日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。くまのバンジョーととりのカズーイのおかしなコンビが大冒険を繰り広げるアクションゲーム。ある日、悪い魔女グランチルダが、バンジョーの妹チューティをさらってしまった。バンジョーとカズーイはチューティを救い出すため、9つのステージをクリアしていく。無事チューティを助け出すことができるだろうか?
 
 game: バンジョーとカズーイの大冒険2
 sort_title: ばんじょーとかずーいのだいぼうけん2
 file: Banjo to Kazooie no Daibouken 2 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年11月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。あの名コンビ、クマのバンジョーとトリのカズーイがまたまた大活躍。復活した魔女グランチルダを倒すため、仲間のマンボ・ジャンボらと共に立ち上がった。冒険の舞台となるステージはボリュームたっぷり。古代遺跡や海の中、さらにはおかしな遊園地など、想像を超える世界が待っている。
 
 # game: Banjo-Kazooie (Europe) (En,Fr,De)
 # file: Banjo-Kazooie (Europe) (En,Fr,De).zip
@@ -221,6 +272,9 @@ file: Banjo to Kazooie no Daibouken 2 (Japan).zip
 game: バスラッシュ エコギア パワーワームチャンピオンシップ
 sort_title: ばすらっしゅ
 file: Bass Rush - ECOGEAR PowerWorm Championship (Japan).zip
+publisher: ビスコ
+description:
+   ビスコより2000年4月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された釣りゲーム。エコギア完全タイアップによりバスフィッシングをリアルに実現。実在するポイント、口湖、北浦、野尻湖、霞ケ浦、琵琶湖、池原ダムを完全再現している。ハード&ソフトルアー共に3色カラー選択可で全102種類。通常の釣り同様の水上画面モードもあり、バトル時もリアルタイムで4種の視点切り替えが可能。
 
 # game: Bassmasters 2000 (USA)
 # file: Bassmasters 2000 (USA).zip
@@ -252,6 +306,9 @@ file: Bass Rush - ECOGEAR PowerWorm Championship (Japan).zip
 game: ビートルアドベンチャーレーシング
 sort_title: びーとるあどべんちゃーれーしんぐ
 file: Beetle Adventure Racing! (Japan).zip
+publisher: エレクトロニック・アーツ
+description:
+   エレクトロニック・アーツより1999年11月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。実車「フォルクスワーゲン・ビートル」が登場。レースで勝つことで増えていく、バリエーション豊かな「ビートル」や「コース」。マルチプレイ専用モード搭載。2から4人までプレイ可能で誰よりも早く、コースに出てくる「てんとうむし」を6色集め、ライバル車に立ち向かう「ビートルバトル」を用意。
 
 # game: Beetle Adventure Racing! (USA) (En,Fr,De)
 # file: Beetle Adventure Racing! (USA) (En,Fr,De).zip
@@ -268,6 +325,9 @@ file: Beetle Adventure Racing! (Japan).zip
 game: バイオハザード2
 sort_title: ばいおはざーど2
 file: Biohazard 2 (Japan).zip
+publisher: CAPCOM
+description:
+   カプコンより2000年1月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。PSで発売された『バイオハザード』の2ヶ月後の物語。偶然バイオハザードに見舞われた日にラクーンシティへ来た新人警官のレオンや女子大生のクレアを操作して壊滅状態の街を探索し、遭遇するさまざまなクリーチャーに対処しつつ、各種アイテムを駆使して街から脱出するのが目的となる。
 
 # game: Blast Corps (Europe) (En,De)
 # file: Blast Corps (Europe) (En,De).zip
@@ -281,6 +341,9 @@ file: Biohazard 2 (Japan).zip
 game: ブラストドーザー
 sort_title: ぶらすとどーざー
 file: Blastdozer (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1997年3月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。トレーラーの行く手を阻む障害物を破壊し、汚染された地行きをクリーンにすること、それが破壊と救助のプロ「ブラストドーザー」社に課せられた使命。進路以外にある建物も全て見つけ出して破壊し、逃げ遅れた住民の避難もさせる。これらの成果を総合して作業状況が評価され、結果によって金・銀・銅メダルが与えられる。
 
 # game: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)
 # file: Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).zip
@@ -306,6 +369,9 @@ files:
   Bokujou Monogatari 2 (Japan).zip
   Bokujou Monogatari 2 (Japan) (Rev 1).zip
   Bokujou Monogatari 2 (Japan) (Rev 2).zip
+publisher: パック・イン・ビデオ
+description:
+   パック・イン・ビデオより1999年2月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションゲーム。『牧場物語』シリーズの3作目。亡くなった祖父の牧場を引き継ぎ、「花の芽町」での3年間の牧場生活を評価される。2Dで表示の従来のシリーズとは異なり、3Dクォータービューで描かれている。イベントの数や、会話の内容などが豊富で、住民達とのふれあいを楽しめるようになっている。
 
 # game: Bomberman 64 - The Second Attack! (USA)
 # file: Bomberman 64 - The Second Attack! (USA).zip
@@ -316,6 +382,9 @@ files:
 game: ボンバーマン64
 sort_title: ぼんばーまん64
 file: Bomberman 64 (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより2001年12月20日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。初代『ボンバーマン』の発売から16年を記念し、ボンバーマンに関連したさまざまなゲームをリバイバルしつつ新要素も追加した、ボンバーマンの集大成。何度遊んでも楽しい爆弾バトル「ボンバーマン」のほか、人気の高い「ぱにっくボンバー」「さめがめ」「ボンバーマンパーク」の3本を収録している。
 
 # game: Bomberman 64 (USA)
 # file: Bomberman 64 (USA).zip
@@ -323,6 +392,9 @@ file: Bomberman 64 (Japan).zip
 game: ボンバーマンヒーロー ミリアン王女を救え!
 sort_title: ぼんばーまんひーろーみりあんおうじょをすくえ
 file: Bomberman Hero - Mirian Oujo o Sukue! (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1998年4月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。おなじみボンバーマンをはじめ、可憐なミリアン王女や頼もしい助っ人ルーイ、ちょっと気になるかっこいいライバルキャラが登場。”ジャンプ”や回転ポム投げ”など多彩なアクションも魅力。特殊パーツと合体することで、ジェットや潜水艦などに変身し、魚雷戦ゲームやシューティングゲーム風のアクションも楽しめる。
 
 # game: Bomberman Hero (Europe)
 # file: Bomberman Hero (Europe).zip
@@ -342,6 +414,9 @@ file: Bomberman Hero - Mirian Oujo o Sukue! (Japan).zip
 game: バックバンブル
 sort_title: ばっくばんぶる
 file: Buck Bumble (Japan).zip
+publisher: ユービーアイソフト
+description:
+   ユービーアイソフトより1998年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。突然変異し人間並の知性と科学力を備えるようになった虫達が世界を征服しようと企む中、プレイヤーは一匹のハチとなりそれを阻止すべく立ち向かう内容となっている。まるで虫の動きを体験しているかのような感覚を味わう事ができ、ハチ独特の動きや操作が特徴となっている。
 
 # game: Buck Bumble (USA)
 # file: Buck Bumble (USA).zip
@@ -421,6 +496,9 @@ file: Buck Bumble (Japan).zip
 game: カメレオンツイスト
 sort_title: かめれおんついすと1
 file: Chameleon Twist (Japan).zip
+publisher: 日本システムサプライ
+description:
+   日本システムサプライより1997年12月12日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。プレイヤーはカメレオン「デイビー」を操作し、迷い込んでしまった「不思議の国」から抜け出すのが目的。デイビーの武器はカメレオンの特徴である長い舌。伸ばした舌で敵をからめ取り、からめた敵を他の敵にぶつけて倒していく。「バトル」という対戦モードもあり、最大4人まで参加できる。
 
 # game: Chameleon Twist (USA)
 # file: Chameleon Twist (USA).zip
@@ -434,6 +512,9 @@ file: Chameleon Twist (Japan).zip
 game: カメレオンツイスト2
 sort_title: かめれおんついすと2
 file: Chameleon Twist 2 (Japan).zip
+publisher: 日本システムサプライ
+description:
+   日本システムサプライより1998年12月25日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。伸ばした舌を自由に操り、いくつもの仕掛けを越えていくアクションゲーム。『2』の舞台は和風。舌が物にくっつく特徴を利用したものと背中のランドセルに隠されたパラソルを使用したもの、2種類の新しいアクションが加わった。新しいアクションも駆使して、見事難関だらけのステージをクリアしてこう。
 
 # game: Chameleon Twist 2 (USA)
 # file: Chameleon Twist 2 (USA).zip
@@ -453,26 +534,44 @@ file: Chameleon Twist 2 (Japan).zip
 game: チョロQ64
 sort_title: ちょろきゅー641
 file: Choro Q 64 (Japan).zip
+publisher: タカラ
+description:
+   タカラより1998年7月17日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。コロコロ可愛いチョロQが10種類以上も登場。攻撃アイテムでライバルを妨害して優勝を目指す。「揺れる吊り橋」「転がる大岩」「巨大な振り子」「ふきあがる炎の柱」などの仕掛けのオン・オフが設定できたり、「雪道」「氷」などのシチュエーションも設定でき、多彩なバリエーションが満載。最大4人までの同時対戦が可能。
 
 game: チョロQ64 2 ハチャメチャグランプリレース
 sort_title: ちょろきゅー642
 file: Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan).zip
+publisher: タカラ
+description:
+   タカラより1999年12月24日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。コミカルで可愛らしいマシンで競い合うレースゲーム。走行できるコースはオンロード・オフロード・オン、オフ混在コースの18種類。晴や雨、雷と天候を変えることも可能。順位が低いものが有利になる「チョロQコイン」システムを導入。マシン改造が可能で、ボディー、エンジンなど155個ものパーツを集めて改造できる。
 
 game: 超空間ナイター プロ野球キング
 sort_title: ちょうくうかんないたーぷろやきゅうきんぐ1
 file: Chou Kuukan Nighter Pro Yakyuu King (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1996年12月20日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。キャラクターが2頭身、デッドボールをくらうと体がばらばらになるといったコミカルな要素満載のオールフルポリゴン野球ゲーム。全てをポリゴンで表現したことにより、斬新なカメラワークを駆使したプレイ・観戦が可能となった。選手名は(社)日本野球機構の承認を得ているので、全て実名で登場している。
 
 game: 超空間ナイター プロ野球キング2
 sort_title: ちょうくうかんないたーぷろやきゅうきんぐ2
 file: Chou Kuukan Nighter Pro Yakyuu King 2 (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1999年3月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売された野球ゲーム。ゲーム内の選手1球団40名合計480名、球場は全て実名で登場。球場は実在の11球場の他、楽しい仕掛け満載の5つオリジナル球場が搭載。ゲームモードは98年度のペナント戦の見所をチーム毎に再現した「シナリオモード」、自分の好きな選手を作れる「クリエイトモード」など9つを収録している。
 
 game: 超スノボキッズ
 sort_title: ちょーすのぼきっず
 file: Chou Snobo Kids (Japan).zip
+publisher: アトラス
+description:
+   アトラスより1999年2月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。「スノボキッズ」をバージョンアップ。新たにストーリーモードを追加し、1人プレイでも遊びやすくなった。ビジュアル面も前回より綺麗になり、スピード満点のレースゲームを実現。登場キャラが9人に、コースも12コースとバージョンアップ。レッスンモードも、よりフレンドリーになりマニュアルいらずの仕様。
 
 game: シティーツアーグランプリ 全日本GT選手権
 sort_title: してぃーつあーぐらんぷりぜんにほんじーてぃーせんしゅけん
 file: City-Tour GP - Zen-Nihon GT Senshuken (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1998年10月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。GTA公認。トヨタカストロールスープラ、無限NSXといった人気チームの全14台のマシンが登場する。エンジン音から挙動、パーツまで実在庫を忠実に再現。亜久里、星野、マッチ(近藤真彦)、影山兄弟といった有名ドライバー28名が登場。好みの選手になりきって、感情移入度満足のプレイができる。
 
 # game: Clay Fighter - Sculptor's Cut (USA)
 # file: Clay Fighter - Sculptor's Cut (USA).zip
@@ -540,10 +639,16 @@ file: City-Tour GP - Zen-Nihon GT Senshuken (Japan).zip
 game: カスタムロボ
 sort_title: かすたむろぼ1
 file: Custom Robo (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1999年12月8日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。人々は小型ロボ=カスタムロボを使ったアクションバトルゲームを考案。プラモデルサイズのカスタムロボに、「ボム」「ガン」「ポッド」といった武器を自由にカスタマイズして、バトルフィールド「ホロセウム」を舞台に敵と思う存分戦える感覚は、まさにプラモデルを本当に戦わせている感覚そのもの。
 
 game: カスタムロボV2
 sort_title: かすたむろぼ2
 file: Custom Robo V2 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年11月10日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。舞台は、前作「カスタムロボ」でのグレードロボカップの激闘から1年。新しいロボ、新しいパーツそして新たなライバルが次々と登場する、「旅立ち編」と「激闘編」の2つのシナリオがプレイできる。「2on2バトル」では2人でタッグを組みバトルをするモード。今回は最大4人まで遊べる。
 
 # game: CyberTiger (Europe)
 # file: CyberTiger (Europe).zip
@@ -557,6 +662,9 @@ file: Custom Robo V2 (Japan).zip
 game: ダンスダンスレボリューション ディズニーダンシングミュージアム
 sort_title: だんすだんすれぼりゅーしょんでぃずにーだんしんぐみゅーじあむ
 file: Dance Dance Revolution - Disney Dancing Museum (Japan).zip
+publisher: コナミ
+description:
+   コナミより2000年11月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。世界中のアイドル、ミッキーマウスをはじめとするディズニーキャラクターたちがDDRに登場。「ミッキーマウス・マーチ」等、おなじみのディズニーミュージックに加え、オリジナルダンスミュージックを20曲以上収録。また、本作だけのオリジナル「セッションモード」では、ダンスと楽器の演奏が同時にプレイできる。
 
 # game: Dark Rift (Europe)
 # file: Dark Rift (Europe).zip
@@ -573,12 +681,18 @@ file: Dance Dance Revolution - Disney Dancing Museum (Japan).zip
 game: 電車でGO! 64
 sort_title: でんしゃでごー64
 file: Densha de Go! 64 (Japan).zip
+publisher: タイトー
+description:
+   タイトーより1999年7月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションゲーム。快速・特急などの列車が登場する『電車でGO!2 高速編 3000番台』を基本としてNINTENDO64向けに拡張した作品。特殊な機能として音声認識システム(VRS)に対応しており、ゲーム中の特定の場所でうまく発声をすると、ボーナスを得ることができる。
 
 game: ダービースタリオン64
 sort_title: だーびーすたりおん64
 files:
   Derby Stallion 64 (Japan).zip
   Derby Stallion 64 (Japan) (Beta) [b].zip
+publisher: メディアファクトリー
+description:
+   メディアファクトリーより2001年8月10日にニンテンドウ64(NINTENDO64)用ソフトとして発売された競走馬育成シミュレーションゲーム。「ダービースタリオン」シリーズの一作。従来のシリーズから、牧場、レースシーンなどのグラフィック、種牡馬、繁殖牝馬、ライバル馬などの馬データやレースプログラムを一新している。また、N64版ではコントローラパックを使って、ブリーダーズバトルが可能となっている。
 
 # game: Destruction Derby 64 (Europe) (En,Fr,De)
 # file: Destruction Derby 64 (Europe) (En,Fr,De).zip
@@ -592,6 +706,9 @@ files:
 game: デザエモン3D
 sort_title: でざえもん3D
 file: Dezaemon 3D (Japan).zip
+publisher: アテナ
+description:
+   アテナより1998年6月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された自分で創るシューティングゲーム。5ステージのシューティングゲームを製作することが可能。自機や敵機、背景などはすべて3Dで描画されるが、ゲームシステムとしては2Dとなる。3Dモデルはテクスチャ貼りも含めて自作可能。また、カメラを調整することでクォータービュー、トップビュー、サイドビューにすることも可能。
 
 # game: Diddy Kong Racing (Europe) (En,Fr,De)
 # file: Diddy Kong Racing (Europe) (En,Fr,De).zip
@@ -602,6 +719,9 @@ file: Dezaemon 3D (Japan).zip
 game: ディディーコングレーシング
 sort_title: でぃでぃーこんぐれーしんぐ
 file: Diddy Kong Racing (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1997年11月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ドンキーコングに登場するキャラクター「ディディーコング」を主役としたレースゲーム。8匹の中から、好きなキャラクターを選んでレースに挑む。それぞれのキャラクターには、加速重視型・万能型・最高速重視型の3種類の特製を持つ。最も自分に合ったマシンを選ぶことから、チャンピオンレーサーへの第一歩は始まる。
 
 # game: Diddy Kong Racing (USA) (En,Fr)
 # file: Diddy Kong Racing (USA) (En,Fr).zip
@@ -633,6 +753,9 @@ file: Diddy Kong Racing (Japan).zip
 game: ドンキーコング64
 sort_title: どんきーこんぐ64
 file: Donkey Kong 64 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1999年12月10日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。「ドンキーコング」シリーズおなじみのドンキーとディディーに加え、かわいいタイニー、ひょうきんなランキー、力持ちのチャンキーが、それぞれの個性を活かして大活躍!広大な8つのステージを舞台に、クレムリン軍相手のバトルが繰り広げられる。本作では楽器や写真振影等のアイテム、イベントが新登場。
 
 # game: Donkey Kong 64 (USA)
 # file: Donkey Kong 64 (USA).zip
@@ -649,6 +772,9 @@ file: Donkey Kong 64 (Japan).zip
 game: ドゥーム64
 sort_title: どぅーむ64
 file: Doom 64 (Japan).zip
+publisher: ゲームバンク
+description:
+   ゲームバンクより1997年8月1日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。1994年に発売された『Doom II』の続編となる。プレイヤーは32のステージでデーモンと戦い、武器やキーを集め、致死的な待ち伏せやトラップを生き延びつつスイッチを起動してステージの出口までたどり着く。国内版では敵にダメージを与えた時の出血による血の色が緑色に変更されている。
 
 # game: Doom 64 (USA)
 # file: Doom 64 (USA).zip
@@ -662,14 +788,23 @@ file: Doom 64 (Japan).zip
 game: ドラえもん のび太と3つの精霊石
 sort_title: どらえもんN641
 file: Doraemon - Nobita to 3tsu no Seireiseki (Japan).zip
+publisher: エポック社
+description:
+   エポック社より1997年3月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。誰もが知っているマンガ・アニメキャラクター”ドラえもん”が活躍するアクションゲーム。3D空間内をドラえもんと仲間達を操って、奪われた道具を取り返すべくシューティングあり、レースありのバラエティーに富んだステージを冒険していく。ひみつの道具を駆使してステージクリアを目指す。4人まで協力プレイも可能。
 
 game: ドラえもん2 のび太と光の神殿
 sort_title: どらえもんN642
 file: Doraemon 2 - Nobita to Hikari no Shinden (Japan).zip
+publisher: エポック社
+description:
+   エポック社より1998年12月11日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ニンテンドー64のドラえもんゲーム第2弾。本作は時間の概念や感情パラメータを取り入れた、謎解きリアルアドベンチャーゲーム。謎を解くためにはキャラクターの会話が重要で、冒険を成功させるためには60種類以上のひみつ王具の攻略がキーになっている。
 
 game: ドラえもん3 のび太の街SOS!
 sort_title: どらえもんN643
 file: Doraemon 3 - Nobita no Machi SOS! (Japan).zip
+publisher: エポック社
+description:
+   エポック社より2000年7月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ひみつ道具を駆使して謎を解き敵を倒す、3Dアクションアドベンチャーゲーム。ストーリーモードでは「のび太の町」を3Dで完全再現。のび太の町が突然町ごとさらわれ、プレイヤーはドラえもん、のび太となって残りの仲間たちの救出に向かう。冒険が進むとひとりずつ仲間が増える。最後はなんとドラミちゃんも登場。
 
 # game: Doubutsu Banchou (Japan) (Proto)
 # file: Doubutsu Banchou (Japan) (Proto).zip
@@ -677,6 +812,9 @@ file: Doraemon 3 - Nobita no Machi SOS! (Japan).zip
 game: どうぶつの森
 sort_title: どうぶつのもり
 file: Doubutsu no Mori (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2001年4月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。どうぶつの森シリーズの第1作目プレイヤーがとある村に移り住み、そこで暮らすどうぶつたちとのコミュニケーションを楽しむゲーム。遊ぶ上での目的は特に決まっておらず、住人たちとの会話、買い物、釣り、昆虫採集、自分の部屋の模様替えなど、プレイヤーが好きなように行動できる。昼夜や四季の変化もある。
 
 # game: Dr. Mario 64 (USA)
 # file: Dr. Mario 64 (USA).zip
@@ -696,6 +834,9 @@ file: Doubutsu no Mori (Japan).zip
 game: デュアルヒーローズ
 sort_title: でゅあるひーろーず
 file: Dual Heroes (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1997年12月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売された対戦格闘アクションゲーム。特撮映画の鬼才・雨宮慶太氏がゲーム開発ではじめて監督を担当。プレイヤーはバーチャルゲーマーとなって、荒廃した未来の地球を舞台に繰り広げられる対戦ゲームに挑むという内容。個性と戦闘スライルが異なる8人のバーチャルキャラを操って、ゲームの中に存在するAIキャラと対戦していく。
 
 # game: Dual Heroes (USA)
 # file: Dual Heroes (USA).zip
@@ -757,10 +898,16 @@ file: Dual Heroes (Japan).zip
 game: 栄光のセントアンドリュース
 sort_title: えいこうのせんとあんどりゅーす
 file: Eikou no Saint Andrews (Japan).zip
+publisher: セタ
+description:
+   セタより1996年11月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたゴルフゲーム。世界最古のゴルフコースにして今なお全英オープンの開催地であるセント・アンドリュース オールドコース。その気まぐれな天候、18番ホールにかかる橋「スゥイルカン・バーン」や人間の身長程もあるポットバンカーなど1400年代より変わらずに受け継がれている地形を細かなアンジュレーションまで完全再現。
 
 game: エルテイルモンスターズ
 sort_title: えるているもんすたーず
 file: Eltale Monsters (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアよりより1999年7月9日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。フィールドが3Dポリゴンで表現されたロールプレイングゲーム。「火」「風」「水」「地」の4つの精霊に対応した呪文があり、Cボタンユニットにそれぞれが対応する。組み合わせによって発生する呪文が変化し、レベルをあげていくことでより強力な呪文が使えるようになるという独特なシステムを採用している。
 
 # game: Excitebike 64 (Europe)
 # file: Excitebike 64 (Europe).zip
@@ -768,6 +915,9 @@ file: Eltale Monsters (Japan).zip
 game: エキサイトバイク64
 sort_title: えきさいとばいく64
 file: Excitebike 64 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年6月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ファミコンで発売された『エキサイトバイク』がリアルになって登場。シンプルなゲーム性はそのままに、3Dスティックを使った心地よい操作感を実現。また、個性豊かなライダーや多くのトリッキーなコースなどに加えて、バイクを使ったミニゲーム等のレース以外の要素も多数収録。バラエティーに富んだ楽しみ方が体験できる。
 
 # game: Excitebike 64 (USA)
 # file: Excitebike 64 (USA).zip
@@ -787,6 +937,9 @@ file: Excitebike 64 (Japan).zip
 game: エクストリームG
 sort_title: えくすとりーむじー1
 file: Extreme-G (Japan).zip
+publisher: アクレイムジャパン
+description:
+   アクレイムジャパンより1998年5月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。重力を体感している錯覚に陥るハイスピードバイクレースゲーム。路面に設置された数々のアイテムを利用して、ライバルを蹴り落としながら1位を目指す。通常の「レースモード」の他にコースにある旗の獲得数を競うモードやターゲットの爆破数を競うモード、1対1で対戦するモードなど様々なゲームモードを搭載。
 
 # game: Extreme-G (USA)
 # file: Extreme-G (USA).zip
@@ -797,6 +950,9 @@ file: Extreme-G (Japan).zip
 game: エクストリームG2
 sort_title: えくすとりーむじー2
 file: Extreme-G XG2 (Japan).zip
+publisher: アクレイムジャパン
+description:
+   アクレイムジャパンより1999年9月10日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。前作『エクストリームG』に改良を加えたのが『エクストリームG　2』。新しいマシン、ライダーが追加され、新しいエリア、ディテールの細かいコースで新たな戦いが展開される。強力な新型武器も追加された。ゲームモードは「シングルプレイモード」「GXコンテストモード」「マルチプレイモード」の3種類。
 
 # game: Extreme-G XG2 (USA)
 # file: Extreme-G XG2 (USA).zip
@@ -816,6 +972,9 @@ file: Extreme-G XG2 (Japan).zip
 game: F-1 ワールドグランプリ
 sort_title: えふわんわーるどぐらんぷり
 file: F-1 World Grand Prix (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1998年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売された本格的F1レースゲーム。ゲーム中に登場するマシンやコース、さらには各コースの名所まで忠実に再現。チーム、ドライバー、コースが実名で登場するので、リアルなF1の世界が体験できる。リアルタイムでの天候の変化やピット無線、迫真のクラッシュシーンなどが特徴。ゲームモードは5種類が用意されている。
 
 # game: F-1 World Grand Prix (USA)
 # file: F-1 World Grand Prix (USA).zip
@@ -829,6 +988,9 @@ file: F-1 World Grand Prix (Japan).zip
 game: F-ZERO X
 sort_title: えふぜろえっくす
 file: F-Zero X (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1998年7月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。SFCで発売された『F-ZERO(エフゼロ)』の続編。ループ、スクリュー、ハーフパイプなどの立体コースで繰り広げられる超音速のサバイバルレースが、レギュレーションを大幅に改訂して登場。ゲームモードは5種類。新マシンの最高速度は、音速を遥かに越える1500Km/h!リアリティのあるスピード感を楽しめる。
 
 # game: F-Zero X (USA)
 # file: F-Zero X (USA).zip
@@ -857,10 +1019,16 @@ file: F-Zero X (Japan).zip
 game: ファミスタ64
 sort_title: ふぁみすた64
 file: Famista 64 (Japan).zip
+publisher: ナムコ
+description:
+   ナムコより1997年11月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。同社から発売されている「ファミスタ」シリーズの一作。本作では「一戦勝負」「リーグ戦」「ペナント」「オールスター」「君の最強チーム」「協力プレイ」「ミニゲーム」「助っ人を作ろう」の8つのモードが楽しめる。また、投手と打者の動きはモーションキャプチャーで取り込まれ、人間らしいアクションを表現している。
 
-game: FIFA Road to WORLD CUP 98 ワールドカップへの道
+game: FIFA Road to World Cup 98 ワールドカップへの道
 sort_title: ふぃふぁろーどとぅわーるどかっぷ98
 file: FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).zip
+publisher: エレクトロニック・アーツ
+description:
+   エレクトロニック・アーツより1998年4月24日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。FIFA公認のサッカーゲーム。6地域、172カ国の代表チームでワールドカップフランス大会本戦に向けて、予選から勝ち上がり、32チームでワールドカップを戦う。日本代表を含む、世界各国4500人を超すプレイヤーが実名で登場。国立競技場他世界の主要6カ国の競技場を忠実に再現。
 
 # game: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)
 # file: FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).zip
@@ -898,6 +1066,9 @@ file: FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).zip
 game: ファイティングカップ
 sort_title: ふぁいてぃんぐかっぷ
 file: Fighting Cup (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1998年12月11日にニンテンドウ64(NINTENDO64)用ソフトとして発売された格闘アクションゲーム。従来の格闘ゲームと異なる「ポイント制」、いわば柔道のように技種によって勝ち点が異なり本ゲームでは7つの勝ち点を先取したほうが勝者となる競技ルールをゲームシステムとして導入。また、実況を取り入れており、試合状況によって様々なアナウンスが流れ、ゲームに臨場感を持たせている。
 
 # game: Fighting Force 64 (Europe)
 # file: Fighting Force 64 (Europe).zip
@@ -935,6 +1106,9 @@ file: Fighting Cup (Japan).zip
 game: 不思議のダンジョン 風来のシレン2 鬼襲来!シレン城!
 sort_title: ふしぎのだんじょんふうらいのしれん2
 file: Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).zip
+publisher: チュンソフト
+description:
+   チュンソフトより2000年9月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。「風来のシレン」シリーズの一作。本作はシレンの少年時代を取り上げている。旅の途中で立ち寄った、鬼の危機にさらされている村を救うための冒険が繰り広げられる。鬼から村を守るための城を築き、鬼ヶ島に攻め込んで鬼の親分を懲らしめるのが目的。仲間モンスターシステムなど、「仲間」がクローズアップされている。
 
 # game: G.A.S.P!! Fighters' NEXTream (Europe)
 # file: G.A.S.P!! Fighters' NEXTream (Europe).zip
@@ -942,6 +1116,9 @@ file: Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)
 game: G.A.S.P!! Fighters' NEXTream
 sort_title: がすぷふぁいたーずねくすとりーむ
 file: G.A.S.P!! Fighters' NEXTream (Japan).zip
+publisher: コナミ
+description:
+   コナミより1998年3月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。フィールド上の障害物を利用しながら対戦する珍しい形の格闘ゲーム。ステージ内にあるオブジェを利用し、それに相手を押さえつけて攻撃したり、タイヤなどの柔らかいものの上で受け身を取ることでダメージを軽減できる。キャラエディットでオリジナルキャラを作ることも可能で、様々なキャラクターと戦って強くなっていく。
 
 # game: GameBooster 64 (Europe) (v1.1) (Unl)
 # file: GameBooster 64 (Europe) (v1.1) (Unl).zip
@@ -958,21 +1135,33 @@ file: G.A.S.P!! Fighters' NEXTream (Japan).zip
 game: がんばれゴエモン でろでろ道中 オバケてんこ盛り
 sort_title: がんばれごえもんでろでろどうちゅうおばけてんこもり
 file: Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan).zip
+publisher: コナミ
+description:
+   コナミより1998年12月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。人気アクション『がんばれゴエモン』シリーズの一作。今度の敵は強敵妖怪軍団。コミカルなオバケ達が続々登場。道中、町、関所ステージでは朝、昼、夜と時間経過がある。昼はかわいいオバケもいて和やかだけど、夜は強くて恐いオバケがいっぱい出る。新たに作られたミスインパクト(おみつインパクト)も搭載。
 
 game: がんばれゴエモン ネオ桃山幕府のおどり
 sort_title: がんばれごえもんねおももやまばくふのおどり
 file: Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan).zip
+publisher: コナミ
+description:
+   コナミより1997年8月7日にニンテンドウ64(NINTENDO64)用ソフトとして発売された3Dアクションアドベンチャーゲーム。同社の「がんばれゴエモン」シリーズの一作で、シリーズ初の3Dゲームとなる。おなじみのゴエモン達が　”北”へ”南”へ大冒険する。ゴエモンとエビス丸やエリちゃんなどの仲間達がキセルや小判で敵を攻撃しながら、各ステージクリアを目指す。オープニングやイベント中に歌も流れる。
 
 game: がんばれ! ニッポン! オリンピック2000
 sort_title: がんばれにっぽんおりんぴっく2000
 file: Ganbare! Nippon! Olympics 2000 (Japan).zip
+publisher: コナミ
+description:
+   コナミより2000年7月13日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたスポーツゲーム。財団法人日本オリンピック委員会(JOC)公式ライセンス商品。100m走、ハンマー投げ、水泳100m自由形など全14競技を収録。エキサイティングな4人同時プレイも可能。TV中継を意識したカメラワークとグラフィックを実現。ニンテンドウ64ならではの遊びやすさが特徴となっている。
 
 # game: Gauntlet Legends (Europe)
 # file: Gauntlet Legends (Europe).zip
 
-game: ガントレットレジェンド
+game: ガントレット レジェンド
 sort_title: がんとれっとれじぇんど
 file: Gauntlet Legends (Japan).zip
+publisher: エポック社
+description:
+   エポック社より2000年4月7日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたファンタジー3DアクションRPG。邪悪なボスを倒すため、マウンテン、タウン、アイス、キャッスル、カテドラル、バトルフィールド、アンダーワールドの7つのワールドを順に制覇していく。メモリー拡張パックを使用すれば、最大4人で同時プレイが可能。拡張パックなしでも3人まで同時プレイができる。
 
 # game: Gauntlet Legends (USA)
 # file: Gauntlet Legends (USA).zip
@@ -983,6 +1172,9 @@ file: Gauntlet Legends (Japan).zip
 game: ゲッターラブ!! ちょー恋愛パーティーゲーム誕生!!
 sort_title: げったーらぶちょーれんあいぱーてぃーげーむたんじょう
 file: Getter Love!! - Cho Renai Party Game Tanjou (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1998年12月4日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。サイコロを使わない新ゲームシステム「SAMS(サムス)」を採用した、恋愛パーティーゲーム。ゲームの目的は、2週間以内に、女のコのハートをゲットすること。みんなでひとりの女のコを狙ったり、全女のコのラブラブポイントの合計を競ったりといろいろルールが用意されている。SAMSのコンセプトは”同時”。
 
 # game: Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)
 # file: Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).zip
@@ -1020,6 +1212,9 @@ file: Getter Love!! - Cho Renai Party Game Tanjou (Japan).zip
 game: ゴエモン もののけ双六
 sort_title: ごえもんもののけすごろく
 file: Goemon - Mononoke Sugoroku (Japan).zip
+publisher: コナミ
+description:
+   コナミより1999年12月25日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。『がんばれゴエモン』シリーズの一作。伝説の木にまつわる「封印のお札」と謎の男「ポン」をめぐって、ゴエモン達がカードバトル&ボードゲームで大暴れする。ステージボスを倒すために必要なのは、340種類以上もあるというもののけの御札。ステージをクリアして、お札をゲットしていく。友達とお札の交換もできる。
 
 # game: Goemon's Great Adventure (USA)
 # file: Goemon's Great Adventure (USA).zip
@@ -1035,6 +1230,9 @@ sort_title: ごーるでんあい007
 files:
   GoldenEye 007 (Japan).zip
   GoldenEye 007 (Japan) (Switch Online).zip
+publisher: 任天堂
+description:
+   任天堂より1997年8月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたファーストパーソン・シューティングゲーム。映画『007 ゴールデンアイ』をゲーム化した作品。プレイヤーはイギリス諜報機関「MI-6」の工作員、「007=ジェームズ・ボンド」として数々の指令を受けながら、衛星兵器「ゴールデンアイ」の秘密を探っていく。ゲームのオリジナルステージも登場する。
 
 # game: GoldenEye 007 (USA, Europe) (Switch Online)
 # file: GoldenEye 007 (USA, Europe) (Switch Online).zip
@@ -1054,10 +1252,16 @@ files:
 game: ハムスター物語64
 sort_title: はむすたーものがたり64
 file: Hamster Monogatari 64 (Japan).zip
+publisher: カルチャーブレーン
+description:
+   カルチャーブレーンより2001年4月6日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションゲーム。観察するだけでなく、世話やしつけによって様々な芸を覚えたり、つっついたりつまんだりと遊ぶこともできる。一度に4匹を飼うことができ、育ち方は20種類以上。本物よりも可愛くで愛らしい、家でペットを飼えない人や、ペットを飼ったことがない人のシミュレーションとなっている。
 
 game: 遙かなるオーガスタ マスターズ'98
 sort_title: はるかなるおーがすたますたーず98
 file: Harukanaru Augusta - Masters '98 (Japan).zip
+publisher: T&Eソフト
+description:
+   T&Eソフトより1997年12月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたゴルフゲーム。TV中継さながらの迫力のカメラワークに加え、実況と解説にはマスターズ中継でお馴染みの松下賢司氏と湯原信光プロを起用。クラブのバリエーションもアップし、素材もメタル・チタン・パーシモンから選択可能。全てのクラブの飛距離を自分好みに変更でき、ボールの素材も自由自在に選択できる。
 
 # game: Harvest Moon 64 (USA)
 # file: Harvest Moon 64 (USA).zip
@@ -1065,6 +1269,9 @@ file: Harukanaru Augusta - Masters '98 (Japan).zip
 game: HEIWAパチンコワールド64
 sort_title: へいわぱちんこわーるど64
 file: Heiwa Pachinko World 64 (Japan).zip
+publisher: ショウエイシステム
+description:
+   ショウエイシステムより1997年11月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたパチンコシミュレーションゲーム。「CR・サクッセスストーリーSP」「レモン牌」「美少女大集合2」「CR・玉ちゃんハウス」の4機種を収録。実機はもちろん、点灯の営業形態や時間帯いよる変化までも完全シミュレート。店舗タイプは、大型店・中型店・小型店の3つ。各台毎のきめ細やかなデータ収集が可能。
 
 # game: Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)
 # file: Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).zip
@@ -1087,9 +1294,12 @@ file: Heiwa Pachinko World 64 (Japan).zip
 # game: Hexen (Germany)
 # file: Hexen (Germany).zip
 
-game: HEXEN
+game: HEXEN ヘクセン
 sort_title: へくせん
 file: Hexen (Japan).zip
+publisher: ゲームバンク
+description:
+   ゲームバンクより1997年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。異世界からやって来た侵略者「コラックス」を倒すことが目的のアクションRPG。プレイヤーの分身となるキャラを操って次々と現れるコラックスの手下を倒しながら巨大な要塞の秘密を探り出していく。ただ撃ちまくるだけではなく、武器以上に魔術が重要な手段となり、中世的な怪しい世界を作り出している。
 
 # game: Hexen (USA)
 # file: Hexen (USA).zip
@@ -1100,6 +1310,9 @@ file: Hexen (Japan).zip
 game: 飛龍の拳ツイン
 sort_title: ひりゅうのけんついん
 file: Hiryuu no Ken Twin (Japan).zip
+publisher: カルチャーブレーン
+description:
+   カルチャーブレーンより1997年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。タイプの違う挌闘ゲームが2本を収録。「SDモード」は、ゲーム中に手に入るアイテムを取ることにより、パワーアップしたり秘奥義を使えるようになる。アクション対戦とウォッチ対戦を搭載。「リアルモード」は、本格派の白熱したバトルが楽しめ、プレイヤーの戦い次第でコンピュータが段位を評価する。
 
 # game: Holy Magic Century (Europe)
 # file: Holy Magic Century (Europe).zip
@@ -1117,6 +1330,9 @@ files:
   Hoshi no Kirby 64 (Japan) (Rev 1).zip
   Hoshi no Kirby 64 (Japan) (Rev 2).zip
   Hoshi no Kirby 64 (Japan) (Rev 3).zip
+publisher: 任天堂
+description:
+   任天堂より2000年3月24日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。「星のカービィ」シリーズ初の3D作品。「コピー能力ミックス」という、2種類のコピー能力を混ぜる新要素が加わり、基本能力の数7種類とミックスの組み合わせ28種類の合計、35種類の能力を使うことができる。ステージはレベル1から6と、最終エリアのファイナルスターで構成されている。
 
 # game: Hot Wheels - Turbo Racing (Europe) (En,Fr,De)
 # file: Hot Wheels - Turbo Racing (Europe) (En,Fr,De).zip
@@ -1130,6 +1346,9 @@ files:
 game: ヒューマングランプリ ザ・ニュージェネレーション
 sort_title: ひゅーまんぐらんぷりざにゅーじぇねれーしょん
 file: Human Grand Prix - The New Generation (Japan).zip
+publisher: ヒューマン
+description:
+   ヒューマンより1997年3月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。F1をモデルにしたレースゲーム。全16コース、全11チーム22台のマシンがワールドグランプリを目指してしのぎを削るの。レース中は雨やマシントラブルの様なアクシデントも楽しめる。車体の重さやタイヤの状況を予測しながら、ピットインして給油したりタイヤ交換をしたりして、レースを展開させていく。
 
 # game: Hybrid Heaven (Europe) (En,Fr,De)
 # file: Hybrid Heaven (Europe) (En,Fr,De).zip
@@ -1137,6 +1356,9 @@ file: Human Grand Prix - The New Generation (Japan).zip
 game: ハイブリッドヘブン
 sort_title: はいぶりっどへぶん
 file: Hybrid Heaven (Japan).zip
+publisher: コナミ
+description:
+   コナミより1999年8月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションRPG。基本的に三人称視点でマップを進む3Dアクションシューティングだが、クリーチャーの敵と遭遇し、接触すると戦闘画面になり格闘で一対一で闘う。敵との戦闘ではコマンド選択式を採用。攻撃方法にはプロレス技が採用されており、攻撃を受けると攻撃を受けた部位の防御力が上るというシステムが採用されている。
 
 # game: Hybrid Heaven (USA)
 # file: Hybrid Heaven (USA).zip
@@ -1156,10 +1378,16 @@ file: Hybrid Heaven (Japan).zip
 game: ハイパーオリンピック イン ナガノ64
 sort_title: はいぱーおりんぴっくいんながの64
 file: Hyper Olympics in Nagano 64 (Japan).zip
+publisher: コナミ
+description:
+   コナミより1997年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ナガノオリンピックをモチーフに、その競技からアルペンスキー、ジャンプ、スノーボード、スピードスケート、カーリング、ボブスレー、エアリアル、リュージュが楽しめるスポーツゲーム。操作系を非常に単純にしているので初心者でも楽しめる。長野オリンピック公式ライセンス商品。
 
 game: 井出洋介の麻雀塾
 sort_title: いでようすけのまーじゃんじゅく
 file: Ide Yosuke no Mahjong Juku (Japan).zip
+publisher: セタ
+description:
+   セタより2000年4月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された麻雀ゲーム。プレイヤーと麻雀好き一家・村上家との麻雀を通じて繰り広げられる物語。個性豊かに語り、考え、行動する家族たちとの愉快な展開と工夫をこらした本格対局を楽しめる。マナーからゲームの細部に至るまで、プロの意見を忠実に反映した本格派4人打ち麻雀。もちろんイカサマなしの本格思考プログラムを搭載。
 
 game: イギーくんのぶら2ぽよん
 sort_title: いぎーくんのぶらぶらぽよん
@@ -1225,28 +1453,46 @@ file: Iggy-kun no Bura Bura Poyon (Japan).zip
 game: 糸井重里のバス釣りNo.1 決定版!
 sort_title: いといしげさとのばすつりなんばーわんけっていばん
 file: Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年3月31日にニンテンドウ64(NINTENDO64)用ソフトとして発売された釣りゲーム。SFCで発売された『糸井重里のバス釣りNo.1』のリメイク作。本作はバス釣り好きで有名なコピーライターの糸井重里が監修を務めており、赤星湖と呼ばれる架空の湖でバスフィッシングを楽しむ釣りシミュレーションゲームである。釣り独特の感覚を巧みに再現しており細部まで作り込まれている。
 
 game: Jリーグ ダイナマイトサッカー64
 sort_title: じぇいりーぐだいなまいとさっかー64
 file: J.League Dynamite Soccer 64 (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1997年9月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ゲームは操作感覚を究極まで追求した、サッカーアクションゲーム。スピード感と、奥の深い操作性を楽しむ事ができる。また、本作では、社団法人日本プロサッカーリーグの公認を受けて、全17クラブ272人のJリーガーの実名及び顔写真を使用しており、有名選手達を自由に操る快感を楽しむ事ができる。
 
 game: Jリーグ イレブンビート1997
 sort_title: じぇいりーぐいれぶんびーと1997
 file: J.League Eleven Beat 1997 (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1997年10月24日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。Jリーグ公認でクラブから選手名まで全て実名で登場するサッカーゲーム。好きな選手を自由に選んでオリジナルの日本代表を編成し、海外代表を撃破することもできる。登場する選手はすべて3投身。コミカルで親しみやすく、ゴール時のガッツポーズやイエローカードの時の表情までしっかり見ることができる。
 
 game: JリーグLIVE64
 sort_title: じぇいりーぐらいぶ64
 file: J.League Live 64 (Japan).zip
+publisher: エレクトロニック・アーツ
+description:
+   エレクトロニック・アーツより1997年3月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたリーグをフルポリゴンで再現したサッカーゲーム。4人まで同時にプレイができ、同チームで協力することも、別チームで対戦することも可能。試合中でも8種類の視点変更が可能な「カメラセレクト」機能を搭載。より見やすい画面で、白熱したプレイを楽しむことができる。
 
 game: Jリーグ タクティクスサッカー
 sort_title: じぇいりーぐたくてぃくすさっかー
 files:
   J.League Tactics Soccer (Japan).zip
   J.League Tactics Soccer (Japan) (Rev 1).zip
+publisher: アスキー
+description:
+   アスキーより1999年1月15日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたプロサッカークラブ監督シミュレーションゲーム。プレイヤーの戦術と育成でJリーグの頂点を目指すのが目的となる。ゲーム内では試合中の熱気やスタジアムの臨場感を3Dでそのまま表現されており、選手にはアビリティの修得をさせ、強化することも可能。また、日本代表を指揮して世界の頂点を目指すこともできる。
 
 game: 雀豪シミュレーション 麻雀道64
 sort_title: じゃんごうしみゅれーしょんまーじゃんどう64
 file: Jangou Simulation Mahjong Dou 64 (Japan).zip
+publisher: ビデオシステム
+description:
+   ビデオシステムより1997年7月25日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたオーソドックスな4人打ち麻雀ゲーム。麻雀牌は全てポリゴンで見やすく表示され、迫力ある演出が対局を盛り上げる。プレイヤーの相手をする雀士達は、それぞれ好きな打ち方や性格が異なる16人。対局終了後に自分の打ち方を分析でき腕前の上達に役立つ「牌譜記録機能」などのモードを含む、4つのゲームモードを搭載。
 
 # game: Jeopardy! (USA)
 # file: Jeopardy! (USA).zip
@@ -1274,28 +1520,43 @@ sort_title: じっきょうじーわんすていぶる
 files:
   Jikkyou G1 Stable (Japan).zip
   Jikkyou G1 Stable (Japan) (Rev 1).zip
+publisher: コナミ
+description:
+   コナミより1999年4月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された競馬育成シミュレーションゲーム。プレイヤーは調教師となって、馬主さんから預かった競走馬をレースに出走させる。新馬戦、オープン戦などをこなし、日本ダービーなどの大レースに出走させ、海外G1制覇を目指す。ゲームは「厩舎」「競馬場」「牧場」「セリ市会場」の4ステージで構成されている。実況には大和田アナを起用。
 
 game: 実況 Jリーグ1999 パーフェクトストライカー2
 sort_title: じっきょうじぇいりーぐぱーふぇくすとらいかー2
 files:
   Jikkyou J.League 1999 - Perfect Striker 2 (Japan).zip
   Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1).zip
+publisher: コナミ
+description:
+   コナミより1999年7月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたサッカーゲーム。J1はもちろん、J2のクラブまで網羅。よりリアルにパワーアップした試合画面。グラウンドにスタジアムの陰がおちているなど、いっそう臨場感がUP。クラブ名、ロゴ等登録してオリジナルクラブが作成可能。サクセスモードのミニゲームにはフリーキックの達人を目指すゲームもある。
 
 game: 実況 Jリーグ パーフェクトストライカー
 sort_title: じっきょうじぇいりーぐぱーふぇくとすとらいかー1
 file: Jikkyou J.League Perfect Striker (Japan).zip
+publisher: コナミ
+description:
+   コナミより1996年12月20日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。Jリーグをリアルに再現したサッカーゲーム。1996年度のJリーグ選手データが収録されている。TV中継さながらの実況や3Dスティックによる繊細な選手の動き、繰り出される様々なパスなどの多彩なプレイが楽しめる。リーグ戦、トーナメント、シナリオモードを収録。また、オリジナル選手の作成も可能となっている。
 
 game: 実況パワフルプロ野球 Basic版2001
 sort_title: じっきょうぱわふるぷろやきゅう2001
 files:
   Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan).zip
   Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1).zip
+publisher: コナミ
+description:
+   コナミより2001年3月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売された野球ゲーム。『実況パワフルプロ野球2000』をベースに野球部分を調整し、2001年ペナントレース開幕予想データを搭載して登場。「対戦」「ペナント」「リーグ」「ホームラン競争」「キャンプ」「アレンジモード」を収録。『パワプロクンポケット3』と『2000』で作成した選手をパスワードで移動させることもできる。
 
 game: 実況パワフルプロ野球2000
 sort_title: じっきょうぱわふるぷろやきゅう2000
 files:
   Jikkyou Powerful Pro Yakyuu 2000 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1).zip
+publisher: コナミ
+description:
+   コナミより2000年4月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。今回のサクセスモードは社会人編。PS版で登場した3つの会社に、さらに新しい会社が追加され、特殊能力も大幅に増えた。アレンジモードの中身もパワーアップし、“背番号を自由に変更できる”“監督の起用法の追加”など、より細かい設定ができるようになっている。GBの「パワプロクンポケット2」で育てた選手も使える。
 
 game: 実況パワフルプロ野球4
 sort_title: じっきょうぱわふるぷろやきゅう4
@@ -1303,6 +1564,9 @@ files:
   Jikkyou Powerful Pro Yakyuu 4 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30).zip
   Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).zip
+publisher: コナミ
+description:
+   コナミより1997年3月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。1996年度のプロ野球公式記録を元にした野球ゲーム。今回、3Dスティックによる微妙な操作が加わった事で一層その深みを増した。2P対戦や最多6人が参加できるモードも完備。サクセスモードに投手育成モードを搭載。今回、ピッチャーも育成できるようになった。プロのアナウンサーによる実況で、臨場感があふれる。
 
 game: 実況パワフルプロ野球5
 sort_title: じっきょうぱわふるぷろやきゅう5
@@ -1310,6 +1574,9 @@ files:
   Jikkyou Powerful Pro Yakyuu 5 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1).zip
   Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2).zip
+publisher: コナミ
+description:
+   コナミより1998年3月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。同社の「実況パワフルプロ野球」シリーズ第5弾。既に完成されたシステムはそのままに、演出や実況の臨場感は更にパワーアップ!前作になかったペナントレースの一場面を再現したシナリオモードも復活。今回のサクセスモードは高校野球編にリニューアル。学園生活の中イベントのバリエーションも増えている。
 
 game: 実況パワフルプロ野球6
 sort_title: じっきょうぱわふるぷろやきゅう6
@@ -1317,6 +1584,9 @@ files:
   Jikkyou Powerful Pro Yakyuu 6 (Japan).zip
   Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1).zip
   Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2).zip
+publisher: コナミ
+description:
+   コナミより1999年3月25日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。リアルを追求した野球ゲーム。「対戦」はさらにリアルに、「サクセス」はさらに面白くなって帰ってきた。今回のサクセスモードは「大学編」。六大学リーグを勝ち抜いて日本一を目指せ。「ホームラン競争」モードも登場。また、GB版「パワプロクンポケット」で育成した選手をパワプロ6で使用することができる。
 
 game: 実況ワールドサッカー ワールドカップ フランス'98
 sort_title: じっきょうわーるどさっかーわーるどかっぷふらんす98
@@ -1324,18 +1594,30 @@ files:
   Jikkyou World Soccer - World Cup France '98 (Japan).zip
   Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).zip
   Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2).zip
+publisher: コナミ
+description:
+   コナミより1998年6月4日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。’98年のワールドカップを再現したサッカーゲーム。実名でこそないが、全ての参加国が登場しているのが目玉(日本代表チームは実名)。世界の強豪チームを相手に優勝を目指して試合に臨んでいく。スルーパスが1種類から4種類に増加し、転がす、浮かす、そしてそれぞれ受け手を走らせてのパス出しも可能になった。
 
 game: 実況ワールドサッカー3
 sort_title: じっきょうわーるどさっかー3
 file: Jikkyou World Soccer 3 (Japan).zip
+publisher: コナミ
+description:
+   コナミより1997年9月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。スーパーファミコンから続くサッカーゲーム「実況ワールドサッカー」の続編。モーションキャプチャーによりサッカー選手の動きをリアルにトレース、あらゆる方向から再現可能。さらに、3Dポリゴンでより迫力あるゲームが楽しめる。選手作成機能も追加され、オリジナル選手も追加できるようになった。
 
 game: 時空戦士テュロック
 sort_title: じくうせんしてゅろっく
 file: Jikuu Senshi Turok (Japan).zip
+publisher: アクレイムジャパン
+description:
+   アクレイムジャパンより1997年5月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。恐竜帝国が栄華を極める時空の狭間「ロストランド」で様々な武器を手に闘う3Dアクションシューティングゲーム。様々な武器を使い分けながら襲い掛かる人間やメカ、恐竜を退けつつ、時空の奥底で目覚めた破壊神の打倒を目指す。一度クリアすることで得られるパスワードを使用すると、ウラ技が使用可能となる。
 
 game: 人生ゲーム64
 sort_title: じんせいげーむ64
 file: Jinsei Game 64 (Japan).zip
+publisher: タカラ
+description:
+   タカラより1999年3月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたボードゲーム。遊ぶ度にマスのレイアウトが変化し、毎回スリルに満ちた人生を楽しむことができる。「わいわいモード」に加え、4人プレイが楽しい「タッグモード」、男女ペアが楽しい「ペアモード」など幅広く遊べる。選べる職種は61種類。同じマスに止まるとバトルが発生。職種ランクとルーレットを使って直接の攻防を行う。
 
 # game: John Romero's Daikatana (Europe) (En,Fr,De)
 # file: John Romero's Daikatana (Europe) (En,Fr,De).zip
@@ -1343,6 +1625,9 @@ file: Jinsei Game 64 (Japan).zip
 game: 大刀 DAIKATANA
 sort_title: だいかたな
 file: John Romero's Daikatana (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより2000年4月7日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたファーストパーソン・シューティングゲーム。4つのエピソードに分かれ、合計24のマップがある。エピソードは、遠未来の日本の京都、紀元前の神話が形成されたギリシャ、疫病が流行した暗黒時代のノルウェー、近未来のサンフランシスコと時代も場所も異なるエピソードが用意されている。また、経験値の概念も搭載されている。
 
 # game: John Romero's Daikatana (USA)
 # file: John Romero's Daikatana (USA).zip
@@ -1350,6 +1635,9 @@ file: John Romero's Daikatana (Japan).zip
 game: 格闘伝承 F-Cup Maniax
 sort_title: かくとうでんしょうえふかっぷまにあっくす
 file: Kakutou Denshou - F-Cup Maniax (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1999年8月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。11人の個性溢れるキャラクター達が多彩なテクニックを駆使して戦っていく本格派格闘ゲーム。柔道のような7ポイント先取の「ポイント制」を導入。このシステムにより、初心者でも一発逆転の大技が出れば上級者を打ち負かしてしまう可能性もあるため、常にスリリングなバトルが楽しめる。
 
 # game: Ken Griffey Jr.'s Slugfest (USA)
 # file: Ken Griffey Jr.'s Slugfest (USA).zip
@@ -1366,13 +1654,19 @@ file: Kakutou Denshou - F-Cup Maniax (Japan).zip
 # game: Killer Instinct Gold (USA) (Rev 2)
 # file: Killer Instinct Gold (USA) (Rev 2).zip
 
-game: キングヒル64
-sort_title: きんぐひる64
+game: キングヒル64 エクストリームスノーボーディング
+sort_title: きんぐひる64えくすとりーむすのーぼーでぃんぐ
 file: King Hill 64 - Extreme Snowboarding (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより1998年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたスノーボードゲーム。世界最強のボーダーになるべく、チュガッチ山脈で行われるチャンピオンシップに挑戦。全部で8人のボーダーが登場。シップで優勝を手にしたとき、各キャラクターの真の目的が明らかになる・・・。整地されたゲレンデではなく、大自然そのままの斜面で、1レース4名ずつで争っていく。
 
 game: キラッと解決! 64探偵団
 sort_title: きらっとかいけつろくよんたんていだん
 file: Kiratto Kaiketsu! 64 Tanteidan (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1998年10月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。プレイヤーは探偵事務所のメンバーになって、盗品奪回、爆弾処理、物探しの3つの任務を受け、任務達成を競い合う。ただゴールに到着すればいいというわけではなく、コマを進めながら、解決ポイントというボーナスを集めなければならない。最終的に一番多くの解決ポイントを稼いだプレイヤーが勝利者となる。
 
 # game: Kirby 64 - The Crystal Shards (Europe)
 # file: Kirby 64 - The Crystal Shards (Europe).zip
@@ -1389,6 +1683,9 @@ file: Kiratto Kaiketsu! 64 Tanteidan (Japan).zip
 game: ナイフエッジ ノーズガンナー
 sort_title: ないふえっじのーずがんなー
 file: Knife Edge - Nose Gunner (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより1998年11月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたオートスクロール3Dシューティングゲーム。プレイヤーが、特殊攻撃機ナイフエッジのガンナーとなって数々のミッションをクリアしていく。自機の操縦は、ほぼ自動となっており、どんなに複雑なマップでも、岩などに衝突することなく超高速で飛び回ることができる。プレイヤーは武器を駆使して敵を撃墜するのが役割となる。
 
 # game: Knife Edge - Nose Gunner (USA)
 # file: Knife Edge - Nose Gunner (USA).zip
@@ -1408,6 +1705,9 @@ file: Knife Edge - Nose Gunner (Japan).zip
 game: ラストレジオンUX
 sort_title: らすとれじおんUX
 file: Last Legion UX (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1999年5月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。3D空間を高速移動、ロックオン、ジャンプ、各種兵器の使用などロボットの操作を楽しめる格闘アクション。フィールドは3D空間を最大限に生かした高低差ステージや川、トンネル、流砂などの様々なトラップを用意した全9ステージ構成。ロボットの動きを360度全方位に3Dスティックでコントロール可能。
 
 # game: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)
 # file: Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).zip
@@ -1487,6 +1787,9 @@ file: Last Legion UX (Japan).zip
 game: Let's スマッシュ
 sort_title: れっつすまっしゅ
 file: Let's Smash (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1998年10月9日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたテニスゲーム。選手のコントロールは、もちろん3Dスティックを使用。ボールのスピンも選手の動きも3Dスティックのさじ加減で自由自在だから、一瞬の微妙な”ため”も簡単にできる。プレイする選手は約5頭身。24人の選手は、強烈なサーブを得意としたりネットプレイに力を発揮するなど個性的。
 
 # game: Lode Runner 3-D (Europe) (En,Fr,De,Es,It)
 # file: Lode Runner 3-D (Europe) (En,Fr,De,Es,It).zip
@@ -1494,6 +1797,9 @@ file: Let's Smash (Japan).zip
 game: ロードランナー 3-D
 sort_title: ろーどらんなー3D
 file: Lode Runner 3-D (Japan).zip
+publisher: バンプレスト
+description:
+   バンプレストより1999年7月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。名作「ロードランナー」が奥行きを持ったリアルなステージやトラップを多数盛り込み、パズルゲームの強烈なファンも満足させる挑戦的なゲームに進化。ステージやアイテム、キャラクターが3Dポリゴンで表現され、主人公が駆け回るステージは全部で100以上。5つのワールドは各5つのステージで構成されている。
 
 # game: Lode Runner 3-D (USA)
 # file: Lode Runner 3-D (USA).zip
@@ -1552,14 +1858,23 @@ file: Lode Runner 3-D (Japan).zip
 game: マジカルテトリスチャレンジ featuring ミッキー
 sort_title: まじかるてとりすちゃれんじふゅーちゃりんぐみっきー
 file: Magical Tetris Challenge featuring Mickey (Japan).zip
+publisher: CAPCOM
+description:
+   カプコンより1998年11月20日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。楽しいディズニーキャラクターの参加と様々なシナリオの追加により、パズルゲームの傑作『テトリス』がリニューアル。今までのテトリスには出てこなかった様々な形のピースが出現する。キャラクターは、ディズニーの人気キャラクター4人から選ぶ事ができ、ディズニーが描き下ろしたオリジナルストーリーも楽しめる。
 
 game: 麻雀64
 sort_title: まーじゃん64
 file: Mahjong 64 (Japan).zip
+publisher: コーエー
+description:
+   コーエーより1997年4月4日にニンテンドウ64(NINTENDO64)用ソフトとして発売された麻雀ゲーム。プレイヤーは「麻雀大学」に入学し、様々なカリキュラムの中から単位を取得していき、卒業をめざす。学年ごとに異なるカリキュラムは多数用意され、勝利の回数や点棒の数を競うものから、インフレルール、ポイント制での対局が用意されている。また、勝敗だけではなく、麻雀の内容も評価の対象となる。
 
 game: 麻雀放浪記CLASSIC
 sort_title: まーじゃんほうろうきくらしっく
 file: Mahjong Hourouki Classic (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1997年8月1日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。阿佐田哲也原作・井上孝重画「麻雀放浪記CLASSIC」を題材とした麻雀ゲーム。登場キャラクターは、ドサ健、坊や哲など全20人。「ストーリーモード」「フリー対戦モード」では、勝ち抜く毎に”寝込みいかさまアイテム”が獲得できる。「いかさまモード」は、麻雀放浪記ならではの醍醐味を楽しませてくれる。
 
 game: 麻雀MASTER
 sort_title: まーじゃんますたー
@@ -1585,6 +1900,9 @@ sort_title: まりおごるふ64
 files:
   Mario Golf 64 (Japan).zip
   Mario Golf 64 (Japan) (Rev 1).zip
+publisher: 任天堂
+description:
+   任天堂より1999年6月11日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたゴルフゲーム。使えるキャラクターは、マリオやルイージをはじめ、全部で十数人。また、随所にマリオキャラクターが登場している。ユーザーフレンドリーなシステムで、初心者から楽しく遊べる。もちろん、ゴルフ好きな人でも納得のシステム。リングを通してパーセーブしなければならない「リングショット」モードも用意。
 
 # game: Mario Kart 64 (Europe)
 # file: Mario Kart 64 (Europe).zip
@@ -1597,6 +1915,9 @@ sort_title: まりおかーと64
 files:
   Mario Kart 64 (Japan).zip
   Mario Kart 64 (Japan) (Rev 1).zip
+publisher: 任天堂
+description:
+   任天堂より1996年12月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。マリオのキャラクター達が活躍する2人対戦はもちろん3人でも4人でも遊べるアクションレースゲーム。熱戦の舞台となるレーシングコースもサーキットはもちろん、峠、ビーチ、雪道、オバケ屋敷など盛りだくさん。コースは、グランプリモードの16コースと、バトル専用コースが4つの合わせて20コースが用意されている。
 
 # game: Mario Kart 64 (USA)
 # file: Mario Kart 64 (USA).zip
@@ -1607,6 +1928,9 @@ files:
 game: マリオのふぉとぴー
 sort_title: まりおのふぉとぴー
 file: Mario no Photopie (Japan).zip
+publisher: 東京エレクトロンデバイス
+description:
+   東京エレクトロンデバイスより1998年12月4日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。写真を合成したり、クリップアートやプリンと枠などを追加したりして、ゲーム感覚で楽しい作品が作れるソフト。ネームカードや年賀状、暑中見舞い、クリスマスカードなどに利用して友達と交換できる。デジタルカメラで撮影した写真や、出力センターで作成した作品を使ってパズルゲームを楽しむ事ができる。
 
 # game: Mario Party (Europe) (En,Fr,De)
 # file: Mario Party (Europe) (En,Fr,De).zip
@@ -1614,6 +1938,9 @@ file: Mario no Photopie (Japan).zip
 game: マリオパーティ
 sort_title: まりおぱーてぃ1
 file: Mario Party (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1998年12月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたボードゲーム。とまったマスによって、数50種類以上のミニゲームが随時発生。そのミニゲームを上手にクリアしていく事によって、ボード上での展開がより有利になっていく。ドキドキ感やスリルを味わう事ができるゲーム。ルールがわかりやすく、小さな子供でも楽しく遊ぶ事ができる。誰もが一緒に楽しく遊べるボードゲーム。
 
 # game: Mario Party (USA)
 # file: Mario Party (USA).zip
@@ -1629,6 +1956,9 @@ sort_title: まりおぱーてぃ2
 files:
   Mario Party 2 (Japan).zip
   Mario Party 2 (Japan) (Wii Virtual Console).zip
+publisher: 任天堂
+description:
+   任天堂より1999年12月17日にニンテンドウ64(NINTENDO64)用ソフトとして発売された『マリオパーティ』シリーズ第2弾。マリオパーティの売りであるミニゲームは本作でもジャンルもレース・アクションなど盛りだくさん。収録されている、64個のミニゲームは操作性がやさしく遊んで面白いものだけを厳選している。アイテム使用による戦略は奥が深く、アイテムを有効に使うことが勝利への近道となる。
 
 # game: Mario Party 2 (USA)
 # file: Mario Party 2 (USA).zip
@@ -1642,6 +1972,9 @@ files:
 game: マリオパーティ3
 sort_title: まりおぱーてぃ3
 file: Mario Party 3 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年12月7日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。『マリオパーティ』シリーズ第3弾。10種類のボードマップ、70種類のミニゲームを用意。新搭載のストーリーモードでは、それを手にした者は”えいえんのスーパースター”になれるという1000年に1度生まれるミレニアムスターをめぐる冒険が楽しめる。デイジーとワルイージが加わり、アイテムも20種類に増加した。
 
 # game: Mario Party 3 (USA)
 # file: Mario Party 3 (USA).zip
@@ -1655,6 +1988,9 @@ file: Mario Party 3 (Japan).zip
 game: マリオストーリー
 sort_title: まりおすとーりー
 file: Mario Story (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年8月11日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションRPG。スーパーファミコンで発売された『スーパーマリオRPG』の続編として製作された。後にペーパーマリオシリーズとして展開されるシリーズの第1作目。絵柄は絵本のような雰囲気のもので、登場キャラは紙のようにペラペラになっている。キノコワールドを冒険し、閉じ込められた7人の星の精を助け出していく。
 
 # game: Mario Tennis (Europe)
 # file: Mario Tennis (Europe).zip
@@ -1676,6 +2012,9 @@ sort_title: まりおてにす64
 files:
   Mario Tennis 64 (Japan).zip
   Mario Tennis 64 (Japan) (Wii Virtual Console).zip
+publisher: 任天堂
+description:
+   任天堂より2000年7月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたテニスゲーム。マリオシリーズに登場するメインキャラクター達がテニスで対決する。基本的に試合を行うモードだけでなく、ミニゲームも収録されている。テニスの特性上大量に人型のキャラクターを必要とするため、デイジーやキャサリンといった過去作品からの復活キャラクター、同作が初登場のワルイージなどが多数登場した。
 
 # game: Mega Man 64 (USA)
 # file: Mega Man 64 (USA).zip
@@ -1695,6 +2034,9 @@ files:
 game: ミッキーのレーシングチャレンジUSA
 sort_title: みっきーのれーしんぐちゃれんじUSA
 file: Mickey no Racing Challenge USA (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2001年1月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ニューヨーク、シアトルなど実在する各地を舞台にディズニーキャラクター達がアメリカ大陸で猛レースを繰り広げる。コース中にあるウェポンでライバルたちに飛行機をぶつけたり、頭上だけに雨を降らせたりなどして、ライバルを蹴散らそう。隠しキャラクターやゲーム開発者が残したスタッフゴーストなどおまけ要素も豊富。
 
 # game: Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)
 # file: Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).zip
@@ -1777,6 +2119,9 @@ file: Mickey no Racing Challenge USA (Japan).zip
 game: 森田将棋64
 sort_title: もりたしょうぎ64
 file: Morita Shougi 64 (Japan).zip
+publisher: セタ
+description:
+   セタより1998年4月3日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。コンピュータ将棋プログラマーの森田和郎氏が開発した信頼ある思考プログラムを搭載。ゲームモードは、コンピュータの強さレベルを6段階に調節できる対局モード「対局室」、ゲームを通じて正式な段級位を取得できる「段級位認定」、自由な駒組みができる「研究室」、コンピュータに詰将棋を融かせる「詰将棋」等を搭載している。
 
 # game: Mortal Kombat 4 (Europe)
 # file: Mortal Kombat 4 (Europe).zip
@@ -1814,6 +2159,9 @@ file: Morita Shougi 64 (Japan).zip
 game: MRC マルチレーシングチャンピオンシップ
 sort_title: まるちれーしんぐちゃんぴおんしっぷ
 file: MRC - Multi-Racing Championship (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1997年7月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。分岐ポイントのあるコースで順位を競うカーレースゲーム。オンロードとオフロードのコースをプレイヤーが自由に選択できるので、プレイヤーの好みや車の特性を生かした走り方をする事ができるようになった。登場するマシンもプレイヤーの思うままにマシンセッティングできる。プレイヤー2人対戦も楽しむことができる。
 
 # game: MRC - Multi-Racing Championship (USA)
 # file: MRC - Multi-Racing Championship (USA).zip
@@ -1860,6 +2208,9 @@ file: MRC - Multi-Racing Championship (Japan).zip
 game: NBA イン ザ ゾーン '98
 sort_title: えぬびーえーいんざぞーん98
 file: NBA in the Zone '98 (Japan).zip
+publisher: コナミ
+description:
+   コナミより1998年1月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。実名のNBAの選手が登場するバスケットボールゲーム。3Dポリゴンで描かれたゲーム画面では本物そっくりのスーパープレイが楽しめる。’96?’97年の各チームや選手の成績も確認することができる。ゲームは最大4人までの対戦・協力プレイも可能。選手エディットの機能も搭載され、細かなところまで思い通りに作れる。
 
 # game: NBA in the Zone '98 (USA)
 # file: NBA in the Zone '98 (USA).zip
@@ -1870,6 +2221,9 @@ file: NBA in the Zone '98 (Japan).zip
 game: NBA イン ザ ゾーン 2
 sort_title: えぬびーえーいんざぞーん2
 file: NBA in the Zone 2 (Japan).zip
+publisher: コナミ
+description:
+   コナミより1999年6月3日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。’99シーズン開幕データを搭載したNBA公式ライセンス商品。グラフィックは前作から大幅に変更、スタジアムやプレイヤーはより繊細に、モーションデータはさらに細かな動きを追求し臨場感たっぷり。プレイヤーエディットでは設定可能なパラメータも細かくなり、思い思いの選手を作り上げることが可能になった。
 
 # game: NBA in the Zone 2000 (Europe)
 # file: NBA in the Zone 2000 (Europe).zip
@@ -1916,6 +2270,9 @@ file: NBA in the Zone 2 (Japan).zip
 game: 新世紀エヴァンゲリオン
 sort_title: しんせいきえう゛ぁんげりおん
 file: Neon Genesis Evangelion (Japan).zip
+publisher: バンダイ
+description:
+   バンダイより1999年6月25日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。ストーリーモードは、原作のストーリーを再現した様々なミッションを攻略していく。様々な敵に対応するためにアクションのみならず、多様な操作のミッションが用意されている。なお、一部残虐的表現はカットされており、劇場版のラストに相当するED後のラストも変更されている。
 
 # game: New Tetris, The (Europe)
 # file: New Tetris, The (Europe).zip
@@ -1992,6 +2349,9 @@ file: Neon Genesis Evangelion (Japan).zip
 game: 忍たま乱太郎64 ゲームギャラリー
 sort_title: にんたまらんたろう64げーむぎゃらりー
 file: Nintama Rantarou 64 Game Gallery (Japan).zip
+publisher: カルチャーブレーン
+description:
+   カルチャーブレーンより2000年4月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。アクションあり、スピード勝負あり、頭脳戦ありのいろいろなゲームが入っていて、新記録を目指したり、2人プレイで競争したりと、さまざまな楽しみ方ができる。ゲームモードは、落下するパネルを正しい位置に移動させて落としパネルに描かれた絵をそろえる「おとしてポン」など、4種類が用意されている。
 
 # game: Nintendo 64 Modem (Japan) (Add-on)
 # file: Nintendo 64 Modem (Japan) (Add-on).zip
@@ -1999,6 +2359,9 @@ file: Nintama Rantarou 64 Game Gallery (Japan).zip
 game: ニンテンドウオールスター! 大乱闘スマッシュブラザーズ
 sort_title: にんてんどうおーるすたーだいらんとうすまっしゅぶらざーず
 file: Nintendo All-Star! Dairantou Smash Brothers (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1999年1月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。相手を攻撃してダメージを与え、フッ飛ばしてステージから落っことしていくスピードと迫力が魅力の爽快アクションゲーム。ニンテンドウのゲームの人気者たちがキャラクターとして登場する。相手を落として「撃墜数」をかせぎ、自分はステージから落ちないようにして「落下数」をためないことが勝利への道。
 
 # game: Nuclear Strike 64 (Europe) (En,Fr)
 # file: Nuclear Strike 64 (Europe) (En,Fr).zip
@@ -2021,12 +2384,18 @@ file: Nintendo All-Star! Dairantou Smash Brothers (Japan).zip
 game: ぬし釣り64 潮風にのって
 sort_title: ぬしつり64しおかぜにのって
 file: Nushi Zuri 64 - Shiokaze ni Notte (Japan).zip
+publisher: ビクター
+description:
+   ビクターより2000年5月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたロールプレイングゲーム。主人公が川や海の「ぬし」と呼ばれる魚を求めて旅をする釣りRPG「ぬし釣りシリーズ」の一作。本作では日本北海の離島ほ始め、近海に防波堤などのステージを経て、向こうのハワイにまで進出。シリーズではおなじみの釣り上げた魚を水槽で飼育したりといったイベントなども健在となっている。
 
 game: ぬし釣り64
 sort_title: ぬしつり64
 files:
   Nushi Zuri 64 (Japan).zip
   Nushi Zuri 64 (Japan) (Rev 1).zip
+publisher: パック・イン・ビデオ
+description:
+   パック・イン・ビデオより1998年11月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたロールプレイングゲーム。主人公が川や海の「ぬし」と呼ばれる魚を求めて旅をする釣りRPG「ぬし釣りシリーズ」の一作。海・川のどちらの釣りも出来る10ステージが用意されている。野山をめぐっての昆虫・植物採集もシリーズ初登場となった。3Dポリゴンの魚が大暴れする、大迫力の釣りシーンも見どころ。
 
 # game: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)
 # file: O.D.T. (Europe) (En,Fr,De,Es,It) (Proto).zip
@@ -2040,11 +2409,14 @@ files:
 # game: Off Road Challenge (USA)
 # file: Off Road Challenge (USA).zip
 
-game: オウガバトル64 Person of Lordly Caliber
+game: オウガバトル64
 sort_title: おうがばとる64
 files:
   Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).zip
   Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).zip
+publisher: 任天堂
+description:
+   任天堂より1999年7月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションRPG。オウガバトルシリーズの3作目。本作はオウガバトルサーガ正史の第6章に当たり、時間的には『伝説のオウガバトル』(第5章)終了後、『タクティクスオウガ』(第7章)とほぼ同時期の物語である。『伝説』の物を踏襲しながら『タクティクス』の要素を織り交ぜたようなゲームシステムとなっている。
 
 # game: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)
 # file: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).zip
@@ -2061,6 +2433,9 @@ files:
 game: オリンピックホッケー ナガノ 98
 sort_title: おりんぴっくほっけーながの98
 file: Olympic Hockey 98 (Japan).zip
+publisher: コナミ
+description:
+   コナミより1998年7月16日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ナガノオリンピックに出場した14ヶ国のチームが実名で登場するアイスホッケーを題材としたゲーム。フルポリゴンで描かれたキャラクターを操作して忠実に再現されたアイスホッケーを楽しむことができる。最大4人までの対戦・協力プレイが楽しめる。
 
 # game: Olympic Hockey 98 (USA)
 # file: Olympic Hockey 98 (USA).zip
@@ -2068,6 +2443,9 @@ file: Olympic Hockey 98 (Japan).zip
 game: おねがいモンスター
 sort_title: おねがいもんすたー
 file: Onegai Monsters (Japan).zip
+publisher: ボトムアップ
+description:
+   ボトムアップより1999年4月9日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたモンスター育成ゲーム。モンスターを育て上げ、戦闘をしたり大陸に隠された財宝や秘境を見つける事が目的となる。モンスターの種類は500種類存在し、プレイヤーが餌を与える事で進化させる事が可能。戦闘では通常攻撃の他に何百もの特殊攻撃で戦っていく。また、自分の育てたモンスターを友達と対戦したり交換もできる。
 
 # game: Operation WinBack (Europe) (En,Fr,De,Es,It)
 # file: Operation WinBack (Europe) (En,Fr,De,Es,It).zip
@@ -2075,6 +2453,9 @@ file: Onegai Monsters (Japan).zip
 game: パチンコ365日
 sort_title: ぱちんこ365にち
 file: Pachinko 365 Nichi (Japan).zip
+publisher: セタ
+description:
+   セタより1998年5月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ゲーム内のパチンコホールへ通い、文字通り1年365日を通してどれだけ”勝てるか”に挑戦するパチンコホールシミュレーション。新台入荷やサービスデーなどもあり、まさに臨場感あふれるプレイを体験できる。収録機種は、CRピーチパイV、CR・RYU-OH、CRサイころん、ゼロタイガー、センターチューストーン。
 
 # game: Paper Mario (Europe) (En,Fr,De,Es)
 # file: Paper Mario (Europe) (En,Fr,De,Es).zip
@@ -2094,10 +2475,16 @@ file: Pachinko 365 Nichi (Japan).zip
 game: Parlor! PRO64 パチンコ実機シミュレーションゲーム
 sort_title: ぱーらーぷろ64
 file: Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan).zip
+publisher: 日本テレネット
+description:
+   日本テレネットより1999年1月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたパチンコゲーム。収録機種は「CR大工の源さん」、海底アクションの「CRギンギラパラダイス」、スロット風パチンコ機の決定版「CRミリオンスロット6」の3つ。究極の再現力と迫真の攻略性が魅力。「攻略モード」には釘調整システム、大当たり確率設定、データ表示機能など、台の特徴を研究するための機能を搭載。
 
 game: PDウルトラマンバトルコレクション64
 sort_title: ぴーでぃーうるとらまんばとるこれくしょん64
 file: PD Ultraman Battle Collection 64 (Japan).zip
+publisher: バンダイ
+description:
+   バンダイより1999年7月16日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションゲーム。人気ヒーロー『ウルトラマン』のキャラクター達を育てて武闘大会の優勝を目指す。「ガシャポン」でウルトラ戦士を手に入れた後、トレーニングを積んだり、装備を強化したりして育成していき、「ウルトラバトル大会」で勝利するとランクが上がって、新たな必殺技を覚えることができる。
 
 # game: Penny Racers (Europe)
 # file: Penny Racers (Europe).zip
@@ -2114,6 +2501,9 @@ file: PD Ultraman Battle Collection 64 (Japan).zip
 game: パーフェクトダーク
 sort_title: ぱーふぇくとだーく
 file: Perfect Dark (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年10月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。プレイには周辺機器である「メモリー拡張パック」の64本体への接続が必須。完璧なテスト成績で「パーフェクト・ダーク」のコードネームをほしいままにする新人エージェント、ジョアンナ・ダーク。彼女が兵器関連企業である「データダイン社」不自然な技術躍進の真相を突き止める物語。
 
 # game: Perfect Dark (USA)
 # file: Perfect Dark (USA).zip
@@ -2138,6 +2528,9 @@ sort_title: ぴかちゅうげんきげちゅう
 files:
   Pikachuu Genki de Chuu (Japan).zip
   Pikachuu Genki de Chuu (Japan) (Beta).zip
+publisher: 任天堂
+description:
+   任天堂より1998年12月12日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションゲーム。『ポケットモンスター』の人気キャラクターであるピカチュウと友達になって交流することが目的。本作には「NINTENDO64 VRS(音声認識システム)」とヘッドセット形のマイクが付属しており、マイクを使ってピカチュウとコミュニケーションを取って遊べることが特徴。
 
 # game: Pilotwings 64 (Europe) (En,Fr,De)
 # file: Pilotwings 64 (Europe) (En,Fr,De).zip
@@ -2145,6 +2538,9 @@ files:
 game: パイロットウイングス64
 sort_title: ぱいろっとういんぐす64
 file: Pilotwings 64 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1996年6月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。大空を自由に飛びまわるパイロットは個性派6人。「パイロット・ライセンス」を獲得し、大空のプロフェッショナルの証である「ライセンスバッジ」を手に入れることが目的となる。「ハンググライダー」「ロケットベルト」「ジャイロコプター」の3機種を操り、設定されたタスク36コースをこなし、認定試験をクリアしていく。
 
 # game: Pilotwings 64 (USA)
 # file: Pilotwings 64 (USA).zip
@@ -2196,6 +2592,9 @@ sort_title: ぽけもんすなっぷ
 files:
   Pokemon Snap (Japan).zip
   Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).zip
+publisher: 任天堂
+description:
+   任天堂より1999年3月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ポケモンたちの写真撮影が楽しめるカメラアクションゲーム。野生のポケモンたちが暮らすポケモンアイランドを冒険しながら、普段は見ることのできない、ポケモンのいろんな仕草や表情を写真に撮ろう。自分だけのオリジナルレポートやアルバムを作ろう。益々広がるポケモンワールドで、ポケモン達の姿を楽しもう。
 
 # game: Pokemon Snap (Spain)
 # file: Pokemon Snap (Spain).zip
@@ -2227,6 +2626,9 @@ files:
 game: ポケモンスタジアム
 sort_title: ぽけもんすたじあむ1
 file: Pokemon Stadium (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1998年8月1日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ゲームボーイソフト「ポケットモンスター」で育てたポケモン達が3D映像となり、迫力のポケモンリーグ・トーナメント戦に登場する。ポケモンがルールの規定に合わない場合や、ゲームボーイの「ポケットモンスター」を持っていない場合などには、ゲーム内に用意された「レンタルポケモン」を使ってバトルに参加する事も可能。
 
 # game: Pokemon Stadium (Spain)
 # file: Pokemon Stadium (Spain).zip
@@ -2255,6 +2657,9 @@ file: Pokemon Stadium (Japan).zip
 game: ポケモンスタジアム2
 sort_title: ぽけもんすたじあむ2
 file: Pokemon Stadium 2 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1999年4月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ゲームボーイソフト『ポケットモンスター 赤・緑・青・ピカチュウ』に登場する151種類のポケモンが3Dになって、迫力のバトルを楽しめるソフト。自分で育てたポケモンを使ってバトルも可能。対戦以外にも、ジムリーダーに挑むイベントバトルや、ポケモンが活躍するミニゲームなどが楽しめる。
 
 # game: Pokemon Stadium 2 (Spain)
 # file: Pokemon Stadium 2 (Spain).zip
@@ -2262,9 +2667,12 @@ file: Pokemon Stadium 2 (Japan).zip
 # game: Pokemon Stadium 2 (USA)
 # file: Pokemon Stadium 2 (USA).zip
 
-game: ポケモンスタジアム金銀
-sort_title: ぽけもんすたじあむきんぎん
+game: ポケモンスタジアム 金 銀 クリスタルバージョン
+sort_title: ぽけもんすたじあむきんぎんくりすたるばーじょん
 file: Pokemon Stadium Kin Gin (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年12月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ゲームボーイソフト「ポケットモンスター」赤、緑、青、ピカチュウ、金、銀、クリスタルバージョンで育てたポケモン達が251種が3D映像となり、迫力のポケモンリーグ・トーナメント戦に登場する。豊富なルール設定でのバトルはもちろん、図鑑や資料などの機能も充実。1人でも「ふしぎなおくりもの」などが楽しめる。
 
 # game: Polaris SnoCross (USA)
 # file: Polaris SnoCross (USA).zip
@@ -2272,6 +2680,9 @@ file: Pokemon Stadium Kin Gin (Japan).zip
 game: パワーリーグ64
 sort_title: ぱわーりーぐ64
 file: Power League 64 (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1997年8月8日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。本野球機構プロ野球12球団公認、97年開幕選手データを採用した野球ゲーム。フルポリゴンで描かれた選手が活躍。バッターは「ピッチングスコープ」を駆使して配球を読むなど、戦略性とリアルさがアップ。「高め」「真ん中」「低め」の3段階のバッティングが可能になり、3Dスティック操作で瞬時の打ち分けもできる。
 
 # game: Power Rangers - Lightspeed Rescue (Europe)
 # file: Power Rangers - Lightspeed Rescue (Europe).zip
@@ -2293,22 +2704,37 @@ sort_title: ぷろまーじゃんきわめ64
 files:
   Pro Mahjong Kiwame 64 (Japan).zip
   Pro Mahjong Kiwame 64 (Japan) (Rev 1).zip
+publisher: アテナ
+description:
+   アテナより1997年11月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された麻雀ゲーム。小島武夫、安藤満などの有名プロ雀士16名が総出演。「プロモード」「ギャンブルモード」「トレーニングモード」の3つのゲームモードを収録しているため、プレイヤーの雀力アップの手助けする。また、ズーム機能も搭載しており、ニンテンドー64ならではの見やすい画面となっている。
 
 game: プロ麻雀 兵64
 sort_title: ぷろまーじゃんつわもの64
 file: Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan).zip
+publisher: カルチャーブレーン
+description:
+   カルチャーブレーンより1999年11月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売された麻雀ゲーム。名人位、王位、八翔位と数々のタイトルを制覇した兵達が16名登場。打ち筋、雀風、性格等を細かく取り入れ、それぞれの個性を再現。リアルな対局が存分に味わえる。モードはフリー対局、大会、指南、雀荘とあり幅広い対局が楽しめる。雀荘バトルモードは6つの雀荘の条件をクリアして制覇して行く。
 
 game: ぷよぷよSUN64
 sort_title: ぷよぷよさん64
 file: Puyo Puyo Sun 64 (Japan).zip
+publisher: コンパイル
+description:
+   コンパイルより1997年10月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ゲームーモードは、最大16忍が参加できる「かちぬきぷよぷよ」、“とこぷよ”と“なぞぷよ”のおいしいところが合体した「とことんなぞぷよ」、ひたすらぷよぷよする「とことんぷよぷよ」、「ひとりでぷよぷよ」「ふたりでぷよぷよ」の5つ。また、「太陽ぷよ」と呼ばれる特殊なぷよが相殺時および全消し時に出現する
 
 game: ぷよぷよ～んパーティー
 sort_title: ぷろぷよーんぱーてぃー
 file: Puyo Puyoon Party (Japan).zip
+publisher: コンパイル
+description:
+   コンパイルより1999年12月3日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。落ち物パズルの金字塔「ぷよぷよ」のシリーズ4作目のニンテンドー64版。色ぷよをうまく連鎖させて消していくルールはそのまま。しかし、「ばくだんぷよ」など時間がやってくる爆発してプレイヤーを負けに導く恐ろしいモードも増え、内容はさらに充実している。
 
 game: パズルボブル64
 sort_title: ぱずるぼぶる64
 file: Puzzle Bobble 64 (Japan).zip
+publisher: タイトー
+description:
+   タイトーより1999年3月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。「パズルボブルシリーズ」のナンバリングタイトル3作目で、アーケードからの移植作。フィールドに浮かぶパズルに同色のバブルを打ち込んで消してゆく。消した分が相手フィールドに送られる対戦モードも完備。2P対戦も楽しめる。また、隣でバブルが消えるとその色のバブルに変化する「レインボーバブル」も追加された。
 
 # game: Quake (Europe)
 # file: Quake (Europe).zip
@@ -2334,10 +2760,16 @@ file: Puzzle Bobble 64 (Japan).zip
 game: らくがきっず
 sort_title: らくがきっず
 file: Rakugakids (Japan).zip
+publisher: コナミ
+description:
+   コナミより1998年7月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ニンテンドー64にラクガキ達がたたかう描く闘(格闘)ゲームが登場。ポップでキュートなラクガキ達が、ごきげんなサウンドにのって大暴れ。ユニークな技を次々とくり出すラクガキ達のたたかいっぷりは、ときにはクールに決めちゃったり・・・。よそ見している場合じゃない。うわさの「ドローイングモード」はやる価値あり。
 
 game: ラリー'99
 sort_title: らりー99
 file: Rally '99 (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1999年8月6日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたレースゲーム。スバルや三菱、トヨタなど実際に世界で活躍しているラリーカーを使用。車種はランサーエボリューションV、インプレッサWRCなど、9車種から好きな車を選んでプレイすることがでる。ブレーキランプやまわりの風景を写し込んだウインドウなど、N64の限界に迫ったグラフィックディテールは必見。
 
 # game: Rally Challenge 2000 (USA)
 # file: Rally Challenge 2000 (USA).zip
@@ -2426,6 +2858,9 @@ file: Rally '99 (Japan).zip
 game: ロボットポンコッツ 七つの海のカラメル
 sort_title: ろぼっとぽんこっつななつのうみのからめる
 file: Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1999年12月24日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたロールプレイングゲーム。ロボットポンコッツと呼ばれる野生のロボットを捕獲して育成し、他のオーナーと対戦する『ロボットポンコッツ』シリーズの一作。シリーズ唯一の据え置き機作品。伝説のロボポン「カラメル」のパーツを探しに、海上を船で移動し、7つの海を渡るというストーリーとなる。
 
 # game: Robotech - Crystal Dreams (USA) (Proto 1)
 # file: Robotech - Crystal Dreams (USA) (Proto 1).zip
@@ -2451,6 +2886,9 @@ file: Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).zip
 game: ロックマンDASH 鋼の冒険心
 sort_title: ろっくまんだっしゅ1
 file: Rockman Dash - Hagane no Boukenshin (Japan).zip
+publisher: CAPCOM
+description:
+   カプコンより2000年11月22日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたフリーランニングRPG。ロックマンシリーズ生誕10周年記念作品の第4弾。プレイステーションからの移植作。N64版はカプコンのROMカセット最後のゲームタイトルとなった。ゲームは街・平原・空など、多彩なフィールドに潜む敵と戦いながら、謎解きやミニゲームをこなしてクリアしていくといった内容となる。
 
 # game: RR64 - Ridge Racer 64 (Europe)
 # file: RR64 - Ridge Racer 64 (Europe).zip
@@ -2497,6 +2935,9 @@ file: Rockman Dash - Hagane no Boukenshin (Japan).zip
 game: 最強羽生将棋
 sort_title: さいきょうはぶしょうぎ
 file: Saikyou Habu Shougi (Japan).zip
+publisher: セタ
+description:
+   セタより1996年6月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売された将棋ゲーム。ニンテンドー64のハードと同時に発売された3本のローンチソフトのうちの一つ。日本将棋連盟推薦。通常の対局はもちろんのこと、初心者教室や、自由研究、羽生善治名人(当時)の棋譜と詰将棋320問も収録。思考ルーチンは金沢伸一郎が開発している。
 
 # game: San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)
 # file: San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).zip
@@ -2525,6 +2966,9 @@ file: Saikyou Habu Shougi (Japan).zip
 game: SD飛龍の拳伝説
 sort_title: えすでぃーひりゅうのけんでんせつ
 file: SD Hiryuu no Ken Densetsu (Japan).zip
+publisher: カルチャーブレーン
+description:
+   カルチャーブレーンより1999年1月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ファミコン時代から続くアクションゲーム「飛龍の拳」シリーズの格闘アクション。総勢54人のおもしろキャラが続々登場。試合に勝つことでパワーアップしてゆく「トーナメント」や、2P対戦する「たいせん」、物語にそって闘う「ストーリー」の3モードが用意されている。
 
 # game: Sesame Street - Elmo's Letter Adventure (USA)
 # file: Sesame Street - Elmo's Letter Adventure (USA).zip
@@ -2559,6 +3003,9 @@ file: SD Hiryuu no Ken Densetsu (Japan).zip
 game: シャドウゲイト64 TRIALS OF THE FOUR TOWERS
 sort_title: しゃどうげいと64
 file: Shadowgate 64 - Trials of the Four Towers (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより1999年8月6日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアドベンチャーゲーム。ファミコンで発売された『シャドウゲイト』の続編。移植ではない新作であり、前作の舞台であったシャドウゲイト城の跡地が舞台となっている。長い時が経ち、魔王が封印された城も盗賊団の根城となっていた。盗賊団に捕まって連れて来られた主人公は、なりゆきで魔王復活阻止のために城内の塔を探索する。
 
 # game: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)
 # file: Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).zip
@@ -2569,14 +3016,23 @@ file: Shadowgate 64 - Trials of the Four Towers (Japan).zip
 game: 新日本プロレス 闘魂炎導 BRAVE SPIRITS
 sort_title: しんにほんぷろれすとうこんろーど1
 file: Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1998年1月4日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。新日本プロレスの選手たちが実名で登場する超本格派プロレスゲーム。好きな選手に自分の操作を記憶させて、タッグトーナメントにすることもできる。ゲームをクリアするとベルトが手に入り、友達とどんどん対戦していって防衛記録を伸ばす毎にベルトの価値が上がっていく。ゲームモードは2種類が用意されている。
 
 game: 新日本プロレス 闘魂炎導2 The Next Generation
 sort_title: しんにほんぷろれすとうこんろーど2
 file: Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1998年12月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。。新日本プロレスの選手たちが実名で登場する超本格派プロレスゲーム第2弾。好評の前作からさらに増えて26名の闘魂戦士が実名で登場。演出にもこだわり、特にど派手な入場シーンを完全再現。また新モード「レスラーシャッフル」「MVP」なども追加されている。
 
 game: シムシティ2000
 sort_title: しむしてぃ2000
 file: SimCity 2000 (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1998年1月30日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシミュレーションゲーム。パソコンからの移植作で『シムシティ』の続編。街を斜め上から見た視点となり、立体的となった。新たにゲームに取り入れた概念として水道、教育、健康、条例などがある。標高の概念が取り入れられたことにより、起伏のある都市開発ができるようになった。また、N64版にはミニゲームも存在する。
 
 # game: SimCopter 64 (USA) (Proto)
 # file: SimCopter 64 (USA) (Proto).zip
@@ -2584,10 +3040,16 @@ file: SimCity 2000 (Japan).zip
 game: スノボキッズ
 sort_title: すのぼきっず
 file: Snobo Kids (Japan).zip
+publisher: アトラス
+description:
+   アトラスより1997年12月12日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。スノーボードを題材にしたアクション3Dレースゲーム。愉快なキャラクターたちがアイテムやウェポンなを駆使して、ライバルの背中を押したり、パラシュートで飛ばしたりなど邪魔をしながらゴールを目指して大バトルレースを繰り広げる。3つのゲームモードがあり、それぞれバラエティに富んだ遊びが堪能できる。
 
 game: スノースピーダー
 sort_title: すのーすぴーだー
 file: Snow Speeder (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1998年12月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。スキー&スノボードで雪山を爽快滑降。コース各所に分岐点が存在するマルチコース方式。コース幅が広く、アイスバーンや新雪地帯が分布するので、ライン取りが重要になってくる。コース中に設けられたジャンプ台はトリックのチャンス。幾度もコースを滑り、ポイントを獲得していくことでキャラはレベルアップしていく。
 
 # game: Snowboard Kids (Europe, Australia)
 # file: Snowboard Kids (Europe, Australia).zip
@@ -2604,6 +3066,9 @@ file: Snow Speeder (Japan).zip
 game: ソニックウイングスアサルト
 sort_title: そにっくういんぐすあさると
 file: Sonic Wings Assault (Japan).zip
+publisher: ビデオシステム
+description:
+   ビデオシステムより1998年3月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。『ソニックウィングス』シリーズの一作で最終作となる。隠しモードで、全てのステージが自由に選択できるようになる。最初に操縦できる機体は4体だが、隠し機体が2体存在、各キャラクターのカバーボイスが収録されている。ボスやザコキャラクターの名前まで出てくるなど、演出が凝っている。
 
 # game: South Park - Chef's Luv Shack (Europe)
 # file: South Park - Chef's Luv Shack (Europe).zip
@@ -2644,6 +3109,9 @@ file: Sonic Wings Assault (Japan).zip
 game: スペースダイナマイツ
 sort_title: すぺーすだいなまいつ
 file: Space Dynamites (Japan).zip
+publisher: ビック東海
+description:
+   ビック東海より1998年3月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。クリスタル状の鉱物「ブレイムエレメント」をめぐる、全10ステージでなる挌闘アクションゲーム。人間はもちろん、インパクトある異星人など10キャラクターが、古典的な武器から近未来武器まで揃えて登場。プラクティスモードでは、通常の練習に加え、特定の技を避ける練習もできるので、実践的なトレーニングが可能。
 
 # game: Space Invaders (USA)
 # file: Space Invaders (USA).zip
@@ -2668,6 +3136,9 @@ sort_title: すたーふぉっくす64
 files:
   Star Fox 64 (Japan).zip
   Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).zip
+publisher: 任天堂
+description:
+   任天堂より1997年4月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された3Dシューティングゲーム。スターフォックスシリーズの第2作目。ストーリーとしては前作の続編ではなく、前作のパラレルワールド的展開が繰り広げられる。ステージ構成は一定のルートをほぼ強制的に進んでボスを倒すスクロールステージと、立方体の箱庭ステージで360度自由に移動できるオールレンジモードがあある。
 
 # game: Star Fox 64 (USA)
 # file: Star Fox 64 (USA).zip
@@ -2683,6 +3154,9 @@ sort_title: すたーそるじゃーばにしんぐあーす
 files:
   Star Soldier - Vanishing Earth (Japan) (En).zip
   Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10).zip
+publisher: ハドソン
+description:
+   ハドソンより1998年7月10日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。撃たれる前に撃つ爽快感あふれるシューティングゲーム。スターソルジャー、スーパースターソルジャーの正統続編。世界観はソルジャーブレイドのものを踏襲している。本作では新システム「ローリング」が追加。「ローリング」使用中は一定時間、無敵状態になるだけでなく、「敵の攻撃をはね返す」ことが可能になった。
 
 # game: Star Soldier - Vanishing Earth (USA)
 # file: Star Soldier - Vanishing Earth (USA).zip
@@ -2690,6 +3164,9 @@ files:
 game: スターツインズ
 sort_title: すたーついんず
 file: Star Twins (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1999年12月1日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティング・アドベンチャーゲーム。宇宙の平和のために戦うジェットフォース部隊。悪の侵略者マイザーの総攻撃を受け、壊滅的な打撃を受けてしまった。残った双子の兄妹は何種類にも及ぶ銃器類や爆弾、さらには"シュリケン"などのユニークな武器をも使いこなして、マイザー率いる昆虫型ロボット軍団を撃破していく。
 
 # game: Star Wars - Rogue Squadron (Europe) (En,Fr,De)
 # file: Star Wars - Rogue Squadron (Europe) (En,Fr,De).zip
@@ -2724,10 +3201,16 @@ file: Star Twins (Japan).zip
 game: スター・ウォーズ 出撃! ローグ中隊
 sort_title: すたーうぉーずしゅつげきろーぐちゅうたい
 file: Star Wars - Shutsugeki! Rogue Chuutai (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1999年8月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。プレイヤーは、主人公ルーク・スカイウォーカーの搭乗する各種戦闘機を操作し、仲間であるローグ中隊と共に作戦をこなしていく。作戦の内容は、敵を全滅させるなどの単純なものから複雑なものまであり、その作戦に応じた戦法を取ることが重要となる。本作は日本語字幕・英語音声となっている。
 
 game: スター・ウォーズ 帝国の影
 sort_title: すたーうぉーずていこくのかげ
 file: Star Wars - Teikoku no Kage (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1997年6月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションシューティングゲーム。キャラクターを操作するTPSステージと、戦闘機を操縦するシューティングステージが混在している。スピンオフ小説作品『スター・ウォーズ シャドウズ・オブ・ジ・エンパイア[帝国の影]』が原典となっており、主人公は反乱軍に参加した密輸業者パイロットのダッシュ・レンダーとなる。
 
 # game: Star Wars Episode I - Battle for Naboo (Europe)
 # file: Star Wars Episode I - Battle for Naboo (Europe).zip
@@ -2744,6 +3227,9 @@ file: Star Wars - Teikoku no Kage (Japan).zip
 game: スター・ウォーズ エピソード1 レーサー
 sort_title: すたーうぉーずえぴそーど1れーさー
 file: Star Wars Episode I - Racer (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1999年7月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。映画「スター・ウォーズ エピソード1」にも描かれた迫力のレーシングシーンがゲームになって登場。古代ローマで馬に曳かせた戦車のように、2つの強力なエンジンが猛スピードでコックピットを引っ張る。様々な惑星から集まった強力な奴らを相手に、レースで賞金を稼ぎ、パーツを購入してカスタマイズすることができる。
 
 # game: Star Wars Episode I - Racer (USA)
 # file: Star Wars Episode I - Racer (USA).zip
@@ -2772,10 +3258,16 @@ file: Star Wars Episode I - Racer (Japan).zip
 game: スーパービーダマン バトルフェニックス64
 sort_title: すーぱーびーだまんばとるふぇにっくす64
 file: Super B-Daman - Battle Phoenix 64 (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1998年7月24日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。小学館の『コロコロコミック』で連載されていた漫画『爆球連発!!スーパービーダマン』を原作とするゲーム作品。メインの「ビーダーモード」では10種類の競技が用意されており、3通りのバトルでプレイ可能。また、「バトルモード」では互いにビー玉をぶつけ合う対戦バトルが可能となっている。
 
 game: スーパーボウリング
 sort_title: すーぱーぼうりんぐ
 file: Super Bowling (Japan).zip
+publisher: アテナ
+description:
+   アテナより1999年3月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。バリエーションがさまざまなルールも楽しめるボウリングゲーム。「シングル戦」「ダブルス戦」「チーム戦」の他に「ゴルフボウリング」と「チャレンジボウリング」が楽しめる。「ゴルフボウリング」は通常のゴルフと同じで、決められた回数で倒すとパー、それ以下だとバーディといったトータルのスコアで勝負を競う。
 
 # game: Super Bowling (USA)
 # file: Super Bowling (USA).zip
@@ -2786,10 +3278,16 @@ file: Super Bowling (Japan).zip
 game: スーパーマリオ64
 sort_title: すーぱーまりお64
 file: Super Mario 64 (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1996年6月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。マリオが走る、ジャンプする、しゃがむ、泳ぐ、空を飛ぶ、とにかく多彩なアクションで3次元空間を自由自在に動き回る。冒険の舞台となる世界は、立体空間を生かした変化にとんだ仕掛けで盛りだくさん。さらにお馴染みの敵、クッパもパワーアップ。見ているだけでも楽しくなる新生マリオワールド。
 
 game: スーパーマリオ64 振動パック対応版
 sort_title: すーぱーまりお64しんどうぱっくたいおうばん
 file: Super Mario 64 (Japan) (Rev 3) (Shindou Edition).zip
+publisher: 任天堂
+description:
+   任天堂より1997年7月18日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションゲーム。振動パック対応版。マリオが走る、ジャンプする、しゃがむ、泳ぐ、空を飛ぶ、とにかく多彩なアクションで3次元空間を自由自在に動き回る。舞台となる世界は、立体空間を生かした変化にとんだ仕掛けで盛りだくさん。さらにお馴染みの敵、クッパもパワーアップ。見ているだけでも楽しくなるマリオワールド。
 
 # game: Super Mario 64 (USA)
 # file: Super Mario 64 (USA).zip
@@ -2800,6 +3298,9 @@ file: Super Mario 64 (Japan) (Rev 3) (Shindou Edition).zip
 game: スーパーロボットスピリッツ
 sort_title: すーぱーろぼっとすぴりっつ
 file: Super Robot Spirits (Japan).zip
+publisher: バンプレスト
+description:
+   バンプレストより1998年7月17日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。登場するロボットは、シャイニングガンダムやダインクーガ、ダンバインなど全10体。様々な特徴を持つロボットが挌闘戦や射撃戦などのバトルロイヤルを繰り広げる。ロボットに乗り込むパイロットが叫び声と共に必殺技を繰り出し、パイロットの顔が挿入される。さらにBGMには各ロボットの主題歌を使用している。
 
 game: スーパーロボット大戦64
 sort_title: すーぱーろぼっとたいせん64
@@ -2820,6 +3321,9 @@ file: Super Robot Taisen 64 (Japan).zip
 game: スーパースピードレース64
 sort_title: すーぱーすぴーどれーす64
 file: Super Speed Race 64 (Japan).zip
+publisher: タイトー
+description:
+   タイトーより1998年5月29日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。スーパーカーの代名詞「ランボルギーニ」が、他のスポーツカーと熱戦を繰り広げるレースゲーム。簡単なコースからトリッキーな難コースまで6つを搭載。それぞれ「DAY」「WET」「NIGHT」の3種類の路面に設定できる。コースをクリアすると、ポルシェタイプやデフェラーリタイプ等ライバル車の使用も可能となる。
 
 # game: Supercross 2000 (Europe) (En,Fr,De)
 # file: Supercross 2000 (Europe) (En,Fr,De).zip
@@ -2839,6 +3343,9 @@ file: Super Speed Race 64 (Japan).zip
 game: 進め!対戦ぱずるだま 闘魂!まるたま町
 sort_title: すすめたいせんぱずるだまとうこんまるたまちょう
 file: Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan).zip
+publisher: コナミ
+description:
+   コナミより1998年3月26日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。同色の”たま”を並べて消していく、落ちものパズルゲーム。「ぱずるだま」や「とっかえだま」に加え、PS版のおまけだった「ころがしだま」が振動パック対応になって収録されている。連鎖を発生させて消すと相手のフィールドに”こだま”が送られるモード、最大4人でボウリングを楽しめるモードがある。
 
 # game: Sydney 2000 (Europe) (Proto)
 # file: Sydney 2000 (Europe) (Proto).zip
@@ -2873,6 +3380,9 @@ file: Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan).zip
 game: テトリス64
 sort_title: てとりす64
 file: Tetris 64 (Japan) (En).zip
+publisher: セタ
+description:
+   セタより1998年11月13日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。新要素を加えたオリジナルの「TETRIS」に加え、”ギガテトラミノ”による連鎖システムを採用した「GIGA　TETRIS」、周辺機器バイオセンサーを装着して楽しむ「BIO　TETRIS」など3つのモードが楽しめる。「BIO　TETRIS」はプレイ後に脈拍がグラフ表示され、脈拍の変化を見ることもできる。
 
 # game: Tetrisphere (Europe)
 # file: Tetrisphere (Europe).zip
@@ -2946,9 +3456,8 @@ file: Tetris 64 (Japan) (En).zip
 # game: Tony Hawk's Skateboarding (Europe)
 # file: Tony Hawk's Skateboarding (Europe).zip
 
-game: トゥーンパニック (開発版)
-sort_title: とぅーんぱにっく
-file: Toon Panic (Japan) (Proto).zip
+# game: Toon Panic (Japan) (Proto)
+# file: Toon Panic (Japan) (Proto).zip
 
 # game: Top Gear Hyper Bike (Europe)
 # file: Top Gear Hyper Bike (Europe).zip
@@ -2956,6 +3465,9 @@ file: Toon Panic (Japan) (Proto).zip
 game: トップギア・ハイパーバイク
 sort_title: とっぷぎあはいぱーばいく
 file: Top Gear Hyper Bike (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより2000年3月17日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ハイスピードなストレートレース、テクニカルなオフロードレースの2タイプに挑戦できるレースゲーム。可動するサスペンションや、なめらかなライダーの動きによるリアルなアニメーションと優れたバイクの挙動により、臨場感あふれるレースが繰り広げられる。3次元で曲線を描く事ができる斬新なコースエディット機能搭載。
 
 # game: Top Gear Hyper-Bike (USA)
 # file: Top Gear Hyper-Bike (USA).zip
@@ -2969,6 +3481,9 @@ file: Top Gear Hyper Bike (Japan).zip
 game: トップギア オーバードライブ
 sort_title: とっぷぎあおーばーどらいぶ
 file: Top Gear Overdrive (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより1999年3月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたレースゲーム。スピード感抜群のレース展開が楽しめる「トップ・ギア」。急激なアップダウンやジャンプの連続、そしてニトロアイテムによる爆発的なスピード感が体験できる迫力のレース展開。チューニングはレースに勝って賞金をもらい、ハイパーマシンをゲットしよう。レース中にはBGMも楽しめる。2人から4人プレイ可能。
 
 # game: Top Gear Overdrive (USA)
 # file: Top Gear Overdrive (USA).zip
@@ -2985,6 +3500,9 @@ file: Top Gear Overdrive (Japan).zip
 game: トップギア・ラリー
 sort_title: とっぷぎあらりー1
 file: Top Gear Rally (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより1997年12月5日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。天候や路面の状況の変化、ラリーカーの挙動までも忠実に再現し、ラリー特有のエキサイテイングなレースを実現。ゲームモードは、シーズンを通してポイントを獲得していく「チャンピオンシップ」、順位を競う「アーケード」、自分だけのオリジナルマシンが作れる「ペイントショップ」など5つを搭載。コースの種類も多数ある。
 
 # game: Top Gear Rally (USA)
 # file: Top Gear Rally (USA).zip
@@ -2998,6 +3516,9 @@ file: Top Gear Rally (Japan).zip
 game: トップギア・ラリー2
 sort_title: とっぷぎあらりー2
 file: Top Gear Rally 2 (Japan).zip
+publisher: ケムコ
+description:
+   ケムコより2000年2月4日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。本格的なレースゲーム。同じコースを回りつづける周回コースではなく、スタートからゴールまで一本道コースの「コースジェネレータ」を採用。上級ライセンスでのコースはプレイする度にコースがランダムに変化するため、無限のコースチャレンジ性を高める。ARSG(アメリカンラリースポーツグループ)公認。
 
 # game: Top Gear Rally 2 (USA)
 # file: Top Gear Rally 2 (USA).zip
@@ -3026,6 +3547,9 @@ file: Top Gear Rally 2 (Japan).zip
 game: トランスフォーマー ビーストウォーズメタルス64
 sort_title: とらんすふぉーまーびーすとうぉーずめたるす64
 file: Transformers - Beast Wars Metals 64 (Japan).zip
+publisher: タカラ
+description:
+   タカラより1999年10月2日にニンテンドウ64(NINTENDO64)用ソフトとして発売された格闘アクションゲーム。「コンボイ」「ラットル」「チータス」「エアライザー」などの人気者達がTVと同じ姿・声・アクションで変身して戦う。操作は簡単でビースト、ロボット、ビークルへの3段階変身や、遠距離、近距離、必殺技の戦闘が楽しめる。また、TVには登場しないオリジナルキャラがボスで登場する。
 
 # game: Transformers - Beast Wars Transmetals (USA)
 # file: Transformers - Beast Wars Transmetals (USA).zip
@@ -3036,6 +3560,9 @@ file: Transformers - Beast Wars Metals 64 (Japan).zip
 game: 罪と罰 地球の継承者
 sort_title: つみとばつほしのけいしょうしゃ
 file: Tsumi to Batsu - Hoshi no Keishousha (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より2000年11月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたアクションシューティングゲーム。斬新な操作感、展開予測不能のストーリー、ハイスコアに挑戦するやり込み要素を楽しめる。荒れ果てた近未来の日本を舞台に、3つのグループによる3つ巴の戦いが展開していく。1Pが移動、2Pが攻撃と、それぞれ役割を分担できる2人プレイも可能となっている。
 
 # game: Turok - Dinosaur Hunter (Europe)
 # file: Turok - Dinosaur Hunter (Europe).zip
@@ -3148,6 +3675,9 @@ file: Tsumi to Batsu - Hoshi no Keishousha (Japan).zip
 game: ウッチャンナンチャンの炎のチャレンジャー 電流イライラ棒
 sort_title: うっちゃんなんちゃんのほのおのちゃれんじゃーでんりゅういらいらぼう
 file: Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).zip
+publisher: ハドソン
+description:
+   ハドソンより1997年12月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。テレビ朝日系で放送されていた番組「ウッチャンナンチャンの炎のチャレンジャー」の電流イライラ棒をゲーム化した作品。3Dスティックを操作して、コース枠内の障害物に触れないように時間内にゴールを目指す。番組内で登場した歴代5コースを忠実に再現。また、ゲームだけのオリジナルコースもプラスされている。
 
 # game: V-Rally Edition 99 (Europe) (En,Fr,De)
 # file: V-Rally Edition 99 (Europe) (En,Fr,De).zip
@@ -3155,6 +3685,9 @@ file: Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).zip
 game: Vラリー EDITION99
 sort_title: ぶいらりーえでぃしょん99
 file: V-Rally Edition 99 (Japan).zip
+publisher: スパイク
+description:
+   スパイクより1999年10月14日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。WRC(世界ラリー選手権)をモーチーフにしたラリーレースゲーム。世界中の土地柄が表れた8ヶ国、全50コースを用意。メーカーの実名の車を操って勝利をめざす。ハンドリングの感度やコーナー特性など、マシンの細かい設定を施してレースに臨もう。車は悪路に振られたり、一回転したりと暴れるマシンとの格闘が特徴。
 
 # game: V-Rally Edition 99 (USA)
 # file: V-Rally Edition 99 (USA).zip
@@ -3183,6 +3716,9 @@ file: V-Rally Edition 99 (Japan).zip
 game: バイオレンスキラー TUROK NEW GENERATION
 sort_title: ばいおれんすきらーてゅろっくにゅーじぇねれーしょん
 file: Violence Killer - Turok New Generation (Japan).zip
+publisher: アクレイムジャパン
+description:
+   アクレイムジャパンより1999年6月18日にニンテンドウ64(NINTENDO64)の大人向けゲームブランド『gemzi(ゲンジ)』のソフトとして発売されたアクションゲーム。「時空戦士テュロック」の続編。惑星ロストランドで封印から解きはなたれた怪物、プライマゲンを倒す為にあらたなテュロックとなった主人公が恐竜のようなモンスター達と戦っていく。ハイレゾモードでの表示ができ、4人対戦プレイも可能。
 
 # game: Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)
 # file: Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).zip
@@ -3205,10 +3741,16 @@ file: Violence Killer - Turok New Generation (Japan).zip
 game: バーチャルプロレス2 王道継承
 sort_title: ばーちゃるぷろれす2おうどうけいしょう
 file: Virtual Pro Wrestling 2 - Oudou Keishou (Japan).zip
+publisher: アスミック
+description:
+   アスミックより2000年1月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたプロレスゲーム。全日本プロレスに所属している日本人選手から、スタン・ハンセンなどの外国人レスラーが実名、オールキャストで登場。らに”世界の巨人”ジャイアント馬場も。登場するレスラーは、日米あわせてやく100名にものぼる。また、スタンダードなプロレス技から各選手の必殺技まで繰り出すことができる。
 
 game: バーチャル・プロレスリング64
 sort_title: ばーちゃるぷろれすりんぐ64
 file: Virtual Pro Wrestling 64 (Japan).zip
+publisher: アスミック
+description:
+   アスミックより1997年12月19日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。プレイステーションからの移植作。駆け引きを存分に楽しめる基本路線を確実に継承しつつ細部にも磨きをかけている。複数人でによるプレイが可能になり、シングルマッチやタッグマッチはもちろん、バトルロイヤルまで網羅。あらゆるスタイルのレスラーが登場し、技数も1000種類以上とボリュームアップしている。
 
 # game: Waialae Country Club - True Golf Classics (Europe)
 # file: Waialae Country Club - True Golf Classics (Europe).zip
@@ -3236,10 +3778,16 @@ sort_title: うぇーぶれーす64
 files:
   Wave Race 64 - Kawasaki Jet Ski (Japan).zip
   Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1).zip
+publisher: 任天堂
+description:
+   任天堂より1996年9月27日にニンテンドウ64(NINTENDO64)用で発売されたジェットスキーレーシングゲーム。水の上をアクセル全開のジェットスキーで駆け抜け、ライバルそして自分自身と戦いながらタイムやテクニックを競う。エントリーされた個性的な男女4人のライダーからひとりをチョイスし参戦。ハンドリング・グリップ・エンジンなどマシンのセッティングも自分ピッタリに調整し、強敵に戦いを挑んでいく。
 
 game: ウェーブレース64 振動パック対応版
 sort_title: うぇーぶれーす64しんどうぱっくたいおうばん
 file: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).zip
+publisher: エニックス
+description:
+   エニックスより1997年7月18日にニンテンドウ64(NINTENDO64)用ソフトとジェットスキーレーシングゲーム。『ウエーブレース64』の振動パック対応バージョン。水の上をアクセル全開のジェットスキーで駆け抜け、ライバルそして自分自身と戦いながらタイムやテクニックを競う。エントリーされた個性的な男女4人のライダーからひとりをチョイスし参戦。マシンのセッティングを調整し、強敵に戦いを挑んでいく。
 
 # game: Wave Race 64 - Kawasaki Jet Ski (USA)
 # file: Wave Race 64 - Kawasaki Jet Ski (USA).zip
@@ -3262,6 +3810,9 @@ file: Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).zip
 game: ウェイン・グレツキー 3Dホッケー
 sort_title: うぇいんぐれつきー3Dほっけー
 file: Wayne Gretzky's 3D Hockey (Japan).zip
+publisher: コナミ
+description:
+   コナミより1998年2月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。北米のアイスホッケーリーグNHLのスーパースターであったウェイン・グレツキーの名を冠したアイスホッケーゲーム。チーム名や選手名が全て実名の26チームからプレイするチームを選択してリーグ戦を勝ち抜いて優勝を目指す。氷上で戦うハードなスポーツにふさわしく、選手の緊張が高まると乱闘が発生することもある。
 
 # game: Wayne Gretzky's 3D Hockey (USA)
 # file: Wayne Gretzky's 3D Hockey (USA).zip
@@ -3302,6 +3853,9 @@ file: Wayne Gretzky's 3D Hockey (Japan).zip
 game: ウェットリス
 sort_title: うぇっとりす
 file: Wetrix (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1998年11月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された大洪水パニックゲーム。空から降ってくる水を、こぼさないようプロックで囲いを作って大きな水溜まりを作り、その水溜まりの中に火の玉を落として水を蒸発させ、大洪水が起らないようにしていく。シンプルなルールで誰でもすぐにプレイ可能。オジャマキャラの登場で展開が次々と変わっていく一味違うパズルゲーム。
 
 # game: Wetrix (USA) (En,Fr,De,Es,It,Nl)
 # file: Wetrix (USA) (En,Fr,De,Es,It,Nl).zip
@@ -3327,6 +3881,9 @@ file: Wetrix (Japan).zip
 game: ワイルドチョッパーズ
 sort_title: わいるどちょっぱーず
 file: Wild Choppers (Japan).zip
+publisher: セタ
+description:
+   セタより1997年11月28日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたシューティングゲーム。横行する軍事テロリスト集団撲滅のために立ち向かう最新鋭戦闘ヘリ部隊「ワイルドチョッパーズ」。360度の広い視野とリアルタイムに変化するカメラワーク機能が迫力の爆撃シーンを演出。レーダー基地破壊、捕虜救出、地下施設の壊滅等、様々な指令を多彩な武器を駆使して、ミッションクリアを目指す。
 
 # game: Wildwaters (USA) (1999-06-15) (Proto)
 # file: Wildwaters (USA) (1999-06-15) (Proto).zip
@@ -3339,6 +3896,9 @@ sort_title: うぃんばっく
 files:
   WinBack (Japan).zip
   WinBack (Japan) (Rev 1).zip
+publisher: コーエー
+description:
+   コーエーより1999年9月23日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。特殊部隊が国家の命運をかけて闘いを繰り広げる迫真の3Dガンアクションゲーム。テロリスト集団に奪われた戦略衛星を奪還するのが目的となる。動きの細部にこだわった2000以上のモーションパターン、銃声や爆発音、足音など、音や視認で攻撃を仕掛けてくる敵キャラクターなどが臨場感を感じさせてくれる。
 
 # game: Wipeout 64 (Europe)
 # file: Wipeout 64 (Europe).zip
@@ -3352,6 +3912,9 @@ files:
 game: ワンダープロジェクトJ2 コルロの森のジョゼット
 sort_title: わんだーぷろじぇくとじぇいつーこるろのもりのじょぜっと
 file: Wonder Project J2 - Koruro no Mori no Jozet (Japan).zip
+publisher: エニックス
+description:
+   エニックスより1996年11月22日にニンテンドウ64(NINTENDO64)用ソフトとして発売された育成シミュレーションゲーム。『ワンダープロジェクトJ』の続編。キャラクターデザインは、ジブリなどで活躍するアニメーターの山下明彦。プレイヤーは鳥型インターフェイスロボ・バードを操作し、ギジン「ジョゼット」に何かの道具を提示し、行動を見てその使い方が正しい・正しくないと指示することで育成していく。
 
 # game: World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)
 # file: World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip
@@ -3407,6 +3970,9 @@ file: Wonder Project J2 - Koruro no Mori no Jozet (Japan).zip
 game: WWFレッスルマニア2000
 sort_title: だぶりゅーだぶりゅーえふれっするまにあ2000
 file: WWF WrestleMania 2000 (Japan).zip
+publisher: アスミック
+description:
+   アスミックより2000年9月15日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたプロレスゲーム。アメリカンプロレスのド派手な演出と個性溢れる選手たちの動きを完全に再現。シングルマッチやタッグマッチに加え、オリジナルキャラを創り出せるエディットモードを搭載。名前・体型・コスチュームはもちろん、技のモーソンまで確認しながら設定できる。作成したキャラで各種ビックイベントに挑戦も可能。
 
 # game: WWF WrestleMania 2000 (USA)
 # file: WWF WrestleMania 2000 (USA).zip
@@ -3426,10 +3992,16 @@ file: WWF WrestleMania 2000 (Japan).zip
 game: 夜光虫II 殺人航路
 sort_title: やこうちゅう2さつじんこうろ
 file: Yakouchuu II - Satsujin Kouro (Japan).zip
+publisher: アテナ
+description:
+   アテナより1999年10月22日にニンテンドウ64(NINTENDO64)用ソフトとして発売されたサウンドノベルゲーム。『夜光虫』の続編で世界観は同一であるが、物語としての繋がりはない。本長編本格ミステリーの「殺人事件編」をプレイし、ベストエンディングを見ることで新たな選択肢や本編の序盤から分岐する三種類のおまけシナリオが解禁される。また、演出として時折ムービーが挿入される。
 
 game: ヨッシーストーリー
 sort_title: よっしーすとりー
 file: Yoshi Story (Japan).zip
+publisher: 任天堂
+description:
+   任天堂より1997年12月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された縦横スクロール型の2Dアクションゲーム。プレイヤーは様々な色のヨッシーを動かし、ヨッシー達の幸せの源である「スーパーしあわせのツリー」を盗んだボスのベビークッパを倒すのが最終目的。ボスにたどり着くには、ストーリーモードで合計6つのステージをクリアしなければならない。
 
 # game: Yoshi's Story (Europe) (En,Fr,De)
 # file: Yoshi's Story (Europe) (En,Fr,De).zip
@@ -3443,6 +4015,9 @@ file: Yoshi Story (Japan).zip
 game: ゆけゆけ!! トラブルメーカーズ
 sort_title: ゆけゆけとらぶるめーかーず
 file: Yuke Yuke!! Trouble Makers (Japan).zip
+publisher: エニックス
+description:
+   エニックスより1997年6月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ユニークな星「ねんどろ星」で繰り広げられるアウションゲーム。敵の「ねんどろ」や、周辺にある物を掴んで振って投げるのが基本的な攻撃方法となるが、このアクションが多彩で、ステージごとのステージごとの仕掛けも豊富に用意されている。ステージ内のどこかに隠された黄緑色の星をつかめばステージクリアとなる。
 
 game: ゼルダの伝説 ムジュラの仮面
 sort_title: ぜるだのでんせつむじゅらのかめん
@@ -3450,6 +4025,9 @@ files:
   Zelda no Densetsu - Mujura no Kamen (Japan).zip
   Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).zip
   Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1).zip
+publisher: 任天堂
+description:
+   任天堂より2000年4月27日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。大人気アクションRPG『ゼルダの伝説』シリーズのニンテンドウ64版第2弾。仮面をかぶることで「ゴロン」「ゾーラ」「デクナッツ」などに姿を変えることができ、それによりそれぞれの種族の特殊能力を使いこなすことが可能になった。前作『時のオカリナ』から数ヶ月後を舞台に、リンクの新たなる冒険が幕を開ける。
 
 game: ゼルダの伝説 時のオカリナ
 sort_title: ぜるだのでんせつときのおかりな
@@ -3460,7 +4038,13 @@ files:
   Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2).zip
   Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube).zip
   Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube).zip
+publisher: 任天堂
+description:
+   任天堂より1998年11月21日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。同社のアクションゲーム「ゼルダの伝説」シリーズの一作。「ハイラル」を舞台に、主人公リンクは、相棒の妖精ナビィと共に旅をし、ゼルダを救い、魔王ガノンドロフを倒し、世界を救うことが目的。フィールド上を駆け回り、ダンジョン内ではアイテムを駆使した謎解きを行い、ボスを倒していきながら物語を進行させていく。
 
 game: ズール 魔獣使い伝説
 sort_title: ずーるまじゅうつかいでんせつ
 file: Zool - Majuu Tsukai Densetsu (Japan).zip
+publisher: イマジニア
+description:
+   イマジニアより1999年6月11日にニンテンドウ64(NINTENDO64)用ソフトとして発売された。ニンテンドー64初の本格ロールプレイングゲーム。魔獣と人間が共存する世界で、魔獣マスターとなるべく旅立つ少年の物語。森で偶然見つけた珍しい魔獣バーニィと、それを狙う魔獣コレクターや魔獣コレクターに渡すために魔獣を乱獲する魔獣ハンターとの戦いを通して、主人公と魔獣たちが成長していく。

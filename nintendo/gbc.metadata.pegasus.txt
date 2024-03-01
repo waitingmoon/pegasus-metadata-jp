@@ -356,10 +356,9 @@ game: Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japa
 file: Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan).zip
 
 game: Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)
-file: Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible).zip
-
-game: Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible)
-file: Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible).zip
+files:
+  Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible).zip
+  Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible).zip
 
 game: Bakuten Shoot Beyblade (Japan)
 file: Bakuten Shoot Beyblade (Japan).zip
@@ -406,11 +405,10 @@ file: Barbie - Ocean Discovery (United Kingdom) (GB Compatible).zip
 # game: Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)
 # file: Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca).zip
 
-game: Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible)
-file: Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible).zip
+  Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 # game: Bass Masters Classic (USA, Europe) (GB Compatible)
 # file: Bass Masters Classic (USA, Europe) (GB Compatible).zip
@@ -548,10 +546,9 @@ game: Bokujou Monogatari 2 GB (Japan) (GB Compatible)
 file: Bokujou Monogatari 2 GB (Japan) (GB Compatible).zip
 
 game: Bokujou Monogatari 3 GB - Boy Meets Girl (Japan)
-file: Bokujou Monogatari 3 GB - Boy Meets Girl (Japan).zip
-
-game: Bokujou Monogatari 3 GB - Boy Meets Girl (Japan) (Rev 1)
-file: Bokujou Monogatari 3 GB - Boy Meets Girl (Japan) (Rev 1).zip
+files:
+  Bokujou Monogatari 3 GB - Boy Meets Girl (Japan).zip
+  Bokujou Monogatari 3 GB - Boy Meets Girl (Japan) (Rev 1).zip
 
 game: Bomberman Max - Ain Version (Japan)
 file: Bomberman Max - Ain Version (Japan).zip
@@ -674,19 +671,15 @@ file: Burger Paradise International (Japan).zip
 # file: Card Sharks (USA) (Proto).zip
 
 game: Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (GB Compatible)
-file: Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (GB Compatible).zip
-
-game: Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 1) (GB Compatible)
-file: Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 1) (GB Compatible).zip
-
-game: Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 2) (GB Compatible)
-file: Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 2) (GB Compatible).zip
+files:
+  Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (GB Compatible).zip
+  Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 1) (GB Compatible).zip
+  Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 2) (GB Compatible).zip
 
 game: Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)
-file: Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan).zip
-
-game: Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan) (Rev 1) (Proto)
-file: Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan) (Rev 1) (Proto).zip
+files:
+  Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan).zip
+  Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan) (Rev 1) (Proto).zip
 
 # game: Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)
 # file: Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl).zip
@@ -968,10 +961,9 @@ game: Deja Vu I & II (Japan)
 file: Deja Vu I & II (Japan).zip
 
 game: Dejiko no Mahjong Party (Japan)
-file: Dejiko no Mahjong Party (Japan).zip
-
-game: Dejiko no Mahjong Party (Japan) (Rev 1) (Proto)
-file: Dejiko no Mahjong Party (Japan) (Rev 1) (Proto).zip
+files:
+  Dejiko no Mahjong Party (Japan).zip
+  Dejiko no Mahjong Party (Japan) (Rev 1) (Proto).zip
 
 # game: Denki Blocks! (Europe) (En,Fr,De,Es,It)
 # file: Denki Blocks! (Europe) (En,Fr,De,Es,It).zip
@@ -1100,10 +1092,9 @@ game: Doraemon Memories - Nobita no Omoide Daibouken (Japan) (GB Compatible)
 file: Doraemon Memories - Nobita no Omoide Daibouken (Japan) (GB Compatible).zip
 
 game: Doraemon no Quiz Boy (Japan)
-file: Doraemon no Quiz Boy (Japan).zip
-
-game: Doraemon no Quiz Boy (Japan) (Rev 1)
-file: Doraemon no Quiz Boy (Japan) (Rev 1).zip
+files:
+  Doraemon no Quiz Boy (Japan).zip
+  Doraemon no Quiz Boy (Japan) (Rev 1).zip
 
 game: Doraemon no Quiz Boy 2 (Japan)
 file: Doraemon no Quiz Boy 2 (Japan).zip
@@ -1145,13 +1136,10 @@ file: Dr. Rin ni Kiitemite! - Koi no Rin Fuusui (Japan).zip
 # file: Dragon Ball Z - 2002 Fighting (Taiwan) (Zh) (Unl).zip
 
 game: Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan)
-file: Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan).zip
-
-game: Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta)
-file: Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta).zip
-
-game: Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta) (All Unlocked)
-file: Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta) (All Unlocked).zip
+files:
+  Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan).zip
+  Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta).zip
+  Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta) (All Unlocked).zip
 
 # game: Dragon Ball Z - Guerreros de Leyenda (Spain)
 # file: Dragon Ball Z - Guerreros de Leyenda (Spain).zip
@@ -1222,14 +1210,11 @@ file: Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible).zip
 game: Dragon Quest III - Soshite Densetsu e... (Japan)
 file: Dragon Quest III - Soshite Densetsu e... (Japan).zip
 
-game: Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible) (Alt)
-file: Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible) (Alt).zip
-
-game: Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible)
-file: Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible).zip
+  Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
+  Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible) (Alt).zip
 
 # game: Dragon Quest Monsters (Germany) (SGB Enhanced) (GB Compatible)
 # file: Dragon Quest Monsters (Germany) (SGB Enhanced) (GB Compatible).zip
@@ -1237,11 +1222,10 @@ file: Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Com
 game: Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)
 file: Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible).zip
 
-game: Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)
-file: Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible).zip
+  Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 # game: Dragon Tales - Dragon Adventures (USA)
 # file: Dragon Tales - Dragon Adventures (USA).zip
@@ -1300,11 +1284,10 @@ file: DT - Lords of Genomes (Japan) (SGB Enhanced) (GB Compatible).zip
 # game: Dukes of Hazzard, The - Racing for Home (USA)
 # file: Dukes of Hazzard, The - Racing for Home (USA).zip
 
-game: Dungeon Savior (Japan) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible)
-file: Dungeon Savior (Japan) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible).zip
-
 game: Dungeon Savior (Japan) (SGB Enhanced) (GB Compatible)
-file: Dungeon Savior (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Dungeon Savior (Japan) (SGB Enhanced) (GB Compatible).zip
+  Dungeon Savior (Japan) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible).zip
 
 game: DX Jinsei Game (Japan)
 file: DX Jinsei Game (Japan).zip
@@ -1412,10 +1395,9 @@ file: Estpolis Denki - Yomigaeru Densetsu (Japan).zip
 # file: F-1 World Grand Prix (Europe) (En,Fr,De,Es).zip
 
 game: F-1 World Grand Prix (Japan) (En) (Beta 1)
-file: F-1 World Grand Prix (Japan) (En) (Beta 1).zip
-
-game: F-1 World Grand Prix (Japan) (En) (Beta 2)
-file: F-1 World Grand Prix (Japan) (En) (Beta 2).zip
+files:
+  F-1 World Grand Prix (Japan) (En) (Beta 1).zip
+  F-1 World Grand Prix (Japan) (En) (Beta 2).zip
 
 # game: F-18 Thunder Strike (USA, Europe)
 # file: F-18 Thunder Strike (USA, Europe).zip
@@ -1450,11 +1432,10 @@ file: F1 World Grand Prix II for Game Boy Color (Japan) (En,Ja).zip
 # game: F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es)
 # file: F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es).zip
 
-game: Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced) (GB Compatible)
-file: Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced) (GB Compatible).zip
+  Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 # game: Fellowship of the Rings (Taiwan) (En) (Unl)
 # file: Fellowship of the Rings (Taiwan) (En) (Unl).zip
@@ -1534,20 +1515,16 @@ file: Ferret Monogatari (Japan).zip
 # game: Frogger 2 (USA) (Rev 1)
 # file: Frogger 2 (USA) (Rev 1).zip
 
-game: From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 1) (SGB Enhanced) (GB Compatible)
-file: From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 1) (SGB Enhanced) (GB Compatible).zip
-
-game: From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 2) (SGB Enhanced) (GB Compatible)
-file: From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 2) (SGB Enhanced) (GB Compatible).zip
-
 game: From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)
-file: From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible).zip
-
-game: From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
+files:
+  From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible).zip
+  From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 1) (SGB Enhanced) (GB Compatible).zip
+  From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 2) (SGB Enhanced) (GB Compatible).zip
 
 game: From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible)
-file: From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible).zip
+  From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Front Line - The Next Mission (Japan)
 file: Front Line - The Next Mission (Japan).zip
@@ -1562,28 +1539,25 @@ file: Front Row (Japan).zip
 # file: Full Time Soccer & Hang Time Basketball (Europe) (Unl).zip
 
 game: Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (AFMJ)
-file: Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (AFMJ).zip
-
-game: Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (BFWJ)
-file: Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (BFWJ).zip
+files:
+  Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (AFMJ).zip
+  Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (BFWJ).zip
 
 game: Gaiamaster Duel - Card Attackers (Japan)
 file: Gaiamaster Duel - Card Attackers (Japan).zip
 
-game: Gakkyuu Ou Yamazaki (Japan) (Possible Proto) (GB Compatible)
-file: Gakkyuu Ou Yamazaki (Japan) (Possible Proto) (GB Compatible).zip
-
 game: Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible)
-file: Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible).zip
+files:
+  Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible).zip
+  Gakkyuu Ou Yamazaki (Japan) (Possible Proto) (GB Compatible).zip
 
 # game: Galaga - Destination Earth (USA)
 # file: Galaga - Destination Earth (USA).zip
 
 game: Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan)
-file: Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan).zip
-
-game: Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1)
-file: Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1).zip
+files:
+  Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan).zip
+  Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1).zip
 
 # game: Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)
 # file: Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).zip
@@ -1778,22 +1752,18 @@ game: Grandia - Parallel Trippers (Japan)
 file: Grandia - Parallel Trippers (Japan).zip
 
 game: Granduel - Shinki Dungeon no Hihou (Japan)
-file: Granduel - Shinki Dungeon no Hihou (Japan).zip
-
-game: Granduel - Shinki Dungeon no Hihou (Japan) (Sample)
-file: Granduel - Shinki Dungeon no Hihou (Japan) (Sample).zip
+files:
+  Granduel - Shinki Dungeon no Hihou (Japan).zip
+  Granduel - Shinki Dungeon no Hihou (Japan) (Sample).zip
 
 game: Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible)
 file: Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible).zip
 
 game: Green Beret (Unknown) (Proto 1)
-file: Green Beret (Unknown) (Proto 1).zip
-
-game: Green Beret (Unknown) (Proto 2)
-file: Green Beret (Unknown) (Proto 2).zip
-
-game: Green Beret (Unknown) (Proto 3)
-file: Green Beret (Unknown) (Proto 3).zip
+files:
+  Green Beret (Unknown) (Proto 1).zip
+  Green Beret (Unknown) (Proto 2).zip
+  Green Beret (Unknown) (Proto 3).zip
 
 # game: Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt)
 # file: Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt).zip
@@ -1859,10 +1829,9 @@ game: Hamster Paradise (Japan) (SGB Enhanced) (GB Compatible)
 file: Hamster Paradise (Japan) (SGB Enhanced) (GB Compatible).zip
 
 game: Hamster Paradise 2 (Japan)
-file: Hamster Paradise 2 (Japan).zip
-
-game: Hamster Paradise 2 (Japan) (Rev 1)
-file: Hamster Paradise 2 (Japan) (Rev 1).zip
+files:
+  Hamster Paradise 2 (Japan).zip
+  Hamster Paradise 2 (Japan) (Rev 1).zip
 
 game: Hamster Paradise 3 (Japan)
 file: Hamster Paradise 3 (Japan).zip
@@ -2125,11 +2094,10 @@ file: Jack no Daibouken - Daimaou no Gyakushuu (Japan) (SGB Enhanced) (GB Compat
 game: Jagainu-kun (Japan) (GB Compatible)
 file: Jagainu-kun (Japan) (GB Compatible).zip
 
-game: Jaguar Mishin Sashi Senyou Soft - Kirby Family (Japan) (Proto)
-file: Jaguar Mishin Sashi Senyou Soft - Kirby Family (Japan) (Proto).zip
-
 game: Jaguar Mishin Sashi Senyou Soft - Mario Family (Japan)
-file: Jaguar Mishin Sashi Senyou Soft - Mario Family (Japan).zip
+files:
+  Jaguar Mishin Sashi Senyou Soft - Mario Family (Japan).zip
+  Jaguar Mishin Sashi Senyou Soft - Kirby Family (Japan) (Proto).zip
 
 game: Jankyuusei - Cosplay Paradise (Japan)
 file: Jankyuusei - Cosplay Paradise (Japan).zip
@@ -2188,11 +2156,10 @@ file: Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced) (GB Co
 game: Jisedai Begoma Battle Beyblade (Japan)
 file: Jisedai Begoma Battle Beyblade (Japan).zip
 
-game: Jissen ni Yakudatsu Tsumego (Japan) (Possible Proto)
-file: Jissen ni Yakudatsu Tsumego (Japan) (Possible Proto).zip
-
 game: Jissen ni Yakudatsu Tsumego (Japan) (Rev 1)
-file: Jissen ni Yakudatsu Tsumego (Japan) (Rev 1).zip
+files:
+  Jissen ni Yakudatsu Tsumego (Japan) (Rev 1).zip
+  Jissen ni Yakudatsu Tsumego (Japan) (Possible Proto).zip
 
 # game: John Romero's Daikatana (Europe) (En,Fr,It)
 # file: John Romero's Daikatana (Europe) (En,Fr,It).zip
@@ -2249,10 +2216,9 @@ game: Kanji Boy 2 (Japan) (SGB Enhanced) (GB Compatible)
 file: Kanji Boy 2 (Japan) (SGB Enhanced) (GB Compatible).zip
 
 game: Kanji Boy 3 (Japan)
-file: Kanji Boy 3 (Japan).zip
-
-game: Kanji Boy 3 (Japan) (Beta)
-file: Kanji Boy 3 (Japan) (Beta).zip
+files:
+  Kanji Boy 3 (Japan).zip
+  Kanji Boy 3 (Japan) (Beta).zip
 
 game: Kanji de Puzzle (Japan) (GB Compatible)
 file: Kanji de Puzzle (Japan) (GB Compatible).zip
@@ -2281,20 +2247,18 @@ file: Kaseki Sousei Reborn II - Monster Digger (Japan) (SGB Enhanced) (GB Compat
 game: Katou Hifumi Kudan - Shougi Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)
 file: Katou Hifumi Kudan - Shougi Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible).zip
 
-game: Kawa no Nushi Tsuri 4 (Japan) (Rev 1) (Possible Proto) (Rumble Version) (SGB Enhanced, GB Compatible) (NP)
-file: Kawa no Nushi Tsuri 4 (Japan) (Rev 1) (Possible Proto) (Rumble Version) (SGB Enhanced, GB Compatible) (NP).zip
-
 game: Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)
-file: Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible).zip
+files:
+  Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible).zip
+  Kawa no Nushi Tsuri 4 (Japan) (Rev 1) (Possible Proto) (Rumble Version) (SGB Enhanced, GB Compatible) (NP).zip
 
 game: Kawaii Pet Shop Monogatari (Japan) (SGB Enhanced) (GB Compatible)
 file: Kawaii Pet Shop Monogatari (Japan) (SGB Enhanced) (GB Compatible).zip
 
 game: Kawaii Pet Shop Monogatari 2 (Japan) (GB Compatible)
-file: Kawaii Pet Shop Monogatari 2 (Japan) (GB Compatible).zip
-
-game: Kawaii Pet Shop Monogatari 2 (Japan) (Rev 1) (GB Compatible)
-file: Kawaii Pet Shop Monogatari 2 (Japan) (Rev 1) (GB Compatible).zip
+files:
+  Kawaii Pet Shop Monogatari 2 (Japan) (GB Compatible).zip
+  Kawaii Pet Shop Monogatari 2 (Japan) (Rev 1) (GB Compatible).zip
 
 # game: Keep the Balance (Europe) (En,Fr,De,Es,It)
 # file: Keep the Balance (Europe) (En,Fr,De,Es,It).zip
@@ -2345,10 +2309,9 @@ file: Kinniku Banzuke GB 3 - Shinseiki Survival Retsuden! (Japan).zip
 # file: Kirikou (Europe) (En,Fr,De,Es,It,Pt).zip
 
 game: Kisekae Series 2 - Oshare Nikki (Japan)
-file: Kisekae Series 2 - Oshare Nikki (Japan).zip
-
-game: Kisekae Series 2 - Oshare Nikki (Japan) (Rev 1)
-file: Kisekae Series 2 - Oshare Nikki (Japan) (Rev 1).zip
+files:
+  Kisekae Series 2 - Oshare Nikki (Japan).zip
+  Kisekae Series 2 - Oshare Nikki (Japan) (Rev 1).zip
 
 game: Kisekae Series 3 - Kisekae Hamster (Japan)
 file: Kisekae Series 3 - Kisekae Hamster (Japan).zip
@@ -2363,10 +2326,9 @@ file: Kisekae Series 3 - Kisekae Hamster (Japan).zip
 # file: Klustar (Europe) (En,Fr,De,Es,It) (GB Compatible).zip
 
 game: Klustar (Japan) (Proto 1) (1998-10-01) (GB Compatible)
-file: Klustar (Japan) (Proto 1) (1998-10-01) (GB Compatible).zip
-
-game: Klustar (Japan) (Proto 2) (1999-09-28) (GB Compatible)
-file: Klustar (Japan) (Proto 2) (1999-09-28) (GB Compatible).zip
+files:
+  Klustar (Japan) (Proto 1) (1998-10-01) (GB Compatible).zip
+  Klustar (Japan) (Proto 2) (1999-09-28) (GB Compatible).zip
 
 # game: Klustar (USA) (GB Compatible)
 # file: Klustar (USA) (GB Compatible).zip
@@ -2398,11 +2360,10 @@ file: Koguru Guruguru - Guruguru to Nakayoshi (Japan) (SGB Enhanced, GB Compatib
 game: Konchuu Fighters (Japan)
 file: Konchuu Fighters (Japan).zip
 
-game: Konchuu Hakase 2 (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Konchuu Hakase 2 (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Konchuu Hakase 2 (Japan) (SGB Enhanced) (GB Compatible)
-file: Konchuu Hakase 2 (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Konchuu Hakase 2 (Japan) (SGB Enhanced) (GB Compatible).zip
+  Konchuu Hakase 2 (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Konchuu Hakase 3 (Japan)
 file: Konchuu Hakase 3 (Japan).zip
@@ -2656,41 +2617,35 @@ file: Looney Tunes Collector - Martian Quest! (Japan).zip
 # game: Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl)
 # file: Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl).zip
 
-game: Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
-
 game: Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
-
-game: Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
+files:
+  Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
+  Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
 
 game: Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
-
-game: Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
+files:
+  Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
+  Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
 
 game: Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
-
-game: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
+files:
+  Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
+  Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
 
 game: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
-
-game: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
+files:
+  Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
+  Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
 
 game: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
-
-game: Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
+files:
+  Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
+  Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
 
 game: Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP)
-file: Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
+files:
+  Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP).zip
+  Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).zip
 
 # game: Lord of the Rings, The - The Fellowship of the Ring (Taiwan) (En) (Unl)
 # file: Lord of the Rings, The - The Fellowship of the Ring (Taiwan) (En) (Unl).zip
@@ -2699,10 +2654,9 @@ game: Love Hina Party (Japan)
 file: Love Hina Party (Japan).zip
 
 game: Love Hina Pocket (Japan)
-file: Love Hina Pocket (Japan).zip
-
-game: Love Hina Pocket (Japan) (Rev 1)
-file: Love Hina Pocket (Japan) (Rev 1).zip
+files:
+  Love Hina Pocket (Japan).zip
+  Love Hina Pocket (Japan) (Rev 1).zip
 
 game: Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)
 file: Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible).zip
@@ -2797,11 +2751,10 @@ file: Mahjong Quest (Japan) (SGB Enhanced) (GB Compatible).zip
 game: Mail Junkies World Port (United Kingdom) (v1.01) (Unl)
 file: Mail Junkies World Port (United Kingdom) (v1.01) (Unl).zip
 
-game: Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Majokko Mari-chan no Kisekae Monogatari (Japan) (SGB Enhanced) (GB Compatible)
-file: Majokko Mari-chan no Kisekae Monogatari (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Majokko Mari-chan no Kisekae Monogatari (Japan) (SGB Enhanced) (GB Compatible).zip
+  Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 # game: Marble Madness (USA, Europe)
 # file: Marble Madness (USA, Europe).zip
@@ -3032,10 +2985,9 @@ file: Metamode (Japan).zip
 # file: Mingzhu Koudai Guaishou 3 (Taiwan) (En,Es,Zh) (Unl).zip
 
 game: Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible)
-file: Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible).zip
-
-game: Minna no Shougi - Shokyuu Hen (Japan) (Rev 1) (GB Compatible)
-file: Minna no Shougi - Shokyuu Hen (Japan) (Rev 1) (GB Compatible).zip
+files:
+  Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible).zip
+  Minna no Shougi - Shokyuu Hen (Japan) (Rev 1) (GB Compatible).zip
 
 game: Minnie & Friends - Yume no Kuni o Sagashite (Japan)
 file: Minnie & Friends - Yume no Kuni o Sagashite (Japan).zip
@@ -3106,11 +3058,10 @@ file: Monster Race 2 (Japan) (SGB Enhanced) (GB Compatible).zip
 # game: Monster Rancher Explorer (USA)
 # file: Monster Rancher Explorer (USA).zip
 
-game: Monster Traveler (Japan) (Possible Proto)
-file: Monster Traveler (Japan) (Possible Proto).zip
-
 game: Monster Traveler (Japan) (Rev 1)
-file: Monster Traveler (Japan) (Rev 1).zip
+files:
+  Monster Traveler (Japan) (Rev 1).zip
+  Monster Traveler (Japan) (Possible Proto).zip
 
 # game: Monsters, Inc. (Europe) (En,Es,Nl)
 # file: Monsters, Inc. (Europe) (En,Es,Nl).zip
@@ -3131,10 +3082,9 @@ file: Monster Traveler (Japan) (Rev 1).zip
 # file: Montezuma's Return! (USA) (En,Es) (GB Compatible).zip
 
 game: Moomin no Daibouken (Japan)
-file: Moomin no Daibouken (Japan).zip
-
-game: Moomin no Daibouken (Japan) (Beta)
-file: Moomin no Daibouken (Japan) (Beta).zip
+files:
+  Moomin no Daibouken (Japan).zip
+  Moomin no Daibouken (Japan) (Beta).zip
 
 # game: Moomin's Tale (Europe) (En,Fr,De)
 # file: Moomin's Tale (Europe) (En,Fr,De).zip
@@ -3161,10 +3111,9 @@ file: Moomin no Daibouken (Japan) (Beta).zip
 # file: Mr. Driller (Europe).zip
 
 game: Mr. Driller (Japan)
-file: Mr. Driller (Japan).zip
-
-game: Mr. Driller (Japan) (NP)
-file: Mr. Driller (Japan) (NP).zip
+files:
+  Mr. Driller (Japan).zip
+  Mr. Driller (Japan) (NP).zip
 
 # game: Mr. Driller (USA)
 # file: Mr. Driller (USA).zip
@@ -3227,13 +3176,10 @@ game: Nakayoshi Cooking Series 4 - Tanoshii Dessert (Japan)
 file: Nakayoshi Cooking Series 4 - Tanoshii Dessert (Japan).zip
 
 game: Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan)
-file: Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan).zip
-
-game: Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan) (Beta 1)
-file: Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan) (Beta 1).zip
-
-game: Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan) (Beta 2)
-file: Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan) (Beta 2).zip
+files:
+  Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan).zip
+  Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan) (Beta 1).zip
+  Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan) (Beta 2).zip
 
 game: Nakayoshi Pet Series 1 - Kawaii Hamster (Japan) (GB Compatible)
 file: Nakayoshi Pet Series 1 - Kawaii Hamster (Japan) (GB Compatible).zip
@@ -3463,11 +3409,10 @@ file: Perfect Choro Q (Japan).zip
 # game: Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)
 # file: Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).zip
 
-game: Peugeot - Orbital Diagnostic System (Unknown) (Alt) (Unl) [b]
-file: Peugeot - Orbital Diagnostic System (Unknown) (Alt) (Unl) [b].zip
-
 game: Peugeot - Orbital Diagnostic System (Unknown) (Unl) [b]
-file: Peugeot - Orbital Diagnostic System (Unknown) (Unl) [b].zip
+files:
+  Peugeot - Orbital Diagnostic System (Unknown) (Unl) [b].zip
+  Peugeot - Orbital Diagnostic System (Unknown) (Alt) (Unl) [b].zip
 
 game: Phantom Zona (Japan) (SGB Enhanced) (GB Compatible)
 file: Phantom Zona (Japan) (SGB Enhanced) (GB Compatible).zip
@@ -3565,17 +3510,15 @@ file: Pocket Monsters - Crystal Version (Japan).zip
 # game: Pocket Monsters Geum (Korea)
 # file: Pocket Monsters Geum (Korea).zip
 
-game: Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible)
-file: Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible).zip
-
-game: Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
+files:
+  Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible).zip
+  Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible)
-file: Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible).zip
+  Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 # game: Pocket Music (Europe) (En,Fr,De,Es,It)
 # file: Pocket Music (Europe) (En,Fr,De,Es,It).zip
@@ -3596,13 +3539,10 @@ game: Pocket Puyo Puyo Sun (Japan) (SGB Enhanced) (GB Compatible)
 file: Pocket Puyo Puyo Sun (Japan) (SGB Enhanced) (GB Compatible).zip
 
 game: Pocket Puyo Puyo-n (Japan)
-file: Pocket Puyo Puyo-n (Japan).zip
-
-game: Pocket Puyo Puyo-n (Japan) (Rev 1)
-file: Pocket Puyo Puyo-n (Japan) (Rev 1).zip
-
-game: Pocket Puyo Puyo-n (Japan) (Rev 2)
-file: Pocket Puyo Puyo-n (Japan) (Rev 2).zip
+files:
+  Pocket Puyo Puyo-n (Japan).zip
+  Pocket Puyo Puyo-n (Japan) (Rev 1).zip
+  Pocket Puyo Puyo-n (Japan) (Rev 2).zip
 
 # game: Pocket Racing (Europe)
 # file: Pocket Racing (Europe).zip
@@ -3769,11 +3709,10 @@ file: Pop'n Pop (Japan).zip
 # game: Portal Runner (USA)
 # file: Portal Runner (USA).zip
 
-game: Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Power Pro Kun Pocket (Japan) (SGB Enhanced) (GB Compatible)
-file: Power Pro Kun Pocket (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Power Pro Kun Pocket (Japan) (SGB Enhanced) (GB Compatible).zip
+  Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Power Pro Kun Pocket 2 (Japan) (SGB Enhanced) (GB Compatible)
 file: Power Pro Kun Pocket 2 (Japan) (SGB Enhanced) (GB Compatible).zip
@@ -4045,14 +3984,11 @@ file: Real Pro Yakyuu! - Pacific League Hen (Japan) (SGB Enhanced) (GB Compatibl
 # game: Reservoir Rat (Europe) (En,Fr,De,Es,It) (GB Compatible)
 # file: Reservoir Rat (Europe) (En,Fr,De,Es,It) (GB Compatible).zip
 
-game: Resident Evil (Unknown) (Demo) (Climax Entertainment)
-file: Resident Evil (Unknown) (Demo) (Climax Entertainment).zip
-
 game: Resident Evil (World) (Proto 1)
-file: Resident Evil (World) (Proto 1).zip
-
-game: Resident Evil (World) (Proto 2)
-file: Resident Evil (World) (Proto 2).zip
+files:
+  Resident Evil (World) (Proto 1).zip
+  Resident Evil (World) (Proto 2).zip
+  Resident Evil (Unknown) (Demo) (Climax Entertainment).zip
 
 # game: Resident Evil Gaiden (Europe) (En,Fr,De,Es,It)
 # file: Resident Evil Gaiden (Europe) (En,Fr,De,Es,It).zip
@@ -4181,10 +4117,9 @@ file: Rox (Japan) (En) (GB Compatible).zip
 # file: Rox (USA, Europe) (GB Compatible).zip
 
 game: RPG Tsukuru GB (Japan)
-file: RPG Tsukuru GB (Japan).zip
-
-game: RPG Tsukuru GB (Japan) (Rev 1) (Possible Proto) (NP)
-file: RPG Tsukuru GB (Japan) (Rev 1) (Possible Proto) (NP).zip
+files:
+  RPG Tsukuru GB (Japan).zip
+  RPG Tsukuru GB (Japan) (Rev 1) (Possible Proto) (NP).zip
 
 # game: Rugrats - Time Travelers (USA, Europe) (GB Compatible)
 # file: Rugrats - Time Travelers (USA, Europe) (GB Compatible).zip
@@ -4258,17 +4193,15 @@ file: Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible).zip
 # game: Sanguozhi Wudai (Taiwan) (Unl)
 # file: Sanguozhi Wudai (Taiwan) (Unl).zip
 
-game: Sanrio Timenet - Kako Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Sanrio Timenet - Kako Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced) (GB Compatible)
-file: Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced) (GB Compatible).zip
-
-game: Sanrio Timenet - Mirai Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Sanrio Timenet - Mirai Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
+files:
+  Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced) (GB Compatible).zip
+  Sanrio Timenet - Kako Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible)
-file: Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible).zip
+  Sanrio Timenet - Mirai Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 # game: Santa Claus Junior (Europe)
 # file: Santa Claus Junior (Europe).zip
@@ -4414,23 +4347,20 @@ file: Shantae (World) (Switch).zip
 # game: Shikong Xing Shou (Taiwan) (Unl)
 # file: Shikong Xing Shou (Taiwan) (Unl).zip
 
-game: Shin Megami Tensei Devil Children - Aka no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Shin Megami Tensei Devil Children - Aka no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced) (GB Compatible)
-file: Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced) (GB Compatible).zip
-
-game: Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
+files:
+  Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced) (GB Compatible).zip
+  Shin Megami Tensei Devil Children - Aka no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible)
-file: Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible).zip
+  Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Shin Megami Tensei Devil Children - Shiro no Sho (Japan)
-file: Shin Megami Tensei Devil Children - Shiro no Sho (Japan).zip
-
-game: Shin Megami Tensei Devil Children - Shiro no Sho (Japan) (Rev 1) (Proto)
-file: Shin Megami Tensei Devil Children - Shiro no Sho (Japan) (Rev 1) (Proto).zip
+files:
+  Shin Megami Tensei Devil Children - Shiro no Sho (Japan).zip
+  Shin Megami Tensei Devil Children - Shiro no Sho (Japan) (Rev 1) (Proto).zip
 
 game: Shin Megami Tensei Trading Card - Card Summoner (Japan)
 file: Shin Megami Tensei Trading Card - Card Summoner (Japan).zip
@@ -4646,10 +4576,9 @@ file: Spider-Man (Japan).zip
 # file: Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1) (Proto).zip
 
 game: Spy vs Spy (Japan)
-file: Spy vs Spy (Japan).zip
-
-game: Spy vs Spy (Japan) (Rev 1) (NP)
-file: Spy vs Spy (Japan) (Rev 1) (NP).zip
+files:
+  Spy vs Spy (Japan).zip
+  Spy vs Spy (Japan) (Rev 1) (NP).zip
 
 # game: Spy vs Spy (USA)
 # file: Spy vs Spy (USA).zip
@@ -4760,10 +4689,9 @@ file: Super Gals! Kotobuki Ran 2 - Miracle Getting (Japan).zip
 # file: Super Mario Bros. Deluxe (Europe) (Rev 2).zip
 
 game: Super Mario Bros. Deluxe (Japan) (NP)
-file: Super Mario Bros. Deluxe (Japan) (NP).zip
-
-game: Super Mario Bros. Deluxe (Japan) (Rev 1) (NP)
-file: Super Mario Bros. Deluxe (Japan) (Rev 1) (NP).zip
+files:
+  Super Mario Bros. Deluxe (Japan) (NP).zip
+  Super Mario Bros. Deluxe (Japan) (Rev 1) (NP).zip
 
 # game: Super Mario Bros. Deluxe (USA, Europe)
 # file: Super Mario Bros. Deluxe (USA, Europe).zip
@@ -4816,11 +4744,10 @@ file: Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced) (GB Compatible).
 # game: Survival Kids (USA) (SGB Enhanced) (GB Compatible)
 # file: Survival Kids (USA) (SGB Enhanced) (GB Compatible).zip
 
-game: Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (Rev 1) (Possible Proto) (SGB Enhanced, GB Compatible) (NP)
-file: Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (Rev 1) (Possible Proto) (SGB Enhanced, GB Compatible) (NP).zip
-
 game: Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible)
-file: Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible).zip
+  Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (Rev 1) (Possible Proto) (SGB Enhanced, GB Compatible) (NP).zip
 
 # game: Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl) (Beta 1)
 # file: Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl) (Beta 1).zip
@@ -4853,10 +4780,9 @@ game: Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced) (GB C
 file: Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced) (GB Compatible).zip
 
 game: Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan)
-file: Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan).zip
-
-game: Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan) (Rev 1) (Possible Proto)
-file: Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan) (Rev 1) (Possible Proto).zip
+files:
+  Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan).zip
+  Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan) (Rev 1) (Possible Proto).zip
 
 game: Sylvanian Families 3 - Hoshi Furu Yoru no Sunadokei (Japan)
 file: Sylvanian Families 3 - Hoshi Furu Yoru no Sunadokei (Japan).zip
@@ -4958,10 +4884,9 @@ file: Tarzan (Japan).zip
 # file: Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible).zip
 
 game: Tetris Adventure - Susume Mickey to Nakama-tachi (Japan)
-file: Tetris Adventure - Susume Mickey to Nakama-tachi (Japan).zip
-
-game: Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1)
-file: Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1).zip
+files:
+  Tetris Adventure - Susume Mickey to Nakama-tachi (Japan).zip
+  Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1).zip
 
 game: Tetris DX (World) (SGB Enhanced) (GB Compatible)
 file: Tetris DX (World) (SGB Enhanced) (GB Compatible).zip
@@ -5131,11 +5056,10 @@ file: Top Gear Pocket (Japan) (En) (Rumble Version).zip
 # game: Top Gear Pocket (USA) (Rumble Version)
 # file: Top Gear Pocket (USA) (Rumble Version).zip
 
-game: Top Gear Pocket 2 (Japan) (Rev 1) (Proto) (Rumble Version)
-file: Top Gear Pocket 2 (Japan) (Rev 1) (Proto) (Rumble Version).zip
-
 game: Top Gear Pocket 2 (Japan) (Rumble Version)
-file: Top Gear Pocket 2 (Japan) (Rumble Version).zip
+files:
+  Top Gear Pocket 2 (Japan) (Rumble Version).zip
+  Top Gear Pocket 2 (Japan) (Rev 1) (Proto) (Rumble Version).zip
 
 # game: Top Gear Pocket 2 (USA)
 # file: Top Gear Pocket 2 (USA).zip
@@ -5156,10 +5080,9 @@ game: Totsugeki! Papparatai (Japan) (SGB Enhanced) (GB Compatible)
 file: Totsugeki! Papparatai (Japan) (SGB Enhanced) (GB Compatible).zip
 
 game: Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan)
-file: Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan).zip
-
-game: Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev 1)
-file: Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev 1).zip
+files:
+  Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan).zip
+  Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev 1).zip
 
 game: Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dechu (Japan)
 file: Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dechu (Japan).zip
@@ -5185,11 +5108,10 @@ file: Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dechu (Japan).zip
 # game: Toy Story Racer (USA, Europe)
 # file: Toy Story Racer (USA, Europe).zip
 
-game: Trade & Battle Card Hero (Japan) (Rev 1) (3DS Virtual Console) (SGB Enhanced) (GB Compatible)
-file: Trade & Battle Card Hero (Japan) (Rev 1) (3DS Virtual Console) (SGB Enhanced) (GB Compatible).zip
-
 game: Trade & Battle Card Hero (Japan) (SGB Enhanced) (GB Compatible)
-file: Trade & Battle Card Hero (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Trade & Battle Card Hero (Japan) (SGB Enhanced) (GB Compatible).zip
+  Trade & Battle Card Hero (Japan) (Rev 1) (3DS Virtual Console) (SGB Enhanced) (GB Compatible).zip
 
 # game: Trick Boarder (Europe)
 # file: Trick Boarder (Europe).zip
@@ -5360,22 +5282,16 @@ file: Wario Land 3 (World) (En,Ja).zip
 # file: Warriors of Might and Magic (USA) (En,Fr,De).zip
 
 game: Watashi no Kitchen (Japan)
-file: Watashi no Kitchen (Japan).zip
-
-game: Watashi no Kitchen (Japan) (Rev 1)
-file: Watashi no Kitchen (Japan) (Rev 1).zip
+files:
+  Watashi no Kitchen (Japan).zip
+  Watashi no Kitchen (Japan) (Rev 1).zip
 
 game: Watashi no Restaurant (Japan)
-file: Watashi no Restaurant (Japan).zip
-
-game: Watashi no Restaurant (Japan) (Beta 1)
-file: Watashi no Restaurant (Japan) (Beta 1).zip
-
-game: Watashi no Restaurant (Japan) (Beta 2)
-file: Watashi no Restaurant (Japan) (Beta 2).zip
-
-game: Watashi no Restaurant (Japan) (Beta 3)
-file: Watashi no Restaurant (Japan) (Beta 3).zip
+files:
+  Watashi no Restaurant (Japan).zip
+  Watashi no Restaurant (Japan) (Beta 1).zip
+  Watashi no Restaurant (Japan) (Beta 2).zip
+  Watashi no Restaurant (Japan) (Beta 3).zip
 
 # game: WCW Mayhem (USA, Europe)
 # file: WCW Mayhem (USA, Europe).zip
@@ -5423,10 +5339,9 @@ game: Wizardry Empire - Fukkatsu no Tsue (Japan)
 file: Wizardry Empire - Fukkatsu no Tsue (Japan).zip
 
 game: Wizardry Empire (Japan)
-file: Wizardry Empire (Japan).zip
-
-game: Wizardry Empire (Japan) (Rev 1)
-file: Wizardry Empire (Japan) (Rev 1).zip
+files:
+  Wizardry Empire (Japan).zip
+  Wizardry Empire (Japan) (Rev 1).zip
 
 game: Wizardry I - Proving Grounds of the Mad Overlord (Japan)
 file: Wizardry I - Proving Grounds of the Mad Overlord (Japan).zip
@@ -5638,71 +5553,30 @@ file: Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan).zip
 game: Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)
 file: Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan).zip
 
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T180056) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T180056) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T215532) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T215532) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T022124) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T022124) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T181500) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T181500) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced) (Alt 2)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced) (Alt 2).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced) (Alt)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced) (Alt).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible).zip
-
-game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible).zip
-
 game: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)
-file: Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-15) (GB Compatible) (Alt).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T180056) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05T215532) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T022124) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14T181500) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-11-09) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 1) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (Demo) (Special Version 2) (GB Compatible).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-02) (SGB Enhanced).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-03) (SGB Enhanced).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-04) (SGB Enhanced).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced) (Alt 2).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-08-07) (SGB Enhanced) (Alt).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced).zip
+  Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible).zip
 
 game: Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan)
 file: Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan).zip
@@ -5725,11 +5599,10 @@ file: Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan).zip
 # game: Zoboomafoo - Playtime in Zobooland (USA)
 # file: Zoboomafoo - Playtime in Zobooland (USA).zip
 
-game: Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)
-file: Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
-
 game: Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible)
-file: Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible).zip
+files:
+  Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced) (GB Compatible).zip
+  Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).zip
 
 game: Zoids - Shirogane no Juukishin Liger Zero (Japan)
 file: Zoids - Shirogane no Juukishin Liger Zero (Japan).zip

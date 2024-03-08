@@ -6092,9 +6092,9 @@ description:
 game: カブキロックス
 sort_title: かぶきろっくす
 file: Kabuki Rocks (Japan).zip
-publisher: コーエー
+publisher: アトラス
 description:
-  コーエーより1994年3月4日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。江戸時代をモチーフにした作品で、主人公の花川戸助六と仲間たちを操作し、将軍が変わった事により発生したモンスターを倒して世界を救出する事が目的となる。舞台は「連ダコ惑星」という連タコ状に連なる惑星であり、「イズモ」「アワ」「キョウ」「ヒノクニ」「エゾ」「ムツ」「オエド」の7国が一枚のタコの上に存在する。
+  アトラスより1994年3月4日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。江戸時代をモチーフにした作品で、主人公の花川戸助六と仲間たちを操作し、将軍が変わった事により発生したモンスターを倒して世界を救出する事が目的となる。舞台は「連ダコ惑星」という連タコ状に連なる惑星であり、「イズモ」「アワ」「キョウ」「ヒノクニ」「エゾ」「ムツ」「オエド」の7国が一枚のタコの上に存在する。
 
 game: 勝ち馬予想ソフト 馬券錬金術
 sort_title: かちうまよそうそふとばけんれんきんじゅつ
@@ -9284,22 +9284,27 @@ description:
 game: ぱらめROMカセット1号 (非公認)
 sort_title: ぱらめろむかせっと1
 file: Parame ROM Cassette Vol. 1 (Japan) (Unl).zip
+publisher: GAMETECH
 
 game: ぱらめROMカセット2号 (非公認)
 sort_title: ぱらめろむかせっと2
 file: Parame ROM Cassette Vol. 2 (Japan) (Unl).zip
+publisher: GAMETECH
 
 game: ぱらめROMカセット3号 (非公認)
 sort_title: ぱらめろむかせっと3
 file: Parame ROM Cassette Vol. 3 (Japan) (Unl).zip
+publisher: GAMETECH
 
 game: ぱらめROMカセット4号 (非公認)
 sort_title: ぱらめろむかせっと4
 file: Parame ROM Cassette Vol. 4 (Japan) (Unl).zip
+publisher: GAMETECH
 
 game: ぱらめROMカセット5号 (非公認)
 sort_title: ぱらめろむかせっと6
 file: Parame ROM Cassette Vol. 5 (Japan) (Unl).zip
+publisher: GAMETECH
 
 game: Parlor! Mini
 sort_title: ぱーらーみに1
@@ -15317,12 +15322,18 @@ description:
 game: トラバース スターライト&プレーリー
 sort_title: とらばーすすたーらいとあんどぷれーりー
 file: Traverse - Starlight & Prairie (Japan).zip
+publisher: バンプレスト
+description:
+  バンプレストより1996年6月28日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。ザムスから発売された『Soul&Sword』の続編。前作から数百年後を舞台に、主人公のギャントが謎の男バルモアおよび幼馴染のソニアと共に旅立つというストーリー。本作には世界を支配する魔王は存在せず、世界的危機のない平和な世界である。プレイヤーは自由気ままに冒険する事ができる。
 
 game: トレジャーハンターG
 sort_title: とれじゃーはんたーG
 files:
   Treasure Hunter G (Japan).zip
   Treasure Hunter G (Japan) (Virtual Console).zip
+publisher: スクウェア
+description:
+  スクウェアより1996年5月24日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。スーパーファミコンでのスクウェアの最後の作品。宝探しを生業とする主人公が、7つの「オーパーツ」をめぐって世界を破滅へ導こうとしている闇の陣営との戦いに身を投じることになる。行動値を消費して移動や攻撃を行うシミュレーション要素がある戦闘システム、「アクションポイントバトル」が特徴となる。
 
 # game: Tri-Star (USA) (Unl)
 # file: Tri-Star (USA) (Unl).zip
@@ -15357,6 +15368,9 @@ files:
 game: トリネア
 sort_title: とりねあ
 file: Trinea (Japan).zip
+publisher: やまのん
+description:
+  やのまんより1993年10月1日にスーパーファミコン用ソフトとして発売されたアクションRPG。同社のゲームボーイで発売されたアクションシューティングゲーム「ペンタドラゴン」の続編。邪神復活を止めるための秘宝トリネアを探すというストーリーに沿って進めていく。主人公は3人の中から1人ずつ選んで順次プレイしていき、各主人公が物語がクリアされるとそれぞれスタッフロールが流れる。
 
 # game: Troddlers (Europe)
 # files:
@@ -15397,6 +15411,9 @@ file: Trinea (Japan).zip
 game: トゥルーライズ
 sort_title: とぅるーらいず
 file: True Lies (Japan) (En).zip
+publisher: アクレイムジャパン
+description:
+  アクレイムジャパンより1995年4月28日にスーパーファミコン用ソフトとして発売された8方向スクロールで進む痛快アクションゲーム。アーノルド・シュワルツネッガー主演の人気映画『トゥルーライズ』を題材にしたゲーム作品。プレイヤーは主人公のハリー・タスカーを操作し、凶悪なテロリスト達を相手にマシンガンや火炎放射機などの6種類の武器を状況に合わせて使い分けながらフィールドを進んで行く。
 
 # game: True Lies (USA)
 # files:
@@ -15406,24 +15423,39 @@ file: True Lies (Japan) (En).zip
 game: トランプアイランド
 sort_title: とらんぷあいらんど
 file: Trump Island (Japan).zip
+publisher: Jウイング
+description:
+  Jウイングより1995年6月2日にスーパーファミコン用ソフトとして発売された。海に浮かぶ巨大テーマパーク「トランプアイランド」を舞台にした12種類のトランプゲームを楽しめるバラエティゲーム。トランプを使った、ポーカーやクロンダイク、ピラミッドといった様々な種類のゲームを収録されている。人気イラストレーター赤井孝美がキャラクターデザインを担当した美麗なグラフィックがゲームを盛り上げる。
 
 game: 晦 つきこもり
 sort_title: つきこもり
 files:
   Tsukikomori (Japan).zip
   Tsukikomori (Japan) (Rev 1) (NP).zip
+publisher: バンプレスト
+description:
+  バンプレストより1996年3月1日にスーパーファミコン用ソフトとして発売されたアドベンチャーゲーム。同社の『学校であった怖い話』の続編。祖母の七回忌に田舎の本家に帰省した6名の親戚から怪談話を聞くというコンセプト。病院・デパート・お屋敷・林間学校でのできごとなど、さまざまな場面が登場し、物語を盛りあげる。前作に引き続き話を聞く順番を変える事で話の内容が変化するシステムとなっている。
 
 game: つっぱり大相撲 立身出世編
 sort_title: つっぱりおおずもうりっしんしゅっせへん
 file: Tsuppari Oozumou - Risshinshusse Hen (Japan).zip
+publisher: テクモ
+description:
+  テクモより1993年3月26日にスーパーファミコン用ソフトとして発売された。シンプルな操作性やド派手な必殺技でファミコンで人気を博した爽快相撲ゲーム『つっぱり大相撲』の続編。前頭13枚目からスタートし、戦いながら経験を積んで横綱を目指す。友達同士で熱い取り組みを楽しめる勝ち抜き対戦モードも搭載している。また、自由の女神の上やハワイの浜辺など、ゲームならではの舞台も登場する。
 
 game: つり太郎
 sort_title: つりたろう
 file: Tsuri Tarou (Japan).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1994年7月8日にスーパーファミコン用ソフトとして発売された淡水魚釣りゲーム。魚の動きや糸の引き具合など、かなり本物に近い動きを見せてくれ、ブラックバスだけでなく、ニジマスやヘラブナ、ヤマメなど15種類の魚を釣ることができる。物語は妹が病に倒れたところから始まる。主人公の母は「妹の病気を治すには川のぬしを釣ってくるしかない」と、その言葉に従って主人公はぬし釣りの旅に出る。
 
 game: ツヨシしっかりしなさい 対戦ぱずるだま
 sort_title: つよししっかりしなさいたいせんぱずるだま
 file: Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama (Japan).zip
+publisher: コナミ
+description:
+  コナミより1994年11月18日にスーパーファミコン用ソフトとして発売されたパズルゲーム。アーケードで好評を博した落ちものパズルゲーム『対戦ぱずるだま』が人気アニメ『ツヨシしっかりしなさい』のキャラを使用してSFCに移植。上から落ちてくる2つ1組の玉をタテ・ヨコ・カギ型に3つ以上並べて消していきく。怒とうのごとく繰り出される連鎖攻撃は爽快感抜群で、キャラも表情豊かにリアクションする。
 
 # game: Tuff E Nuff (Europe)
 # file: Tuff E Nuff (Europe).zip
@@ -15440,10 +15472,16 @@ file: Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama (Japan).zip
 game: ターフヒーロー
 sort_title: たーふひーろー
 file: Turf Hero (Japan).zip
+publisher: テクモ
+description:
+  テクモより1995年3月21日にスーパーファミコン用ソフトとして発売された。ストーリー重視の競走馬育成シミュレーションゲーム。騎手を引退した主人公が、馬の生産者として再び競馬界の頂点、日本ダービーを制覇を目指す。ただ強い馬を作るだけでなく、牧場を息子に継がせたり、新人騎手を育てたりと、ドラマチックなイベントが多数用意されている。イギリスダービーなど6つの海外レースにも遠征可能。
 
 game: ターフメモリーズ
 sort_title: たーふめもりーず
 file: Turf Memories (Japan).zip
+publisher: ベック
+description:
+  ベックより1995年2月24日にスーパーファミコン用ソフトとして発売された本格競馬シミュレーションゲーム。1人のジョッキーとなり、第1回日本ダービーからの30年間を舞台に、数々のレースに挑戦していく。競馬の歴史をさかのぼり、同時代の新人騎手として成長・活躍を目指していく独自のシステムを採用している。好成績を上げることで賞金や経験値を獲得し、強い騎手へと成長させていく。
 
 # game: Turn and Burn - No-Fly Zone (Europe)
 # file: Turn and Burn - No-Fly Zone (Europe).zip
@@ -15457,6 +15495,9 @@ file: Turf Memories (Japan).zip
 game: ツインビー レインボーベルアドベンチャー
 sort_title: ついんびーれいんぼーべるあどべんちゃー
 file: TwinBee - Rainbow Bell Adventure (Japan).zip
+publisher: コナミ
+description:
+  コナミより1994年1月7日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。シューティングでおなじみ『ツインビー』のアクションゲーム版。それぞれ性能の違うツインビー・ウインビー・グインビーの3体から操作キャラを選び、ステージごとに設定された目標タイムをクリアすると自機がパワーアップする。伝説の7つのレインボーベルを盗んで世界征服を企むワルモン博士を倒すのが目的となる。
 
 # game: Twisted Tales of Spike McFang, The (USA)
 # file: Twisted Tales of Spike McFang, The (USA).zip
@@ -15735,6 +15776,9 @@ description:
 game: バイキングの大迷惑
 sort_title: ばいきんぐのだいめいわく
 file: Viking no Daimeiwaku (Japan).zip
+publisher: T&Eソフト
+description:
+  T&Eソフトより1993年10月8日にスーパーファミコン用ソフトとして発売されたアクションゲーム。宇宙人に拉致された個性豊かな3人のバイキングが宇宙船からの脱出を目指す。ダッシュとジャンプの得意な燕のエリック、剣と弓矢を使って唯一攻撃が可能な猛烈バリオグ、盾を使って敵弾を防御したり、高所から滑空できる頑丈オラフの3人を操作し、状況によって切り替えながら迷路状のステージを進んでいく。
 
 # game: Virtual Bart (Europe)
 # file: Virtual Bart (Europe).zip
@@ -15742,6 +15786,9 @@ file: Viking no Daimeiwaku (Japan).zip
 game: バーチャルバート
 sort_title: ばーちゃるばーと
 file: Virtual Bart (Japan) (En).zip
+publisher: アクレイムジャパン
+description:
+  アクレイムジャパンより1994年9月30日にスーパーファミコン用ソフトとして発売されたアクションゲーム。アメリカの人気アニメ『ザ・シンプソンズ』のキャラクター、バートがバーチャル世界を舞台に冒険する。バートが恐竜になって進むステージや、豚となって精肉所を脱出するステージ、荒廃した世界でバイクに乗って敵と戦うステージなど、バリエーションに富んだ6つのステージをクリアしよう。
 
 # game: Virtual Bart (USA)
 # files:
@@ -15757,17 +15804,26 @@ file: Virtual Bart (Japan) (En).zip
 game: バーチャルウォーズ
 sort_title: ばーちゃるうぉーず
 file: Virtual Wars (Japan).zip
+publisher: ココナッツジャパン
+description:
+  ココナッツジャパンより1994年2月11日にスーパーファミコン用ソフトとして発売されたアクションゲーム。映画『バーチャルウォーズ』を題材にしたゲーム作品となる。プレイヤーは主人公のアンジェロ博士となり、さまざまな3Dステージがある仮想世界「バーチャルゾーン」と横スクロールがステージがメインの現実世界「リアリティゾーン」を行き来していく。バーチャル世界を支配するジョーブを倒すのが目的となる。
 
-game: バレーボールツイン
+game: バレーボールTwin
 sort_title: ばれーぼーるついん
 file: Volleyball Twin (Japan) (En).zip
+publisher: 
+description:
+  トンキンハウスより1992年11月27日にスーパーファミコン用ソフトとして発売された本格バレーボールゲーム。横からの視点を採用し、まるでテレビ中継のような臨場感満点の画面で楽しめる。通常のバレーボールはもちろん、ビーチバレーモードも搭載。チュートリアルも収録し、初心者でも操作方法を簡単に覚えることができる。クイック、時間差、ブロック等さまざまな技を繰り出してチームを勝利に導こう。
 
 # game: Vortex (Europe) (En,Es)
 # file: Vortex (Europe) (En,Es).zip
 
-game: ヴォルテックス
+game: ヴォルテックス THE FX ROBOT BATTLE
 sort_title: う゛ぉるてっくす
 file: Vortex (Japan) (En,Ja).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1994年12月9日にスーパーファミコン用ソフトとして発売された3Dシューティングゲーム。全画面ポリゴン処理によって非常にリアルな3Dの動きを体験できる。プレイヤーは人型、飛行機型、自動車型、装甲車型の4段階に変形できるロボット、ヴォルテックスを操って敵と戦い、7つあるミッションをクリアしていく。
 
 # game: Vortex (USA) (En,Es)
 # file: Vortex (USA) (En,Es).zip
@@ -15775,6 +15831,9 @@ file: Vortex (Japan) (En,Ja).zip
 game: VS.コレクション
 sort_title: ぶいえすこれくしょん
 file: Vs. Collection (Japan).zip
+publisher: ボトムアップ
+description:
+  ボトムアップより1996年11月29日にスーパーファミコン用ソフトとして発売された。4種類の対戦ゲームがこれ1本で楽しめる、お得なオムニバスソフト。パズルゲームの『たまごぱにっく』、雪合戦をゲーム化した『ゆきだま　ポイポイ』、レースゲームの『ドキドキ　レース』、アクションゲームの『とりあ・たっく』の、対戦で盛り上がるバラエティ豊かな4種のゲームを収録している。
 
 # game: Wacky Races (Europe) (Proto)
 # file: Wacky Races (Europe) (Proto).zip
@@ -15782,18 +15841,30 @@ file: Vs. Collection (Japan).zip
 game: ワギャンパラダイス
 sort_title: わぎゃんぱらだいす
 file: Wagyan Paradise (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1994年12月16日にスーパーファミコン用ソフトとして発売されたアクションゲーム。音波で攻撃するアクションパートと、ミニゲームでボス戦を戦う独自のシステムが人気の『ワギャン』シリーズの続編となる。おなじみのミニゲームは12種類あり、スタート時に入力した年齢によって難易度が変わる。男の子のタクト、女の子のカリンどちらかを選んで、島に発生した異変を探るため冒険しよう。
 
 game: 若貴大相撲 夢の兄弟対決
 sort_title: わかたかおおずもうゆめのきょうだいたいけつ
 file: Wakataka Oozumou - Yume no Kyoudai Taiketsu (Japan).zip
+publisher: イマジニア
+description:
+  イマジニアより1993年11月12日にスーパーファミコン用ソフトとして発売された相撲ゲーム。大相撲界で大人気の兄弟力士、若ノ花と貴ノ花となって横綱を目指す本格相撲ゲームがSFCに登場。独自のカードバトルシステムを採用しており、カードを出すタイミングや相手の出したカードとの相性などで勝敗が決まるためアクションが苦手な方でも上手投げや突っ張りといった技を簡単に繰り出すことができる。
 
 game: わくわくスキー わんだぁシュプール
 sort_title: わくわくすきーわんだぁしゅぷーる
 file: Wakuwaku Ski Wonder Spur (Japan).zip
+publisher: ヒューマン
+description:
+  ヒューマンより1995年1月13日にスーパーファミコン用ソフトとして発売された。個性豊かな8人のキャラクターが、雪山のゲレンデをはじめ未来都市、メルヘンチックなスキー場など、多彩なゲレンデを舞台に1位を目指して滑っていくスキーゲーム。キャラクターエディット機能を搭載し、ポイントを自由に割り振って自分だけのキャラを作成できるほか、タイムトライアルや2P対戦も楽しむことができる。
 
 game: ウォーリーをさがせ! 絵本の国の大冒険
 sort_title: うぉーりーをさがせえほんのくにのだいぼうけん
 file: Wally o Sagase! - Ehon no Kuni no Daibouken (Japan).zip
+publisher: トミー
+description:
+  トミーより1993年2月19日にスーパーファミコン用ソフトとして発売されたアドベンチャーゲーム。絵本「ウォーリーをさがせ!」をゲーム化した作品。絵本の中に取り残されたウォーリーと99人の親衛隊を助けだすというストーリー。非常に大勢の群衆が一枚の絵に描かれていながらそれぞれがコミカルな行動をとっており、ウォーリーを見つけるまでの間も眺めていて楽しめるようになっている。
 
 # game: War 2410 (USA)
 # file: War 2410 (USA).zip
@@ -15804,6 +15875,9 @@ file: Wally o Sagase! - Ehon no Kuni no Daibouken (Japan).zip
 game: 笑っていいとも! タモリンピック
 sort_title: わらっていいともたもりんぴっく
 file: Waratte Iitomo! Tamolympic (Japan).zip
+publisher: アテナ
+description:
+  アテナより1994年4月28日にスーパーファミコン用ソフトとして発売されたバラエティゲーム。人気番組『笑っていいとも』の出演者となり、全20種類のミニゲームに挑戦するソフト。体力勝負あり、知力勝負ありのバリエーション豊かなミニゲームを勝ち抜き、「タモリンピック大賞」を目指します。全てのミニゲームはプレイする前にゲームの説明や操作方法を教えてくれるため、初めてでも気軽に楽しめる。
 
 # game: Wario's Woods (Europe)
 # file: Wario's Woods (Europe).zip
@@ -15817,6 +15891,9 @@ file: Waratte Iitomo! Tamolympic (Japan).zip
 game: ウォーロック
 sort_title: うぉーろっく
 file: Warlock (Japan) (En).zip
+publisher: アクレイムジャパン
+description:
+  アクレイムジャパンより1995年5月26日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。伝説のカルト映画『ウォーロック』を題材にしたゲーム作品。6つ集めると究極の悪魔が蘇るといわれるルーンの石をめぐり、主人公のドルイド戦士と悪魔の息子ウォーロックが戦いを繰り広げる。多彩な魔法攻撃とオーブの力を駆使して進み、ウォーロックよりも先にルーンの石を手に入れよう。
 
 # game: Warlock (USA)
 # files:
@@ -15864,6 +15941,9 @@ file: Warlock (Japan) (En).zip
 game: ウェディングピーチ
 sort_title: うぇでぃんぐぴーち
 file: Wedding Peach (Japan).zip
+publisher: KSS
+description:
+  KSSより1995年9月29日にスーパーファミコン用ソフトとして発売されたバラエティソフト。アニメやコミックで人気の『ウェディングピーチ』を題材にした様々なミニゲームを楽しめるゲーム作品。ももこ、ゆり、ひなぎくのおなじみ3人組を操作し、モグラ叩きや神経衰弱といったバラエティ豊かな全部で8つのミニゲームに挑戦。勝負に買ってあこがれの先輩をハートを射止めるのが目的となる。
 
 # game: Wheel of Fortune - Deluxe Edition (USA)
 # file: Wheel of Fortune - Deluxe Edition (USA).zip
@@ -16043,6 +16123,9 @@ description:
 game: ウルフェンシュタイン3D THE CLAW OF EISENFAUST
 sort_title: うるふぇんしゅたいん3D
 file: Wolfenstein 3D - The Claw of Eisenfaust (Japan).zip
+publisher: イマジニア
+description:
+  イマジニアより1994年2月10日にスーパーファミコン用ソフトとして発売されたシューティングゲーム。3Dダンジョン内を銃やナイフで敵を倒しながら進み、死霊と謎の物体ミュータントを壊滅させていくゲーム。画面は主人公から見た視点で構成されており、高速スクロールやリアルな効果音など臨場感あふれる演出がなされている。マウス対応で快適にプレイできる。FPSというジャンルを確立した作品。
 
 # game: Wolfenstein 3D (Europe)
 # file: Wolfenstein 3D (Europe).zip
@@ -16071,10 +16154,16 @@ description:
 game: ワンダープロジェクトJ 機械の少年ピーノ
 sort_title: わんだーぷろじぇくとJきかいのしょうねんぴーの
 file: Wonder Project J - Kikai no Shounen Pino (Japan).zip
+publisher: エニックス
+description:
+  エニックスより1994年12月9日にスーパーファミコン用ソフトとして発売された育成シミュレーションゲーム。ロボットであるティンカーを操作し、ギジンであるピーノに指示を出して無実の罪により囚われたジェペット博士を救出する事が目的となる。基本的にピーノは自分では操作が出来ず、ある程度の指示を与えることでゲームを進行させる。プレイヤーの指示によりピーノのパラメータや行動パターンが変化していく事が特徴。
 
 game: ワンダラスマジック
 sort_title: わんだらすまじっく
 file: Wondrous Magic (Japan).zip
+publisher: アスキー
+description:
+  アスキーより1993年12月17日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。イーリアス大陸を中心に剣と魔法が織りなすファンタジーの世界が舞台。主人公である女の子フィーリスは、大魔術師イヴァスの復活を止めるため、冒険へと旅立つ。戦闘では、コマンドやテキストがなく、全てアイコンで表現されており、リアルタイム制を採用している。また、4方向バトルシステムとなっている。
 
 # game: Wordtris (USA)
 # file: Wordtris (USA).zip
@@ -16105,6 +16194,9 @@ description:
 game: ワールドカップストライカー
 sort_title: わーるどかっぷすとらいかー
 file: World Cup Striker (Japan).zip
+publisher: ココナッツジャパン
+description:
+  ココナッツジャパンより1994年6月17日にスーパーファミコン用ソフトとして発売された。ヴェルディ川崎の元監督・松木安太郎氏監修の本格サッカーゲーム。リアルタイムで展開するアニメーションが臨場感満点で、白熱のPK合戦もリアルに再現。ワールドカップモード、オープンゲームモード、トレーニングモードなど多彩なモードを搭載。最大5人プレイが可能で、手に汗握る試合を皆で楽しむことができる。
 
 # game: World Cup USA '94 (USA) (Beta)
 # file: World Cup USA '94 (USA) (Beta).zip
@@ -16115,6 +16207,9 @@ file: World Cup Striker (Japan).zip
 game: ワールドカップUSA94
 sort_title: わーるどかっぷゆーえすえー94
 file: World Cup USA 94 (Japan) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
+publisher: サンソフト
+description:
+  サンソフトより1994年7月29日にスーパーファミコン用ソフトとして発売された。4年に1度のサッカーの一大祭典「ワールドカップ」を題材にした本格サッカーゲーム。1994年度ワールドカップに出場したチームと、日本を含めた不参加の8チームが登場し、好きな1チームを選んでワールドカップ優勝を目指す。細かなフォーメーションを実現し、リアルな試合展開を楽しむことができる。
 
 # game: World Cup USA 94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)
 # file: World Cup USA 94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).zip
@@ -16159,6 +16254,9 @@ description:
 game: ワールドサッカー
 sort_title: わーるどさっかー
 file: World Soccer (Japan) (En).zip
+publisher: ココナッツジャパン
+description:
+  ココナッツジャパンより1993年7月16日にスーパーファミコン用ソフトとして発売された。全64ヵ国にわたるチームが登場し、大歓声のスタジアムを舞台に実戦さながらのゲームを楽しめるサッカーゲーム。選手名、チーム名はもちろんユニフォームカラーまで自由自在に設定できる。パスやセンタリングなど多彩な攻撃方法とバリエーション豊かなフォーメーションを駆使して世界の強豪に挑み、優勝を勝ち取ろう。
 
 # game: World Soccer 94 - Road to Glory (USA)
 # file: World Soccer 94 - Road to Glory (USA).zip
@@ -16169,6 +16267,9 @@ file: World Soccer (Japan) (En).zip
 game: レッキングクルー'98
 sort_title: れっきんぐくるー98
 file: Wrecking Crew '98 (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1998年5月23日にスーパーファミコン用ソフトとして発売された。マリオがビルの解体屋となり、敵をかわしながらすべての壁を壊していくビル解体アクションゲーム『レッキングクルー』をスーパーファミコンに移植。旧作をそのまま移植した「オリジナルモード」と、新たに作られた「’98モード」の2本を収録している。「’98モード」は、対戦型パズルゲームになっており、旧作とはまったく異なっている。
 
 # game: WWF Raw (Europe)
 # file: WWF Raw (Europe).zip
@@ -16231,6 +16332,9 @@ sort_title: えっくすぞーん
 files:
   X Zone (Japan, USA) (En).zip
   X Zone (Japan, USA) (En) (Beta).zip
+publisher: ケムコ
+description:
+  ケムコより1993年8月27日にスーパーファミコン用ソフトとして発売された3Dシューティングゲーム。軍事兵器研究所のバイオコンピュータがウイルスにより暴走したことにより、プレイヤーは研究所に乗り込み、コンピュータを破壊することを目的としている。敵がまさに迫ってくるといった感覚を十分に堪能できるのが特徴で、タイムトライアルもプレイできる。また、本作はスーパースコープ専用ゲームとなる。
 
 # game: X-Kaliber 2097 (Europe)
 # file: X-Kaliber 2097 (Europe).zip
@@ -16246,17 +16350,26 @@ files:
 game: X-MEN MUTANT APOCALYPSE
 sort_title: えっくすめんみゅーたんとあぽかりぷす
 file: X-Men - Mutant Apocalypse (Japan).zip
+publisher: CAPCOM
+description:
+  カプコンより1995年1月3日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。大人気アメリカンコミック『X-MEN』を原作とするゲーム作品となる。ウルヴァリン、サイクロップス、サイロック、ガンビット、ビーストの5人からプレイヤーキャラを選び、それぞれの能力を生かした必殺技を駆使してステージをクリアしよう。
 
 # game: X-Men - Mutant Apocalypse (USA)
 # file: X-Men - Mutant Apocalypse (USA).zip
 
-game: サーク The Art of Visual Stage
+game: Xak サーク
 sort_title: さーくじあーとおぶびじゅあるすてーじ
 file: Xak - The Art of Visual Stage (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1993年2月26日にスーパーファミコン用ソフトとして発売されたアクションRPG。パソコンからの移植作品。主人公の「ラトク・カート」を操作し、妖魔界から降り立った暴君「バドゥー」を倒して王国ウェービスを救うことを目的としており、高低差や奥行きを表現した立体的なマップを特徴としている。SFC版はグラフィックが美しく、物陰の後ろにキャラがいると透ける等、SFCならではの改良されている。
 
 game: サンドラの大冒険 ワルキューレとの出逢い
 sort_title: さんどらのだいぼうけんわるきゅーれとのであい
 file: Xandra no Daibouken - Valkyrie to no Deai (Japan).zip
+publisher: ナムコ
+description:
+  ナムコより1992年7月23日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。同社の『ワルキューレ』シリーズに登場するキャラクターであるサンドラが主人公となる。物語は『ワルキューレの冒険』より過去の出来事にあたり、サンドラが故郷を旅立ち、ワルキューレと出会うまでの物語が描かれている。タイム制限や得点の概念が存在しない。また、絵本のような可愛いらしい絵柄とは裏腹に難易度は高い。
 
 # game: Xardion (USA)
 # file: Xardion (USA).zip
@@ -16264,6 +16377,7 @@ file: Xandra no Daibouken - Valkyrie to no Deai (Japan).zip
 game: XBAND
 sort_title: えっくすばんど
 file: XBAND (Japan).zip
+publisher: カタパルト
 
 # game: XBAND (USA) (v1.0.1)
 # file: XBAND (USA) (v1.0.1).zip
@@ -16273,22 +16387,37 @@ sort_title: やだもんわんだらんどどりーむ
 files:
   Yadamon - Wonderland Dreams (Japan).zip
   Yadamon - Wonderland Dreams (Japan) (Sample).zip
+publisher: 徳間書店
+description:
+  徳間書店より1993年11月26日にスーパーファミコン用ソフトとして発売されたアドベンチャーゲーム。人間界に修行にやってきた魔女ヤダモンが引き起こす騒動とそれに巻き込まれる周りの人々の悲喜劇のテレビアニメ『ヤダモン』を原作とするゲーム作品。ヤダモンたちが3つの魔法石を探し出すために冒険する。マウスに対応しており、画面に出ている調べたいものを指して、クリックする(ボタンを押す)と、何か変化が起きる。
 
 game: 夜光虫
 sort_title: やこうちゅう
 file: Yakouchuu (Japan).zip
+publisher: アテナ
+description:
+  アテナより1995年6月16日にスーパーファミコン用ソフトとして発売されたサウンドノベルゲーム。陸を離れ半年間の航海に出た貨物船「ダイアナ」の船長を主人公とした物語。設定上、舞台の殆どが海上であり、ゲーム中に用意されている画像は全て船内部と船周辺のものである。本作の主人公にはデフォルト名が設定されていない。ナリオを脚本家の白石マミ、BGMを後藤次利が手がけている。
 
 game: ヤムヤム
 sort_title: やむやむ
 file: Yam Yam (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1995年2月17日にスーパーファミコン用ソフトとして発売された。様々な町を訪れ、平和を取り戻す3DアクションRPG。RPG的な要素を持ちつつも、フィールド画面などは存在せず、町と町の間の移動がシューティングゲームのような3Dアクションという一風変わったゲーム。お掃除したりオバケとお友達になったりなど、全部で約30本のシナリオがあり、お手軽に楽しむことが出来る。
 
 game: やまねこバブジーの大冒険
 sort_title: やまねこばぶじーのだいぼうけん
 file: Yamaneko Bubsy no Daibouken (Japan).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1994年6月17日にスーパーファミコン用ソフトとして発売された爽快アクションゲーム。アメリカで人気のキャラクター、毛玉の大好きなヤマネコ「バブジー」が大冒険を繰り広げる。主人公バブジーを操作してジャンプ、ダッシュ、飛行といった多彩なアクションを楽しめる。宇宙人にさらわれてしまった毛玉を取り返すため、バブジーとなってジャンプで敵を踏みつけ進んでいこう。
 
 game: ヨギーベア
 sort_title: よぎーべあ
 file: Yogi Bear (Japan) (En).zip
+publisher: マジファクト
+description:
+  マジファクトより1995年1月3日にスーパーファミコン用ソフトとして発売された横スクロールアクションゲーム。公園の安全を守るため、くまの主人公ヨギーベアが大活躍する。ヨギーベアとなって、公園の化学工場建設工事計画を公園監視員のスミスさんに伝えるのが目的となる。雪山や洞窟、森林、湖、工場といったバラエティ豊かな全5ステージをクリアしよう。
 
 # game: Yogi Bear's Cartoon Capers (Europe)
 # file: Yogi Bear's Cartoon Capers (Europe).zip
@@ -16361,10 +16490,16 @@ description:
 game: 幼稚園戦記まだら
 sort_title: ようちえんせんきまだら
 file: Youchien Senki Madara (Japan).zip
+publisher: データム・ポリスター
+description:
+  データム・ポリスターより1996年1月26日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。魍魎戦記MADARAから派生したシリーズの一つ『幼稚園戦記まだら』のゲーム作品。各章(4章構成)の主人公キャラを手の形をしたカーソルで導き、色々な場所で情報を集めてストーリーを進めていく。最終章で現れる大ボスを倒すことがゲームの目的となる。敵との戦闘は3回勝負のじゃんけんで勝敗を決める。
 
 game: 妖怪バスター ルカの大冒険
 sort_title: ようかいばすたーるかのだいぼうけん
 file: Youkai Buster - Ruka no Daibouken (Japan).zip
+publisher: 角川書店
+description:
+  角川書店より1995年6月9日にスーパーファミコン用ソフトとして発売されたアクションゲーム。雑誌『マルカツスーパーファミコン』のイメージキャラクター・ルカが妖怪バスターとして戦う。ルカは両手に抱えた「エンマ様の首」を使って妖怪退治を行なっていく。「エンマ様の首」で壁や天井に張りついて移動したり、ステージにあるアイテムを吸い込み、発射して敵を倒しながら先を進んで行こう。
 
 # game: Young Merlin (Europe)
 # files:
@@ -16438,6 +16573,9 @@ description:
 game: 夢幻の如く
 sort_title: ゆめまぼろしのごとく
 file: Yumemaboroshi no Gotoku (Japan).zip
+publisher: インテック
+description:
+  インテックより1993年12月17日にスーパーファミコン用ソフトとして発売されたロールプレイングゲーム。本宮ひろ志による漫画『夢幻の如く』を原作としるゲーム化作品。本能寺の変で自害したはずの織田信長は「天からの一筋の光」に導かれて家臣の森蘭丸とともに命を救われる。プレイヤーは信長となって天下統一を目指すのが目的となる。
 
 game: 遊人雀獣学園
 sort_title: ゆうじんじゃんじゅうがくえん1
@@ -16463,18 +16601,26 @@ description:
 game: ゆうゆのクイズでGo!Go!
 sort_title: ゆうゆのくいずでごーごー
 file: Yuuyu no Quiz de Go! Go! (Japan).zip
+publisher: タイトー
+description:
+  タイトーより1992年7月10日にスーパーファミコン用ソフトとして発売された。バラエティーアイドルのゆうゆ(岩井 由紀子)がゲームの司会を務めるクイズゲーム。アーケードからの移植。ゆうゆは実写で登場するし、肉声も再現されている。気になる問題数も全11ジャンルで7000問と豊富。サブゲームも5種類遊べるようになる。プレイヤーはクイズ番組に出演しているシチュエーションでの数々の演出が特徴となる。
 
 game: 在宅投票システム SPAT4カセット
 sort_title: ざいたくとうひょうしすてむSPAT4かせっと
 file: Zaitaku Touhyou System - SPAT4 Cassette (Japan) (TOAJ).zip
+publisher: NTTデータ
 
 game: 在宅投票システム SPAT4ワイド
 sort_title: ざいたくとうひょうしすてむSPAT4わいど
 file: Zaitaku Touhyou System - SPAT4-Wide (Japan) (TOBJ).zip
+publisher: NTTデータ
 
 game: ざくろの味
 sort_title: ざくろのあじ
 file: Zakuro no Aji (Japan).zip
+publisher: イマジニア
+description:
+  イマジニアより1995年12月22日にスーパーファミコン用ソフトとして発売されたアドベンチャーゲーム。地下に埋没したビルを舞台としたサウンドノベル。人物はシルエットで表現されている。同社から発売された『月面のアヌビス』とは姉妹品的な関係にあり、本作中にも「執筆中の雑誌の連載小説」という形で登場している。大地震で陥没したビルの中を探検することで、戦時中にそこにあった化学研究所の秘密を知ることになる。
 
 game: 斬II スピリッツ
 sort_title: ざん2すぴりっつ
@@ -16539,6 +16685,9 @@ description:
 game: 全国縦断ウルトラ心理ゲーム
 sort_title: ぜんこくじゅうだんうるとらしんりげーむ
 file: Zenkoku Juudan Ultra Shinri Game (Japan).zip
+publisher: ヴィジット
+description:
+  ヴィジットより1995年11月10日にスーパーファミコン用ソフトとして発売された心理ゲーム。日本全国にまたがり、各地の架空テレビ番組をリレー中継して出題されるクイズに答えていく、ユニークな形式となっている。司会者の番組進行にしたがって選択式のクイズに答えていくことでプレイヤーの心を探っていく。また、結果発表の際には1つ1つの質問を詳しく解説してくれる。
 
 game: 全国高校サッカー
 sort_title: ぜんこくこうこうさっかー1
@@ -16581,10 +16730,16 @@ description:
 game: ジーコサッカー
 sort_title: じーこさっかー
 file: Zico Soccer (Japan).zip
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより1994年3月4日にスーパーファミコン用ソフトとして発売された。名選手ジーコが監修する、選手を直接操作せずフィールド上でカーソルを動かしながら選手を誘導する独自のゲームシステムを採用したサッカーゲーム。24ヵ国の代表チームに加え、鹿島アントラーズの計25チームが登場する。EAカップ、ジーコカップ、エキシビジョン、トレーニングの4つのモードをプレイできる。
 
 game: ジグザグキャット ダチョウクラブも大騒ぎダ
 sort_title: じぐざぐきゃっとだちょうくらぶもおおさわぎだ
 file: Zig Zag Cat - Dachou Club mo Oosawagi da (Japan).zip
+publisher: DEN'Z
+description:
+  DEN'Zより1994年6月24日にスーパーファミコン用ソフトとして発売された人気タレントのダチョウ倶楽部がプロデュースしたブロック崩しゲーム。バリヤを動かして落ちてくるボールを操り、襲いかかってくる敵や障害物を壊して進んでいきく。伝説のギャグを探すため、ダチョウ倶楽部もストーリーに登場する。先に進むにつれ複雑になっていくステージを、アイテムで技などを駆使して突破しよう。
 
 # game: Zombies (Europe)
 # files:

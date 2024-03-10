@@ -1,332 +1,710 @@
-game: 2020 Super Baseball (Japan) (En,Ja)
+game: 2020年スーパーベースボール
+sort_title: にせんにじゅうねんすーぱーべーすぼーる
 file: 2020 Super Baseball (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年2月25日にネオジオCD用ソフトとして発売された野球ゲーム。強化プロテクターを装着した選手達が人間の限界を超えた常識外れのプレイを駆使して勝敗を競う近未来野球ゲーム。選手の中にはロボットや女性も登場する。12球団から好きなチームを選んでペナントを戦い、リーグ優勝を目指す。ホームランゾーンやファウルゾーンなど通常の野球ルールとは異なる、豪快な近未来の超ベースボールを楽しもう。
 
-game: ADK World (Japan)
+game: ADKワールド
+sort_title: えーでぃーけーわーるど
 file: ADK World (Japan).chd
+publisher: ADK
+description:
+  ADKより1995年11月10日にネオジオCD用ソフトとして発売されたミニゲーム集。ADKのゲーム作品に登場するキャラクターを使ったゲーム作品となる。カードゲーム「超絶最強選手権」や『ワールドヒーローズ』のブロッケンが主人公のシューティングゲーム「19YY」など、様々なミニゲームが用意されている。また、『ワールドヒーローズ』のボツキャラクターの「ナイチンゲール」がナビゲーターとして登場している。
 
-game: Andro Dunos (France) (Unl)
-file: Andro Dunos (France) (Unl).chd
+# game: Andro Dunos (France) (Unl)
+# file: Andro Dunos (France) (Unl).chd
 
-game: Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (World) (En,Ja,Es,Pt)
+game: アート・オブ・ファイティング 龍虎の拳外伝
+sort_title: りゅうこのけん3
 file: Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (World) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1996年6月14日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。龍虎の拳シリーズの3作目。それまでの欧米版タイトルである『ART OF FIGHTING』が副題としてつけられた外伝作品となる。キャラクターの動きをなめらにするためにモーションキャプチャーを採用している。また、通常攻撃も3D対戦格闘ゲームのように多彩になっている。登場キャラクターも、ほぼ一新されている。
 
-game: ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)
+game: ASO II
+sort_title: えーえすおー2
 file: ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された縦スクロールシューティングゲーム。『ASO』の続編。対地/対空を撃ち分けるゲーム作品となっており、全6エリアで構成されている。特定の条件を満たした場合のみ2周目に挑戦出来る。ゲーム開始前に2つの操作パターンを選択する。1つは前作と同じ操作方法で、もう1つは1つのボタンでレーザーとミサイルを同時に発射出来る初心者向けの操作パターン。
 
-game: Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)
+game: 幕末浪漫 月華の剣士
+sort_title: ばくまつろまんげっかのけんし1
 file: Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1998年3月26日にネオジオCD用ソフトとして発売された剣術対戦格闘アクションゲーム。『月華の剣士』シリーズ第1弾。日本の江戸時代後期の幕末が舞台となっており、新撰組なども設定として登場する。12人の魅力的なキャラクター達が戦いを繰り広げる。剣には、「力」と「技」2つの剣質があり、剣質次第でまったく違ったキャラクターになる。また、家庭用には「トレーニングモード」などもある。
 
-game: Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)
+game: 幕末浪漫第二幕 月華の剣士 月に咲く花、散りゆく花
+sort_title: ばくまつろまんげっかのけんし2
 file: Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1999年2月25日にネオジオCD用ソフトとして発売されたアクションゲーム。『月華の剣士』シリーズ第2弾。舞台は前作から半年後の世界。「現世」と「常世」をつなぐ、地獄門を閉じるために必要な「封印の巫女」をめぐって、それぞれの世界の住人がし烈な戦いをする。新キャラの追加、グラフィックのクオリティアップ、空中弾きや防御不能斬りといった新しいシステムも導入され、より洗練された内容となっている。
 
-game: Bang^2 Busters (France) (En,Ja) (Unl)
-file: Bang^2 Busters (France) (En,Ja) (Unl).chd
+# game: Bang^2 Busters (France) (En,Ja) (Unl)
+# file: Bang^2 Busters (France) (En,Ja) (Unl).chd
 
-game: Baseball Stars 2 (Japan) (En,Ja)
+game: ベースボールスターズ2
+sort_title: べーすぼーるすたーず2
 file: Baseball Stars 2 (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された野球ゲーム。『ベースボールスターズ』の第2弾。本作では守備のモードが2つあり、オートモードで「ファイティングリーグ」、ノーマルモードで「エキサイティングリーグ」が用意されている。プレイヤーはそれぞれのリーグに所属している6チームの中から1チームを選択し、ペナントレースを勝ち抜いていくのが目的となる。
 
-game: Baseball Stars Professional (Japan) (En,Ja)
+game: ベースボールスターズ プロフェッショナル
+sort_title: べーすぼーるすたーずぷろふぇっしょなる
 file: Baseball Stars Professional (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年4月21日にネオジオCD用ソフトとして発売された野球ゲーム。『ベースボールスターズ』の第1弾となる。派手な演出が魅力の野球ゲームとなっており、強力打線が看板のチーム、駿足選手ばかりのチーム、女の子だけのチームなど個性的な16チームが登場する。魔球の存在があるなど、通常の野球ゲームだけに止まらないユニークな内容が特徴となっている。
 
-game: Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)
+game: ビッグトーナメントゴルフ
+sort_title: びっぐとーなめんとごるふ
 file: Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).chd
+publisher: ナスカ
+description:
+  ナスカより1996年5月1日にネオジオCD用ソフトとして発売されたゴルフゲーム。3D視点でプレイするゴルフゲーム。プレイヤーは能力が異なる6人のキャラクターの中か1人を選んでゴルフコースを回ることとなる。ゲームモードはマッチプレイ、ストロークプレイなどが搭載されている。ゲームの舞台となるコースは、4コースの全72ホールが用意されている。
 
-game: Breakers (Japan) (En,Ja)
+game: ブレイカーズ
+sort_title: ぶれいかーず
 file: Breakers (Japan) (En,Ja).chd
+publisher: ビスコ
+description:
+  ビスコより1997年4月25日にネオジオCD用ソフトとして発売されたアクションゲーム。8人の腕に覚えのある強者がルール無用の格闘大会「FIST」で戦いを繰り広げる。個性的なキャラクターが必殺技を駆使して闘う格闘アクションとなっており、抜群の操作性や、派手な超必殺技などが魅力となっている。また、家庭用版ではオプションモードにサウンドテストがあり、BGMや効果音、カバーボイスも再生できる。
 
-game: Burning Fight (Japan) (En,Ja)
+game: バーニングファイト
+sort_title: ばーにんぐふぁいと
 file: Burning Fight (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売されたベルトスクロールアクションゲーム。日米の刑事「デューク・エドワーズ」ビリー・キング」「リュウ・サエバ」の3人が大阪を舞台に犯罪組織と戦う様子を描いている。ゲームは全5ステージで構成されている。本作は単純で激しいアクションを特徴とすると同時に、コミカルで奇抜な敵キャラクターの存在している。また、敵が落とした武器を拾って攻撃もできる。
 
-game: Choujin Gakuen - Gowcaizer (Japan) (En,Ja)
+game: 超人学園ゴウカイザー
+sort_title: ちょうじんがくえんごうかいざー
 file: Choujin Gakuen - Gowcaizer (Japan) (En,Ja).chd
+publisher: テクノスジャパン
+description:
+  テクノスジャパンより1995年11月24日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。未来の学園を舞台に、変身ヒーローたちが激突する。「トレースシステム」という、倒した相手の技を使うことができるシステムを採用している点が本作最大の特徴となる。キャラクターデザインは大張正己が担当。後に『超人学園ゴウカイザー THE VOLTAGE FIGHTERS』としてアニメ化もしている。
 
-game: Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)
+game: 超鉄ブリキンガー
+sort_title: ちょうてつぶりきんがー
 file: Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja).chd
+publisher: ザウルス
+description:
+  ザウルスより1996年9月20日にネオジオCD用ソフトとして発売された横スクロールシューティングゲーム。レンダリング処理された美しいグラフィックが特徴となっている。プレイヤーが操る自機は、サポートロボット兵器ブリキンガーと、合体分離によって攻撃のバリエーションを変化させながら戦っていく。また、ステージは途中で分岐していて、何度も楽しめるようになっている。
 
-game: Crossed Swords (Japan)
+game: クロススウォード
+sort_title: くろすすうぉーど1
 file: Crossed Swords (Japan).chd
+publisher: ADK
+description:
+  ADKより1994年10月31日にネオジオCD用ソフトとして発売された3Dアクションゲーム。ファンタジー世界を舞台に、異形の勢力から王国を守ろうとする騎士、「エドモンド」と「リチャード」を操作し、魔人ナウシズを倒す事が目的となる。戦闘は常に1対1で行われ、敵の攻撃は概して上段と下段の2種類であり、直前のモーションで判別がつく。また、敵を倒すと体力や魔力を回復するアイテムやGOLDが出現する。
 
-game: Crossed Swords II (Japan) (En,Ja)
+game: クロススウォードII
+sort_title: くろすすうぉーど2
 file: Crossed Swords II (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1995年5月2日にネオジオCD用ソフトとして発売された3Dアクションゲーム。クロススウォード』のシリーズ第2弾。ネオジオCDだけのオリジナル作品となる。使用キャラクターが男剣士、女戦士、忍者の3人から選択できるようになっている。また、コマンド入力の必殺技も使用可能となる。ゲームモードは2種類のモードが用意されている。
 
-game: Cyber-Lip (Japan) (En,Ja)
+game: サイバーリップ
+sort_title: さいばーりっぷ
 file: Cyber-Lip (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年4月21日にネオジオCD用ソフトとして発売されたアクションシューティングゲーム。プレイヤーは主人公キャラクターを操作し、隠された謎を解き明かしていきながら、ステージを進めていく。4つの特殊武器を使って、暴走した殺戮スーパーコンピュータを破壊するのが最終目的となる。ゲーム内のステージは全部で7ステージが用意されている。
 
-game: Double Dragon (Export) (En,Ja)
-file: Double Dragon (Export) (En,Ja).chd
+game: ダブルドラゴン
+sort_title: だぶるどらごん
+files:
+  Double Dragon (Japan) (En,Ja) (Rev 1).chd
+  Double Dragon (Export) (En,Ja).chd
+publisher: テクノスジャパン
+description:
+  テクノスジャパンより1995年6月2日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『ダブルドラゴンシリーズ』の一作。一発逆転をねらえるスペシャル攻撃や2段ジャンプなど、多彩な攻撃パターンがあるのが特徴となる。。登場キャラクターは合計12名(ボス2名含む)となる。使用キャラクターにはリー兄弟の他に、元祖で囚われ役だったマリアンや、敵キャラクターだったアボボやブルノフなどがいる。
 
-game: Double Dragon (Japan) (En,Ja) (Rev 1)
-file: Double Dragon (Japan) (En,Ja) (Rev 1).chd
-
-game: Dunk Dream ~ Street Slam ~ Street Hoop (World)
+game: ダンクドリーム
+sort_title: だんくどりーむ
 file: Dunk Dream ~ Street Slam ~ Street Hoop (World).chd
+publisher: データイースト
+description:
+  データイーストより1995年1月20日にネオジオCD用ソフトとして発売されたバスケットボールゲーム。プレイヤーが操作するバスケットボールのチームは、世界10ヵ国の中から選ぶことが可能となっている。また、4回シュートを決めると、派手なスーパーショットが使えるようになるなど、このゲームならではの要素も用意されている。軽快なラップサウンドが雰囲気を盛り上げてくれるゲーム作品となる。
 
-game: Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)
+game: 天外魔境 真伝
+sort_title: てんがいまきょうしんでん
 file: Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).chd
+publisher: ハドソン
+description:
+  ハドソンより1995年11月24日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『天外魔境』シリーズの一作。火の一族が剣術の腕を競い合う物語となっており、『天外魔境』シリーズのメインキャラクターが中心に登場する。キャラクターのアクションは多彩で、空中から武器を投げて攻撃することもできる。画面下にある術ゲージが満タンになると、簡単な操作で強力な術を使用できるのも特徴となる。
 
-game: Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)
+game: ファイターズヒストリー・ダイナマイト
+sort_title: ふぁいたーずひすとりーだいなまいと
 file: Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja).chd
+publisher: データイースト
+description:
+  データイーストより1994年12月22日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『ファイターズヒストリー』の続編。弱攻撃をヒットorガードさせたときに強攻撃を押すと、弱攻撃のスキが軽減され、連続技になり易い新システム「ワンツー攻撃」が存在する。また、相手の弱点を数回攻撃すると、相手を気絶させることができる。ストーリーモードでは伝説の格闘家Kを倒すのが目的となる。
 
-game: Fire Suplex ~ 3 Count Bout (World) (En,Ja)
+game: ファイヤー・スープレックス
+sort_title: ふぁいやーすーぷれっくす
 file: Fire Suplex ~ 3 Count Bout (World) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年4月21日にネオジオCD用ソフトとして発売されたプロレスゲーム。組み合った後のボタン連打で勝ったほうが技をかけられるシステムだが、打撃技(通常技)を当てることで組み合ったときの必要な連打量が軽減される。本作が普通のプロレスと違う点は、ステージが普通のリング以外にも、工場・スクラップ場・電流デスマッチの3つのステージがある。しかもこの3つのステージには凶器が落ちている。
 
-game: Flying Power Disc ~ Windjammers (Japan) (En,Ja)
+game: フライングパワーディスク
+sort_title: ふらいんぐぱわーでぃすく
 file: Flying Power Disc ~ Windjammers (Japan) (En,Ja).chd
+publisher: データイースト
+description:
+  データイーストより1995年1月20日にネオジオCD用ソフトとして発売された新感覚のスポーツゲーム。必殺シュートなどを駆使した、エキサイティングな試合が楽しめる。画面は上からコートを見おろした形になっており、2人の選手がお互いにディスクを投げ合い、相手のゴールに叩き込むというシンプルなルールとなる。個性豊かな世界各国の選手が登場するのが特徴となっている。
 
-game: Football Frenzy (Japan) (En,Ja)
+game: フットボールフレンジー
+sort_title: ふっとぼーるふれんじー
 file: Football Frenzy (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売されたフットボールゲーム。本作では難解なフットボールのルールに対して、初心者にも分かりやすい簡単ルールを採用している。対コンピュータ戦は全10チームによるトーナメント戦で、組み合わせはランダムに変わる。また、フォーメーションは46種類もあるので、多彩な攻撃を展開できるのが特徴となっている。
 
-game: Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)
+game: フットサル
+sort_title: ふっとさる
 file: Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).chd
+publisher: ザウルス
+description:
+  ザウルスより1996年7月19日にネオジオCD用ソフトとして発売されたフットサルゲーム。5対5の小人数で行うサッカー競技「フットサル」を題材としたゲーム作品となる。通常のサッカーよりもはるかに小さいフィールドで試合が行われる。また、ゴールとゴールの距離も近いので、醍醐味であるシュートチャンスが多く巡ってくる。選手の体調が試合に影響してくるシステムも特徴となっている。
 
-game: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)
-file: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1).chd
+game: 風雲黙示録 格闘創世
+sort_title: ふううんもくしろくかくとうそうせい
+files:
+  Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).chd
+  Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1).chd
+publisher: SNK
+description:
+  SNKより1995年6月16日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。本作は各キャラクターが武器を装備して戦う内容となっているが、普通の武器を使う武道の使い手は一人もおらず、全員素手の格闘技を習得した上で武器を用いる独自の格闘スタイルを持っているのが特徴となる。2ラインバトル制だが、奥側のラインは中央で途切れていたり、通常の足場ではなくパイプだったりと多様性がある。
 
-game: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)
-file: Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).chd
-
-game: Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)
+game: ギャラクシーファイト
+sort_title: ぎゃらくしーふぁいと
 file: Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es).chd
+publisher: サンソフト
+description:
+  サンソフトより1995年4月21日にネオジオCD用ソフトとして発売されたSF対戦格闘アクションゲーム。銀河系の無限に広がるバトルフィールドを舞台に8人の個性的なキャラクター達が白熱のバトルを繰り広げる。キャラクター同士の間合いの変化によって画面がリアルタイムで拡大縮小する迫力のズームシステムに加え、ガードキャンセルやキャンセルダッシュの採用でスピード感あふれる戦いを楽しむことができる。
 
-game: Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)
+game: 餓狼伝説
+sort_title: がろうでんせつ1
 file: Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『餓狼伝説』シリーズ第1弾。プレイヤーはテリー、アンディ、ジョーの3人を操作し、最強武闘大会に出場し、戦っていく。サウスタウンを牛耳る最終ボスの「ギース・ハワード」を倒すのが目的となる。バトルフィールドが手前と奥の2ライン存在する「2ラインバトル」というシステムが本作最大の特徴となっている。
 
-game: Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)
+game: 餓狼伝説2
+sort_title: がろうでんせつ2
 file: Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。大人気対戦格闘ゲーム『餓狼伝説』シリーズ第2弾。キャラクター8人の中から1人を選択し、「キング・オブ・ザ・ファイターズ」での優勝を目指す。手前と奥の2つのラインで闘える2ラインバトルが特徴となっている。多彩な必殺技と体力が少ないときに出せる、超必殺技を駆使して相手を倒す爽快感も味わえる。
 
-game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)
-file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2).chd
+game: 餓狼伝説3
+sort_title: がろうでんせつ3
+files:
+  Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt).chd
+  Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1).chd
+  Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2).chd
+  Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3).chd
+publisher: SNK
+description:
+  SNKより1995年4月28日にネオジオCD用ソフトとして発売されたアクションゲーム。『餓狼伝説』シリーズの第4弾。最強の格闘家のみ手にすることができるという「秦の秘伝書」を巡る新たな戦いが繰り広げられる。本作では2ラインバトルをさらに進化させたスウェーラインを採用し、多彩な攻撃ができるコンビネーションアーツも導入している。今までにないさらにスピード感あふれるバトルが展開されるのが特徴となる。
 
-game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3)
-file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3).chd
+game: 餓狼伝説SPECIAL
+sort_title: がろうでんせつすぺしゃる
+files:
+  Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).chd
+  Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『餓狼伝説』で倒したギース・ハワードが生きていた事を知ったテリー・ボガードおよびアンディ・ボガード兄弟による復讐劇と、ギース亡き後に暗黒街を仕切っていたヴォルフガング・クラウザーに対するギースの復讐劇を題材としている。ネオシ?オ版ではリョウ・サカザキが対戦で使用でき、サウンドテストモードが用意されている。
 
-game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)
-file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt).chd
-
-game: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)
-file: Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1).chd
-
-game: Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)
-file: Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).chd
-
-game: Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)
-file: Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1).chd
-
-game: Ghost Pilots (World)
+game: ゴーストパイロット
+sort_title: ごーすとぱいろっと
 file: Ghost Pilots (World).chd
+publisher: SNK
+description:
+  SNKより1995年3月17日にネオジオCD用ソフトとして発売されたシューティングゲーム。地上戦ステージと空中戦ステージで戦いが繰り広げられるのが特徴となっている。操作できる自機は3段階にパワーアップするショットと、各ステージ開始前に4種類から選べるボンバーを使用する事ができる。プレイヤーはそれらの武装を駆使し、敵を倒しながら、ステージクリアを目指す。
 
-game: Idol Mahjong - Final Romance 2 (Japan)
+game: アイドル麻雀 ファイナルロマンス2
+sort_title: あいどるまーじゃんふぁいなるろまんす2
 file: Idol Mahjong - Final Romance 2 (Japan).chd
+publisher: ビデオシステム
+description:
+  ビデオシステムより1995年8月25日にネオジオCD用ソフトとして発売された脱衣麻雀ゲーム。『アイドル麻雀ファイナルロマンス』シリーズ第2作。第一作は実在の人気アイドルをモデルにしたリアルタッチのグラフィックだったが、今作以降は女の子がアニメ調のグラフィックで表示されるようになっている。プレイヤーが和了ると相手の脱衣シーンが見られる。三回和了るか、相手をハコテンにするとステージクリアとなる。
 
-game: Janshin Densetsu - Quest of Jongmaster (Japan)
+game: 雀神伝説
+sort_title: じゃんしんでんせつ
 file: Janshin Densetsu - Quest of Jongmaster (Japan).chd
+publisher: エイコム
+description:
+  エイコムより1995年3月31日にネオジオCD用ソフトとして発売された麻雀ゲーム。アーケードゲーム『麻雀クエスト』と同様のシステム、世界観を元にしており、『麻雀クエスト』のキャラクターも登場する。本作はRPG風のゲームシステムが特徴となる。主人公たちは、麻雀で敵を倒して経験値を稼ぎ、パワーアップをしながらストーリーを進めていくこととなる。また、敵を倒した後は美麗なグラフィックを見ることができる。
 
-game: Joy Joy Kid ~ Puzzled (World) (En,Ja)
+game: ジョイジョイキッド
+sort_title: じょいじょいきっど
 file: Joy Joy Kid ~ Puzzled (World) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された落ち物パズルゲーム。落ちてくるブロックを積んで消して行き、主人公ラッドの乗る飛行船とアムの乗る気球をフィールド上まで運ぶのが目的となる。主人公がフィールド上にたどり着けばフロアクリア、フィールド上までブロックが積みあがるとゲームオーバーとなる。10フロアをまとめて1ステージと呼び、全6ステージ60フロアが用意されている。
 
-game: King of Fighters '94, The (World) (En,Ja)
-file: King of Fighters '94, The (World) (En,Ja).chd
+game: ザ・キング・オブ・ファイターズ'94
+sort_title: きんぐおぶふぁいたーず94
+files:
+  King of Fighters '94, The (World) (En,Ja).chd
+  King of Fighters '94, The (World) (En,Ja) (Rev 1).chd
+publisher: SNK
+description:
+  SNKより1994年11月2日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『餓狼伝説』シリーズの舞台である格闘大会を題材としたゲーム作品で、『ザ・キング・オブ・ファイターズ』シリーズ第1作目となる「開幕編」。本作以降はSNK歴代ゲームキャラクターが総登場するシリーズ作品となる。3人1組のチームを作り、相手チームの3人を倒せば勝利となる。
 
-game: King of Fighters '94, The (World) (En,Ja) (Rev 1)
-file: King of Fighters '94, The (World) (En,Ja) (Rev 1).chd
+game: ザ・キング・オブ・ファイターズ'95
+sort_title: きんぐおぶふぁいたーず95
+files:
+  King of Fighters '95, The (Japan) (En,Ja) (Rev 1).chd
+  King of Fighters '95, The (World) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年9月27日にネオジオCD用ソフトとして発売されたアクションゲーム。ザ・キング・オブ・ファイターズシリーズ「オロチ編」三部作の第1章。主人公「草薙京」のライバルである「八神庵」が登場している。本作では「チームエディット」が可能となっている。このため、前作にあった国籍によるチーム分けが無くなっている。また、カウンター攻撃が追加され、連続技に繋げられる為、強力な連続技が生まれている。
 
-game: King of Fighters '95, The (Japan) (En,Ja) (Rev 1)
-file: King of Fighters '95, The (Japan) (En,Ja) (Rev 1).chd
-
-game: King of Fighters '95, The (World) (En,Ja)
-file: King of Fighters '95, The (World) (En,Ja).chd
-
-game: King of Fighters '96 NeoGeo Collection, The (Japan)
+game: ザ・キング・オブ・ファイターズ'96 ネオジオコレクション
+sort_title: きんぐおぶふぁいたーず96ねおじおこれくしょん
 file: King of Fighters '96 NeoGeo Collection, The (Japan).chd
+publisher: SNK
+description:
+  SNKより1997年2月14日にネオジオCD用ソフトとして発売されたデータベースソフト。『ザ・キング・オブ・ファイターズ'96』関連のデータなどが収録されたファンディスクとなる。京と庵の書き下ろしストーリー、イラストやサウンドにキャラ紹介など豊富な内容。また、技の練習ができる格闘モードもあり、まさにファンのためのコレクターズアイテムとなっている。
 
-game: King of Fighters '96, The (World) (En,Ja)
+game: ザ・キング・オブ・ファイターズ'96
+sort_title: きんぐおぶふぁいたーず96
 file: King of Fighters '96, The (World) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1996年10月25日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『ザ・キング・オブ・ファイターズ』第3弾でオロチ編三部作の第2章。前作まであった攻撃避けが一部のキャラを除いて使えなくなり、前転後転の緊急回避に変更されている。また、龍虎の拳、餓狼伝説シリーズのボスキャラクター、Mr.ビッグ、クラウザー、ギースの3人からなる新チームが登場している。
 
-game: King of Fighters '97, The (Japan) (En,Ja)
+game: ザ・キング・オブ・ファイターズ'97
+sort_title: きんぐおぶふぁいたーず97
 file: King of Fighters '97, The (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1997年10月30日にネオジオCD用ソフトとして発売されたアクションゲーム。『ザ・キング・オブ・ファイターズ』第4弾で、オロチ編三部作の第3章(最終章)。チームエディット専用キャラクターである矢吹真吾や、ニューフェイスチームなど新キャラが追加されている。『'94』『'95』のシステムを踏襲したエクストラと、『'96』のシステムをベースにしたアドバンストの2つのモードが用意されている。
 
-game: King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)
+game: ザ・キング・オブ・ファイターズ'98 DREAM MATCH NEVER ENDS
+sort_title: きんぐおぶふぁいたーず98
 file: King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1998年12月23日にネオジオCD用ソフトとして発売されたアクションゲーム。『ザ・キング・オブ・ファイターズ』シリーズの98年版。前作までに登場したキャラクターがほとんど登場するという「ドリームマッチ」という形で大会が開催される。そのため、本シリーズ本来のコンセプトである「SNKのゲームキャラクターの夢の祭典」としての傾向が強くなっている。対戦バランスはシリーズ中でも評価が高い作品。
 
-game: King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (World) (En,Ja,Es,Pt)
+game: ザ・キング・オブ・ファイターズ'99
+sort_title: きんぐおぶふぁいたーず99
 file: King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (World) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1999年12月2日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『ザ・キング・オブ・ファイターズ』シリーズの99年版で「ネスツ編」三部作の第1章。新たな主人公・K'(ケイダッシュ)を主軸とした物語となっている。チームが攻撃や体力回復をしてくれる援護攻撃専門の1人を加えた4人1組となる「ストライカーシステム」を導入している。また、パワーアップモードも2種類となっている。
 
-game: Last Hope (Germany) (Unl)
-file: Last Hope (Germany) (Unl).chd
+# game: Last Hope (Germany) (Unl)
+# file: Last Hope (Germany) (Unl).chd
 
-game: Last Resort (Japan) (En,Ja)
+game: ラストリゾート
+sort_title: らすとりぞーと
 file: Last Resort (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された横スクロールシューティングゲーム。綿密に書き込まれた機械的・有機的なグラフィックや演出が特徴となっている。武器アイテムを取得することで自機は「高軌道ユニット」を装備する。「ユニット」は無敵で、自機のショット攻撃に連動してショットを放ち、敵弾を防ぐ能力がある。全5ステージで構成されており、2人同時プレイも可能となっている。
 
-game: League Bowling (Japan) (En,Ja)
+game: リーグボウリング
+sort_title: りーぐぼうりんぐ
 file: League Bowling (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売されたボウリングゲーム。プレイヤーはキャラクターの立ち位置を決めて、ゲージの動きに合わせてタイミングよくボタンを押すという、シンプルな操作でボウリングを楽しむ事ができる。スペアやストライクなどの獲得時や、投球前のキャラクターのユニークな動きなど、ゲームを盛り上げる細かな演出が特徴となっている。
 
-game: Magical Drop 2 (Japan) (En,Ja)
+game: マジカルドロップ2
+sort_title: まじかるどろっぷ2
 file: Magical Drop 2 (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1996年5月24日にネオジオCD用ソフトとして発売されたズルゲーム。『マジカルドロップシリーズ』の第二弾。キャラクターデザインが前作から変更されていおり、前作のキャラクターに加えて「ジャスティス」・「ストレングス」・「エンプレス」・「ブラックピエロ」の4キャラクターが追加されている。また、ストーリーモードをノーミスでクリアすると隠しボスとして「ブラックピエロ」が出現する。
 
-game: Magician Lord (Japan) (En,Ja)
+game: マジシャンロード
+sort_title: まじしゃんろーど
 file: Magician Lord (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1994年10月31日にネオジオCD用ソフトとして発売されたアクションゲーム。カダシスという国の支配を目論み、破壊神「アズ・アトース」の召喚を企てた魔人「ガル・アジース」が封印を破り甦った。かつての英雄「マジシャンロード」の末裔である魔術師エルタは世界を救うために立ち上がる。主人公のエルタは宝箱から出現する火・水・風のエレメンタルを二つ組み合わせる事で、様々なキャラクターへ変身できる。
 
-game: Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan)
+game: 麻雀狂列伝 西日本編
+sort_title: まーじゃんきょうれつでんにしにほんへん
 file: Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された麻雀ゲーム。本作はストーリー性を重視しているのが特徴で、主人公は大阪のキタでは名の売れた27歳の若い雀士となる。麻雀の腕を磨きながら、幼い頃から一緒で、今は麻雀で生計を立てていると言う5歳年上の兄を探す旅に出る。ゲーム開始時に4文字の名前、顔の形、髪型、目、鼻、口、眼鏡、髭を選択して主人公を作成することができる。
 
-game: Metal Slug (Japan) (En,Ja)
+game: メタルスラッグ
+sort_title: めたるすらっぐ1
 file: Metal Slug (Japan) (En,Ja).chd
+publisher: ナスカ
+description:
+  ナスカより1996年7月5日にネオジオCD用ソフトとして発売された横スクロールアクションゲーム。メタルスラッグシリーズの第1作目。プレイヤーは1人の兵士となって敵地に潜入し、捕らえられた捕虜の救出していく。しゃがんだり、ジャンプする事が可能なメタルスラッグや迫力のある巨大兵器、哀愁を誘うエンディングなどが特徴となる。本作では1Pはマルコ、2Pはターマと、使用キャラクターが予め固定されている。
 
-game: Metal Slug 2 (World) (En,Ja)
+game: メタルスラッグ2
+sort_title: めたるすらっぐ2
 file: Metal Slug 2 (World) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1998年6月25日にネオジオCD用ソフトとして発売されたアクションゲーム。『メタルスラッグ』の続編となる。基本的システムは前作同様だが、プレイヤーが一定の状況になると変身して性能が変化するという、新システムを採用しているのが特徴となる。異常なまでのグラフィックの描き込みやキャラクターのパターンなどは、前作以上に強化されている。
 
-game: Mutation Nation (Japan) (En,Ja)
+game: ミューテイション・ネイション
+sort_title: みゅーていしょんねいしょん
 file: Mutation Nation (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年2月25日にネオジオCD用ソフトとして発売された横スクロールアクションゲーム。プレイヤーは2人の主人公キャラクターを操作し、遺伝子操作で造られたミュータントたちと戦っていく。一定時間Aボタンを押し続けてパワーゲージをタメると、強力な必殺技を繰り出すこともできる。また、2人同時プレイも可能となっている。
 
-game: Nam-1975 (Japan) (En,Ja)
+game: NAM-1975
+sort_title: なむ1975
 file: Nam-1975 (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売されたアクションシューティングゲーム。ベトナム戦争末期を舞台としており、主人公のシルバー中尉とブラウン中尉を操作し、誘拐されたR.マックリー博士とその娘ナンシーを救出するのが目的となる。ネオジオの第1作で、フルボイスの実現、フレームレートの高さや多彩なグラフィックパターン、音楽の質など当時としては非常に高いクオリティを実現している。
 
-game: Neo Drift Out - New Technology (Japan)
+game: NEOドリフトアウト
+sort_title: ねおどりふとあうと
 file: Neo Drift Out - New Technology (Japan).chd
+publisher: ビスコ
+description:
+  ビスコより1996年7月26日にネオジオCD用ソフトとして発売されたラリーレースゲーム。初心者でも、簡単な操作でドリフト走行ができるのが特徴となる。プレイヤーは3台用意されているラリーカーの中から1台を選択し、山岳や雪道といった変化に富んだ全6ステージを戦っていく。スピード感あふれるレース展開を楽しむことができる。
 
-game: Neo-Geo CD Special (Japan)
+game: NEO GEO CD SPECIAL
+sort_title: ねおじおしーでぃーすぺしゃる
 file: Neo-Geo CD Special (Japan).chd
+publisher: SNK
+description:
+  SNKより1995年12月22日にネオジオCD用ソフトとして発売された体験ゲーム集。『真サムライスピリッツ』、『餓狼伝説3』などのゲームを体験することができる。もともとは、販売促進キャンペーンで本体に同梱されていたソフトだが、ユーザーの要望に応えて市販化されたものとなる。また、本作でゲームの腕前の判定ができるのも特徴となっている。
 
-game: Next Thing, The - King of the Monsters 2 (World) (En,Ja)
+game: キング・オブ・ザ・モンスターズ2
+sort_title: きんぐおぶざもんすたーず2
 file: Next Thing, The - King of the Monsters 2 (World) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売されたベルトスクロールアクションゲーム。『キング・オブ・ザ・モンスターズ』の続編。前作の3年後となる1999年を舞台に、生き残った3頭のモンスターを操作して地球制服を企むエイリアン軍を倒す事が目的となる。前作からゲームシステムがステージクリア型へ変更になり、アイテム増加、溜め技の追加なども行われている。
 
-game: Ninja Combat (Japan) (En,Ja)
+game: ニンジャコンバット
+sort_title: にんじゃこんばっと
 file: Ninja Combat (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1994年10月31日にネオジオCD用ソフトとして発売された横スクロールアクションゲーム。ゲームの舞台はニューヨークをとなっている。プレイヤーは自キャラクターを操作し、手裏剣や刀などを駆使してステージを進めていく。ステージ開始時点で、ゲーム中に仲間にしたキャラクターを選択する事が可能となる。各キャラクターは独自の強力な忍法を持っているのがそれらを駆使し、ステージを有利に進めていく必要がある。
 
-game: Ninja Commando (Japan) (En,Ja)
+game: ニンジャコマンドー
+sort_title: にんじゃこまんどー
 file: Ninja Commando (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1994年10月31日にネオジオCD用ソフトとして発売された縦スクロールアクションゲーム。『ニンジャコンバット』に続くニンジャシリーズ第2弾。タイムマシンで歴史を操作して野望を果たそうとする死の商人スパイダーに立ち向かう忍者たちの活躍を描いている。ステージは横画面の縦スクロールで構成されており、全部で7ステージが用意されている。また、攻撃方向は全方位任意に可能となっている。
 
-game: Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)
+game: ニンジャマスターズ 覇王忍法帖
+sort_title: にんじゃますたーず
 file: Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1996年9月27日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。舞台は、戦国時代の日本に似た異世界。魔王討伐のために10人の忍者や浪人、格闘家たちが戦いを繰り広げる。本作はレバーとボタンの組み合わせで簡単に連続技が出せる、通称NINJAコンボシステムを搭載しているのが特徴となる。必殺技のパワーアップや特殊技を出せたりする、超力ゲージも戦いを盛り上げてくれる。
 
-game: Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja)
+game: 押し出しジントリック
+sort_title: おしだしじんとりっく
 file: Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1996年3月22日にネオジオCD用ソフトとして発売されたアクションパズルゲーム。横画面で横方向から押し出す「押し出しパズル」という、落ちものパズルとはひと味違うシステムが特徴となっている。メインのゲームモードとなるのは、コンピュータと対戦するモードだが、2プレイヤーとの対戦も可能となっている。
 
-game: OverTop (Japan) (En,Ja)
+game: オーバートップ
+sort_title: おーばーとっぷ
 file: OverTop (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1996年7月5日にネオジオCD用ソフトとして発売されたレースゲーム。プレイヤーはラリーカーやバイク、トレーラーを運転して、7つのステージのゴールを目指す。本作ではグラフィックがCG加工によって描写されているのが特徴となっている。また、『ラリーチェイス』の流れも汲んでおり、各ステージには裏道や隠しコースも用意されている。
 
-game: Power Spikes II (Japan) (En,Ja)
+game: パワースパイクスII
+sort_title: ぱわーすぱいくす2
 file: Power Spikes II (Japan) (En,Ja).chd
+publisher: ビデオシステム
+description:
+  ビデオシステムより1995年3月17日にネオジオCD用ソフトとして発売されたバレーボールゲーム。本作は格闘アクションのようにコマンド入力で必殺技が使えるのが最大の特徴となっている。世界の強豪8チームが対戦するワールド男子・女子モードに加え、近未来格闘バレー、ハイパーモードが搭載されている。ハイパーモードではコマンド入力の必殺サーブやスパイクで、白熱のダメージ対戦を楽しむことができる。
 
-game: Pulstar (Japan) (En,Ja)
+game: パルスター
+sort_title: ぱるすたー
 file: Pulstar (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年10月27日にネオジオCD用ソフトとして発売された横スクロールのシューティングゲーム。タイトルの「パルスター」とは「地球」を指す造語となっている。ほぼ全てのグラフィックがCGプリレンダリングで描かれており、多彩なアニメーションが特徴となる。ステージは全部で8つ。ため撃ちや連射によって特殊攻撃が可能なボイジャーと、砲身の向きを固定できるイオの2つの支援兵器を駆使して戦っていく。
 
-game: Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)
+game: パズルボブル
+sort_title: ぱずるぼぶる1
 file: Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja).chd
+publisher: タイトー
+description:
+  タイトーより1995年5月2日にネオジオCD用ソフトとして発売されたパズルゲーム。アーケードで人気を博したパズルゲーム『バブルボブル』のネオジオCD移植作。主人公の「バブルン」および「ボブルン」を操作し、発射台から泡を打ち出し、画面上部から徐々に下がってくる泡と色を3つ以上あわせることで消していくゲームシステムとなる。泡は左右の壁に反射する性質を持っているため、反射させるテクニックが必要となる。
 
-game: Quiz King of Fighters (Japan)
+game: クイズ キング・オブ・ファイターズ
+sort_title: くいずきんぐおぶふぁいたーず
 file: Quiz King of Fighters (Japan).chd
+publisher: ザウルス
+description:
+  ザウルスより1995年4月7日にネオジオCD用ソフトとして発売されたクイズゲーム。SNKの格闘ゲーム『餓狼伝説』『龍虎の拳』『サムライスピリッツ』のキャラクターが登場する。謎の組織「Q」に誘拐されたユリを救出するため6人の勇者であるテリー・ボガード、不知火舞、リョウ・サカザキ、ロバート・ガルシア、覇王丸、ナコルルが立ち上がる。ゲーム内容はパロディ色が強く、コメディ調の世界観となっている。
 
-game: Raguy ~ Blue's Journey (Japan) (En,Ja)
+game: ラギ
+sort_title: らぎ
 file: Raguy ~ Blue's Journey (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1994年10月31日にネオジオCD用ソフトとして発売されたステージクリア型のアクションゲーム。昆虫人間「インセクタリアン」の住む天体・ラギ王国を舞台としたゲーム作品となる。途中のショップでアイテムを購入しつつ進んでいき、ラギ王国の侵略を企むダルマ大王を倒すことが最終目的となる。イベントの結果によってエンディングが変わるマルチエンディングシステムを採用しているのが特徴となる。
 
-game: Rally Chase (Japan) (En,Ja)
+game: ラリーチェイス
+sort_title: らりーちぇいす
 file: Rally Chase (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1994年10月31日にネオジオCD用ソフトとして発売されたアクションゲーム。「パリ・ダカールラリー」を題材としたゲーム作品となる。世界で最も過酷なラリーレースを疑似体験することができるのが特徴となる。ゲームモードは「ワールドチャンプ」と「パリダカ」の2つのモードが用意されている。レースはタイム制となっており、時間内にポイントを通過しないとゲームオーバーとなってしまうので注意が必要。
 
-game: RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)
+game: リアルバウト餓狼伝説2
+sort_title: りあるばうとがろうでんせつ2
 file: RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1998年7月23日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『リアルバウト餓狼伝説スペシャル』の続編で、『餓狼伝説』シリーズ第7弾。基本的なシステムは前作と同様だが、ラインシステムには変更が加えられている。前作のキャラクターは全員登場し、さらに、新キャラクターとして、「リック・ストラウド」と「李香緋」が追加されている。
 
-game: Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt)
+game: リアルバウト餓狼伝説
+sort_title: りあるばうとがろうでんせつ1
 file: Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1996年2月23日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『餓狼伝説』シリーズとしては5作目となる。前作『餓狼伝説3』を踏襲しているが、パンチ・キックの強攻撃を統一して3ボタンにし、残ったボタンにライン移動を割り当てることで操作が簡易化されている。コンビネーションアタックはA・B・Cの順押しという簡素なものが全キャラクターに用意されている。
 
-game: Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt)
+game: リアルバウト餓狼伝説SPECIAL
+sort_title: りあるばうとがろうでんせつすぺしゃる
 file: Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1997年3月28日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。システムは基本的に前作「リアルバウト餓狼伝説」を踏襲しつつも、ライン数が2つに変更。また、相手と異なるライン上にいてもガードが可能。前作のリングアウトが廃止され、代わりに画面端のオブジェクトが一定回数の攻撃で破壊された際、壁を背にしていたキャラクターは気絶するようになっている。
 
-game: Riding Hero (Japan) (En,Ja)
+game: ライディングヒーロー
+sort_title: らいでぃんぐひーろー
 file: Riding Hero (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年5月26日にネオジオCD用ソフトとして発売されたバイクレースゲーム。3Dの視点でレースを楽しむ事ができる。ゲームモードは世界各国のサーキットを舞台に各レースに出走していく「WGPモード」と、ライバルとの賭けレースを繰り返し、8時間耐久レースを目指す「ストーリーモード」の2種類のモードが用意されている。キャラクターが敵バイクを抜いた時などに、音声が入るのが特徴となる。
 
-game: Robo Army (Japan) (En,Ja)
+game: ロボアーミー
+sort_title: ろぼあーみー
 file: Robo Army (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年4月21日にネオジオCD用ソフトとして発売された横スクロールアクションゲーム。プレイヤーは、自動車などにも変形できる特殊能力をもった、サイボーグ型とロボット型のどちらかの主人公キャラクターを選択し、群がる悪のロボット軍団と戦っていく。主人公キャラクターは、サイバーボールというアイテムを取ると強力な特殊攻撃を行う事ができる。また、2人同時プレイも可能となっている。
 
-game: Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es)
+game: 龍虎の拳
+sort_title: りゅうこのけん1
 file: Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。父の失踪後、ストリートファイトで稼いでは妹と2人で暮らしてきたリョウ・サカザキ。だが、ある日妹のユリが何者かにさらわれてしまう。リョウは、同門で友人のロバート・ガルシアと共に、幼い頃より叩き込まれた極限流空手を武器に、ユリ奪還のためサウスタウンへ向かう。キャラクターは全部で10人が登場する。
 
-game: Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es)
+game: 龍虎の拳2
+sort_title: りゅうこのけん2
 file: Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『龍虎の拳』の続編。サカザキ家にユリとタクマが戻って1年、サウスタウンで莫大な賞金がかかった格闘大会「ザ・キング・オブ・ファイターズ」が開催される。この大会で12人の格闘家たちが戦いを繰り広げる。気力を使って必殺技を出すなど基本システムは前作と同様となる。
 
-game: Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (World) (En,Ja,Es,Pt)
+game: サムライスピリッツ 天草降臨
+sort_title: さむらいすぴりっつ4
 file: Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (World) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1996年12月27日にネオジオCD用ソフトとして発売された対戦格闘ゲーム。『サムライスピリッツ』シリーズ第4弾。本作の時代背景は『サムライスピリッツ 斬紅郎無双剣』の後、『真サムライスピリッツ 覇王丸地獄変』の前の話。前作のシステムを踏襲しつつ、空中ガードや怒り溜めの廃止など、システムが変更。また、連斬という連続技システムや断末奥義というフィニッシュのみに決める演出等が導入されている。
 
-game: Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (World) (En,Ja,Es,Pt)
+game: サムライスピリッツ 斬紅郎無双剣
+sort_title: さむらいすぴりっつ3
 file: Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (World) (En,Ja,Es,Pt).chd
+publisher: SNK
+description:
+  SNKより1995年12月29日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『サムライスピリッツ』シリーズ第3作目。本作の時代背景は『サムライスピリッツ』より後となり、ナコルルと橘右京も登場している。隠し要素として「黒子」がCPUキャラクターとして参戦するが、前作とは違いプレイヤーキャラクターに変化する「同キャラクター対戦」となっている。
 
-game: Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)
+game: サムライスピリッツ
+sort_title: さむらいすぴりっつ1
 file: Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された対戦型格闘アクションゲーム。『サムライスピリッツ』シリーズ第1弾。江戸時代を舞台に、多種多様な武器や一緒に闘ってくれる動物を持つ侍や忍者らが、魔界より復活した天草四郎の打倒を目指す。運命に導かれるように戦いを続けるキャラクターは12人が登場する。
 
-game: Sengoku Denshou ~ Sengoku (Japan) (En,Ja)
+game: 戦国伝承
+sort_title: せんごくでんしょう1
 file: Sengoku Denshou ~ Sengoku (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年3月17日にネオジオCD用ソフトとして発売された剣劇アクションゲーム。現代と戦国時代が交錯した世界観が特徴のゲーム作品となる。主人公は2人のキャラクターから自由に選択することができる。また、武者、忍者、忍犬などのキャラクターが主人公に力を貸してくれる。これらのキャラクターは特定の敵を倒せば助けることができ、一定時間チェンジして戦うことが可能となっている。
 
-game: Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja)
+game: 戦国伝承2
+sort_title: せんごくでんしょう2
 file: Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年3月17日にネオジオCD用ソフトとして発売されたベルトスクロールアクションゲーム。『戦国伝承』の続編。前作では主人公の超戦士2人はデフォルトでは素手で戦っていたが、本作では最初から剣を装備している。そのため、変身可能な3体のキャラクターから鎧を着たサムライと入れ替わりに棍棒を持った巨漢の天狗が加わっている。また、シーンによっては馬に乗って戦うステージが追加されている。
 
-game: Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (World) (En,Ja)
+game: 真サムライスピリッツ 覇王丸地獄変
+sort_title: さむらいすぴりっつ2
 file: Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (World) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年12月15日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『サムライスピリッツ』シリーズの第二弾。相手の攻撃を受けると上昇し、満タンになると武器破壊必殺技が使える「怒りゲージ」を搭載している。また、伏せ、前転、後転などのアクションも追加されている。登場キャラクターはプレイアブルキャラクター15人、隠しキャラクター1人、ボスキャラクター1人の合計17人となる。
 
-game: Shinouken ~ Ragnagard (Japan) (En,Ja,Es)
+game: 神凰拳
+sort_title: しんおうけん
 file: Shinouken ~ Ragnagard (Japan) (En,Ja,Es).chd
+publisher: SNK
+description:
+  SNKより1996年8月23日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。本作の登場キャラクターは全て世界の様々な神話に登場する神々や魔物が題材となっている。また、風、水、雷、火の4種類の属性から1キャラクターにつき2種類備わっており、戦闘中に切り替える事が可能となる。グラフィックにはプリレンダリングが採用されており、2Dでありながら3Dの様な奥深い演出が本作の特徴となる。
 
-game: Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)
+game: 真説サムライスピリッツ 武士道列伝
+sort_title: さむらいすぴりっつRPG
 file: Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).chd
+publisher: SNK
+description:
+  SNKより1997年6月27日にネオジオCD用ソフトとして発売されたロールプレイングゲーム。日本を舞台とした「邪天降臨之章」と全世界を舞台とする「妖花慟哭之章」の2本立てとなる。主人公は覇王丸、牙神幻十郎、ナコルル、ガルフォード、橘右京、チャムチャムの中から1人を選択し、仲間となるキャラクターとパーティーを組んで旅をしていく。ネオジオCD版では「緋雨閑丸」を主人公にしたおまけ短編シナリオもある。
 
-game: Shougi no Tatsujin - Master of Syougi (Japan)
+game: 将棋の達人
+sort_title: しょうぎのたつじん
 file: Shougi no Tatsujin - Master of Syougi (Japan).chd
+publisher: ADK
+description:
+  ADKより1995年10月20日にネオジオCD用ソフトとして発売された将棋ゲーム。キャラクターは実写取り込みを採用しており、対局中の表情などがリアルに再現されているのが特徴となる。対戦キャラクターは、初級から達人までの全部で8人が登場する。また、通常の将棋以外にも「はさみ将棋」や「まわり将棋」などのゲームも楽しむ事ができる。
 
-game: Soccer Brawl (World)
+game: サッカーブロール
+sort_title: さっかーぶろーる
 file: Soccer Brawl (World).chd
+publisher: SNK
+description:
+  SNKより1995年3月31日にネオジオCD用ソフトとして発売された近未来を舞台にしたサッカーゲーム。選手は人間ではなく、サイボーグなっている。また、1チームはゴールキーパー1人とフィールドプレイヤー6人の7人制となり、実際のサッカーとは異なったルールが設定されている。出場チームは全部で8チームが用意されている。また、アーケード版との違いとして、家庭版にはハーフタイムショーが用意されている。
 
-game: Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)
+game: ソニックウイングス2
+sort_title: そにっくういんぐす2
 file: Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja).chd
+publisher: ビデオシステム
+description:
+  ビデオシステムより1994年9月29日にネオジオCD用ソフトとして発売されたシューティングゲーム。『ソニックウィングス』の続編。前作から2年後、かつて滅んだ謎の組織が用いた超兵器を用いた群体が世界各地を次々に占拠する。国際秘密救助隊のリヴァー・N・ホワイト隊長は国連から依頼を受け、組織の撃滅作戦を展開する。キャラクターは「真尾まお」や「緋炎」などを含めた8人。全10ステージが用意されている。
 
-game: Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)
+game: ソニックウイングス3
+sort_title: そにっくういんぐす3
 file: Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja).chd
+publisher: ビデオシステム
+description:
+  ビデオシステムより1995年12月8日にネオジオCD用ソフトとして発売されたシューティングゲーム。『ソニックウィングスシリーズ』の第3弾。追加システムとして新たにルート分岐システムが採用されている。ルート選択はボスを破壊した時に出現する敵機の右翼か左翼を破壊すると決定する。全8ステージで、最終ボスも分岐ルートで決まる。また、機体がジェット機からレトロなレシプロ機へと変更されている。
 
-game: Stakes Winner - GI Kanzen Seiha e no Michi (Japan)
+game: ステークスウィナー GI完全制覇への道
+sort_title: すてーくすうぃなー
 file: Stakes Winner - GI Kanzen Seiha e no Michi (Japan).chd
+publisher: ザウルス
+description:
+  ザウルスより1996年3月23日にネオジオCD用ソフトとして発売された競馬レースゲーム。『ステークスウィナー』の第1弾。プレイヤーは騎手となって競走馬に乗りレースに出場し、勝利するのが目的となる。手綱とムチをうまく使い分けながら、アイテムを利用して勝利を目指す。また、本作には調教シーンも用意されているのが特徴となっている。
 
-game: Super Sidekicks - Tokuten-ou (Japan) (En,Ja)
+game: 得点王
+sort_title: とくてんおう1
 file: Super Sidekicks - Tokuten-ou (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1995年3月31日にネオジオCD用ソフトとして発売されたサッカーゲーム。『得点王』シリーズの第1弾となる。本作では試合状況によって、画面が拡大縮小するなど臨場感あふれる試合展開が特徴となっている。プレイヤーは、ボタンを押すタイミングや長さによって、さまざまなシュートやパスを放つことができる。ゲームモードはトーナメント戦と2人対戦プレイが用意されている。
 
-game: Super Spy, The (Japan) (En,Ja)
+game: ザ・スーパースパイ
+sort_title: ざすーぱーすぱい
 file: Super Spy, The (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売された3D視点のアクションゲーム。プレイヤーは、スパイとしてテロリストのアジトへ潜入し、立ち塞がる敵達をパンチやキックで倒してテロを阻止するのが目的となる。ステージによっては、監視カメラに発見されないよう、しゃがみながらの攻撃や移動をすることもあり、臨場感のあるスパイ体験を味わう事が可能となっている。
 
-game: Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)
+game: 得点王2 リアルファイトフットボール
+sort_title: とくてんおう2
 file: Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売されたアクションゲーム。『得点王』シリーズの第2弾。前作と同様に、リアルな選手の動きと、スピーディな試合展開を楽しむ事ができる。また、本作では試合前に自チームの戦力を7項目中、1項目だけ強化できるようになっている。さらに、ロングシュートのコースを指定するときは、迫力ある3D画面に切り替わるシステムが追加されているのも特徴となる。
 
-game: Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)
+game: 得点王3 栄光への挑戦
+sort_title: とくてんおう3
 file: Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt).chd
+publisher: SNK
+description:
+  SNKより1995年6月23日にネオジオCD用ソフトとして発売されたサッカーゲーム。『得点王』シリーズの第3弾。本作では選手の動きは実写取り込みになり、よりリアルなプレイを楽しむことができる。また、システム面でも超ロングシュート、フェイントなどが追加されているのが特徴となっている。W杯からアジア杯まで、大会は全部で6つのモードが用意されている。
 
-game: Top Hunter - Roddy & Cathy (Japan) (En,Ja)
+game: トップハンター
+sort_title: とっぷはんたー
 file: Top Hunter - Roddy & Cathy (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月29日にネオジオCD用ソフトとして発売された横スクロールアクションゲーム。プレイヤーは賞金稼ぎの「ロディー」と「キャシー」を操作し、ステージを進めていく。基本の攻撃はパンチだが、格闘ゲームのように、コマンドによって必殺技を出すことも可能となっている。手前と奥の2ラインで構成されているので、2人同時プレイでもお互いの行動が邪魔にならないのが特徴となる。
 
-game: Top Player's Golf (Japan) (En,Ja)
+game: トッププレイヤーズ・ゴルフ
+sort_title: とっぷぷれいやーずごるふ
 file: Top Player's Golf (Japan) (En,Ja).chd
+publisher: SNK
+description:
+  SNKより1994年9月9日にネオジオCD用ソフトとして発売されたゴルフゲーム。プレイヤーは4人のゴルファーからキャラクターを選択することができる。キャラクターはそれぞれボールの飛距離などに個性があるのが特徴となっている。ゲームモードは3タイプのプレイモードが用意されており、ゲーム開始前に2種類のコースのどちらかを自由に選択することができる。
 
-game: Treasure of the Caribbean (France) (En,Ja) (Unl)
-file: Treasure of the Caribbean (France) (En,Ja) (Unl).chd
+# game: Treasure of the Caribbean (France) (En,Ja) (Unl)
+# file: Treasure of the Caribbean (France) (En,Ja) (Unl).chd
 
-game: Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja)
+game: 痛快GANGAN行進曲
+sort_title: つうかいがんがんこうしんきょく
 file: Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1995年1月13日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。相手を攻撃すると熱血ゲージがたまり、強力な「ガンガン必殺技」が使えるようになるシステムを搭載している。また、本作では奥行きが設けられていおり、ベルトスクロールアクションゲームによく見られる、フィールド全体を無段階で手前と奥に移動可能なフィールド構成となっているのが特徴となる。
 
-game: Twinkle Star Sprites (Japan) (En,Ja)
+game: ティンクルスタースプライツ
+sort_title: てぃんくるすたーすぷらいつ
 file: Twinkle Star Sprites (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1997年2月21日にネオジオCD用ソフトとして発売された対戦型シューティングゲーム。ファンタジー色の濃い世界観などが人気の作品となる。魔法世界プレアミューズには、あらゆる願いが叶う伝わる伝説の星「ティンクルスター」があった。ある日、悪の帝王メヴィウスがティンクルスターを盗んだため、プレアミューズの王女ロードランは、お供のラビキャットを連れ、ティンクルスターを取り戻しに行く。
 
-game: Viewpoint (Japan)
+game: ビューポイント
+sort_title: びゅーぽいんと
 file: Viewpoint (Japan).chd
+publisher: サミー
+description:
+  サミーより1995年2月25日にネオジオCD用ソフトとして発売されたシューティングゲーム。プレイヤーは自機を操作し、タメ撃ちができるショットと、広範囲の敵を倒せるボムの2種類を武器を利用しながらステージを進めていく。ステージ全体が立体的な画面で構成されているのが本作の特徴となり、非常に細かい動きをする敵は、すべてポリゴンで描かれている。
 
-game: World Heroes (Japan) (En,Ja)
+game: ワールドヒーローズ
+sort_title: わーるどひーろーず1
 file: World Heroes (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1995年3月17日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。歴史上の英雄などが時代を超えて戦う。多彩でド派手な必殺技を繰り出すことができ、過激なデスマッチモードも搭載している。「史上最強の英雄は誰なのか?」この疑問を持った博士のタイムマシーンが完成し、史上最強であることを示すため呼応した8人の英雄たちが今、時を越え、最強の座をかけて戦う。
 
-game: World Heroes 2 (Japan) (En,Ja)
+game: ワールドヒーローズ2
+sort_title: わーるどひーろーず2
 file: World Heroes 2 (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1995年4月14日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。歴史上の英雄などが時代を超えて戦う『ワールドヒーローズ』の続編となる。本作では新システムとして「投げ返し」「跳ね返し」が追加され、他の格闘ゲームとは違う戦略が生み出されたのが特徴となる。また、同キャラクター対戦が可能になり、個性的な6人の新キャラクターも加わっている。
 
-game: World Heroes 2 Jet (Japan) (En,Ja)
+game: ワールドヒーローズ2JET
+sort_title: わーるどひーろーず2じぇっと
 file: World Heroes 2 Jet (Japan) (En,Ja).chd
+publisher: ADK
+description:
+  ADKより1994年11月11日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『ワールドヒーローズ』の第3弾。新たに2人を加えた16人のキャラクターが登場する。ストーリー仕立てで3人ずつ現れる相手と1本勝負で戦っていく「超武会」、任意の相手を選択して練習ができる「武者修行」、4つの中からキャラクターのタイプを選択できる「対戦プレイ」の3つのモードが用意されている。
 
-game: World Heroes Perfect (Export) (En,Ja) (Rev 1)
-file: World Heroes Perfect (Export) (En,Ja) (Rev 1).chd
+game: ワールドヒーローズパーフェクト
+sort_title: わーるどひーろーずぱーふぇくと
+files:
+  World Heroes Perfect (World) (En,Ja).chd
+  World Heroes Perfect (Export) (En,Ja) (Rev 1).chd
+publisher: ADK
+description:
+  ADKより1995年7月21日にネオジオCD用ソフトとして発売された対戦格闘アクションゲーム。『ワールドヒーローズ』の第4弾。前作までのキャラクターが総登場する。ステージは地球創世紀・ジュラ紀・氷河期・石器時代・巨石文明・中世暗黒時代・元禄時代・産業革命・世界大戦・現代まで様々な時代で戦う。また、体力が残り少なくなったときでも、究極奥義で逆転できるのが特徴となる。
 
-game: World Heroes Perfect (World) (En,Ja)
-file: World Heroes Perfect (World) (En,Ja).chd
-
-game: Xeno Crisis (World) (Unl)
+game: ゼノ・クライシス
+sort_title: ぜのくらいしす
 file: Xeno Crisis (World) (Unl).chd

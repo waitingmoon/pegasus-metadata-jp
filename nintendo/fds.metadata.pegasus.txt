@@ -24,18 +24,26 @@ sort_title: あでぃあんのつえ
 files:
   Adian no Tsue (Japan).zip
   Adian no Tsue (Japan) (Beta) (1986-10-29).zip
+publisher: サンソフト
+description:
+  サンソフトより1986年12月12日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。「ゲームに夢中になったら頭が良くなっちゃった」で、おなじみの知能ゲームシリーズ1作目で算数ー整数編となる。ゲーム画面は1画面式で、画面の端に行くと画面が切り替わっていく画面切り替えスクロール方式。画面内には4つの扉があって、閉まっている扉を開けた場合に画面の上に計算問題など出題される。
 
 game: 愛戦士ニコル
 sort_title: あいせんしにこる
 file: Ai Senshi Nicol (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年4月24日にファミコンのディスクシステム用ソフトとして発売されたアクションアドベンチャーゲーム。トップビュータイプのゲーム画面となっており、画面切り替えとスクロールを併用。主人公の天才少年科学者ニコルが、ダイラス星に住む牛魔王に奪われ分解された「異次元空間移動装置」を完成させ、連れ去られた恋人ステラを助けることが目的となる。ゲームは全7ステージで構成。
 
 game: エアー・フォートレス (開発版)
 sort_title: えあーふぉーとれす
 file: Air Fortress (Japan) (Proto) (1986-10-20).zip
+publisher: HAL研究所
 
 game: 亜紀とつかさの不思議の壁 (非公認)
 sort_title: あきとつかさのふしぎのかべ
 file: Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 悪魔城ドラキュラ
 sort_title: あくまじょうどらきゅら
@@ -44,64 +52,103 @@ files:
   Akumajou Dracula (Japan) (Rev 1).zip
   Akumajou Dracula (Japan) (Rev 2) (Disk Writer).zip
   Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console).zip
+publisher: コナミ
+description:
+  コナミより1986年9月26日にファミコンのディスクシステム用ソフトとして発売されたホラーアクションゲーム。ヴァンパイアハンターの主人公が吸血鬼ドラキュラを討伐するため、数々の怪物が巣食う悪魔城内を様々な仕掛けをかいくぐりながら進んでいく。ドラキュラ伝説が残る中世ヨーロッパの小国トランシルヴァニア地方が舞台でゴシックホラーを原調にしたリアルタッチなキャラクターや背景な独特の世界観を生み出している。
 
 game: 亜空戦記ライジン
 sort_title: あくうせんきらいじん
 files:
   Akuu Senki Raijin (Japan) (Disk Writer).zip
   Akuu Senki Raijin (Japan) (Beta) (1987-06-10).zip
+publisher: DOG
+description:
+  DOGより1988年7月12日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションシューティングゲーム。上下左右の4方向に飛行可能という点が独創的なシステムとなる。また、本作は書き換え専用ソフトの為、インデックスラベルが付属しないが、スクウェアの同ソフトの広告を切り取るタイプのインデックスラベルが2種類存在している。
 
 game: エイリアン2 (開発版)
 sort_title: えいりあん2
 file: Aliens - Alien 2 (Japan) (Proto) (1986-12-15).zip
+publisher: スクウェア
 
 game: オールナイトニッポン スーパーマリオブラザーズ
 sort_title: おーるないとにっぽんすーぱーまりおぶらざーず
 file: All Night Nippon Super Mario Bros. (Japan) (Promo).zip
+publisher: ニッポン放送
 
-game: アップルタウン物語 LITTLE COMPUTER PEOPLE
+game: アップルタウン物語
 sort_title: あっぷるたうんものがたり
 file: Apple Town Monogatari - Little Computer People (Japan).zip
+publisher: スクウェア
+description:
+  スクウェアより1987年4月3日にファミコンのディスクシステム用ソフトとして発売されたアメリカ育ちのシミュレーションゲーム。大きな家に一人で留守番している女の子を観察するという内容。もちろんただ見ているだけではなく、8つのアイコンを駆使してモニターの中の女の子の機嫌を取る必要がある。機嫌を取ると彼女はピアノを弾いたりファミコンで遊んだり、占いをしてくれたりととてもリアルな動きを見せてくれる。
 
 game: アルマナの奇跡
 sort_title: あるまなのきせき
 file: Armana no Kiseki (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年8月11日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。アーケードゲーム『ロックンロープ』のリメイク移植作。映画『インディ・ジョーンズ/魔宮の伝説』から影響を受けて製作されている。主人公カイトを操作してダダ教に奪われた「アルマナ」という赤い魔法の宝石を取り戻し、村を救出する事を目的としている。音楽は山下絹代、編曲は村田幸史が担当している。
 
 game: アスピック 魔蛇王の呪い
 sort_title: あすぴっく
 file: Aspic - Majaou no Noroi (Japan).zip
+publisher: ボーステック
+description:
+  ボーステックより1988年3月31日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。勇者サムソンを操作し、魔王アスピックを倒して姫を救出し呪いを解く事を目的としている。パソコンで発売された『リザード (Lizard)』の続編にあたり、二つの作品の主人公は同一人物である。ただし、複数の機種において前作『リザード』は移植されず、本作のみが発売されている。
 
 game: バックギャモン
 sort_title: ばっくぎゃもん
 file: Backgammon (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1990年9月7日にファミコンのディスクシステム用ソフトとして発売された世界最古のボードゲームとされる「バックギャモン」のファミコン版。盤上に配置された双方15個の駒をどちらが先に全てゴールさせることができるかを競う。1回に二度サイコロを振り、出た目によって2個のコマを動かしてゴールを目指す。サイコロを振るたびに、相手の次の手を予測しながら自分の駒を移動させる戦略性も必要となる。
 
 game: 爆闘士パットンくん
 sort_title: ばくとうしぱっとんくん
 file: Bakutoushi Patton-kun (Japan).zip
+publisher: ソフトプロ
+description:
+  ソフトプロより1988年8月5日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。最大4人まで同時プレイが可能な戦車バトルゲームとなる。本作では、コンバットスーツに身を包み、自分の戦車を操りながらエアーガンで撃ち合って他の戦車を次々に撃破していく。戦車の能力を設定できるため、難易度を自分で調節することも可能。アイテムをゲットするとでパワーアップもできる。
 
 game: バルーンファイト (開発版)
 sort_title: ばるーんふぁいと
 file: Balloon Fight (Japan) (En) (Proto).zip
+publisher: 任天堂
 
 game: ベースボール
 sort_title: べーすぼーる
 file: Baseball (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1986年2月21日にファミコンのディスクシステム用ソフトとして発売された野球ゲーム。投げる、打つという基本動作のみでプレイ出来るシンプルなゲーム。セ・リーグをモチーフにした全6チームから1チームを選んで他のチームと対戦する。投手は変化球や緩急をつけること、牽制球を投げることも可能。2人対戦では、より熱い駆け引きを楽しむことができる。
 
 game: ビッグチャレンジ! ドッグファイトスピリット
 sort_title: びっぐちゃれんじどっぐふぁいとすぴりっと
 file: Big Challenge! Dogfight Spirit (Japan).zip
+publisher: ジャレコ
+description:
+  ジャレコより1988年10月21日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。「ビッグチャレンジ」シリーズ第2弾。ヘリコプターが自機の縦スクロールシューティングで、ステージは後半は高速スクロールで敵機を撃墜するドッグファイトモードになる。残機が9機もあり、自機も3発の被弾まで耐えられるので、シューティング初心者でもそれなりにクリアする達成感を味わえる。全7ステージ。
 
 game: ビッグチャレンジ! GO!GO!ボウリング
 sort_title: びっぐちゃれんじごーごーぼうりんぐ
 file: Big Challenge! Go! Go! Bowling (Japan).zip
+publisher: ジャレコ
+description:
+  ジャレコより1989年6月23日にファミコンのディスクシステム用ソフトとして発売された最大4人までプレイ可能なボウリングゲーム。対戦相手となる8人に勝ち抜いていくチャレンジモードのほか、4人で得点を競うパーティーモード、そして2人で遊べるペアモードの3つが用意されている。投球動作はかなり細かいところまで設定が可能。また、対戦相手の8人も個性的なキャラクターとなっている。
 
 game: ビッグチャレンジ! ガンファイター
 sort_title: びっぐちゃれんじがんふぁいたー
 file: Big Challenge! Gun Fighter (Japan).zip
+publisher: ジャレコ
+description:
+  ジャレコより1989年3月28日にファミコンのディスクシステム用ソフトとして発売されたガンシューティングゲーム。ジャレコの「ビッグチャレンジ」シリーズの1作。全6面で構成されており、各ステージ、決められた数の敵を倒してゴールにたどり着けばボス戦となる。敵の撃破数が足りてないと面の最初にループする。また、ステージクリアごとに武器が増えていく。
 
 game: ビッグチャレンジ! 柔道選手権
 sort_title: びっぐちゃれんじじゅうどうせんしゅけん
 file: Big Challenge! Juudou Senshuken (Japan).zip
+publisher: ジャレコ
+description:
+  ジャレコより1988年8月10日にファミコンのディスクシステム用ソフトとして発売された左右2画面スクロール型の柔道ゲーム。ビックチャレンジシリーズの一作で柔道を題材とした珍しいゲームとなる。最初は白帯からスタートし、大会を勝ち進むことでパワーアップしていく。インパクトのある投げ技が決まる爽快感は抜群。最終目標はオリンピックでの優勝となる。
 
 game: バイオミラクル ぼくってウパ
 sort_title: ばいおみらくるぼくってうぱ
@@ -109,66 +156,87 @@ files:
   Bio Miracle Bokutte Upa (Japan).zip
   Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console).zip
   Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console).zip
+publisher: コナミ
+description:
+  コナミより1988年4月22日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。主人公はルアクーヨ王国の王子、赤ん坊のウパ。魔王「ザイー」を倒してさらわれた赤ん坊たちを救出することが目的となる。キャラクターが可愛らしいことが特徴だが、アクションゲームとしての難易度は高い。全部で7つのワールドから構成されており、各ワールド内には3つのエリアがある。
 
 game: 美少女エイリアンバトル (非公認)
 sort_title: びしょうじょえいりあんばとる
 files:
   Bishoujo Alien Battle (Japan) (Unl).zip
   Bishoujo Alien Battle (Japan) (Unl) (Alt) [b].zip
+publisher: ハッカーインターナショナル
 
 game: 美少女コントロール (非公認)
 sort_title: びしょうじょこんとろーる
 file: Bishoujo Control (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女花札倶楽部 Vol.1 おいちょかぶ編 (非公認)
 sort_title: びしょうじょはなふだくらぶ1
 file: Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女花札倶楽部 Vol.2 こいこいばかっ花編 (非公認)
 sort_title: びしょうじょはなふだくらぶ2
 file: Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女勝ち抜き連珠 五目並べ (非公認)
 sort_title: びしょうじょかちぬきれんじゅごもくならべ
 file: Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女麻雀倶楽部 (非公認)
 sort_title: びしょうじょまーじゃんくらぶ
 file: Bishoujo Mahjong Club (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女セクシーダービー (非公認)
 sort_title: びしょうじょせくしーだーびー
 file: Bishoujo Sexy Derby (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女セクシーパズル (非公認)
 sort_title: びしょじょせくしーぱずる
 file: Bishoujo Sexy Puzzle (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女セクシースロット (非公認)
 sort_title: びしょうじょせくしーすろっと
 file: Bishoujo Sexy Slot (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女写真館 ムービングスクール (非公認)
 sort_title: びしょうじょしゃしんかんむーびんぐすくーる
 file: Bishoujo Shashinkan - Moving School (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 美少女写真館 スタジオカット (非公認)
 sort_title: びしょうじょしゃしんかんすたじおかっと
 file: Bishoujo Shashinkan - Studio Cut (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: ボディコンクエストI 暴かれし娘たち (非公認)
 sort_title: ぼでぃこんくえすと1
 files:
   Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl).zip
   Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: ボンバーマン
 sort_title: ぼんばーまん
 file: Bomberman (Japan) (Disk Writer).zip
+publisher: ハドソン
+description:
+  ハドソンより1990年4月2日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。爆弾を仕掛けて敵やブロックを爆風で破壊し、ブロックに隠された出口を見つけ出す、単純明快にして爽快なゲーム。様々なアイテムを取ることによって、武器の爆弾やボンバーマンがパワーアップする。地下王国で造られたサイボーグ・ボンバーマンとなって、地上を夢見て地底からの脱出するのが目的となる。
 
 game: ブリーダー
 sort_title: ぶりーだー
 file: Breeder (Japan).zip
+publisher: ソフトプロ
+description:
+  ソフトプロより1986年12月15日にファミコンのディスクシステム用ソフトとして発売されたロボット対戦シミュレーションゲーム。戦闘ロボットの能力値をチューニングし、ロボット同士の戦闘を観戦する。プレイヤーはロボット自体を操作することはできないが、細かなパラメータ調整で圧倒的な差がつくことがあり、異色の楽しみを味わうことができる。
 
 game: バブルボブル
 sort_title: ばぶるぼぶる
@@ -176,80 +244,120 @@ files:
   Bubble Bobble (Japan).zip
   Bubble Bobble (Japan) (3DS Virtual Console).zip
   Bubble Bobble (Japan) (Wii and Wii U Virtual Console).zip
+publisher: タイトー
+description:
+  タイトーより1987年10月30日にファミコン用ソフトとして発売されたアクションゲーム。アーケードからの移植作。魔法によってバブルドラゴンに変身させられた主人公のバブルンとボブルンを操作し、地下100階を目指し恋人を救出する事を目的としている。きドラゴンを操作し、画面内の敵を倒していき、画面内に配置された敵を全て倒すとラウンドクリアとなる。2人同時プレイで100面をクリアすればエンディングとなる。
 
 game: バーガータイム
 sort_title: ばーがーたいむ
 file: BurgerTime (Japan) (Disk Writer).zip
+publisher: データイースト
+description:
+  データイーストより1988年9月23日にファミコンのディスクシステム書換専用ソフトとして発売された固定画面型アクションゲーム。コックのピーター・ペッパーを操り、バラバラになったパンや具の上を歩いて落下させることで、バーガーを組み立てていく。邪魔をするウインナーやピクルス、タマゴ軍団は、コショー攻撃やバーガーのパーツでつぶしたりパーツに乗せて落とすことで動きを封じてハンバーガーを作るのが目的となる。
 
 game: カジノでPINK (非公認)
 sort_title: かじのでぴんく
 file: Casino de Pink (Japan) (Unl) [b].zip
+publisher: ハッカーインターナショナル
 
 game: 地底大陸オルドーラ
 sort_title: ちていたいりくおるどーら
 file: Chitei Tairiku Ordola (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1987年3月27日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。「ゲームに夢中になったら頭が良くなっちゃった」で、おなじみの知能ゲームシリーズ第3弾。問題を解きながら爆弾で敵を倒しつつダンジョンを進んでいく。決められた数だけ問題を解き、ステージクリアを目指す。エリア数は30面が用意してあり、B面はステップドリルの小数編になっている。
 
 game: クレオパトラの魔宝
 sort_title: くれおぱとらのまほう
 file: Cleopatra no Mahou (Japan).zip
+publisher: DOG
+description:
+  DOGより1987年7月24日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーRPG。敵を倒して経験値を蓄えてレベルアップするRPGの要素と、謎解きが中心のアドベンチャーゲームの要素を組み合わせたゲーム。ゲームスタイルそのものはアドベンチャーゲームであり、様々なコマンドを駆使して謎を解く。しかし街、砂の塔、神殿の3ヶ所はコマンドを選ぶ度に敵が現れる可能性がある。
 
 game: クルクルランド
 sort_title: くるくるらんど
 files:
   Clu Clu Land (Japan) (En) (Disk Writer).zip
   Clu Clu Land (Japan) (En) (GameCube, Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1992年4月28日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。クルクルランドに隠された金塊を探す。一度動き始めたら止まれない主人公グルッピーを、ターンポストに手をかけて回るか、壁に体当たりしてバウンドして進行方向を変え、フィールドに隠された金塊を全て出現させるとステージクリアとなる。2人同時プレイも可能で、協力して金塊を見つけ出すことができる。
 
 game: ココナワールド
 sort_title: ここなわーるど
 file: Cocona World (Japan).zip
+publisher: ソフエル
+description:
+  ソフエルより1987年4月10日にファミコンのディスクシステム用ソフトとして発売されたアクションアドベンチャーゲーム。魔法の国のプリンセス、ココナちゃんと友達になり、ココナちゃんのためにごはんを買いに行ったり寝かせてあげたり、ほのぼのする1日を過ごす。ココナちゃんを操作してソフエルの森を冒険し、洞窟の宝物を手に入れよう。他にも、星占いやビンゴを楽しんだり、落描きをし遊んだりすることができる。
 
 game: コミック作家シリーズ #1 闘魔戦記 魔少女学園イーヴル (非公認)
 sort_title: こみっくさっかしりーず1
 file: Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: コミック作家シリーズ #2 闘魔戦記 マーメイドの逆襲 (非公認)
 sort_title: こみっくさっかしりーず2
 file: Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: コミック作家シリーズ #3 闘魔戦記 龍神先生危機一髪!! (非公認)
 sort_title: こみっくさっかしりーず3
 file: Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: コミック作家シリーズ #4 闘魔戦記 天空龍魔王復活 (非公認)
 sort_title: こみっくさっかしりーず4
 file: Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: コミック作家シリーズ #5 闘魔戦記 妖獣ルドの挑戦 (非公認)
 sort_title: こみっくさっかしりーず5
 file: Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: ダンディー ゼウオンの復活
 sort_title: だんでぃーぜうおんのふっかつ
 file: Dandy - Zeuon no Fukkatsu (Japan).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1988年10月21日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。フィールド上やダンジョン内などはトップビュー方式で、町の中などはサイドビュー方式となる。戦闘は剣などで敵にダメージを与えて倒していく、アクション性のあるゲーム内容となる。また、レベルの他に封印の玉を集めることにより階級が上がるシステムを採用している。また、昼夜の概念も存在している。
 
 game: デート de ブラックジャック (非公認)
 sort_title: でーとでぶらっくじゃっく
 file: Date de Blackjack (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: デッドゾーン
 sort_title: でっどぞーん
 files:
   Dead Zone (Japan).zip
   Dead Zone (Japan) (Beta) (1986-10-06).zip
+publisher: サンソフト
+description:
+  サンソフトより1986年11月20日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。宇宙に浮かぶ開発中のスペースコロニーを舞台とするSFストーリーで、主人公であるカーク・マックレーを操り、宇宙コロニー「ライオネックス」の地下の廃棄所からスタートして各フロアの問題を解決しながら最上階にいる婚約者であるマリー・ブラントと再会をして脱出するのが目的となる。
 
 game: ディグダグ
 sort_title: でぃぐだぐ1
 file: Dig Dug (Japan) (Disk Writer).zip
+publisher: ナムコ
+description:
+  ナムコより1990年7月20日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。地底を掘り進みながら、モンスターをモリで刺し膨らませて倒していく。地中には幾つかの岩が埋まっており、その下を掘り岩を落下させモンスターを倒すことも可能となっている。単純に敵を倒すだけでなく、アタマを使ってさまざまな戦略パターンや、オリジナルテクニックを作り出す事ができる。
 
 game: ディグダグII
 sort_title: でぃぐだぐ2
 file: Dig Dug II (Japan) (Disk Writer).zip
+publisher: ナムコ
+description:
+  ナムコより1990年8月31日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。人気ゲーム『ディグダグ』の続編となる。ポンプをドリルとして使うことで、攻撃方法が多彩になり、ドリルで地面を崩せば、島ごと敵を海に沈められる。島の形はさまざまなので、ステージごとにいろいろな戦略が立てることが可能となっている。今度は島を舞台に、いろんな敵たちを倒していこう。
 
 game: ダーティペア プロジェクトエデン
 sort_title: だーてぃぺあぷろじぇくとえでん
 files:
   Dirty Pair - Project Eden (Japan).zip
   Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer).zip
+publisher: バンダイ
+description:
+  バンダイより1987年3月28日にファミコンのディスクシステム用ソフトとして発売された。アニメ『ダーティペア』を題材としたゲーム作品。トラブルコンサルタント「ダーティペア」もとい「ラブリーエンジェル」のユリとケイを操作して、全4ステージを攻略。ステージ1と3は横スクロールのアクションシューティングステージで、ステージ2と4は屋内探索型ステージとなり、8枚の情報ディスクを回収することが目的となる。
 
 game: ディスクハッカー (非公認)
 sort_title: でぃすくはっかー1
@@ -257,66 +365,98 @@ files:
   Disk Hacker - Version 1.0 (Japan) (Unl).zip
   Disk Hacker - Version 1.2 (Japan) (Unl).zip
   Disk Hacker - Version 1.3 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: ディスクハッカーII (非公認)
 sort_title: でぃすくはっかー2
 file: Disk Hacker II - Copy Plus 3 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: ディスクキーパー (非公認)
 sort_title: でぃすくきーぱー
 file: Disk Keeper (Japan) (Unl).zip
+publisher: ワールド
 
 game: ドンキーコング
 sort_title: どんきーこんぐ
 file: Donkey Kong (Japan) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1988年4月8日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。ドンキーコングにさらわれたレディを助けるために、タルなどが飛び交う建設現場をマリオが進んでゆく。ドンキーコングが落としてくるタルをジャンプで避けて進むステージ、エレベーターに乗り、火の玉を避けながら進むステージ、黄色いボルトを全て抜くとクリアとなる。ステージの3つをクリアしていこう。
 
-game: ドンキーコングJr.
+game: ドンキーコングJR.
 sort_title: どんきーこんぐじゅにあ
 file: Donkey Kong Jr. (Japan) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1988年7月19日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。マリオによってオリに閉じ込められたドンキーコングを、息子のジュニアを操作してカギを集めて助け出す。敵の攻撃を避けながらツルを伝ってついカギを集め、カギを正しい鍵穴に全てはめるとオリが開き、ドンキーコングを無事救出することができる。ループ制の全4ステージ構成となっている。
 
 game: ドレミッコ
 sort_title: どれみっこ
 file: Doremikko (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年12月4日にファミコンのディスクシステム用ソフトとして発売された音楽演奏・編集ソフト。3オクターブの専用キーボードと同時発売となっている。4声まで可能なピアノや12種類のリズムがついている演奏、さらにキーボードだけで様々な楽器の音を楽しむことができる。演奏の録音も可能で、音色の変更なども可能。また、名曲を聴くことができる自動演奏もあるので、曲を聴くだけでも楽しめる。
 
 game: ドット絵クリエイターコンテスト
 sort_title: どっとえくりえいたーこんてすと
 file: Dot E Creator Contest (Japan).zip
+publisher: イマジニア
 
 game: ドクター・カオス 地獄の扉
 sort_title: どくたーかおすじごくのとびら
 file: Dr. Chaos - Jigoku no Tobira (Japan).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1987年6月19日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。兄であるドクター・カオスからの連絡が途絶えたことで、主人公のマイケルが研究所に向かう。ドクター・カオスの研究所で敵と戦うアクション、そして謎解きアドベンチャーの2つの要素が盛り込まれている。ゲーム画面には無数の扉があるので、敵を倒しながら探索し、ボスがいるワープゾーンを探し出していく。
 
 game: ドラキュラII 呪いの封印
 sort_title: どらきゅら2
 files:
   Dracula II - Noroi no Fuuin (Japan).zip
   Dracula II - Noroi no Fuuin (Japan) (Virtual Console).zip
+publisher: コナミ
+description:
+  コナミより1987年8月28日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。ゴシックホラーアクション『悪魔城ドラキュラ』の直接の続編となる。基本システムは横スクロールの2Dジャンプアクションであるが、RPGの要素も取り入れたアクションRPGとなっている。昼と夜による変化の概念が盛り込まれ、ステージ舞台も町、森や川、館などトランシルバニア地方各地を巡って探索する。
 
 game: ドルイド 恐怖の扉
 sort_title: どるいどきょうふのとびら
 files:
   Druid - Kyoufu no Tobira (Japan).zip
   Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24).zip
+publisher: ジャレコ
+description:
+  ジャレコより1988年3月3日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。吟遊詩人ながら魔法を使えるドルイドを操作して、開いてしまった扉から現れたスカル軍団を倒していく。途中に置いてある宝箱を開けると入手できるアイテムが選択できるという独特システムを採用。また、ドルイドが召喚できるゴーレムに「攻撃」という命令を出すと、2コントローラーでゴーレムを操作できるようになる。
 
 game: エッガーランド 創造への旅立ち
 sort_title: えっがーらんどそうぞうへのたびだち
 files:
   Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer).zip
   Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11).zip
+publisher: HAL研究所
+description:
+  ハル研究所より1988年10月18日にファミコンのディスクシステム用ソフトとして発売されたアクションパズルゲーム。人気パズルゲーム「エッガーランド」の続編で、前作から新たに自分が作った面を友達に遊んでもらうことができるコンストラクションモードが加わっている。前作はプレイするステージを自由に選択できたが、今作は1面ずつ順番にクリアしていく面クリア型となっている。
 
 game: エッガーランド
 sort_title: えっがーらんど
 files:
   Egger Land (Japan).zip
   Egger Land (Japan) (Rev 1) (Possible Proto).zip
+publisher: HAL研究所
+description:
+  ハル研究所より1987年1月29日にファミコンのディスクシステム用ソフトとして発売された固定画面型のアクションパズルゲーム。エッガー大王に囚われた王女ララを救出するため、王子ロロが魔界エッガーランドを冒険する。部屋の中にある「ハートフレーマー」を全て回収すると宝箱の蓋が開き、中身を取るとその部屋はクリアとなる。ハートフレーマーの中には、取ると「エッガーショット」を発射できるようになるものもある。
 
 game: エレクトリシャン
 sort_title: えれくとりしゃん
 file: Electrician (Japan).zip
+publisher: ケムコ
+description:
+  ケムコより1986年12月26日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。優秀なエレクトリシャン(電気工事士)である主人公、リチャード・ライトを操り、地震により大規模な停電に見舞われた北米全土を移動しながら、各都市の電力を回復していく事がゲームの目的となる。全8ワールドで構成されている。
 
 game: エミちゃんの燃えろ野球拳! (非公認)
 sort_title: えみちゃんのもえろやきゅうけん
 file: Emi-chan no Moero Yakyuuken! (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: エスパードリーム
 sort_title: えすぱーどりーむ
@@ -325,42 +465,67 @@ files:
   Esper Dream (Japan) (Rev 1) (3DS Virtual Console).zip
   Esper Dream (Japan) (Rev 1) (Disk Writer).zip
   Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console).zip
+publisher: コナミ
+description:
+  コナミより1987年2月20日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。超能力を持つ少年がおとぎの国のような世界を邪悪な一族から救うために戦う。穏やかでメルヘンチックな世界観が特徴でゲームは村の中やフィールド上のような、敵と接触していない状態の「アドベンチャーモード」と戦闘中の「バトルモード」で構成されている。5つのワールドと5つの村を移動しながら冒険を進めていく。
 
 game: エキサイティングベースボール
 sort_title: えきさいてぃんぐべーすぼーる
 file: Exciting Baseball (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年12月8日にファミコンのディスクシステム用ソフトとして発売された野球ゲーム。コナミの家庭用ゲーム機初の野球ゲームとなる。チームエディット機能が搭載されそれをセーブ可能という、ディスクシステムというプラットホームを生かした機能もあった。また、作成したチームと友達のオリジナルチームと対戦できるというモードも搭載している。
 
 game: エキサイティングバスケット
 sort_title: えきさいてぃんぐばすけっと
 file: Exciting Basket (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年7月24日にファミコンのディスクシステム用ソフトとして発売されたバスケットボールゲーム。コナミのエキサイティングシリーズのバスケットゲームとなる。素早いパス回しや、シュートが可能でバスケらしいスピーディーな展開を見事に再現している。バスケルールをあまり知らなくても楽しむことができる。
 
 game: エキサイティングビリヤード
 sort_title: えきさいてぃんぐびりやーど
 file: Exciting Billiard (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年6月26日にファミコンのディスクシステム用ソフトとして発売されたビリヤードゲーム。『コナミエキサイティングシリーズ』の一作となる。世界No.1を目指すストーリーモードに、9ボールやローテーションなど手軽に遊べるゲームモードもある。ビリヤードの雰囲気にあったジャス風サウンドもゲームの臨場感を盛り上げてくれる。
 
 game: エキサイティングサッカー コナミカップ
 sort_title: えきさいてぃんぐさっかーこなみかっぷ
 file: Exciting Soccer - Konami Cup (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年12月9日にファミコンのディスクシステム用ソフトとして発売されたサッカーゲーム。プレイヤー自身でチーム名を登録し、好成績を目指すことが目的となる。各チームにはキック力、走力、ドリブル力、守備力、運などが設定されており、育成により強化することもできる。プレイ画面ではサッカー場が縦長に配置され、選手の真上からの視点となる。ただし、PK戦は3Dの真横から見た視点になる。
 
 game: 妖精たちのピンボール (非公認)
 sort_title: ようせいたちのぴんぼーる
 files:
   Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl).zip
   Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt) [b].zip
+publisher: ハッカーインターナショナル
 
 game: フェアリーテイル
 sort_title: ふぇありーている
 file: Fairytale (Japan).zip
+publisher: ソフトプロ
+description:
+  ソフトプロより1989年4月28日にファミコンのディスクシステム用ソフトとして発売されたシミュレーションゲーム。小さな村で「ぶた」に遊び場を奪われた子供達がぶたから遊び場を取り戻す物語。フィールド面は味方の行動フェイズと敵の行動フェイズを交互に繰り返すターン制システムを採用。おとぎ話めいたかわいらしい雰囲気とは裏腹に、半リアルタイム方式のバトル面が非常に高い難易度が特徴となっている。
 
 game: ファルシオン
 sort_title: ふぁるしおん
 file: Falsion (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年10月21日にファミコンのディスクシステム用ソフトとして発売された擬似3Dシューティングゲーム。ファミコン3Dシステムを前提に作られていることもあり、通常モードでは、敵との位置関係の把握が難しい箇所も存在する。ステージごとに背景や敵は変化するものの同じ背景が続いたり、兵装が単純なこともあり、ゲームとしては比較的地味になっている。
 
 game: ファミコングランプリ F1レース
 sort_title: ふぁみこんぐらんぷり1
 files:
   Famicom Grand Prix - F1 Race (Japan).zip
   Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1987年10月30日にファミコンのディスクシステム用ソフトとして発売されたレースゲーム。ディスクファックスに対応し、タイムトライアルも行われた。トップビュー式の画面を見ながらF1カーを操り、上位入賞を狙う。上位に入賞すると賞金を獲得でき、獲得した賞金で性能の違うマシンを売買しながらゲームを進めていく。全部で24種類、最大で5000万ドルのマシンがあり、性能や値段などが各種違っている。
 
 game: ファミコングランプリII 3Dホットラリー
 sort_title: ふぁみこんぐらんぷり2
@@ -368,12 +533,18 @@ files:
   Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System).zip
   Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System).zip
   Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System).zip
+publisher: 任天堂
+description:
+  任天堂より1988年4月14日にファミコンのディスクシステム用ソフトとして発売されたラリーゲーム。青ディスクを使った、イベント用ソフト第4弾で、草原や砂漠、雪道などを駆け抜けてゴールを目指す。ドライバーはマリオ。そして隣に乗るナビゲーターはルイージ。性能の異なる3種のマシンの中から好きなのを決めたら、コースを選んでラリースタートしよう。また、マリオとルイージの顔が描き分けられたのは本作からとなる。
 
 game: ふぁみこんむかし話 新・鬼ヶ島 後編
 sort_title: ふぁみこんむかしばなししんおにがしまB
 files:
   Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan).zip
   Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1987年9月30日にファミコンのディスクシステム用ソフトとして発売されたテキストアドベンチャーゲーム。前後編テキストアドベンチャーシリーズの1作目。「桃太郎」や「かぐや姫」など、日本の昔話から引用したキャラクターが、独特の切り口により融合された世界観の元で活躍する。昔話特有の優しく親しみやすい語り口で主人公の男の子と女の子、動物たちによる冒険や出会い、別れを織り込んだ物語が展開される。
 
 game: ふぁみこんむかし話 新・鬼ヶ島 前編
 sort_title: ふぁみこんむかしばなししんおにがしまA
@@ -382,20 +553,32 @@ files:
   Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer).zip
   Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console).zip
   Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1987年9月4日にファミコンのディスクシステム用ソフトとして発売されたテキストアドベンチャーゲーム。前後編テキストアドベンチャーシリーズの1作目。「桃太郎」や「かぐや姫」など、日本の昔話から引用したキャラクターが、独特の切り口により融合された世界観の元で活躍する。昔話特有の優しく親しみやすい語り口で主人公の男の子と女の子、動物たちによる冒険や出会い、別れを織り込んだ物語が展開される。
 
 game: ふぁみこんむかし話 遊遊記 後編
 sort_title: ふぁみこんむかしばなしゆうゆうきB
 file: Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1989年11月14日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。前後編テキストアドベンチャーシリーズの2作目で本作は「後編」となる。今作では日本でもなじみ深い中国の古典小説「西遊記」をベースにしている。主人公は隕石から生まれた猿「ごくう」と本作オリジナルヒロイン。その他「さんぞう」「はっかい」「ごじょう」と、西遊記でおなじみのメンバーが共に冒険する。
 
 game: ふぁみこんむかし話 遊遊記 前編
 sort_title: ふぁみこんむかしばなしゆうゆうきA
 file: Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1989年10月14日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。前後編テキストアドベンチャーシリーズの2作目で本作は「前編」となる。今作では日本でもなじみ深い中国の古典小説「西遊記」をベースにしている。主人公は隕石から生まれた猿「ごくう」と本作オリジナルヒロイン。その他「さんぞう」「はっかい」「ごじょう」と、西遊記でおなじみのメンバーが共に冒険する。
 
 game: ファミコン探偵倶楽部 消えた後継者 後編
 sort_title: ふぁみこんたんていくらぶ1B
 files:
   Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan).zip
   Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1988年6月14日にファミコンのディスクシステム用ソフトとして発売された任天堂初の本格的推理アドベンチャーゲーム。前後編テキストアドベンチャーシリーズの新作として制作され、『プレイヤー自身が推理して謎を解くこと』よりも『物語を味わうこと』に重きを置いている。プレイヤーは事故で記憶を失った17歳の少年探偵となり、地方の旧家・綾城家で起こった殺人事件の真相を追っていく。
 
 game: ファミコン探偵倶楽部 消えた後継者 前編
 sort_title: ふぁみこんたんていくらぶ1A
@@ -403,12 +586,18 @@ files:
   Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3).zip
   Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console).zip
   Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1988年4月27日にファミコンのディスクシステム用ソフトとして発売された任天堂初の本格的推理アドベンチャーゲーム。前後編テキストアドベンチャーシリーズの新作として制作され、『プレイヤー自身が推理して謎を解くこと』よりも『物語を味わうこと』に重きを置いている。プレイヤーは事故で記憶を失った17歳の少年探偵となり、地方の旧家・綾城家で起こった殺人事件の真相を追っていく。
 
 game: ファミコン探偵倶楽部 PartII うしろに立つ少女 後編
 sort_title: ふぁみこんたんていくらぶ2B
 files:
   Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4).zip
   Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1989年6月30日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。『ファミコン探偵倶楽部 消えた後継者』の続編。時系列は前作から2年前の1986年にあたり、空木探偵の助手となった主人公が、丑美津高校で発生した殺人事件と、学校に伝わる怪談「うしろの少女」の背後に隠された謎を解き明かすために奔走していくことになる。前作と同様に謎解きよりもドラマ性重視となる。
 
 game: ファミコン探偵倶楽部 PartII うしろに立つ少女 前編
 sort_title: ふぁみこんたんていくらぶ2A
@@ -417,114 +606,177 @@ files:
   Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console).zip
   Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Beta).zip
   Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1989年5月23日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。『ファミコン探偵倶楽部 消えた後継者』の続編。時系列は前作から2年前の1986年にあたり、空木探偵の助手となった主人公が、丑美津高校で発生した殺人事件と、学校に伝わる怪談「うしろの少女」の背後に隠された謎を解き明かすために奔走していくことになる。前作と同様に謎解きよりもドラマ性重視となる。
 
 game: ファミリーコンポーザー
 sort_title: ふぁみりーこんぽーざー
 files:
   Family Composer (Japan) (Disk Writer).zip
   Family Composer (Japan) (Rev 1) (Possible Proto).zip
+publisher: トンキンハウス
+description:
+  トンキンハウスより1987年10月30日にファミコンのディスクシステム用ソフトとして発売された音楽作曲ソフト。入力されている伴奏に合わせるだけ、という簡単な操作で、メロディを弾くだけでなく最大6曲まで録音できてしまう。24種類のリズムと14種類の音色があり、音符や譜面がわからない初心者でも即興で本格的な演奏することが可能。また、コードを打ち込んでメロディや伴奏をさせるモードも搭載している。
 
 game: ファミマガDisk Vol.1 香港
 sort_title: ふぁみまがでぃすく1
 file: Famimaga Disk Vol. 1 - Hong Kong (Japan).zip
+publisher: 徳間書店
+description:
+  徳間書店より1990年3月23日にファミコンのディスクシステム用ソフトとして発売された麻雀牌を使ったパズルゲーム。画面に配置されている麻雀牌を、「東、南、西、北、白、発、中」の順番に取っていく。画面上の牌には重力とが働いており、下の牌がなくなると、上の牌が落ちてしまいゲームオーバーとなる。牌を落とさないよう、取る順番を考えつつ上手に進める必要がある。また、エディットモードも用意されている。
 
 game: ファミマガDisk Vol.2 パニックスペース
 sort_title: ふぁみまがでぃすく2
 file: Famimaga Disk Vol. 2 - Panic Space (Japan) (Disk Writer).zip
+publisher: 徳間書店
+description:
+  徳間書店より1990年10月19日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションパズルゲーム。ルールはシンプルでロボットを操作して、出口まで辿り着けばクリアとなる。ゲーム内容はパズルになっていて、頭を使う必要がある。画面内に表示されているレーザー光線が外の壁にぶつかると、大爆発を起こしてゲームオーバーとなる。レーザーを反射させたりブロックで防いだりしつつ、出口を目指そう。
 
 game: ファミマガDisk Vol.3 オール1
 sort_title: ふぁみまがでぃすく3
 file: Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer).zip
+publisher: 徳間書店
+description:
+  徳間書店より1991年2月22日にファミコンのディスクシステム用ソフトとして発売されたパズルゲーム。面の中のサイコロを転がして、すべての目を「1」にするというシステムなので「オール1」。右側に縮図、左には拡大図が表示されていて、岩など、転がすには邪魔になるものや、お花畑にはサイコロを転がすことができないなどの工夫もある。サイコロの特性を把握していれば、ある程度想像しながら目を出すことも可能となっ。
 
 game: ファミマガDisk Vol.4 クロックス
 sort_title: ふぁみまがでぃすく4
 file: Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer).zip
+publisher: 徳間書店
+description:
+  徳間書店より1991年4月19日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションパズルゲーム。雑誌「ファミリーコンピュータマガジン」の企画から生まれた書き換え専用ソフトの第4弾。ゲームモードはゲームオーバーまで黙々と遊ぶノーマルモード「ゲームA」、パズルゲーム要素が強くて、最初から配置されている決められた時計を消す「ゲームB」、対戦プレイができる「バーサス」の3つとなる。
 
 game: ファミマガDisk Vol.5 ぷよぷよ
 sort_title: ふぁみまがでぃすく5
 file: Famimaga Disk Vol. 5 - Puyo Puyo (Japan) (Disk Writer).zip
+publisher: 徳間書店
+description:
+  徳間書店より1991年10月25日にファミコンのディスクシステム書換専用ソフトとして発売されたパズルゲーム。落ちものパズルゲームの傑作「ぷよぷよ」のディスクシステム版となる。上から落下してくる「ぷよ」を、同じ色を縦か横に4つ以上くっつけて消していく。ひたすら消し続けるエンドレスモードと、様々な課題をクリアするミッションモードが用意されている。
 
 game: ファミマガDisk Vol.6 じゃんけんディスク城
 sort_title: ふぁみまがでぃすく6
 file: Famimaga Disk Vol. 6 - Janken Disk Jou (Japan) (Disk Writer).zip
+publisher: 徳間書店
+description:
+  徳間書店より1992年12月22日にファミコンのディスクシステム書換専用ソフトとして発売されたパズルゲーム。「ファミリーコンピュータマガジン」の看板キャラクター・ディスくんが主人公のゲーム作品。ゲームのルールに使われているのはじゃんけん。グー・チョキ・パーの形をしたブロックを動かし、じゃんけんに勝つようにぶつけてやると撃退できる。中には動かせないブロックもあるので、工夫しながら迷路の脱出に挑もう。
 
 game: ファイナルコマンド 赤い要塞
 sort_title: ふぁいなるこまんどあかいようさい
 file: Final Command - Akai Yousai (Japan).zip
+publisher: コナミ
+description:
+  コナミより1988年5月2日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。アーケードゲーム『特殊部隊ジャッカル』のアレンジ移植作。トップビューの任意スクロールシューティングで、全5面エンドレス。プレイヤーはジープを操作し、捕虜が収容されている施設を破壊し捕虜をジープに乗せる。救出した捕虜を味方ヘリコプターで脱出させ、再び捕虜救出に向かう、これを繰り返していく。
 
 game: ファイヤー・バム
 sort_title: ふぁいやーばむ
 file: Fire Bam (Japan).zip
+publisher: HAL研究所
+description:
+  ハル研究所より1988年2月1日にファミコンのディスクシステム用ソフトとして発売された横スクロールのアクションRPG。敵を倒してルーツ(炎)を貯めてアイテムを購入し、塔を攻略していく。炎使いの一族の少年バムが15歳の誕生日を迎えたその日、一族の力を恐れた魔物ドメスによってバムの両親は魔物の姿に変えられた。バムは両親を元の姿に戻すやため、ドメスを倒す旅に出る。
 
 game: ファイヤーロック
 sort_title: ふぁいやーろっく
 file: Fire Rock (Japan).zip
+publisher: ユース
+description:
+  ユースより1988年6月20日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。洞窟の中を歩き回り、壁をよじ登ってアイテムをゲットし、パワーアップしつつ進んでいく。武器はたいまつで、敵に投げつけることで撃退する。岩や壁を登るアクションも楽しむことができ、別画面に移動できる「ワープホール」も存在している。
 
 game: FMC ディスクカードチェッカー
 sort_title: えふえむしーでぃすくかーどちぇっかー
 file: FMC Disk Card Checker Ver 1.3 (Japan) (Rev 2) (Developer Card).zip
+publisher: 任天堂
 
 game: フルーツ麻雀 麻雀ゲーム本体&大H大会 (非公認)
 sort_title: ふるーつまーじゃん1
 files:
   Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan) (Unl).zip
   Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: フルーツ麻雀2 ときめきギャルズ・4人と大H大会 (非公認)
 sort_title: ふるーつまーじゃん2
 files:
   Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan) (Unl).zip
   Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: フルーツ麻雀3 4人の天使たちとのとってもHな午後 (非公認)
 sort_title: ふるーつまーじゃん3
 files:
   Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan) (Unl).zip
   Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: フルーツ麻雀4 美少女コネクション・大胆Hな昼下り (非公認)
 sort_title: ふるーつまーじゃん4
 files:
   Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl).zip
   Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 風雲少林拳 暗黒の魔王
 sort_title: ふううんしょうりんけん2
 file: Fuuun Shourin Ken - Ankoku no Maou (Japan) (Famicom 3D System).zip
+publisher: ジャレコ
+description:
+  ジャレコより1988年4月22日にファミコンのディスクシステム用ソフトとして発売されたカンフーアクションゲーム。「風雲少林拳」の主人公・剣士シンが新たな敵に挑む「風雲少林拳」の続編となる。三魔王を倒したシンが、今度は「魔導師」と戦う。枝分かれしたマップを移動しつつ、進めていく。本作では戦いの合間にデモムービーを多く採用しているのも特徴。また、3Dメガネを使用した3Dシステムにも対応している。
 
 game: 風雲少林拳
 sort_title: ふううんしょうりんけん1
 file: Fuuun Shourin Ken (Japan).zip
+publisher: ジャレコ
+description:
+  ジャレコより1987年4月17日にファミコンのディスクシステム用ソフトとして発売された格闘アクションゲーム。主人公「シン」が様々な特徴の相手と1対1で戦い、三人の魔王打倒を目指す。1人プレイ専用で2Pでの対戦はできない。アイテムのラーメンを取ると、体力が回復し、同じくアイテムのひょうたんは、負けてもそのステージの最初からやり直せる。向いている方向で出る技が左右で逆になる、複雑な操作性となっている。
 
 game: ギャラガ
 sort_title: ぎゃらが
 file: Galaga (Japan) (Disk Writer).zip
+publisher: ナムコ
+description:
+  ナムコより1990年6月22日にファミコンのディスクシステム書換専用ソフトとして発売されたシューティングゲーム。アーケードで人気を博した、名作『ギャラクシアン』の続編にあたる。捕虜となってしまった自機と合体することでデュアルファイターにパワーアップしたり、ボーナスステージの採用など新要素が多数追加されている。自機ファイターを操作し、凶悪な異星人ギャラガの急襲を避けながら攻撃していこう。
 
 game: ギャラクシアン
 sort_title: ぎゃらくしあん
 file: Galaxian (Japan) (Disk Writer).zip
+publisher: ナムコ
+description:
+  ナムコより1990年7月20日にファミコンのディスクシステム書換専用ソフトとして発売されたシューティングゲーム。上空で編隊を組んでやってくるエイリアン達を撃墜する。1機ずつミサイルを放ちながら飛行・攻撃してくるエイリアン達を、攻撃を避けながら撃破していく。エイリアンは種類ごとに攻撃・行動パターンが異なり、数が少なくなると総攻撃を仕掛けてくる。
 
 game: ガルフォース ETERNAL STORY
 sort_title: がるふぉーす
 file: Gall Force - Eternal Story (Japan).zip
+publisher: HAL研究所
+description:
+  ハル研究所より1986年11月19日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。アニメ『ガルフォース』を題材としたゲーム作品。プレイヤーは「スターリーフ号」を操作して、地上や宇宙の敵を撃破し、囚われていた仲間達を救出。仲間を助けるたびに「スターリーフ号」の変形パターンが増え、同時に攻撃のバリエーションも変化するため、迫力のあるゲーム展開を楽しむことができる。
 
 game: ゲームの達人 マネーウォーズ (非公認)
 sort_title: げーむのたつじんまねーうぉーず
 file: Game no Tatsujin - Money Wars (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: じゃあまん探偵団 魔隣組 ジゴマ捜査ファイル
 sort_title: じゃあまんたんていだん
 file: German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1988年11月29日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。フジテレビ系で放送された少年探偵団ドラマ『じゃあまん探偵団 魔隣組』を題材とするゲーム作品。あらかじめ用意されたマップの中で5人の子供達を操作しながら怪盗ジゴマを追い詰めていくといった内容。町の中にいる人の会話を聞きながら、アイテムなどを駆使してどこかに姿を現すジゴマを探し出す。
 
 game: 銀河伝承 ギャラクシーオデッセイ
 sort_title: ぎんがでんしょう
 files:
   Ginga Denshou - Galaxy Odyssey (Japan).zip
   Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto).zip
+publisher: イマジニア
+description:
+  イマジニアより1986年11月6日にファミコンのディスクシステム用ソフトとして発売された、WAVE JACKシリーズの第1作。プレイヤーはスード病を治療する神の薬を得るために、ホープ星と5つの衛星に1つずつ隠されているクリアアイテム「キルノ」の発見するのが目的となる。強制無限縦スクロールSTGの宇宙ステージと惑星に下りてからは主人公が謎を解明していく縦スクロールアクションSTGで構成されている。
 
 game: 極楽遊戯 げーむてんごく
 sort_title: ごくらくゆうぎげーむてんごく
 file: Gokuraku Yuugi - Game Tengoku (Japan).zip
+publisher: ソフエル
+description:
+  ソフエルより1987年12月12日にファミコンのディスクシステム用ソフトとして発売されたテーブルゲーム。色々なミニゲームが収録されたミニゲーム集となっている。収録されているゲームはサイコロ、ルーレット、ビンゴ、トランプ、スロットなど8種類。どれも分かりやすいルールと簡単操作で気軽に遊ぶことができるテーブルゲームとなる。
 
 game: ゴルフ JAPANコース
 sort_title: ごるふJAPANこーす
@@ -532,10 +784,10 @@ files:
   Golf - Japan Course (Japan).zip
   Golf - Japan Course (Japan) (DV 2).zip
   Golf - Japan Course (Japan) (Prize Card).zip
-
-game: ゴルフ スペシャルコース
-sort_title: ごるふすぺしゃるこーす
-file: Golf - Special Course (Japan) (Prize Card).zip
+  Golf - Special Course (Japan) (Prize Card).zip
+publisher: 任天堂
+description:
+  任天堂より1987年ファミコンのディスクシステム用ソフトとして製作されたゴルフゲーム。ゴルフJAPANコースのゴルフトーナメントの景品でオリジナルコース入りゴールデンディスクカードとなる。100位以内に入った上位者へ贈呈されたカードと それ以外の入賞者5000名にプレゼントされたカードとでコースや難易度、ディスクケース(ディスくん型・楯のケース)の違いなどが設けられていた。
 
 game: ゴルフ USコース
 sort_title: ごるふUSこーす
@@ -543,6 +795,9 @@ files:
   Golf - US Course (Japan).zip
   Golf - US Course (Japan) (DV 1).zip
   Golf - US Course (Japan) (DV 2) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1987年6月14日にファミコンのディスクシステム用ソフトとして発売されたゴルフゲーム。『ゴルフJAPANコース』の続編。本作でもディスクファックス対応の青色ディスクタイトルとなっている。マリオの服装が星条旗を思わせるスタイルに変更され、プレイ画面もJAPANコースに比べて広くなり、擬似的に3Dでのマップ内全方向視点移動を実現している。また、4人まで同時ストロークプレイ可能となっている。
 
 game: ゴルフ
 sort_title: ごるふ
@@ -550,47 +805,73 @@ files:
   Golf (Japan).zip
   Golf (Japan) (Rev 1).zip
   Golf (Japan) (Rev 2) (Possible Proto).zip
+publisher: 任天堂
+description:
+  任天堂より1986年2月21日にファミコンのディスクシステム用ソフトとして発売されたゴルフゲーム。シンプルな操作系を採用し、誰でも気軽に楽しむことができる。ゲームならではのコースが登場する全18ホールをまわってスコアを競い、1人用のストロークプレイと2人で対決するマッチプレイを搭載している。風向きや風の強さなども再現されており、実戦さながらの雰囲気でプレイすることができる。
 
 game: THE GOLF 美少女クラシック (非公認)
 sort_title: ざごるふびしょうじょくらしっく
 file: Golf, The - Bishoujo Classic (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 五目並べ (開発版)
+sort_title: ごもくならべ
 file: Gomoku Narabe (Japan) (Proto).zip
+publisher: 任天堂
 
 game: グーニーズ
 sort_title: ぐーにーず
 file: Goonies (Japan) (Disk Writer).zip
+publisher: コナミ
+description:
+  コナミより1988年4月8日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。映画『グーニーズ』を題材にした、仲間達を助けるためギャング団と戦う。主人公マイキーを操り、捕まった仲間を救出しながら隠された鍵を3本探し出し、制限時間以内に出口の扉を目指す。巨大ネズミを倒して爆弾を手に入れ、凶悪なギャング団やモンスターが潜む危険いっぱいのステージをクリアしよう。
 
 game: グラフィックエディター ホクサイ (非公認)
 sort_title: ぐらふぃっくえでぃたーほくさい
 file: Graphic Editor Hokusai - Ver 1.2 (Japan) (Unl).zip
+publisher: アイツー
 
 game: グリーンベレー
 sort_title: ぐりーんべれー
 file: Green Beret (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年4月10日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。アーケードからの移植作品。主人公のスティーブを操作し、ミサイルを破壊するために様々なステージをクリアしていく。全6ステージ。敵や敵の攻撃に触れたり、障害物である地雷に触れるとミスとなり、残り人数が無くなるとゲームオーバーとなる。また、特定の敵を倒すとバズーカなどのアイテムが手に入る。
 
 game: ガン・スモーク
 sort_title: がんすもーく
 file: Gun.Smoke (Japan).zip
+publisher: CAPCOM
+description:
+  カプコンより1988年1月27日にファミコンのディスクシステム用ソフトとして発売された強制縦スクロールのシューティングゲーム。 アーケードからの移植作品。アメリカの西部劇をテーマとしており、二丁拳銃の保安官ビリーがお尋ね者を退治する筋書きとなっている。ステージ途中で手配書を手に入れないとボスに会えない、アイテムを買えるショップが登場するなどアーケード版から大幅なアレンジが加えられている。
 
 game: ジャイラス
 sort_title: じゃいらす
 files:
   Gyruss (Japan).zip
   Gyruss (Japan) (Beta) (1988-10-03).zip
+publisher: コナミ
+description:
+  コナミより1988年11月18日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。アーケードからの移植作品となる。26世紀を舞台に、主人公であるルドルフが結成した宇宙防衛軍「ジャイラス」の戦闘機を操作し、ルドルフの父であるドメスによる太陽系外への侵略を阻止する事を目的としている。3D視点となっているが、戦闘空間が円筒状の曲面となっている事を特徴としている。
 
 game: ハレーウォーズ
 sort_title: はれーうぉーず
 file: Halley Wars (Japan).zip
+publisher: タイトー
+description:
+  タイトーより1989年1月6日にファミコンのディスクシステム用ソフトとして発売された縦スクロールシューティングゲーム。ア-ケード用ゲーム『ハレーズコメット』の移植作品となる。1986年当時、地球に76年ぶりに接近することで話題となっていたハレー彗星をモチーフとしている。撃墜し損ねた敵の数によって被害率が1%ずつカウントされていき、100%に到達する事でゲームオーバーとなるシステムを特徴としている。
 
 game: ハオ君の不思議な旅
 sort_title: はおくんのふしぎなたび
 file: Hao-kun no Fushigi na Tabi (Japan).zip
+publisher: DOG
+description:
+  DOGより1987年5月11日にファミコンのディスクシステム用ソフトとして発売されたアクションアドベンチャーゲーム。魔法使いを目指して修行中にもかかわらず、サボり気味で失敗ばかりしている主人公のハオ君に対し、師匠のウィザーズ先生がとある試練を課した。それは、この世で一番大切なものを探し出すための冒険となる。舞台はフィールドと城に分けられている。フィールドは、地上と地下の二層分で三層構成されている。
 
 game: 葉山レイコのデート de BLACKJACK (非公認)
 sort_title: はやまれいこのでーとでぶらっくじゃっく
 file: Hayama Reiko no Date de Blackjack (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 光神話 パルテナの鏡
 sort_title: ひかりしんわぱるてなのかがみ
@@ -598,139 +879,219 @@ files:
   Hikari Shinwa - Palthena no Kagami (Japan).zip
   Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1).zip
   Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1986年12月19日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。主人公ピットを操作し、メデューサを倒しエンジェランドを取り戻すのが目的となっている。アクションゲームであるが、ステージによって縦スクロールや横スクロール、探索アクションやシューティングなど目まぐるしく内容が変わるのが特徴となっている。
 
 game: 光GENJI ローラーパニック
 sort_title: ひかるげんじろーらーぱにっく
 file: Hikaru Genji - Roller Panic (Japan).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1989年3月20日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。ジャニーズ事務所所属の男性アイドルグループ「光GENJI」とタイアップしたゲーム作品。光GENJIのローラースケートが全員分奪われてライブを開催できなくなってしまったため、メンバーと共に犯人を捕まえるという内容になっている。
 
 game: アイアムアティーチャー スーパーマリオのセーター
 sort_title: あいあむあてぃーちゃーすーぱーまりのせーたー
 file: I Am a Teacher - Super Mario no Sweater (Japan).zip
+publisher: ロイヤル工業
+description:
+  ロイヤル工業より1986年8月27日にファミコンのディスクシステム用ソフトとして発売された編み物の教育用ソフト。実際にその編み図通りに編むと、本当にマリオの姿が入ったセーターができあがる。身長や胸囲、そで丈などのデータ入力すると、それに合ったセーターのサイズを表示してくれる。デザインは15種類あり、毛糸の使用量なども教えてくれる。編み物の初心者でも編むことができる親切設計となっている。
 
 game: アイアムアティーチャー 手あみのきそ
 sort_title: あいあむあてぃーちゃーてあみのきそ
 file: I Am a Teacher - Teami no Kiso (Japan).zip
+publisher: ロイヤル工業
+description:
+  ロイヤル工業より1986年9月26日にファミコンのディスクシステム用ソフトとして発売された編み物の教育用ソフト。手編みを基礎中の基礎から、それを応用した多彩な編み方までわかりやすく教えてくれる。身長や胸囲などのデータを入力して寸法を決め、サイズに合うように実際に自分で編みながら学べるので、編み物が苦手な人でも操作可能。編んでいく様子を画面で見ることができるのも初心者には参考になる。
 
 game: アイスクライマー
 sort_title: あいすくらいまー
 file: Ice Climber (Japan) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1988年11月18日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。エスキモーのポポとナナとなり、ハンマーとジャンプを駆使してフロアを登り頂上を目指す。2人同時プレイが可能で、協力して山を登ったり、どちらが先に頂上にたどり着くか勝負するなど様々な楽しみ方ができる。ハンマーでブロックを打ち崩し、敵を倒しながら上へ上へと進み、険しい氷山の頂上を目指す。
 
 game: アイスホッケー
 sort_title: あいすほっけー
 file: Ice Hockey (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1988年1月21日にファミコンのディスクシステム用ソフトとして発売されたトップビューの視点の横スクロールアイスホッケーゲーム。ゴールキーパを合わせて5人で敵のチームと戦う。味方は始めに体格(3種類)などを決めれるので戦略の幅も広がり、楽に試合を進めることができる。また、乱闘なども発生するのため、それらもゲームの見逃せない要素の一つとなっている。
 
-game: 中山美穂のトキメキハイスクール
-sort_title: なかやまみほのときめきはいすくーる
+game: アイドルホットライン 中山美穂のトキメキハイスクール
+sort_title: あいどるほっとらいんなかやまみほのときめきはいすくーる
 files:
   Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10).zip
   Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer).zip
   Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer).zip
   Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4).zip
   Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6).zip
+publisher: 任天堂
+description:
+  任天堂より1987年12月1日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。プレイヤーは高校生になって、当時の人気アイドルだった中山美穂との恋愛を実らせるのが目的となる。会話の選択肢に加え、表情の選択肢もあるのが特徴。発売当時はゲーム内の所々で表示される電話番号に電話をかけるとゲームの内容に沿った会話や情報を聞くことが可能だった。
 
 game: 囲碁 九路盤対局
 sort_title: いごきゅうろばんたいきょく
 file: Igo - Kyuu Roban Taikyoku (Japan).zip
+publisher: BPS
+description:
+  BPSより1987年4月14日にファミコンのディスクシステム用ソフトとして発売された囲碁ゲーム。本作では通常の19×19の盤面を使わず初心者用の9×9の小さな盤を使っている。1人用、2人用、リプレイ、レッスンの4つのモードがあり、石を盤に置いたりする際に忍者のグラフィックが出てくるなど遊び要素も満載。14段階の難易度を設定することができ、初心者から上級者まで幅広く楽しむことができる。
 
 game: 石道
 sort_title: いしどう
 file: Ishidou (Japan) (Disk Writer).zip
+publisher: ヒロ
+description:
+  ヒロより1990年12月7日にファミコンのディスクシステム書換専用ソフトとして発売されたパズルゲーム。独自の模様と色がついた石を操作してパズルを完成させるのが目的となる。石を置くには、色か模様が同じものを隣にしなくてはならないというルールがあり、ただ何も考えずにとりあえず置いておく、ということができない。クリアするには次に出てくる石などから、頭の中で手順を考えつつ進めていく必要がある。
 
 game: 磁界少年メット・マグ
 sort_title: じかいしょうねんめっとまぐ
 file: Jikai Shounen Met Mag (Japan).zip
+publisher: DOG
+description:
+  DOGより1987年7月3日にファミコンのディスクシステム用ソフトとして発売されたアクションパズルゲーム。磁石の同じ極性は反発して異なる極性は引き合うという特性を生かしたシステムが特徴。手に入れたマグチップによって磁力の極性が変わるので、それを利用して反発させたり引っ張ってもらったりしながら全100面のクリアを目指す。「磁界少年メット・マグ」と「磁界少女マット・メグ」の2つのタイトルでプレイ可能。
 
 game: ジンゴロー (非公認)
 sort_title: じんごろー
 file: Jingorou (Japan) (Unl).zip
+publisher: アイツー
 
 game: 帰ってきたマリオブラザーズ
 sort_title: かえってきたまりおぶらざーず
 file: Kaettekita Mario Bros. (Japan) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1988年11月30日にファミコンのディスクシステム書ソフトとして発売されたアクションゲーム。「マリオブラザーズ」がお茶漬けで有名な永谷園とのタイアップでリメイクされた作品。元祖よりも敵が大きく表示され、難易度もアップしている。イベントが盛りだくさんの「永谷園ワールド」があるなど、タイアップ独自の要素も追加されている。
 
 game: カリーンの剣
 sort_title: かりーんのつるぎ
 file: Kalin no Tsurugi (Japan).zip
+publisher: クリスタルソフト
+description:
+  クリスタルソフトより1987年10月2日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。トップビューの切り替え形マップ形式。マップ上を移動するモンスターに接触すると戦闘画面に切り替わる。戦闘は体当たりで行われ、どちらかが全滅するまで続けられ、途中で逃げることはできない。アリタニア王国に現われた魔物に対処するため、魔術師「グラドリフ」を捜索するのが目的となる。
 
 game: 仮面ライダーBLACK 対決 シャドームーン
 sort_title: かめんらいだーぶらっくたいけつしゃどーむーん
 file: Kamen Rider Black - Taiketsu Shadow Moon (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1988年4月15日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。石ノ森章太郎原作の特撮番組『仮面ライダーBLACK』を原作とするゲーム作品でキャラクターがコンシューマーゲームでは初となる、リアル頭身となっている。全6ステージ構成となっており、第2・第4ステージは愛車のバトルホッパーで進んでいく。
 
 game: カラテ・チャンプ
 sort_title: からてちゃんぷ
 file: Karate Champ (Japan).zip
+publisher: データイースト
+description:
+  データイーストより1988年7月22日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。空手の様々な技を繰り出し、どんどん敵を倒して進んでいく。勝負は3本中2本先取する勝ち抜き戦で、ボーナスステージや、ためし割りなどのイベントも発生して飽きさせないような作りになっている。跳び蹴りなどの技が決まる時は爽快感を感じることができる。
 
 game: かっとび!童児
 sort_title: かっとびどうじ
 file: Kattobi! Douji (Japan).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1989年10月20日にファミコンのディスクシステム用ソフトとして発売された野球ゲーム。たかや健二氏の漫画『かっとび!童児』を題材としたゲーム作品となる。野球の試合はカードで勝負するという独自のシステムを採用。他の色々な学校へ行き、ライバル達との試合に勝っていくと、彼らが仲間になってくれたり、必殺技を教えてくれたりしてチームを強化することができる。
 
 game: キックアンドラン
 sort_title: きっくあんどらん
 file: Kick and Run (Japan).zip
+publisher: タイトー
+description:
+  タイトーより1988年9月13日にファミコンのディスクシステム用ソフトとして発売されたサッカーゲーム。数々の国のチームを操り、トーナメントを制していく本格派サッカーゲームの先駆けとなった作品。ボールの近くの選手が自動的に操作対象になるなど画期的で斬新なシステムのおかげで操作性の良さも抜群。サッカー選手のアクションも多数用意されている。
 
 game: キック・チャレンジャー エアフット 野菜の国の足戦士
 sort_title: きっくちゃれんじゃーえあふっとやさいのくにのあしせんし
 file: Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi (Japan).zip
+publisher: バップ
+description:
+  バップより1987年11月20日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。トマトの姿をした主人公が、キックで敵やアイテムが隠されているオブジェクトを破壊しながら進めていく。アイテムには体力回復や一定時間無敵になるものなどの他にスニーカーや草鞋などの履き物も用意されている。また、シューズメーカーの「ナイキ」とタイアップしており、登場するスニーカーは全てナイキ製となる。
 
 game: 消えたプリンセス
 sort_title: きえたぷりんせす
 file: Kieta Princess (Japan).zip
+publisher: イマジニア
+description:
+  イマジニアより1986年12月20日にファミコンのディスクシステム用ソフトとして発売されたロールプレイング要素を含むアクションアドベンチャーゲーム。メディアミックスのWAVE JACKシリーズ第2作。プレイヤーは刑事「小林もんた」となり、失踪したプリンセス・キララと散逸した「五種の神器」を取り戻す為、広大なマップを持つ5つの町とその地下に広がる巨大な地下道を行き来しつつ捜査を行なう。
 
 game: 奇々怪界 怒涛編
 sort_title: ききかいかいどとうへん
 files:
   Kiki Kaikai - Dotou Hen (Japan).zip
   Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer).zip
+publisher: タイトー
+description:
+  タイトーより1987年8月28日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。アーケード用ゲーム『奇々怪界』のファミコン版。面クリア型ではなく、地続きのフィールドで構成された広大な1枚絵のマップのどこかに封じ込められた七福神を1人ずつ探し出し、ボスを倒して救出していく。ライフ制を導入しおり、お店でのアイテム購入など、アクションRPG的な要素が多く付加されている。
 
 game: カインドゥギャルズ (非公認)
 sort_title: かいんどぅぎゃるず
 files:
   Kind Gal's (Japan) (Disk 1) (Unl).zip
   Kind Gal's (Japan) (Disk 2) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: キン肉マン キン肉星王位争奪戦
 sort_title: きんにくまんきんにくせいおういそうだつせん
 files:
   Kinnikuman - Kinnikusei Oui Soudatsusen (Japan).zip
   Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer).zip
+publisher: バンダイ
+description:
+  バンダイより1987年5月1日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。ゆでたまごの漫画作品『キン肉マン』を題材としたゲーム作品で原作のキン肉星王位争奪編のストーリーを元に作られている。プレイヤーはキン肉マンら正義超人のチームを編成し、ステージの道中でマリポーサ、ゼブラ、フェニックスの各チームと闘う。相手チームを倒すと天守閣でボスと闘うことになるう。
 
 game: ナイト・ロアー 魔城の狼男
 sort_title: ないとろあーまじょうのおおかみおとこ
 file: Knight Lore - Majou no Ookami Otoko (Japan).zip
+publisher: ジャレコ
+description:
+  ジャレコより1986年12月19日にファミコンのディスクシステム用ソフトとして発売されたアクションパズルゲーム。ゲームのフィールドは当時あまり一般的ではなかった等角図の方式で描かれており、このことを評価する専門家もいる。夜になると狼男になる呪いをかけられた主人公が魔法使いに呪いを解いてもらうため、80日以内にお使いを済ませるのが目的となる。狼の姿の際には光から攻撃される。
 
 game: ナイトムーブ
 sort_title: ないとむーぶ
 files:
   Knight Move (Japan).zip
   Knight Move (Japan) (Rev 1) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1990年6月5日にファミコンのディスクシステム用ソフトとして発売されたアクションパズルゲーム。『テトリス』の開発者であるアレクセイ・パジトノフが考案したゲームとなる。数学的パズルの一種である「ナイト・ツアー」に近いルールを持つゲームで、ボードゲームのチェスに使用する駒の一つ、ナイトを操作し、4 X 8の32個のマスをナイト特有の動きを駆使しながら全てのマスを踏んで行く。
 
 game: 小林ひとみのホールドアップ (非公認)
 sort_title: こばやしひとみのほーるどあっぷ
 file: Kobayashi Hitomi no Hold Up (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 小林ひとみSHOCKINGテニス (非公認)
 sort_title: こばやしひとみしょっきんぐてにす
 file: Kobayashi Hitomi Shocking Tennis (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: コナミックアイスホッケー
 sort_title: こなみっくあいすほっけー
 file: Konamic Ice Hockey (Japan).zip
+publisher: コナミ
+description:
+  コナミより1988年7月22日にファミコンのディスクシステム用ソフトとして発売されたアイスホッケーゲーム。アイスホッケーでしか味わえないスピーディーな展開をシンプルな操作で再現しており、アイスホッケーの隠れた醍醐味でもある選手同士の乱闘もきちんと再現されている。ボタンを連打し、相手選手を倒してパックを奪いロングシュートを決める爽快感は他のスポーツゲームでは味わう事は出来ない内容。
 
 game: コナミックテニス
 sort_title: こなみっくてにす
 files:
   Konamic Tennis (Japan).zip
   Konamic Tennis (Japan) (Beta) (1986-10-22).zip
+publisher: コナミ
+description:
+  コナミより1988年8月19日にファミコンのディスクシステム用ソフトとして発売されたテニスゲーム。名作の多いコナミスポーツゲームシリーズの看板作品とも言えるゲーム作品。個性的な選手が揃ったチームを使い、トーナメントやエキシビジョンを勝ち抜いていくシンプルながらも奥が深いゲームとなっている。試合内容もキャラクターがアップに映し出されるなど迫力のある演出が魅力となる。
 
-game: 子猫物語 THE ADVENTURES OF CHATRAN
+game: 子猫物語
 sort_title: こねこものがたり
 files:
   Koneko Monogatari - The Adventures of Chatran (Japan).zip
   Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1986年9月19日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。ムツゴロウさんが監督を務めた映画『子猫物語』を題材としたゲーム作品。ステージは季節毎の春夏秋冬に分かれた、12か月分の昼と夜がある全24面構成。子猫のチャトランが恋人のシロと再会するのが目的となる。チャトランは敵の頭上に木の実や卵を落として攻撃することができる。
 
 game: 子育てゴッコ
 sort_title: こそだてごっこ
 file: Kosodate Gokko (Japan) (Unl).zip
+publisher: アイツー
 
 game: ゼルダの伝説2 リンクの冒険
 sort_title: ぜるだのでんせつ2
@@ -739,64 +1100,97 @@ files:
   Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1).zip
   Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition).zip
   Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1987年1月14日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。ゼルダシリーズの第2作目。ファミコンで発売された前作『ゼルダの伝説』の見下ろし型フィールドマップから、横視点のスクロールを基調としたアクションシーンが挿入されている。アクション性を重視した作りとなっており、経験値獲得によるレベルアップ、シンボルエンカウントによる敵戦闘といった特徴がある。
 
 game: リップスティック #1 ロリータ編 (非公認)
 sort_title: りっぷすてぃっく1
 file: Lipstick #1 - Lolita Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: リップスティック #2 女子学生編 (非公認)
 sort_title: りっぷすてぃっく2
 file: Lipstick #2 - Joshi Gakusei Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: リップスティック #3 OL編 (非公認)
 sort_title: りっぷすてぃっく3
 file: Lipstick #3 - OL Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: リップスティック #4 白衣の天使編 (非公認)
 sort_title: りっぷすてぃっく4
 file: Lipstick #4 - Hakui no Tenshi Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: リップスティック #5 スチュワーデス編 (非公認)
 sort_title: りっぷすてぃっく5
 file: Lipstick #5 - Stewardess Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: リュッター
 sort_title: りゅったー
 file: Lutter (Japan) (Disk Writer).zip
+publisher: アテナ
+description:
+  アテナより1989年11月24日にファミコンのディスクシステム書換専用ソフトとして発売された 横視点迷宮探索型アクションバズルゲーム。国際秘密警察機構に所属する最も優秀なエージェントの暗号名『LUTTER(リュッター)』。プレイヤーはそのリュッターとなり、狂った人工知能ロボットと戦う。怪物の徘徊する迷宮内を歩き回り、ボスを見つけて倒せば面クリアとなる。落ちているアイテムをうまく利用しながら進もう。
 
 game: ディープダンジョン 魔洞戦記
 sort_title: でぃーぷだんじょん1
 files:
   Madou Senki - Deep Dungeon (Japan).zip
   Madou Senki - Deep Dungeon (Japan) (Rev 1).zip
+publisher: DOG
+description:
+  DOGより1986年12月19日にファミコンのディスクシステム用ソフトとして発売されたロールプレインゲーム。ファミコン初の3DダンジョンRPGとなる。3Dで構成されたダンジョンを進み、モンスターを倒すことでLVを上げ、ゴールドを獲得。獲得ゴールドで新たな装備やアイテムが購入することが可能となっている。ダンジョン内では足下や壁を調べることで、新たな発見を見つけることができる。
 
 game: メルヘンヴェール
 sort_title: めるへんう゛ぇーる
 file: Maerchen Veil (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1987年3月3日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。魔法使いによって醜い妖精「ヴェール」の姿にさせられ、世界の果てへと飛ばされた主人公を操作し、故郷フェリクスを目指して帰還する内容となっている。アクションRPGであるが、パズルゲームやシューティングゲームの要素を含んでいる事を特徴としている。
 
 game: マグマプロジェクト ハッカー
 sort_title: まぐまぷろじぇくとはっかー
 file: Magma Project - Hacker (Japan).zip
+publisher: 徳間書店
+description:
+  徳間書店より1989年8月10日にファミコンのディスクシステム用ソフトとして発売されたロールプレイングゲーム。見知らぬ男にたくされたディスクを起動すると、なんとロボットが出現。「よいしょ」や「ぎゃぐ」、「おどす」などの行動が可能なロボットを操作し、悪の秘密結社「マグマ社」の計画を阻止することが目的となる。「マグマ社」の計画、「マグマプロジェクト」の詳細が不明なため、難易度は高くなっている。
 
 game: 麻雀
 sort_title: まーじゃん
 file: Mahjong (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1986年2月21日にファミコンのディスクシステム用ソフトとして発売されたコンピュータと対戦するシンプルな2人打ち麻雀ゲーム。3本勝負で、コンピュータより先に3本取ると勝ち。麻雀を覚えたての人にぴったりの「初級」モード、麻雀に強くなりたい人にぴったりの「中級」モード、麻雀に自信のある人用の「上級」モードを搭載している。
 
-game: 麻雀ゴラク美少女名人戦
+game: 麻雀ゴラク美少女名人戦 (非公認)
 sort_title: まーじゃんごらくびしょうじょめいじんせん
 file: Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 麻雀家族
 sort_title: まーじゃんかぞく
 file: Mahjong Kazoku (Japan).zip
+publisher: アイレム
+description:
+  アイレムより1987年8月4日にファミコンのディスクシステム用ソフトとして発売された初心者から上級者まで色々たのしめる二人打ちの麻雀ゲーム。毎回役満が狙える「一発麻雀」モードや、上級者向けのモード、初心者向けの「麻雀先生」モードを搭載している。特に上級者モードでは、配牌された時点で、理牌(リーパイ)されないで打つ事となる。また、牌が立体的で見やすいのも麻雀初心者には嬉しい配慮となっている。
 
 game: 魔塔の崩壊
 sort_title: まとうのほうかい
 file: Matou no Houkai - The Hero of Babel (Japan).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1988年9月2日にファミコンのディスクシステム用ソフトとして発売された横スクロール式のアクションRPG。ゲームは魔物の巣食うバベルの塔から恋人を救うのが目的となる。RPG要素として一定の値まで経験値を溜めると、ライフの上限値や攻撃力や防御力などが増える。また、基本攻撃の剣の他にWPを消費することでサブウェポンを利用することも可能となっている。
 
 game: 迷宮寺院ダババ
 sort_title: めいきゅうじいんだばば
 file: Meikyuu Jiin Dababa (Japan).zip
+publisher: コナミ
+description:
+  コナミより1987年5月29日にファミコンのディスクシステム用ソフトとして発売されたトップビュー型のアクションゲーム。邪神ダババを倒してさらわれた恋人のターニャを救い出すのが目的となる。プレイヤー・敵ともマス目を跳ねるようにして移動する。この際、Aボタンを押しながら移動すると1マス飛び越えて移動する。ステージはエリアと呼ばれ、各エリアのボスを倒すとクリアとなる。
 
 game: メトロイド
 sort_title: めとろいど
@@ -806,18 +1200,27 @@ files:
   Metroid (Japan) (Rev 3).zip
   Metroid (Japan) (Rev 3) (3DS Virtual Console).zip
   Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1986年8月6日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。『メトロイドシリーズ』の1作目。任天堂としては初めてとなるハードなSFの世界観を持った作品。遠距離攻撃(ビーム)を主要アクションにしたジャンプアクションゲームで、ダンジョンを進みながらアイテムや通路を探索する要素を大きな特徴としている。エンディングではプレイヤーキャラの正体が明かされる。
 
 game: マイケルEnglish大冒険
 sort_title: まいけるいんぐりっしゅだいぼうけん
 files:
   Michael English Daibouken (Japan).zip
   Michael English Daibouken (Japan) (Sample) (1987-03-25).zip
+publisher: スコーピオンソフト
+description:
+  スコーピオンソフトより1987年6月19日にファミコンのディスクシステム用ソフトとて発売された英語が学べる教育ソフト。小林まこと原作の漫画「ホワッツマイケル?」を題材としたゲーム作品。空から降ってくるアルファベットを集め、英単語を完成させるのが目的となる。おなじみライバル猫・ニャジラをはじめ、漫画に登場するキャラクターが総出演する。
 
 game: もえろツインビー シナモン博士を救え!
 sort_title: もえろついんびーしなもんはかせをつくえ
 files:
   Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).zip
   Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1).zip
+publisher: コナミ
+description:
+  コナミより1986年11月21日にファミコンのディスクシステム用ソフトとして発売された縦横両スクロールシューティングゲーム。アーケードゲーム『ツインビーの続編。前作から100年後、新たな敵・ガトランティスにさらわれたシナモン博士を救うためツインビーたちが世界中の国々を巡る内容となっている。本作では3人まで同時プレイが可能な点と、縦スクロールだけでなく横スクロールの面も導入された事を特徴としている。
 
 game: ザ・マネーゲーム (開発版)
 sort_title: ざまねーげーむ
@@ -828,30 +1231,51 @@ sort_title: きねこ1
 files:
   Monitor Puzzle Kineko, The - Kinetic Connection (Japan).zip
   Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto).zip
+publisher: アイレム
+description:
+  アイレムより1986年11月28日にファミコンのディスクシステム用ソフトとして発売されたパズルゲーム。16個から最大48個まであるパズルのピースを合わせて絵を完成させることが目的となる。ぱずるのピースはそれぞれがアニメーションで動いているため、単純な絵合わせではない事が特徴となっている。また、ピースの向きは一定ではなく、ピースを回転させなければ正しい配置にならない場合もある。
 
 game: きね子II キネティックコネクション
 sort_title: きねこ2
 file: Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer).zip
+publisher: アイレム
+description:
+  アイレムより1987年3月1日にファミコンのディスクシステム用ソフトとして発売されたパズルゲーム。16個から最大48個まであるパズルのピースを合わせて絵を完成させることが目的となる。ぱずるのピースはそれぞれがアニメーションで動いているため、単純な絵合わせではない事が特徴となっている。本作はパッケージ版の販売は行われず、ディスクライターでの書き換え専用ソフトとなっている。
 
 game: モンティのドキドキ大脱走
 sort_title: もんてぃのどきどきだいだっそう
 file: Monty on the Run - Monty no Doki Doki Dai Dassou (Japan).zip
+publisher: ジャレコ
+description:
+  ジャレコより1987年7月31日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。殺人容疑で逮捕されたモンティになって真犯人を見つけて容疑を晴らし、さらには真犯人にさらわれた恋人を助けるために脱走をはかる。ステージの途中には真犯人のモンタージュ写真の切れ端が落ちているので、それを拾い集めながら進んでいく。全4面構成で、最後は集めた写真を持って法廷で真犯人を告発できる。
 
 game: ムーンボールマジック
 sort_title: むーんぼーるまじっく
 file: Moonball Magic (Japan) (Disk Writer).zip
+publisher: DOG
+description:
+  DOGより1988年7月12日にファミコンのディスクシステム書換専用ソフトとして発売されたピンボールゲーム。全7面で構成されている。敵キャラやパワーアップの要素などもあり、普通のピンボールとは違った楽しみ方がある。ワープホールを使って別の面に行くことができたり、画面(ピンボール台)を揺らしてボールを弾ませることも可能。ボールの動きもリアルで、本物のピンボールの挙動を上手く表現している。
 
 game: 涙の倉庫番スペシャル
 sort_title: なみだのそうこばんすぺしゃる
 file: Namida no Soukoban Special (Japan).zip
+publisher: アスキー
+description:
+  アスキーより1986年7月30日にファミコンのディスクシステム用ソフトとして発売されたパズルゲーム。パソコンからの移植作品。倉庫の中の荷物を押して決められた場所に片付けていく内容となっている。ファミコン版オリジナル要素としてロープなどの道具が使える「ゲームモード」があり、エディットモードも搭載している。発売当時、全150面をクリアしたら、特製メダルをもらうことができた。
 
 game: なんきんのアドベンチア
 sort_title: なんきんのあどべんちあ
 file: Nankin no Adventure (Japan) (Disk Writer).zip
+publisher: サンソフト
+description:
+  サンソフトより1988年12月9日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。イラストレーター・なんきん氏の名をタイトルにしている。神秘の国ジャポネに、文明を伝えるためにやってきた伝道師ザビエルを操作して、ゲイシャボーイやスシガール、謎のパフォーマーなど妙で個性的なキャラクターと会話し、文明とはなんたるかを教えてあげるのが目的となる。
 
 game: 謎の壁 ブロックくずし
 sort_title: なぞのかべぶろっくくずし
 file: Nazo no Kabe - Block Kuzushi (Japan).zip
+publisher: コナミ
+description:
+  コナミより1986年12月13日にファミコンのディスクシステム用ソフトとして発売されたブロック崩しゲーム。単にブロックを崩すだけでなく、画面内に現れる敵キャラクターを倒してアイテムでパワーアップしたり、「コナミマン」をキャッチして裏面にワープしたりすることができる。また、いくつかの面に隠されているアルファベットを組み合わせて英文を作り、最終面クリア後にその英文を入力しなければならない。
 
 game: 謎の村雨城
 sort_title: なぞのむらさめじょう
@@ -860,26 +1284,44 @@ files:
   Nazo no Murasamejou (Japan) (GameCube).zip
   Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console).zip
   Nazo no Murasamejou (World) (Ja) (3DS Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1986年4月14日にファミコンのディスクシステム用ソフトとして発売されたアクションアドベンチャーゲーム。和風の世界を舞台とした作品でトップビューの画面構成で画面切り替えスクロールのシステムを採用している。江戸時代を舞台に主人公の鷹丸を操作し、領地を荒らす忍軍を倒す事と謎の生命体が宿った巨大な石造「ムラサメ」を調査することを目的としている。
 
 game: ナゾラーランド 第2号
 sort_title: なぞらーらんど2
 file: Nazoler Land - Dainigou (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1987年6月12日にファミコンのディスクシステム用マガジンとして発売されたオムニバスソフト。本作から雑誌らしくお便り紹介のナゾラーBOXが収録されている。ナゾラーBOXでは応募のためにドット絵がかけるツールも用意。世界一周ナゾラークイズ、わらしべ長者、パタリック(パズル)ナゾラー少年探偵団(アドベンチャー)爆風トモちゃん(アクション)と5種類のミニゲームを楽しむことができる。
 
 game: ナゾラーランド 第3号
 sort_title: なぞらーらんど3
 file: Nazoler Land - Daisangou (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1988年3月11日にディスクシステム用マガジンとして発売されたオムニバスソフト。スゴロクやビンゴ、「トモちゃん」シリーズ、お便りコーナーに加え、自分のキャラクターがグラフィック付きで登場する「ミス・ナゾラーコンテスト」、そして1画面アドベンチャーの「ナゾラー少年探偵団」など、多くのゲームを収録している。
 
 game: ナゾラーランド 創刊号
 sort_title: なぞらーらんど1
 file: Nazoler Land - Soukangou (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1987年2月6日にファミコンのディスクシステム用マガジンとして発売されたオムニバスソフト。3D冒険シミュレーション、ウルトラクイズ、ナゾラー占い、回転迷路ドアマン押し出しパズル、スーパージグソー、3DMAZE(立体迷路)ファミコン適正検査の8つのミニゲームが楽しめる。別のゲームで手に入れたアイテムが、違うゲームで役立ったりといった要素も存在している。
 
 game: ナゾラーランドスペシャル!! クイズ王を探せ
 sort_title: なぞらーらんどすぺしゃる
 file: Nazoler Land Special!! - Quiz Ou wo Sagase (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1987年12月18日にファミコンのディスクシステム用ソフトとして発売されたクイズゲーム。日本各地を巡りながらクイズマスターに挑戦し、最終的には「クイズ王」を探し出して倒し、自らがクイズ王になることが目的となる。アドベンチャー要素も搭載されている。また、漢字も使用されているので読みやすく、問題も様々なジャンルが用意されている。
 
 game: 19 ヌイーゼン
 sort_title: ぬいーぜん
 file: Neunzehn - 19 (Japan).zip
+publisher: ソフトプロ
+description:
+  ソフトプロより1988年3月4日にファミコンのディスクシステム用ソフトとして発売された戦略シミュレーションゲーム。無人島を舞台に王位継承権を持った4人が争う。森、山、砂、水に由来する4軍から1軍を選び、他の軍を倒し、島に隠された「万能の石」を持ち帰るのが目的となる。8×8のエリア内を、最大3人のユニットで構成した部隊で戦う。相手の動きを読んだ指示、夜には視界が狭まったりと奥深い戦略が楽しめる。
 
 game: 野村のファミコントレード (開発版)
 sort_title: のむらのふぁみこんとれーど
@@ -887,192 +1329,300 @@ files:
   Nomura no Famicom Trade (Japan) (Proto) (FTAJ).zip
   Nomura no Famicom Trade (Japan) (Proto) (FTBJ).zip
   Nomura no Famicom Trade (Japan) (Proto) (FTEJ).zip
+publisher: 野村證券
 
 game: おもいっきり探偵団 覇悪怒組 摩天郎の挑戦状
 sort_title: おもいっきりたんていだんはあどぐみまてんろうのちょうせんじょう
 file: Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1988年3月25日にファミコンのディスクシステム用ソフトとして発売された謎解きが強めのアクションゲーム。フジテレビ系で放送された少年探偵団ドラマ『おもいっきり探偵団 覇悪怒組』を題材とするゲーム作品。本編に入る前に覇悪怒組に入団すべく、記憶力と俊敏性のテストを受けるミニゲームを攻略。晴れて覇悪怒組に入団した後は、ドロボウ・摩天郎に奪われた黄金像を取り戻すため。摩天郎を追っていく。
 
 game: オセロ
 sort_title: おせろ
 files:
   Othello (Japan) (DV 2).zip
   Othello (Japan) (DV 3, 5) (Disk Writer).zip
+publisher: 河田
+description:
+  河田より1986年10月13日にファミコンのディスクシステム用ソフトとして発売されたボードゲーム。世界中で親しまれているボードゲーム『オセロ』を楽しめる。自分の石で相手の石をはさんで自分の石にしていき、数を競うおなじみのルールで誰でも気軽に楽しむことが可能。コンピュータとの対戦モードと2人プレイモードを搭載し、コンピュータとの対戦では4段階のレベルから強さを選ぶことができる。
 
 game: オトッキー
 sort_title: おとっきー
 files:
   Otocky (Japan).zip
   Otocky (Japan) (Beta) (1986-04-15).zip
+publisher: アスキー
+description:
+  アスキーより1987年3月27日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。自機は8方向にショットを撃つことができるが、その方向に対し、それぞれのショット音に音階を持たせてある。一定スコアに達するとミュージッくん楽団が出現し、取るとダメージを受けて縮小したミュージックボールが1段階大きくなる。ステージは全部で11面となる。最終面は音符が隠されている。
 
 game: パックマン
 sort_title: ぱっくまん
 file: Pac-Man (Japan) (Disk Writer).zip
+publisher: ナムコ
+description:
+  ナムコより1990年5月18日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションゲーム。画面内の全てのドットを食べ尽くせばステージクリアとなる。ひときわ大きなドット「パワーエサ」を食べることで一定時間、モンスターを食べることができ、真っ青になったイジケモンスターは、連続して食べると高得点になる。フルーツターゲットやボーナスキャラも食べて高得点を目指そう。
 
-game: パチコム
-sort_title: ぱちこむ
+game: パチコン
+sort_title: ぱちこん
 file: Pachicom (Japan) (Disk Writer).zip
+publisher: 東芝EMI
+description:
+  東芝EMIより1988年10月4日にファミコンのディスクシステム書換専用ソフトとして発売されたパチンコゲーム。台は2種類しかありませんが、なんと台数は240も用意されている。クギはそれぞれ違い、それを見る拡大モードもついている。打ち止めまでの時間を競うモードと、出玉数を競う2つのモードが用意されている。ボーナスラウンドもあり、パチンコに詳しくなくても充分プレイできる内容となっている。
 
 game: パチンコGP
 sort_title: ぱちんこぐらんぷり
 file: Pachinko Grand Prix (Japan).zip
+publisher: データイースト
+description:
+  データイーストより1988年11月18日にファミコンのディスクシステム用ソフトとして発売されたパチンコゲーム。パチンコに詳しくないプレイヤー向けのトレーニングモードと、パチンコで日本一を目指すグランプリモードの2種類用意されている。グランプリモードは、全国8地区で開催されるパチンコ大会に参加し、決められた台数を打ち止めにしていく。ただのパチンコゲームではなく、目的があるので飽きずにプレイできる。
 
 game: 機動警察パトレイバー 第2小隊出動せよ!
 sort_title: きどうけいさつぱとれいばーだいにしょうたいしゅつどうせよ
 file: Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo! (Japan) (Disk Writer).zip
+publisher: バンダイ
+description:
+  バンダイより1989年1月29日日にファミコンのディスクシステム用ソフトとして発売された横スクロールのアクションゲーム。アニメ『機動警察パトレイバー』を題材としたゲームで、パトレイバーゲームの初代作品となる。原作の雰囲気そのままにレイバーを思う存分に操れる。プレイヤーは2種類のパトレイバーから選択し、ゲームを進めていくことになる。
 
 game: ピンボール
 sort_title: ぴんぼーる
 file: Pinball (Japan) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1989年5月30日にファミコンのディスクシステム書換専用ソフトとして発売されたピンボールゲーム。上はスロットで下はカード、という2画面構成で、特定の場所にボールが入ると、マリオがレディを助けるビンゴゲームで遊べるボーナス画面へと遷移する。ファミコン初心者でも遊べるほどシンプルなルールのため、ゲームやピンボールに慣れていない人でも楽しむことができる。
 
 game: プロゴルファー猿 影のトーナメント
 sort_title: ぷろごるふぁーさるかげのとーなめんと
 file: Pro Golfer Saru - Kage no Tournament (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1987年5月25日にファミコンのディスクシステム用ソフトとして発売されたゴルフゲーム。人気漫画『プロゴルファー猿』を原作としたゲーム作品。ゴルフ界の影の帝王でもあるミスターXからの挑戦により、天才ゴルフ少年猿丸が様々な難コースを攻略していく。コースの残り飛距離によって、「ハタツツミ」や「モズオトシ」など原作の技が利用できる。また、1P用と2P用があり、2P用では竜を使用できる。
 
 game: プロレス
 sort_title: ぷろれす
 file: Pro Wres (Japan) (En).zip
+publisher: 任天堂
+description:
+  任天堂より1986年10月21日にファミコンのディスクシステム用ソフトとして発売されたプロレスゲーム。プレイヤーは6人の個性的なレスラーの中から1人選び、FWAとFWFの2冠王となるためにシングルマッチを戦い抜くことが目的。5人に勝ち抜くとFWAの王者となり、その後は5人を相手に防衛戦を戦う。最後にFWFの王者であるグレート・プーマ相手のタイトルマッチとなり、それに勝てばエンディングとなる。
 
 game: プロフェッショナル麻雀悟空
 sort_title: ぷろふぇっしょなるまーじゃんごくう
 file: Professional Mahjong Gokuu (Japan).zip
+publisher: アスキー
+description:
+  アスキーより1986年12月25日にファミコンのディスクシステム用ソフトとして発売された4人打ち形式の麻雀ゲーム。西遊記の登場人物が対戦相手となり、キャラクター毎ににより打ち筋がハッキリしている。それぞれのキャラクターに指導してもらうことができる指導モードが使いやすいことも特徴。また、段位があがると次のクラスへと上がることができる。
 
 game: パルサーの光
 sort_title: ぱるさーのひかり
 file: Pulsar no Hikari - Space Wars Simulation (Japan).zip
+publisher: ソフトプロ
+description:
+  ソフトプロより1987年10月2日にファミコンのディスクシステム用ソフトとして発売された戦略シミュレーションゲーム。宇宙に進出した人類が、フェイザー砲や光子魚雷などを駆使して銀河系を襲う海賊船と戦っていく。燃料を基地で補給しながらワープして移動していく。ステージは制限時間内に宇宙海賊達を撃破すればクリアとなる。ゲームには難易度設定も用意されている。
 
 game: パットパットゴルフ
 sort_title: ぱっとぱっとごるふ
 file: Putt Putt Golf (Japan).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1989年3月30日にファミコンのディスクシステム用ソフトとして発売されたゴルフゲーム。パットパット王国の王子になるため、ケーキコース、オモチャコースなど楽しい9つのホールを、パター1本でクリアしていく。各コースには、お菓子や動物がいたりと仕掛けが多数用意されている。ストロークゲームとチャレンジゲーム、2種類を楽しむことができ、4人同時プレイも可能となっている。
 
 game: パズルボーイズ
 sort_title: ぱずるぼーいず
 file: Puzzle Boys (Japan) (Disk Writer).zip
+publisher: アトラス
+description:
+  アトラスより1990年11月16日にファミコンのディスクシステム書換専用ソフトとして発売されたパズルゲーム。ゲームボーイ版から移植されたという珍しい作品。動く岩、押すと回転する壁などを利用して進んでいく。ゆっくり時間をかけてクリアできるパズルモード、ゴールへの時間を競うトライアルモードがあり、セーブ機能も搭載している。各フロアやトライアルモードのクリア時間などの記録も可能。2人プレイもできる。
 
-game: クイックハンター パラメーターディスク Vol.1 (非公認)
-sort_title: くいっくはんたーぱらめーたーでぃすく1
+game: クイックハンター パラメーターディスク (非公認)
+sort_title: くいっくはんたーぱらめーたーでぃすく
 file: Quick Hunter - Parameter Disk Vol.1 (Japan) (Unl).zip
+publisher: ゲーム・アナライザー集団
 
 game: クイックハンター (非公認)
 sort_title: くいっくはんたー
 file: Quick Hunter (Japan) (Unl).zip
+publisher: ゲーム・アナライザー集団
 
 game: らじかるぼんばー!! 地雷くん
 sort_title: らじかるぼんばーじらいくん
 file: Radical Bomber!! Jirai-kun (Japan) (Disk Writer).zip
+publisher: ジャレコ
+description:
+  ジャレコより1988年7月29日にファミコンのディスクシステム用ソフトとして発売された鬼ごっこがテーマのボードゲーム。主人公のランを操作して、4人のキャラクターと鬼ごっこしていく。誰でも一度は遊んだことのあるルールなので、すぐに理解できるのが特徴。警備ロボットである地雷くんにぶつかると、爆発するので次のターンは1回休みなど「鬼ごっこ」と「スゴロク」を楽しむことができる。
 
 game: リフレクトワールド
 sort_title: りふれくとわーるど
 file: Reflect World (Japan).zip
+publisher: イーストキューブ
+description:
+  イーストキューブより1987年6月2日にファミコンのディスクシステム用ソフトとして発売されたRPGのようなシューティングゲーム。4方向にスクロールする。巨大要塞ダイバダストを破壊することが目的で、敵のキメを倒して得たお金で武器や装備などを買って自機をパワーアップすることができるというのが特徴。「モジュール」をゲットすると川や海にも入れるようになる。
 
 game: レリクス 暗黒要塞
 sort_title: れりくすあんこくようさい
 file: Relics - Ankoku Yousai (Japan).zip
+publisher: ボーステック
+description:
+  ボーステックより1987年4月10日にファミコンのディスクシステム用ソフトとして発売されたアクションアドベンチャーゲーム。主人公の「魂」を操作し、暗黒要塞の最上階に潜むヘルを倒して輝きの王女を救出する事を目的としている。パソコンからのアレンジ移植作。敵の攻撃や体当たりによってHPが減少し、HPがゼロになるとゲームオーバーとなる。攻撃を受ける瞬間に背中側に入力する事で防御が可能となっている。
 
 game: レプリカート
 sort_title: れぷりかーと
 file: Replicart (Japan).zip
+publisher: タイトー
+description:
+  タイトーより1988年2月26日にファミコンのディスクシステム用ソフトとして発売されたドットイートアクションゲーム。自動で進む細長い自機をドット単位で制御する。21世紀末を舞台に、主人公の青年ディックが乗り込んだヘビのような細長いマシン「レプリカート」を操作し、宇宙生物「サランドラ」を倒して地球を救出する事を目的としている。テレビゲームの古典と言われるヘビゲームをアレンジした作品となる。
 
 game: リサの妖精伝説
 sort_title: りさのようせいでんせつ
 file: Risa no Yousei Densetsu (Japan).zip
+publisher: コナミ
+description:
+  コナミより1988年6月21日にファミコンのディスクシステム用ソフトとして発売されたたメディアミックス・アドベンチャーゲームゲーム。当時人気アイドルだった立花理佐が本人役で登場する。立花理佐の大ファンである主人公が、理佐と二人で世界を暗闇に閉ざそうとする暗闇の魔女を倒すため、平和のしるしのハープ・正義のしるしの聖剣・愛のしるしの宝石を探しながらおとぎ話の世界を冒険する。
 
 game: ロジャー・ラビット
 sort_title: ろじゃーらびっと
 file: Roger Rabbit (Japan).zip
+publisher: ケムコ
+description:
+  ケムコより1989年2月16日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。アメリカのアニメ『ロジャーラビット』を題材としたゲーム作品で、奥さんであるジェシカを救い出すのが目的となる。鉄パイプの間を通り抜け敵をよけ階段をのぼり、画面上に配置されているハートをすべて取ればステージクリアとなる。敵の上から木箱などを落として撃退することもできる。全60面が用意されている。
 
 game: セーラー服美少女図鑑 Vol.1 (非公認)
 sort_title: せーらーふくびしょうじょずかん1
 file: Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: セーラー服美少女図鑑 Vol.2 (非公認)
 sort_title: せーらーふくびしょうじょずかん2
 file: Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: セーラー服美少女図鑑 Vol.3 (非公認)
 sort_title: せーらーふくびしょうじょずかん3
 file: Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: セーラー服美少女図鑑 Vol.4 (非公認)
 sort_title: せーらーふくびしょうじょずかん4
 file: Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: セーラー服美少女図鑑 Vol.5 (非公認)
 sort_title: せーらーふくびしょうじょずかん5
 file: Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: セーラー服美少女図鑑 Vol.6 (非公認)
 sort_title: せーらーふくびしょうじょずかん6
 file: Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: サムライソード
 sort_title: さむらいそーど
 file: Samurai Sword (Japan).zip
+publisher: CAPCOM
+description:
+  カプコンより1988年11月15日にファミコンのディスクシステム用ソフトとして発売された全4章の構成のアドベンチャーゲーム。プレイヤーは光の戦士となり、暗黒の司祭ソロンを倒して世界に平和を取り戻すべく、伝説の武器サムライソードと光の魔法使いを探し求めて旅をする。ただし、間違った行動を取るとゲームオーバーになる場合がある。また、主人公の操作はすべてコマンド選択式となっている。
 
 game: サンタクロースの宝箱
 sort_title: さんたくろーすのたからばこ
 file: Santa Claus no Takarabako (Japan).zip
+publisher: データイースト
+description:
+  データイーストより1987年12月4日にファミコンのディスクシステム用ソフトとして発売されたミニゲームが収録されたソフト。クリスマス時期にぴったりの「ビンゴ」や「ルーレット」、「スロットマシーン」に「ポーカーダイス」など4つのゲームが収録されている。また、アニメーション画面と音楽があるクリスマスカードを作成できるモードもあり、メッセージ・ドット絵・背景・BGMなどを設定してカードを作ることが可能。
 
 game: SDガンダムワールド ガチャポン戦士 スクランブルウォーズ マップコレクション
-sort_title: えすでぃーがんだむわーるどがちゃぽんせんしすくらんぶるうぉーずまっぷこれくしょん
+sort_title: えすでぃーがんだむわーるどがちゃぽんせんしすくらんぶるうぉーず2
 file: SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer).zip
+publisher: バンダイ
+description:
+  バンダイより1989年3月3日にファミコンのディスクシステム書換専用ソフトとして発売されたシミュレーションゲーム。大人気アニメ「機動戦士ガンダム」の登場キャラクター達を使用し、宇宙を舞台に陣取り合戦を繰り広げたゲームの続編。前作以上のステージ数で内容も大幅にボリュームアップしている。また、独自のアクション性も入っており、誰でも楽しむことができる。
 
 game: SDガンダムワールド ガチャポン戦士 スクランブルウォーズ
-sort_title: えすでぃーがんだむわーるどがちゃぽんせんしすくらんぶるうぉーず
+sort_title: えすでぃーがんだむわーるどがちゃぽんせんしすくらんぶるうぉーず1
 files:
   SD Gundam World - Gachapon Senshi - Scramble Wars (Japan).zip
   SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer).zip
   SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1).zip
   SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console).zip
   SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console).zip
+publisher: バンダイ
+description:
+  バンダイより1987年11月20日にファミコンのディスクシステム用ソフトとして発売されたシミュレーションゲーム。「SDガンダム」だけでなく、バンダイSD系キャラとしても初のゲーム化作品でアクションバトルシミュレーションの先駆者的なゲーム。シミュレーションを土台としバトルはアクションで行い、それを繰り返しながら敵のガチャポリス(本拠地)を目指し、総大将を倒すのが目的となる。
 
 game: セクション・Z
 sort_title: せくしょんぜっと
 file: Section-Z (Japan).zip
+publisher: CAPCOM
+description:
+  カプコンより1987年5月25日にファミコンのディスクシステム用ソフトとして発売された縦横両スクロールシューティングゲーム。アーケードからのアレンジ移植作。アルファベットのAからZまでのセクションを進んでいき、セクションZのボスである人工生命体エルブレインを破壊するのが目的となる。全60セクションで、20セクションは1ステージとなり、全3ステージ。各ステージの最後にはボスが存在する。
 
 game: 聖剣サイコカリバー 魔獣の森伝説
 sort_title: せいけんさいこかりばーまじゅうのもりでんせつ
 file: Seiken Psychocalibur - Majuu no Mori Densetsu (Japan).zip
+publisher: イマジニア
+description:
+  イマジニアより1987年5月19日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。妖精を助け、アイテムを集めることでトールの戦闘能力は向上する。8つのエリアを突破し、第9エリアの奥で魔王フルングニルを倒すのが目的となる。また、ゲームソフトに付属するカセットテープの音楽をヒントにゲームを進めると「最大の邪悪」大魔王のもとにたどり着くことができる。
 
 game: セクシーインベーダー (非公認)
 sort_title: せくしーいんべーだー
 file: Sexy Invaders (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: セクシー野球拳アドベンチャーII (非公認)
 sort_title: せくしーやきゅうけんあどべんちゃー2
 file: Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 上海 (開発版)
 sort_title: しゃんはい1
 file: Shanghai (Japan) (Proto) (1986-10-16).zip
+publisher: サンソフト
 
 game: 上海II (開発版)
 sort_title: しゃんはい2
 files:
   Shanghai II (Japan) (Proto) (Dragon Layout).zip
   Shanghai II (Japan) (Proto) (Scorpion Layout).zip
+publisher: サンソフト
 
 game: シルヴィアーナ 愛いっぱいの冒険者
 sort_title: しるう゛ぃあーなあいいっぱいのりとるえんじぇる
 file: Silviana - Ai Ippai no Little Angel (Japan).zip
+publisher: パック・イン・ビデオ
+description:
+  パック・イン・ビデオより1988年8月10日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。主人公の「シルヴィアーナ」を操作し、難病に苦しむ母親を救出するため万病に効くと言われる薬を持つ人物を捜す冒険に出る内容となっている。戦闘は敵に体当たりする事で行われるシステムとなっている他、現況を一時的に保存できる「メモリセーブ」の機能が搭載されている事などを特徴としている。
 
 game: スマッシュピンポン
 sort_title: すまっしゅぴんぽん
 file: Smash Ping Pong (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1987年5月30日にファミコンのディスクシステム用ソフトとして発売された卓球ゲーム。プレイヤーの動きは手とラケットのみで表現されるごくシンプルなゲーム画面となっている。球の速さは5段階のレベルが選べるが、最速であるレベル5の試合は最強の難しさとなる。また、ディスクシステムのキャラクター「ディスくん」が声援を送ってくれたり、おなじみ「ドンキーコング」が観客席で応援してくれる。
 
 game: サッカー
 sort_title: さっかー
 file: Soccer (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1986年2月21日にファミコンのディスクシステム用ソフトとして発売された1チーム6人制でプレイするサッカーゲーム。プレイヤーは日本・アメリカ・イギリス・フランス・西ドイツ・ブラジル・スペインの7チームから好きなチームを1つ選んで試合をする。チームによって能力に差はないので自分の実力で戦うことができ、2人プレイも可能。シンプルなシステムで白熱した試合を楽しむことができる。
 
 game: ソロモンの鍵
 sort_title: そろもんのかぎ
 file: Solomon no Kagi (Japan) (Disk Writer).zip
+publisher: テクモ
+description:
+  テクモより1991年1月25日にファミコンのディスクシステム書換専用ソフトとして発売されたパズルアクションゲーム。知恵と魔法を駆使して鍵を取り、禁断の迷宮の奥へ進んでいく。プレイヤーは魔法使いダーナとなって、空間に石を出したり消したりする換石の術で移動したり、火球の術で敵を攻撃しながら全50ステージを進んでいく。闇に包まれた世界を修復するため、禁断の閉じられた秘境、魔の星座宮を攻略するのが目的。
 
-# game: Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl)
-# file: Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl).zip
+game: 創世記ファミー ROM-QD for 256K+64K (非公認)
+sort_title: そうせいきふぁみーろむくいっくでぃすく
+file: Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl).zip
+publisher: アイツー
 
 game: 水晶の龍
 sort_title: すいしょうのどらごん
 file: Suishou no Dragon (Japan).zip
+publisher: DOG
+description:
+  DOGより1986年12月15日にファミコンのディスクシステム用ソフトとして発売されたコマンド選択型のアドベンチャーゲーム。宇宙空間に現れた水晶の龍の謎、人々、シンシア、ナイルの失踪事件を調べていく。ゲーム雑誌『ファミリーコンピュータマガジン』の裏技紹介コーナーで「ヒロインのシンシアと野球拳ができる」というプレゼントクイズ用に作られた嘘が掲載され、市場からソフトの在庫が無くなる事態が起きた。
 
 # game: Sunsoft Dev Disk Lot - 'D167B23' no. 1 (Japan)
 # file: Sunsoft Dev Disk Lot - 'D167B23' no. 1 (Japan).zip
@@ -1128,18 +1678,30 @@ file: Suishou no Dragon (Japan).zip
 game: スーパーボーイ・アラン
 sort_title: すーぱーぼーいあらん
 file: Super Boy Allan (Japan).zip
+publisher: サンソフト
+description:
+  サンソフトより1987年3月27日にファミコンのディスクシステム用ソフトとして発売されたアクションパズルゲーム。「ゲームに夢中になったら頭が良くなっちゃった」で、おなじみの知能ゲームシリーズの第2弾。妹の病気を治すため山頂近くの竜牙洞にあるというガーバの実を採りに行くことが目的となる。ソフトに付属している本はマンガ仕立てとなっている。
 
 game: スーパーロードランナー
 sort_title: すーぱーろーどらんなー1
 file: Super Lode Runner (Japan).zip
+publisher: アイレム
+description:
+  アイレムより1987年3月5日にファミコンのディスクシステム用ソフトとして発売されたアクションパズルゲーム。魔人に持ち去られた宝を取り戻すために55階建ての魔人の塔を攻略するため、様々なトラップや敵を避けながらステージ内の金塊を全て集めて脱出する。1人用モード、2人用モードでステージの数に違いがあるほかに、2人で協力しないと取れない金塊も存在する。また、エディット機能も搭載している。
 
 game: スーパーロードランナーII
 sort_title: すーぱーろーどらんなー2
 file: Super Lode Runner II (Japan) (Disk Writer).zip
+publisher: アイレム
+description:
+  アイレムより1987年8月25日にファミコンのディスクシステム書換専用ソフトとして発売されたアクションパズルゲーム。難易度が高いことで有名な「スーパーロードランナー」の続編。全30面のこのゲームは「スーパーロードランナー」のエディット機能で、一般ユーザーが作った優秀なステージを抜粋して収録している。ロードランナーをやり尽くして、さらなる難易度を求めている上級者向けの内容となる。
 
 game: スーパーマリオブラザーズ
 sort_title: すーぱーまりおぶらざーず1
 file: Super Mario Bros. (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1986年2月21日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。大魔王クッパにさらわれたキノコ王国のピーチ姫を助け出すため、マリオが冒険の旅に出る。ステージは地上、地下、海中、雲の上などバラエティに富んだ各ステージにはワープゾーンやボーナスステージなども存在する。スーパーキノコやスターなどのパワーアップアイテムを駆使してステージをクリアしていこう。
 
 game: スーパーマリオブラザーズ2
 sort_title: すーぱーまりおぶらざーず2
@@ -1148,32 +1710,48 @@ files:
   Super Mario Bros. 2 (Japan) (En) (DV 2).zip
   Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.).zip
   Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1986年6月3日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。前作『スーパーマリオブラザーズ』のステージを完全に一新した作品。歴代スーパーマリオシリーズの中でも最上級の難易度を誇ると言われている。前作で存在していた「クリアに必須ではない高等テクニック」の数々が本作では必須となったコースが多く、難易度は前作よりも大幅に高くなっている。
 
 game: タマ&フレンズ 3丁目大冒険
 sort_title: たまあんどふれんずさんちょうめだいぼうけん
 file: Tama & Friends - Sanchoume Daibouken (Japan).zip
+publisher: バンダイ
 
 game: 谷川浩司の将棋指南II 名人への道 新板 詰め将棋・次の一手
 sort_title: たにがわこうじのしょうぎしなん2B
 file: Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1988年8月10日にファミコンのディスクシステム書換専用ソフトとして発売された将棋ゲーム。「谷川浩司の将棋指南2 名人への道」のB面(詰将棋・次の一手)のみの書き換え版となり、「谷川浩司の将棋指南2 名人への道」のディスクがなければ遊ぶことができない。じっくり楽しめる詰め将棋は全40問。次の一手は全20問が用意されている。
 
 game: 谷川浩司の将棋指南II 名人への道
 sort_title: たにがわこうじのしょうぎしなん2A
 files:
   Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan).zip
   Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1987年11月13日にファミコンのディスクシステム用ソフトとして発売された将棋ゲーム。対局、詰め将棋、次の一手の3コースが楽しめる。ただし、詰め将棋、次の一手はB面に書換を行わなければプレイできない。待った機能も利用できるが、次の対戦へ進めなくなってしまう。詰め将棋は全40問。次の一手は全20問。プレイ後には棋力を判定してくれる。対戦相手の思考時間も短く快適にプレイできる。
 
 game: 探偵神宮寺三郎 危険な二人 後編
 sort_title: たんていじんぐうじさぶろうきけんなふたりB
 files:
   Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan).zip
   Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console).zip
+publisher: データイースト
+description:
+  データイーストより1989年2月10日にファミコンのディスクシステム用ソフトとして発売されたコマンド選択式の探偵物アドベンチャーゲーム。『神宮寺シリーズ』の第3作目。ファミコンのディスクシステムにて、前後編構成で発売された。神宮寺は、助手である洋子の友人・京子の誘いで、バイクレースを観戦するため洋子と共に鈴鹿サーキットを訪れた。そのレース中、京子の夫であるレーサー・岡崎が事故を起こしてしまう。
 
 game: 探偵神宮寺三郎 危険な二人 前編
 sort_title: たんていじんぐうじさぶろうきけんなふたりA
 files:
   Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan).zip
   Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console).zip
+publisher: データイースト
+description:
+  データイーストより1988年12月9日にファミコンのディスクシステム用ソフトとして発売されたコマンド選択式の探偵物アドベンチャーゲーム。『神宮寺シリーズ』の第3作目。ファミコンのディスクシステムにて、前後編構成で発売された。神宮寺は、助手である洋子の友人・京子の誘いで、バイクレースを観戦するため洋子と共に鈴鹿サーキットを訪れた。そのレース中、京子の夫であるレーサー・岡崎が事故を起こしてしまう。
 
 game: 探偵神宮寺三郎 新宿中央公園殺人事件
 sort_title: たんていじんぐうじさぶろうしんじゅくちゅうおうこうえんさつじんじけん
@@ -1181,140 +1759,223 @@ files:
   Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan).zip
   Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer).zip
   Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console).zip
+publisher: データイースト
+description:
+  データイーストより1987年4月27日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。ハードボイルドな世界観が魅力の『探偵　神宮寺三郎』シリーズの第1作。新宿中央公園でホステス・高田桃子の絞殺死体が発見される。私立探偵の神宮寺三郎は友人の熊野刑事から犯人探しを依頼される。 捜査を進めていく中で桃子が勤めていたバーのマスター、常連客の資産家など容疑者が次々と浮かび上がる。
 
 game: タロット占い
 sort_title: たろっとうらない
 file: Tarot Uranai (Japan).zip
+publisher: スコーピオンソフト
+description:
+  スコーピオンソフトより1988年12月23日にファミコンのディスクシステム書換専用ソフトとして発売された占いゲーム。気持ちをこめてタロットをシャッフルすると、タロットカードで占いができる。占えるジャンルは「恋愛」「仕事」「勉強」で、「未来」「どちらの選択がよいか」。「恋愛」は「未来の恋人」を占うこともできる。占い結果は結構シビアで、胸が痛いものもあるので注意が必要。
 
 game: テニス
 sort_title: てにす
 file: Tennis (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1986年2月21日にファミコンのディスクシステム用ソフトとして発売されたテニスゲーム。難易度を設定でき、自分のレベルに合わせてプレイできる。シングルモードとダブルスモードどちらも搭載されており、ダブルスではCPU相手に2人で力を合わせる協力プレイを楽しむこともできる。選手の状況や押したボタンによって様々なショットを打つことができ、相手の裏をかいて勝利を目指す。
 
 game: 天使たちの放課後 (非公認)
 sort_title: てんしたちのほうかご
 files:
   Tenshitachi no Houkago (Japan) (Disk 1) (Unl).zip
   Tenshitachi no Houkago (Japan) (Disk 2) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: タイムツイスト 歴史のかたすみで… 後編
 sort_title: たいむついすとB
 file: Time Twist - Rekishi no Katasumi de... - Kouhen (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1991年7月26日にファミコンのディスクシステム用ソフトとして発売された。任天堂制作の前後編2枚ディスクアドベンチャーシリーズの最終作品。『ふぁみこんむかし話』シリーズの制作スタッフがてがけており、そちらのシリーズには含まれないものの、流れをくむ作品となっている。今作では『世界史』をテーマとしつつ『SF』要素も絡めた作風となっており、様々な時代をタイムトラベルで巡りながら冒険する。
 
 game: タイムツイスト 歴史のかたすみで… 前編
 sort_title: たいむついすとA
 file: Time Twist - Rekishi no Katasumi de... - Zenpen (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1991年7月26日にファミコンのディスクシステム用ソフトとして発売された。任天堂制作の前後編2枚ディスクアドベンチャーシリーズの最終作品。『ふぁみこんむかし話』シリーズの制作スタッフがてがけており、そちらのシリーズには含まれないものの、流れをくむ作品となっている。今作では『世界史』をテーマとしつつ『SF』要素も絡めた作風となっており、様々な時代をタイムトラベルで巡りながら冒険する。
 
 game: タイタニックミステリー 蒼の戦慄
 sort_title: たいたにっくみすてりー
 file: Titanic Mystery - Ao no Senritsu (Japan).zip
+publisher: 学習研究社
+description:
+  学習研究社より1987年7月24日にファミコンのディスクシステム用ソフトとして発売されたアドベンチャーゲーム。1912年に沈没した豪華客船タイタニック号が題材で、沈没の謎を解明し、船を引き上げるのが目的となる。原爆炉が搭載され、エイリアンのさなぎが巣食っている船内を探索してく。360度を横スクロールで表現しており、他にも記者会見を開いたりスポンサーから資金を調達したりといった独自システムを搭載。
 
 game: とびだせ大作戦
 sort_title: とびだせだいさくせん
 file: Tobidase Daisakusen (Japan) (Famicom 3D System).zip
+publisher: DOG
+description:
+  DOGより1987年3月12日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。別売りの「とびだせメガネ」を使用すると画面が立体的に見えるモードが選択可能で、これがタイトルの由来になっている。ゲーム内容はプレイヤーキャラクターが敵を避け、穴を飛び越えながら画面奥に向かって疾走するというもの。作曲は植松伸夫が担当している。
 
 game: トンカチエディター (非公認)
 sort_title: とんかちえでぃたー
 file: Tonkachi Editor (Japan) (Unl).zip
+publisher: アイツー
 
 game: 遠山の金さんすぺえす帖 Mr.GOLD
 sort_title: とおやまのきんさんすぺえすちょうみすたーごーるど
 file: Tooyama no Kinsan Space Chou - Mr. Gold (Japan).zip
+publisher: 東映動画
+description:
+  東映動画より1988年7月19日にファミコンのディスクシステム用ソフトとして発売されたコマンド選択式アドベンチャーゲーム。陣出達朗の時代小説『まぼろし奉行』(遠山の金さん)をオマージュした結城恭介のSF小説『遠山桜宇宙帖 奴の名はゴールド』を題材としたゲーム作品となる。ゲームシステムは捜査モードとシラスモードという2種類のモードに分かれている。
 
 game: トップルジップ
 sort_title: とっぷるじっぷ
 files:
   Topple Zip (Japan).zip
   Topple Zip (Japan) (Project EGG).zip
+publisher: ボーステック
+description:
+  ボーステックより1987年10月9日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。「レースアドベンチャー」と銘打たれた本作はアクション性のあるレースゲームに、アドベンチャー要素が盛り込まれたものとなっている。全8面からなるレースの舞台となるエリアをワープゾーンで行き来し、その間にクリアに必要なアイテムを収集し、最終的に他の飛行機よりも先にゴールに到達することが目的。
 
 game: トランスフォーマー ザ・ヘッドマスターズ
 sort_title: とらんすふぉーまーざへっどますたーず
 file: Transformers - The Headmasters (Japan).zip
+publisher: タカラ
+description:
+  タカラより1987年8月28日にファミコンのディスクシステム用ソフトとして発売されたアクションゲーム。アニメ『ランスフォーマー』を題材としたゲーム作品。横スクロールと画面切り換えが組み合わせられていて、上の画面には自分の体力が表示されている。ゲームは3つの星にいる4人の仲間を救い出し、宿敵であるメガザラックを倒すのが目的となる。仲間のロボットには個性があるため、各ステージに合わせて選択してこう。
 
 game: ツインビー
 sort_title: ついんびー
 file: TwinBee (Japan) (Disk Writer).zip
+publisher: コナミ
+description:
+  コナミより1988年3月11日にファミコンのディスクシステム書換専用ソフトとして発売された縦スクロールシューティングゲーム。ツインビーで、どんどん現れてくる敵キャラを破壊しまくる。2人プレイも可能で、その場合は1Pのツインビーと2Pのウィンビーが手をつないで横に並んで強力な弾を撃ったり、上下に並べば放射弾を放つことも可能となる。
 
 game: ウルトラマン 怪獣帝国の逆襲
 sort_title: うるとらまん1
 files:
   Ultraman - Kaijuu Teikoku no Gyakushuu (Japan).zip
   Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer).zip
+publisher: バンダイ
+description:
+  バンダイより1987年1月29日にファミコン用ソフトとして発売されたアクションゲーム。特撮テレビ番組『ウルトラマン』を題材にした初めてのファミコンゲームとなる。プレイヤーはハヤタ隊員となり、光線銃で敵を倒しながら横スクロールのフィールドを進んでいく。道中でエネルギー球を集めて画面上のメーターを満タンにすると、ウルトラマンに変身することが可能となっている。
 
 game: ウルトラマン2 出撃科特隊!!
 sort_title: うるとらまん2
 file: Ultraman 2 - Shutsugeki Katokutai (Japan).zip
+publisher: バンダイ
+description:
+  バンダイより1987年12月18日にファミコンのディスクシステム用ソフトとして発売されたアクションシューティングゲーム。特撮テレビ番組『ウルトラマンを題材としたゲーム作品。プレイヤーは科学特捜隊5人、移動手段、武器を選択し、各面に登場する怪獣を撃破する。科学特捜隊本部での設定面、アイテム探索や怪獣との戦闘を行うトップビュー面、ウルトラマンが怪獣にトドメを指す際の戦闘面とに分かれている。
 
 game: ウルトラマン倶楽部 地球奪還作戦
 sort_title: うるとらまんくらぶちきゅうだっかんさくせん
 files:
   Ultraman Club - Chikyuu Dakkan Sakusen (Japan).zip
   Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).zip
+publisher: バンダイ
+description:
+  バンダイより1988年10月22日にファミコンのディスクシステム用ソフトとして発売されたロールプレイングゲーム。怪獣軍団に捕らわれたウルトラ兄弟を救出し、怪獣軍団の親玉を倒すのが目的となる。敵怪獣ごとに弱点が設定されており、戦闘時にその部分に照準を合わせて攻撃すると大ダメージを与えられる。経験値、貨幣、守備力の概念がなく、敵を倒し続けると攻撃力が、逃げ続けたりすると素早さが上がる。
 
 game: バレーボール
 sort_title: ばれーぼーる
 file: Volleyball (Japan).zip
+publisher: 任天堂
+description:
+  任天堂より1986年7月21日にファミコンのディスクシステム用ソフトとして発売されたバレーボールゲーム。ファミコン初のバレーボールゲームで、1人用プレイでは日本のチームを操り世界の強豪チームと戦う。登場するキャラクターは男子と女子を選択でき、男子リーグでは女子リーグより球のスピードが速い。登場チームは日本も含めた8ヶ国で、1986年当時のゲームのため現在では存在しないソ連も参加している。
 
 game: VS. エキサイトバイク
 sort_title: ぶいえすえきさいとばいく
 files:
   Vs. Excitebike (Japan) (En).zip
   Vs. Excitebike (Japan, USA) (En) (Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1988年12月9日にファミコンのディスクシステム用ソフトとして発売されたモトクロスバイクでタイムを競うレースゲーム。ファミコン版のエキサイトバイクに2人対戦モードを追加したバージョンとなる。コースには障害物やコブなどがあり左右のボタンでウィリーなどをして転倒しないように走らなければいけないので2人プレイが白熱する。また、エディット機能があるのも魅力の一つとなっている。
 
 game: 惑星アトン外伝
 sort_title: わくせいあとんがいでん
 file: Wakusei Aton Gaiden (Japan) (National Tax Agency Demo).zip
+publisher: 国税庁
+description:
+  国税庁より1990年11月にファミコンのディスクシステム用ソフトとして製作されたゲームで、税を知る週間のコンテンツとして用意された。時代は2050年、太陽系から遠く離れた惑星アトンという平和な星。しかし、惑星アトンに凶悪な敵が攻めてきて、国の財源(税金)と「暮らしを支える税・極秘文書」が奪われてしまった。主人公が乗る宇宙船は、クイズに答えながら敵機を撃ち落とし、財源と極秘文書を取り戻していく。
 
 game: ワードナの森
 sort_title: わーどなのもり
 file: Wardner no Mori (Japan).zip
+publisher: タイトー
+description:
+  タイトーより1988年3月24日にファミコンのディスクシステム用ソフトとして発売された横スクロールアクションゲーム。悪い魔法使いワードナによって水晶に変えられてしまった王女を救うため、王子となってワードナの森に向かう。指先から放たれる炎を武器に敵を倒し、敵が落としていくアイテムをショップのアイテムと交換することでパワーアップすることができる。
 
 game: ウィンターゲームズ
 sort_title: うぃんたーげーむず
 file: Winter Games (Japan).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1987年3月27日にファミコンのディスクシステム用ソフトとして発売されたスポーツゲーム。パソコンからの移植作品となる。冬季五輪競技のホットドッグ(モーグル)、スピードスケート、フィギュアスケート、ボブスレーの4種目の競技で記録を競う。ボタンを押すタイミングに特化したゲーム内容だが、本作ではさらに操作タイミングでのコマンド操作をプレイヤーの選択に任せている。
 
 game: レッキングクルー
 sort_title: れっきんぐくるー
 file: Wrecking Crew (Japan) (Disk Writer).zip
+publisher: 任天堂
+description:
+  任天堂より1989年2月3日にファミコンのディスクシステム書換専用ソフトとして発売されたビル解体アクションゲーム。マリオとルイージがビルの解体屋となり、敵をかわしながら全ての壁を壊していく。順番に注意して壊さなければクリアできないパズル的要素も満載。やりごたえ充分の全100面に加え、「デザインモード」でオリジナル面を作ることも可能となっている。2人プレイも楽しむことができる。
 
 game: ゼビウス
 sort_title: ぜびうす
 file: Xevious (Japan) (Disk Writer).zip
+publisher: ナムコ
+description:
+  ナムコより1990年5月18日にファミコンのディスクシステム書換専用ソフトとして発売された縦スクロールシューティングゲーム。戦闘機ソルバルウを操り、地球を侵略してきたゼビウス軍を撃破していく。対空攻撃の「ザッパー」と、自機前方にある照準の場所に弾を打ち込む対地攻撃「ブラスター」の2種類の攻撃を駆使してゼビウス軍をなぎ倒していこう。
 
 game: ギャルズダンジョン 野球拳パートII (非公認)
 sort_title: ぎゃるずだんじょんやきゅうけんぱーと2
 file: Yakyuuken Part II - Gal's Dungeon (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 妖怪屋敷
 sort_title: ようかいやしき
 file: Youkai Yashiki (Japan).zip
+publisher: タイトー
+description:
+  タイトーより1987年10月23日にファミコンのディスクシステム用ソフトとして発売された画面切り換えタイプのアクションゲーム。お札をはがして妖怪を復活させてしまったリカちゃんを救い出すため、主人公のユウジくんを操り、妖怪大魔王「ばちあたり」を倒すのが目的となる。武器は1本の懐中電灯となり、全5ステージが用意されている。不気味な妖怪達がゲーム内の雰囲気を盛り上げてくれる。
 
 game: 夢工場ドキドキパニック
 sort_title: ゆめこうじょうどきどきぱにっく
 files:
   Yume Koujou - Doki Doki Panic (Japan) (DV 1).zip
   Yume Koujou - Doki Doki Panic (Japan) (DV 2).zip
+publisher: フジテレビ
+description:
+  フジテレビより1987年7月10日にファミコンのディスクシステム用ソフトとして発売された縦横スクロール方式のアクションゲーム。1987年に行われたフジサンケイグループのイベント「コミュニケーションカーニバル 夢工場'87」のタイアップ商品として任天堂によって開発された。ゲームの主人公にはイベントのキャラクター「イマジンファミリー」を採用し、子供達に対するイベント夢工場の周知を図っている。
 
 game: 遊メイズ
 sort_title: ゆうめいず
 file: Yuu Maze (Japan).zip
+publisher: タイトー
+description:
+  タイトーより1988年10月28日にファミコンのディスクシステム用ソフトとして発売されたアクションパズルゲーム。「乗り物禁止例」が発令された2088年の日本が舞台。その法令をかいくぐって開催された地下レースで、主人公の弟が負けてしまい奴隷となってしまう。その弟を救うのが目的となる。主人公が乗る車を操作して、固定画面の迷路上に配置されたドットを消していく。
 
 game: ディープダンジョンII 勇士の紋章
 sort_title: でぃーぷだんじょん2
 files:
   Yuushi no Monshou - Deep Dungeon (Japan).zip
   Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer).zip
+publisher: DOG
+description:
+  DOGより1987年5月30日にファミコンのディスクシステム用ソフトとして発売された3DダンジョンRPG。『ディープダンジョン』の続編となる。今作では地下だけではなく地上にも舞台が広がっている。魔王ルウが勇剣士ラル(前作の主人公)に倒されて数十年後、ドールの街の人々の記憶からルウの名が忘れられた頃、地底からルウが再び復活した。そんな最中、ラルの子孫という若者が現れる。
 
 game: ザナック
 sort_title: ざなっく
 file: Zanac (Japan).zip
+publisher: ポニーキャニオン
+description:
+  ポニーキャニオンより1986年11月28日にファミコンのディスクシステム用ソフトとして発売されたシューティングゲーム。遺跡のような地上物など古代文明に似た要素を融合させる事で特異な世界観を形成。「自動難易度調整機能搭載」「通常ショット+8種のサブウェポンを駆使して戦う」「高速スクロール」を実現している。全12ステージで地上物と空中物があり、一部サブウェポンでは地上物を攻撃できない。
 
 game: 雑学オリンピック わたなべわたる編 (非公認)
 sort_title: ざつがくおりんぴっく1
 file: Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: 雑学オリンピック PartII (非公認)
 sort_title: ざつがくおりんぴっく2
 file: Zatsugaku Olympic Quiz Part II (Japan) (Unl).zip
+publisher: ハッカーインターナショナル
 
 game: ゼルダの伝説 THE HYRULE FANTASY
 sort_title: ぜるだのでんせつ1
@@ -1325,3 +1986,6 @@ files:
   Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube).zip
   Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1).zip
   Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console).zip
+publisher: 任天堂
+description:
+  任天堂より1986年2月21日にファミコンのディスクシステム用ソフトとして発売されたアクションRPG。任天堂のディスクシステムの第一弾ソフト。魔王ガノンよって捕らえられたゼルダ姫を救出するため、世界中に散らばったトライフォースのかけらを探すリンクの壮大な物語を描いている。広大な大地や地下迷宮を自由に探索し、数々の謎を解き明かしていく。難易度が高い「裏ゼルダ」も収録されている。

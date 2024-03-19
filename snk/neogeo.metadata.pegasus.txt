@@ -1,0 +1,467 @@
+game: ファイヤー・スープレックス
+sort_title: ふぁいやーすーぷれっくす
+file: 3countb.zip
+
+game: 2020年スーパーベースボール
+sort_title: にせんにじゅうねんすーぱーべーすぼーる
+file: 2020bb.zip
+
+game: ASO II
+sort_title: えーえすおー2
+file: alpham2.zip
+
+game: アンドロデュノス
+sort_title: あんどろでゅのす
+file: androdun.zip
+
+game: 痛快GANGAN行進曲
+sort_title: つうかいがんがんこうしんきょく
+file: aodk.zip
+
+game: 龍虎の拳
+sort_title: りゅうこのけん1
+file: aof.zip
+
+game: 龍虎の拳2
+sort_title: りゅうこのけん2
+file: aof2.zip
+
+game: アート・オブ・ファイティング 龍虎の拳外伝
+sort_title: りゅうこのけん3
+file: aof3.zip
+
+game: バカ殿様麻雀漫遊記
+sort_title: ばかとのさままーじゃんまんゆうき
+file: bakatono.zip
+
+game: ラギ
+sort_title: らぎ
+file: bjourney.zip
+
+game: ブレイジングスター
+sort_title: ぶれいじんぐすたー
+file: blazstar.zip
+
+game: ブレイカーズ
+sort_title: ぶれいかーず
+file: breakers.zip
+
+game: ベースボールスターズ プロフェッショナル
+sort_title: べーすぼーるすたーず1
+file: bstars.zip
+
+game: ベースボールスターズ2
+sort_title: べーすぼーるすたーず2
+file: bstars2.zip
+
+game: バーニングファイト
+sort_title: ばーにんぐふぁいと
+file: burningf.zip
+
+game: クロススウォード
+sort_title: くろすすうぉーど1
+file: crsword.zip
+
+game: サイバーリップ
+sort_title: さいばーりっぷ
+file: cyberlip.zip
+
+game: ダブルドラゴン
+sort_title: だぶるどらごん
+file: doubledr.zip
+
+game: エイトマン
+sort_title: えいとまん
+file: eightman.zip
+
+game: 餓狼伝説SPECIAL
+sort_title: がろうでんせつすぺしゃる
+file: fatfursp.zip
+
+game: 餓狼伝説
+sort_title: がろうでんせつ1
+file: fatfury1.zip
+
+game: 餓狼伝説2
+sort_title: がろうでんせつ2
+file: fatfury2.zip
+
+game: 餓狼伝説3
+sort_title: がろうでんせつ3
+file: fatfury3.zip
+
+game: フットボールフレンジー
+sort_title: ふっとぼーるふれんじー
+file: fbfrenzy.zip
+
+game: ギャラクシーファイト ユニバーサル・ウォーリアーズ
+sort_title: ぎゃらくしーふぁいとゆにばーさるうぉーりあーず
+file: galaxyfg.zip
+
+game: 餓狼 MARK OF THE WOLVES
+sort_title: がろうまーくおぶざうるう゛す
+file: garou.zip
+
+game: 超人学園ゴウカイザー
+sort_title: ちょうじんがくえんごうかいざー
+file: gowcaizr.zip
+
+game: ゴーストパイロット
+sort_title: ごーすとぱいろっと
+file: gpilots.zip
+
+game: ジョイジョイキッド
+sort_title: じょいじょいきっど
+file: joyjoy.zip
+
+game: 天外魔境 真伝
+sort_title: てんがいまきょうしんでん
+file: kabukikl.zip
+
+game: ファイターズヒストリーダイナマイト
+sort_title: ふぁいたーずひすとりーだいなまいと
+file: karnovr.zip
+
+game: 風雲スーパータッグバトル
+sort_title: ふううんすーぱーたっぐばとる
+file: kizuna.zip
+
+game: ザ・キング・オブ・ファイターズ'94
+sort_title: ざきんぐおぶふぁいたーず0094
+file: kof94.zip
+
+game: ザ・キング・オブ・ファイターズ'95
+sort_title: ざきんぐおぶふぁいたーず0095
+file: kof95.zip
+
+game: ザ・キング・オブ・ファイターズ'96
+sort_title: ざきんぐおぶふぁいたーず0096
+file: kof96.zip
+
+game: ザ・キング・オブ・ファイターズ'97
+sort_title: ざきんぐおぶふぁいたーず0097
+file: kof97.zip
+
+game: ザ・キング・オブ・ファイターズ'98
+sort_title: ざきんぐおぶふぁいたーず0098
+file: kof98.zip
+
+game: ザ・キング・オブ・ファイターズ'99
+sort_title: ざきんぐおぶふぁいたーず0099
+file: kof99.zip
+
+game: ザ・キング・オブ・ファイターズ2000
+sort_title: ざきんぐおぶふぁいたーず2000
+file: kof2000.zip
+
+game: ザ・キング・オブ・ファイターズ2001
+sort_title: ざきんぐおぶふぁいたーず2001
+file: kof2001.zip
+
+game: ザ・キング・オブ・ファイターズ2002
+sort_title: ざきんぐおぶふぁいたーず2002
+file: kof2002.zip
+
+game: ザ・キング・オブ・ファイターズ2003
+sort_title: ざきんぐおぶふぁいたーず2003
+file: kof2003.zip
+
+game: キング・オブ・ザ・モンスターズ
+sort_title: きんぐおぶざもんすたーず1
+file: kotm.zip
+
+game: キング・オブ・ザ・モンスターズ2
+sort_title: きんぐおぶざもんすたーず2
+file: kotm2.zip
+
+game: 幕末浪漫 月華の剣士
+sort_title: ばくまつろまんげっかのけんし1
+file: lastblad.zip
+
+game: 幕末浪漫第二幕 月華の剣士 月に咲く華、散りゆく花
+sort_title: ばくまつろまんげっかのけんし2
+file: lastbld2.zip
+
+game: リーグボウリング
+sort_title: りーぐぼうりんぐ
+file: lbowling.zip
+
+game: あしたのジョー伝説
+sort_title: あしたのじょーでんせつ
+file: legendos.zip
+
+game: ラストリゾート
+sort_title: らすとりぞーと
+file: lresort.zip
+
+game: マジカルドロップ2
+sort_title: まじかるどろっぷ2
+file: magdrop2.zip
+
+game: マジカルドロップ3
+sort_title: まじかるどろっぷ3
+file: magdrop3.zip
+
+game: マジシャンロード
+sort_title: まじしゃんろーど
+file: maglord.zip
+
+game: 麻雀狂列伝 西日本編
+sort_title: まーじゃんきょうれつでんにしにほんへん
+file: mahretsu.zip
+
+game: ちびまる子ちゃん まる子デラックスクイズ
+sort_title: ちびまるこちゃんまるこでらっくすくいず
+file: marukodq.zip
+
+game: 新豪血寺一族 闘婚 -Matrimelee-
+sort_title: しんごうけつじいちぞくとうこんまちゅりめれー
+file: matrim.zip
+
+game: みなさんのおかげさまです! 大スゴロク大会
+sort_title: みなさんのおかげさまですだいすごろくたいかい
+file: minasan.zip
+
+game: 将棋の達人
+sort_title: しょうぎのたつじん
+file: moshougi.zip
+
+game: メタルスラッグ
+sort_title: めたるすらっぐ1
+file: mslug.zip
+
+game: メタルスラッグ2
+sort_title: めたるすらっぐ2a
+file: mslug2.zip
+
+game: メタルスラッグ3
+sort_title: めたるすらっぐ3
+file: mslug3.zip
+
+game: メタルスラッグ4
+sort_title: めたるすらっぐ4
+file: mslug4.zip
+
+game: メタルスラッグ5
+sort_title: めたるすらっぐ5
+file: mslug5.zip
+
+game: メタルスラッグX
+sort_title: めたるすらっぐ2b
+file: mslugx.zip
+
+game: ミューテイション・ネイション
+sort_title: みゅーていしょんねいしょん
+file: mutnat.zip
+
+game: NAM-1975
+sort_title: なむいちきゅうごに
+file: nam1975.zip
+
+game: ニンジャコンバット
+sort_title: にんじゃこんばっと
+file: ncombat.zip
+
+game: ニンジャコマンドー
+sort_title: にんじゃこまんどー
+file: ncommand.zip
+
+game: ネオジオカップ'98
+sort_title: ねおじおかっぷ98
+file: neocup98.zip
+
+game: ニンジャマスターズ 覇王忍法帖
+sort_title: にんじゃますたーず
+file: ninjamas.zip
+
+game: オーバートップ
+sort_title: おーばーとっぷ
+file: overtop.zip
+
+game: パルスター
+sort_title: ぱるすたー
+file: pulstar.zip
+
+game: クイズ名探偵ネオ&ジオ クイズ大捜査線パート2
+sort_title: くいずだいそうさせん2
+file: quizdai2.zip
+
+game: クイズ大捜査線
+sort_title: くいずだいそうさせん1
+file: quizdais.zip
+
+game: クイズ キング・オブ・ファイターズ
+sort_title: くいずきんぐおぶふぁいたーず
+file: quizkof.zip
+
+game: 神凰拳
+sort_title: しんおうけん
+file: ragnagrd.zip
+
+game: リアルバウト餓狼伝説
+sort_title: りあるばうとがろうでんせつ1
+file: rbff1.zip
+
+game: リアルバウト餓狼伝説2
+sort_title: りあるばうとがろうでんせつ2
+file: rbff2.zip
+
+game: リアルバウト餓狼伝説SPECIAL
+sort_title: りあるばうとがろうでんせつすぺしゃる
+file: rbffspec.zip
+
+game: ライディングヒーロー
+sort_title: らいでぃんぐひーろー
+file: ridhero.zip
+
+game: ロボアーミー
+sort_title: ろぼあーみー
+file: roboarmy.zip
+
+game: レイジ・オブ・ザ・ドラゴンズ
+sort_title: れいじおぶざどらごんず
+file: rotd.zip
+
+game: サムライスピリッツ零SPECIAL
+sort_title: さむらいすぴりっつ5sp
+file: samsh5sp.zip
+
+game: サムライスピリッツ
+sort_title: さむらいすぴりっつ1
+file: samsho.zip
+
+game: 真サムライスピリッツ 覇王丸地獄変
+sort_title: さむらいすぴりっつ2
+file: samsho2.zip
+
+game: サムライスピリッツ 斬紅郎無双剣
+sort_title: さむらいすぴりっつ3
+file: samsho3.zip
+
+game: サムライスピリッツ 天草降臨
+sort_title: さむらいすぴりっつ4
+file: samsho4.zip
+
+game: サムライスピリッツ零
+sort_title: さむらいすぴりっつ5
+file: samsho5.zip
+
+game: 風雲黙示録 格闘創世
+sort_title: ふううんもくしろくかくとうそうせい
+file: savagere.zip
+
+game: 戦国伝承
+sort_title: せんごくでんしょう1
+file: sengoku.zip
+
+game: 戦国伝承2
+sort_title: せんごくでんしょう2
+file: sengoku2.zip
+
+game: 戦国伝承2001
+sort_title: せんごくでんしょう3
+file: sengoku3.zip
+
+game: ショックトルーパーズ セカンドスカッド
+sort_title: しょっくとるーぱーず2
+file: shocktr2.zip
+
+game: サッカーブロール
+sort_title: さっかーぶろーる
+file: socbrawl.zip
+
+game: ソニックウィングス2
+sort_title: そにっくうぃんぐす2
+file: sonicwi2.zip
+
+game: ソニックウィングス3
+sort_title: そにっくうぃんぐす3
+file: sonicwi3.zip
+
+game: ミラクルアドベンチャー
+sort_title: みらくるあどべんちゃー
+file: spinmast.zip
+
+game: 得点王
+sort_title: とくてんおう1
+file: ssideki.zip
+
+game: 得点王2 リアルファイトフットボール
+sort_title: とくてんおう2
+file: ssideki2.zip
+
+game: 得点王3 栄光への挑戦
+sort_title: とくてんおう3
+file: ssideki3.zip
+
+game: 得点王4 炎のリベロ
+sort_title: とくてんおう4
+file: ssideki4.zip
+
+game: ステークスウィナー
+sort_title: すてーくすうぃなー1
+file: stakwin.zip
+
+game: ステークスウィナー2
+sort_title: すてーくすうぃなー2
+file: stakwin2.zip
+
+game: ダンク・ドリーム
+sort_title: だんくどりーむ
+file: strhoop.zip
+
+game: ザ・スーパースパイ
+sort_title: ざすーぱーすぱい
+file: superspy.zip
+
+game: SNK VS. CAPCOM SVC CHAOS
+sort_title: えすえぬけーばーさすかぷこんえすぶいしーかおす
+file: svc.zip
+
+game: トップハンター ロディー&キャシー
+sort_title: とっぷはんたー
+file: tophuntr.zip
+
+game: トッププレイヤーズゴルフ
+sort_title: とっぷぷれいやーずごるふ
+file: tpgolf.zip
+
+game: スラッシュラリー
+sort_title: すらっしゅらりー
+file: trally.zip
+
+game: ビッグトーナメントゴルフ
+sort_title: びっぐとーなめんとごるふ
+file: turfmast.zip
+
+game: ティンクルスタースプライツ
+sort_title: てぃんくるすたーすぷらいつ
+file: twinspri.zip
+
+game: ビューポイント
+sort_title: びゅーぽいんと
+file: viewpoin.zip
+
+game: わくわく7
+sort_title: わくわく7
+file: wakuwak7.zip
+
+game: ワールドヒーローズ
+sort_title: わーるどひーろーず1
+file: wh1.zip
+
+game: ワールドヒーローズ2
+sort_title: わーるどひーろーず2
+file: wh2.zip
+
+game: ワールドヒーローズ2 JET
+sort_title: わーるどひーろーず2じぇっと
+file: wh2j.zip
+
+game: ワールドヒーローズパーフェクト
+sort_title: わーるどひーろーずぱーふぇくと
+file: whp.zip
+
+game: フライングパワーディスク
+sort_title: ふらいんぐぱわーでぃすく
+file: wjammers.zip

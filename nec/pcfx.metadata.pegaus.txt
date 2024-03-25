@@ -1,0 +1,236 @@
+game: Aa! Megami-sama (Japan) (Disc 1)
+file: Aa! Megami-sama (Japan) (Disc 1).chd
+
+game: Aa! Megami-sama (Japan) (Disc 2)
+file: Aa! Megami-sama (Japan) (Disc 2).chd
+
+game: Akazukin ChaCha - Osawagase! Panic Race! (Japan)
+file: Akazukin ChaCha - Osawagase! Panic Race! (Japan).chd
+
+game: Albaria no Otome (Japan)
+file: Albaria no Otome (Japan).chd
+
+game: Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA)
+file: Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA).chd
+
+game: Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)
+file: Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA).chd
+
+game: Angelique - Tenkuu no Requiem (Japan)
+file: Angelique - Tenkuu no Requiem (Japan).chd
+
+game: Angelique Special (Japan)
+file: Angelique Special (Japan).chd
+
+game: Angelique Special 2 (Japan)
+file: Angelique Special 2 (Japan).chd
+
+game: AnimeFreak FX Vol. 1 (Japan)
+file: AnimeFreak FX Vol. 1 (Japan).chd
+
+game: AnimeFreak FX Vol. 2 (Japan)
+file: AnimeFreak FX Vol. 2 (Japan).chd
+
+game: AnimeFreak FX Vol. 3 (Japan)
+file: AnimeFreak FX Vol. 3 (Japan).chd
+
+game: AnimeFreak FX Vol. 4 (Japan)
+file: AnimeFreak FX Vol. 4 (Japan).chd
+
+game: AnimeFreak FX Vol. 5 (Japan) (Disc 1)
+file: AnimeFreak FX Vol. 5 (Japan) (Disc 1).chd
+
+game: AnimeFreak FX Vol. 5 (Japan) (Disc 2)
+file: AnimeFreak FX Vol. 5 (Japan) (Disc 2).chd
+
+game: AnimeFreak FX Vol. 6 (Japan) (Disc 1)
+file: AnimeFreak FX Vol. 6 (Japan) (Disc 1).chd
+
+game: AnimeFreak FX Vol. 6 (Japan) (Disc 2)
+file: AnimeFreak FX Vol. 6 (Japan) (Disc 2).chd
+
+game: Battle Heat (Japan)
+file: Battle Heat (Japan).chd
+
+game: Blue Breaker - Ken yori mo Hohoemi o (Japan)
+file: Blue Breaker - Ken yori mo Hohoemi o (Japan).chd
+
+game: Boundary Gate - Daughter of Kingdom (Japan)
+file: Boundary Gate - Daughter of Kingdom (Japan).chd
+
+game: Can Can Bunny Extra DX (Japan)
+file: Can Can Bunny Extra DX (Japan).chd
+
+game: Chip-chan Kick! (Japan)
+file: Chip-chan Kick! (Japan).chd
+
+game: Choujin Heiki Zeroigar (Japan)
+file: Choujin Heiki Zeroigar (Japan).chd
+
+game: Comic Road (Japan)
+file: Comic Road (Japan).chd
+
+game: Cutey Honey FX (Japan)
+file: Cutey Honey FX (Japan).chd
+
+game: Doukyuusei 2 (Japan)
+file: Doukyuusei 2 (Japan).chd
+
+game: Dragon Knight 4 (Japan)
+file: Dragon Knight 4 (Japan).chd
+
+game: Farland Story FX (Japan)
+file: Farland Story FX (Japan).chd
+
+game: Fire Woman Matoigumi (Japan)
+file: Fire Woman Matoigumi (Japan).chd
+
+game: First Kiss Story (Japan)
+file: First Kiss Story (Japan).chd
+
+game: Fushigi no Kuni no Angelique (Japan)
+file: Fushigi no Kuni no Angelique (Japan).chd
+
+game: Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)
+file: Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).chd
+
+game: Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)
+file: Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample).chd
+
+game: Hataraku Shoujo - Tekipaki Working Love FX (Japan)
+file: Hataraku Shoujo - Tekipaki Working Love FX (Japan).chd
+
+game: J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)
+file: J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd
+
+game: J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)
+file: J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).chd
+
+game: Kishin Douji Zenki FX - Vajra Fight (Japan)
+file: Kishin Douji Zenki FX - Vajra Fight (Japan).chd
+
+game: Kokuu Hyouryuu - Nirgends (Japan)
+file: Kokuu Hyouryuu - Nirgends (Japan).chd
+
+game: Konpeki no Kantai (Japan)
+file: Konpeki no Kantai (Japan).chd
+
+game: Langrisser FX, Der (Japan)
+file: Langrisser FX, Der (Japan).chd
+
+game: Last Imperial Prince (Japan) (Disc A)
+file: Last Imperial Prince (Japan) (Disc A).chd
+
+game: Last Imperial Prince (Japan) (Disc B)
+file: Last Imperial Prince (Japan) (Disc B).chd
+
+game: Lunatic Dawn FX (Japan)
+file: Lunatic Dawn FX (Japan).chd
+
+game: Mahjong Gokuu Tenjiku (Japan) (SABS)
+file: Mahjong Gokuu Tenjiku (Japan) (SABS).chd
+
+game: Makeruna! Makendou Z (Japan)
+file: Makeruna! Makendou Z (Japan).chd
+
+game: Megami Paradise II (Japan)
+file: Megami Paradise II (Japan).chd
+
+game: Minimum Nanonic (Japan)
+file: Minimum Nanonic (Japan).chd
+
+game: Miraculum - The Last Revelation (Japan)
+file: Miraculum - The Last Revelation (Japan).chd
+
+game: N-New - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-New)
+file: N-New - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 1) (N-New).chd
+
+game: Ojousama Sousamou (Japan)
+file: Ojousama Sousamou (Japan).chd
+
+game: Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)
+file: Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).chd
+
+game: PC Engine Fan - Special CD-ROM Vol. 2 (Japan)
+file: PC Engine Fan - Special CD-ROM Vol. 2 (Japan).chd
+
+game: PC Engine Fan - Special CD-ROM Vol. 3 (Japan)
+file: PC Engine Fan - Special CD-ROM Vol. 3 (Japan).chd
+
+game: Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)
+file: Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).chd
+
+game: Power DoLLS FX (Japan)
+file: Power DoLLS FX (Japan).chd
+
+game: Return to Zork (Japan)
+file: Return to Zork (Japan).chd
+
+game: Ruruli Ra Rura (Japan)
+file: Ruruli Ra Rura (Japan).chd
+
+game: Same Game FX (Japan) (NEC PC-FXGA)
+file: Same Game FX (Japan) (NEC PC-FXGA).chd
+
+game: Shanghai - Banri no Choujou (Japan)
+file: Shanghai - Banri no Choujou (Japan).chd
+
+game: Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)
+file: Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS).chd
+
+game: Sotsugyou R - Graduation Real (Japan)
+file: Sotsugyou R - Graduation Real (Japan).chd
+
+game: Sparkling Feather (Japan)
+file: Sparkling Feather (Japan).chd
+
+game: Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan)
+file: Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan).chd
+
+game: Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan)
+file: Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan).chd
+
+game: Super Power League FX (Japan)
+file: Super Power League FX (Japan).chd
+
+game: Super Real Mahjong P.V FX (Japan)
+file: Super Real Mahjong P.V FX (Japan).chd
+
+game: Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)
+file: Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).chd
+
+game: Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)
+file: Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou).chd
+
+game: Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)
+file: Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu).chd
+
+game: Tengai Makyou - Dennou Karakuri Kakutouden (Japan)
+file: Tengai Makyou - Dennou Karakuri Kakutouden (Japan).chd
+
+game: Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)
+file: Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).chd
+
+game: Tonari no Princess Rolfee! (Japan)
+file: Tonari no Princess Rolfee! (Japan).chd
+
+game: Voice Paradise (Japan) (Disc A)
+file: Voice Paradise (Japan) (Disc A).chd
+
+game: Voice Paradise (Japan) (Disc B)
+file: Voice Paradise (Japan) (Disc B).chd
+
+game: Wakusei Koukitai - Little Cats (Japan)
+file: Wakusei Koukitai - Little Cats (Japan).chd
+
+game: Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)
+file: Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo).chd
+
+game: Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)
+file: Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP).chd
+
+game: Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)
+file: Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1).chd
+
+game: Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)
+file: Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2).chd

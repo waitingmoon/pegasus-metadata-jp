@@ -235,14 +235,14 @@ file: 2002 FIFA World Cup (Japan) (Jitsuen-you Sample).rvz
 # game: Aggressive Inline (USA)
 # file: Aggressive Inline (USA).rvz
 
-game: Aging Disc DOL (Japan) (Rev 7)
-file: Aging Disc DOL (Japan) (Rev 7).rvz
+# game: Aging Disc DOL (Japan) (Rev 7)
+# file: Aging Disc DOL (Japan) (Rev 7).rvz
 
-game: Aging Disc DOL-PAL (Japan) (Rev 7)
-file: Aging Disc DOL-PAL (Japan) (Rev 7).rvz
+# game: Aging Disc DOL-PAL (Japan) (Rev 7)
+# file: Aging Disc DOL-PAL (Japan) (Rev 7).rvz
 
-game: Aging Disc DOL-USA (Japan) (Rev 7)
-file: Aging Disc DOL-USA (Japan) (Rev 7).rvz
+# game: Aging Disc DOL-USA (Japan) (Rev 7)
+# file: Aging Disc DOL-USA (Japan) (Rev 7).rvz
 
 # game: Alien Hominid (USA)
 # file: Alien Hominid (USA).rvz
@@ -361,26 +361,18 @@ file: Baseball 2003, The - Battle Ball Park Sengen Perfect Play Pro Yakyuu (Japa
 # game: Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 2)
 # file: Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 2).rvz
 
-game: Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 1)
-file: Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 1).rvz
+game: Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan)
+files:
+  Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 1).rvz
+  Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 2).rvz
+  Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Special Taiken Disc).rvz
 
-game: Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 2)
-file: Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 2).rvz
-
-game: Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Special Taiken Disc)
-file: Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Special Taiken Disc).rvz
-
-game: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 1)
-file: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 1).rvz
-
-game: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 2)
-file: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 2).rvz
-
-game: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 1)
-file: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 1).rvz
-
-game: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 2)
-file: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 2).rvz
+game: Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan)
+files:
+  Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 1).rvz
+  Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 1).rvz
+  Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 2).rvz
+  Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 2).rvz
 
 # game: Baten Kaitos Origins (USA) (Disc 1)
 # file: Baten Kaitos Origins (USA) (Disc 1).rvz
@@ -433,11 +425,10 @@ file: Battle Stadium D.O.N (Japan).rvz
 # game: Beach Spikers - Virtua Beach Volleyball (Europe) (En,Fr,De,Es,It)
 # file: Beach Spikers - Virtua Beach Volleyball (Europe) (En,Fr,De,Es,It).rvz
 
-game: Beach Spikers - Virtua Beach Volleyball (Japan) (Rev 1)
-file: Beach Spikers - Virtua Beach Volleyball (Japan) (Rev 1).rvz
-
-game: Beach Spikers - Virtua Beach Volleyball (Japan) (Taikenban)
-file: Beach Spikers - Virtua Beach Volleyball (Japan) (Taikenban).rvz
+game: Beach Spikers - Virtua Beach Volleyball (Japan)
+files:
+  Beach Spikers - Virtua Beach Volleyball (Japan) (Rev 1).rvz
+  Beach Spikers - Virtua Beach Volleyball (Japan) (Taikenban).rvz
 
 # game: Beach Spikers - Virtua Beach Volleyball (USA)
 # file: Beach Spikers - Virtua Beach Volleyball (USA).rvz
@@ -481,23 +472,17 @@ file: Beach Spikers - Virtua Beach Volleyball (Japan) (Taikenban).rvz
 # game: Billy Hatcher and the Giant Egg (USA)
 # file: Billy Hatcher and the Giant Egg (USA).rvz
 
-game: Biohazard (Japan) (Disc 1)
-file: Biohazard (Japan) (Disc 1).rvz
+game: Biohazard (Japan)
+files:
+  Biohazard (Japan) (Disc 1).rvz
+  Biohazard (Japan) (Disc 2).rvz
+  Biohazard (Japan) (Movie Demo Disc).rvz
+  Biohazard (Japan) (Tokubetsu-ban).rvz
 
-game: Biohazard (Japan) (Disc 2)
-file: Biohazard (Japan) (Disc 2).rvz
-
-game: Biohazard (Japan) (Movie Demo Disc)
-file: Biohazard (Japan) (Movie Demo Disc).rvz
-
-game: Biohazard (Japan) (Tokubetsu-ban)
-file: Biohazard (Japan) (Tokubetsu-ban).rvz
-
-game: Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)
-file: Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1).rvz
-
-game: Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)
-file: Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2).rvz
+game: Biohazard - Code - Veronica - Kanzenban (Japan)
+files:
+  Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1).rvz
+  Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2).rvz
 
 game: Biohazard 2 (Japan)
 file: Biohazard 2 (Japan).rvz
@@ -505,23 +490,17 @@ file: Biohazard 2 (Japan).rvz
 game: Biohazard 3 - Last Escape (Japan)
 file: Biohazard 3 - Last Escape (Japan).rvz
 
-game: Biohazard 4 (Japan) (Disc 1)
-file: Biohazard 4 (Japan) (Disc 1).rvz
+game: Biohazard 4 (Japan)
+files:
+  Biohazard 4 (Japan) (Disc 1).rvz
+  Biohazard 4 (Japan) (Disc 2).rvz
+  Biohazard 4 (Japan) (En,Ja) (Taikenban).rvz
 
-game: Biohazard 4 (Japan) (Disc 2)
-file: Biohazard 4 (Japan) (Disc 2).rvz
-
-game: Biohazard 4 (Japan) (En,Ja) (Taikenban)
-file: Biohazard 4 (Japan) (En,Ja) (Taikenban).rvz
-
-game: Biohazard Zero (Japan) (Disc 1)
-file: Biohazard Zero (Japan) (Disc 1).rvz
-
-game: Biohazard Zero (Japan) (Disc 2)
-file: Biohazard Zero (Japan) (Disc 2).rvz
-
-game: Biohazard Zero - Trial Edition (Japan)
-file: Biohazard Zero - Trial Edition (Japan).rvz
+game: Biohazard Zero (Japan)
+files:
+  Biohazard Zero (Japan) (Disc 1).rvz
+  Biohazard Zero (Japan) (Disc 2).rvz
+   Biohazard Zero - Trial Edition (Japan).rvz
 
 # game: Bionicle (Europe) (En,Fr,De,Es,It,Da)
 # file: Bionicle (Europe) (En,Fr,De,Es,It,Da).rvz
@@ -584,19 +563,17 @@ game: Boboboubo Boubobo - Dasshutsu!! Hajike Royale (Japan)
 file: Boboboubo Boubobo - Dasshutsu!! Hajike Royale (Japan).rvz
 
 game: Bokujou Monogatari - Shiawase no Uta (Japan)
-file: Bokujou Monogatari - Shiawase no Uta (Japan).rvz
-
-game: Bokujou Monogatari - Shiawase no Uta (Japan) (Rev 1)
-file: Bokujou Monogatari - Shiawase no Uta (Japan) (Rev 1).rvz
+files:
+  Bokujou Monogatari - Shiawase no Uta (Japan).rvz
+  Bokujou Monogatari - Shiawase no Uta (Japan) (Rev 1).rvz 
 
 game: Bokujou Monogatari - Shiawase no Uta for World (Japan)
 file: Bokujou Monogatari - Shiawase no Uta for World (Japan).rvz
 
 game: Bokujou Monogatari - Wonderful Life (Japan)
-file: Bokujou Monogatari - Wonderful Life (Japan).rvz
-
-game: Bokujou Monogatari - Wonderful Life (Japan) (Rev 1)
-file: Bokujou Monogatari - Wonderful Life (Japan) (Rev 1).rvz
+files:
+  Bokujou Monogatari - Wonderful Life (Japan).rvz
+  Bokujou Monogatari - Wonderful Life (Japan) (Rev 1).rvz
 
 game: Bokujou Monogatari - Wonderful Life for Girl (Japan)
 file: Bokujou Monogatari - Wonderful Life for Girl (Japan).rvz
@@ -722,10 +699,9 @@ file: Bomberman Land 2 (Japan).rvz
 # file: Call of Duty 2 - Big Red One (USA).rvz
 
 game: Capcom vs. SNK 2 EO (Japan) (Rev 1)
-file: Capcom vs. SNK 2 EO (Japan) (Rev 1).rvz
-
-game: Capcom vs. SNK 2 EO (Japan) (Tentou Taikenban)
-file: Capcom vs. SNK 2 EO (Japan) (Tentou Taikenban).rvz
+files:
+  Capcom vs. SNK 2 EO (Japan) (Rev 1).rvz
+  Capcom vs. SNK 2 EO (Japan) (Tentou Taikenban).rvz
 
 # game: Capcom vs. SNK 2 EO (USA)
 # file: Capcom vs. SNK 2 EO (USA).rvz
@@ -811,8 +787,8 @@ file: Choro Q! (Japan).rvz
 # game: City Racer (USA)
 # file: City Racer (USA).rvz
 
-game: Club Nintendo Original e-Catalog 2004 (Japan)
-file: Club Nintendo Original e-Catalog 2004 (Japan).rvz
+# game: Club Nintendo Original e-Catalog 2004 (Japan)
+# file: Club Nintendo Original e-Catalog 2004 (Japan).rvz
 
 # game: Cocoto Funfair (Europe) (En,Fr,De,Es,It)
 # file: Cocoto Funfair (Europe) (En,Fr,De,Es,It).rvz
@@ -989,16 +965,11 @@ game: Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan)
 file: Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan).rvz
 
 game: Dairantou Smash Brothers DX (Japan) (En,Ja)
-file: Dairantou Smash Brothers DX (Japan) (En,Ja).rvz
-
-game: Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 1)
-file: Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 1).rvz
-
-game: Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 2)
-file: Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 2).rvz
-
-game: Dairantou Smash Brothers DX (Japan) (Taikenban)
-file: Dairantou Smash Brothers DX (Japan) (Taikenban).rvz
+files:
+  Dairantou Smash Brothers DX (Japan) (En,Ja).rvz
+  Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 1).rvz
+  Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 2).rvz
+  Dairantou Smash Brothers DX (Japan) (Taikenban).rvz
 
 # game: Dakar 2 (Europe) (En,Fr,De,Es,It)
 # file: Dakar 2 (Europe) (En,Fr,De,Es,It).rvz
@@ -1175,10 +1146,9 @@ file: Disney's Chicken Little (Japan).rvz
 # file: Disney's Magical Mirror Starring Mickey Mouse (USA).rvz
 
 game: Disney's Magical Park (Japan)
-file: Disney's Magical Park (Japan).rvz
-
-game: Disney's Magical Park (Japan) (Jitsuen-you Sample)
-file: Disney's Magical Park (Japan) (Jitsuen-you Sample).rvz
+files:
+  Disney's Magical Park (Japan).rvz
+  Disney's Magical Park (Japan) (Jitsuen-you Sample).rvz
 
 game: Disney's Mickey Mouse no Fushigi na Kagami (Japan) (Rev 1)
 file: Disney's Mickey Mouse no Fushigi na Kagami (Japan) (Rev 1).rvz
@@ -1352,16 +1322,14 @@ game: Doubutsu Banchou (Japan)
 file: Doubutsu Banchou (Japan).rvz
 
 game: Doubutsu no Mori + (Japan)
-file: Doubutsu no Mori + (Japan).rvz
-
-game: Doubutsu no Mori + (Japan) (Rev 1)
-file: Doubutsu no Mori + (Japan) (Rev 1).rvz
+files:
+  Doubutsu no Mori + (Japan).rvz
+  Doubutsu no Mori + (Japan) (Rev 1).rvz
 
 game: Doubutsu no Mori e+ (Japan)
-file: Doubutsu no Mori e+ (Japan).rvz
-
-game: Doubutsu no Mori e+ (Japan) (Rev 1)
-file: Doubutsu no Mori e+ (Japan) (Rev 1).rvz
+files:
+  Doubutsu no Mori e+ (Japan).rvz
+  Doubutsu no Mori e+ (Japan) (Rev 1).rvz
 
 # game: Dr. Muto (USA)
 # file: Dr. Muto (USA).rvz
@@ -1385,10 +1353,9 @@ file: Dragon Ball Z (Japan).rvz
 # file: Dragon Ball Z - Sagas (USA).rvz
 
 game: Dragon Drive - D-Masters Shot (Japan)
-file: Dragon Drive - D-Masters Shot (Japan).rvz
-
-game: Dragon Drive - D-Masters Shot (Japan) (Anime Disc)
-file: Dragon Drive - D-Masters Shot (Japan) (Anime Disc).rvz
+files:
+  Dragon Drive - D-Masters Shot (Japan).rvz
+  Dragon Drive - D-Masters Shot (Japan) (Anime Disc).rvz
 
 # game: Dragon's Lair 3D - Return to the Lair (USA)
 # file: Dragon's Lair 3D - Return to the Lair (USA).rvz
@@ -1525,11 +1492,11 @@ file: Eisei Meijin VI (Japan).rvz
 # game: Enter the Matrix (Europe) (En,Fr,De,Es,It) (Disc 2)
 # file: Enter the Matrix (Europe) (En,Fr,De,Es,It) (Disc 2).rvz
 
-game: Enter the Matrix (Japan) (Disc 1)
-file: Enter the Matrix (Japan) (Disc 1).rvz
+game: Enter the Matrix (Japan)
+files:
+  Enter the Matrix (Japan) (Disc 1).rvz
+  Enter the Matrix (Japan) (Disc 2).rvz
 
-game: Enter the Matrix (Japan) (Disc 2)
-file: Enter the Matrix (Japan) (Disc 2).rvz
 
 # game: Enter the Matrix (Korea) (Disc 1)
 # file: Enter the Matrix (Korea) (Disc 1).rvz
@@ -1865,10 +1832,9 @@ file: Future GPX Cyber Formula - Road to the Evolution (Japan).rvz
 # file: Future Tactics - The Uprising (USA).rvz
 
 game: GT Cube (Japan)
-file: GT Cube (Japan).rvz
-
-game: GT Cube (Japan) (Rev 1)
-file: GT Cube (Japan) (Rev 1).rvz
+files:
+  GT Cube (Japan).rvz
+  GT Cube (Japan) (Rev 1).rvz
 
 # game: Gadget Racers (Europe) (En,Fr,De,Es,It)
 # file: Gadget Racers (Europe) (En,Fr,De,Es,It).rvz
@@ -1889,13 +1855,10 @@ file: Gakuen Toshi Vara Noir Roses (Japan).rvz
 # file: Game Boy Player Start-Up Disc (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).rvz
 
 game: Game Boy Player Start-Up Disc (Japan) (Rev 1)
-file: Game Boy Player Start-Up Disc (Japan) (Rev 1).rvz
-
-game: Game Boy Player Start-Up Disc (Japan) (Rev 2)
-file: Game Boy Player Start-Up Disc (Japan) (Rev 2).rvz
-
-game: Game Boy Player Start-Up Disc (Japan) (Rev 3)
-file: Game Boy Player Start-Up Disc (Japan) (Rev 3).rvz
+files:
+  Game Boy Player Start-Up Disc (Japan) (Rev 1).rvz
+  Game Boy Player Start-Up Disc (Japan) (Rev 2).rvz
+  Game Boy Player Start-Up Disc (Japan) (Rev 3).rvz
 
 # game: Game Boy Player Start-Up Disc (USA) (Rev 2)
 # file: Game Boy Player Start-Up Disc (USA) (Rev 2).rvz
@@ -2143,11 +2106,10 @@ file: Godzilla - Kaijuu Dairantou (Japan).rvz
 # game: GoldenEye - Agente Corrupto (Spain) (Disc 2)
 # file: GoldenEye - Agente Corrupto (Spain) (Disc 2).rvz
 
-game: GoldenEye - Dark Agent (Japan) (Disc 1)
-file: GoldenEye - Dark Agent (Japan) (Disc 1).rvz
-
-game: GoldenEye - Dark Agent (Japan) (Disc 2)
-file: GoldenEye - Dark Agent (Japan) (Disc 2).rvz
+game: GoldenEye - Dark Agent (Japan)
+files:
+  GoldenEye - Dark Agent (Japan) (Disc 1).rvz
+  GoldenEye - Dark Agent (Japan) (Disc 2).rvz
 
 # game: GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 1)
 # file: GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 1).rvz
@@ -2272,11 +2234,11 @@ file: Harry Potter - Quidditch World Cup (Japan).rvz
 # game: Harry Potter et le Prisonnier d'Azkaban (France)
 # file: Harry Potter et le Prisonnier d'Azkaban (France).rvz
 
-game: Harry Potter och den flammande baegaren (Sweden)
-file: Harry Potter och den flammande baegaren (Sweden).rvz
+# game: Harry Potter och den flammande baegaren (Sweden)
+# file: Harry Potter och den flammande baegaren (Sweden).rvz
 
-game: Harry Potter och fangen fran Azkaban (Sweden)
-file: Harry Potter och fangen fran Azkaban (Sweden).rvz
+# game: Harry Potter och fangen fran Azkaban (Sweden)
+# file: Harry Potter och fangen fran Azkaban (Sweden).rvz
 
 game: Harry Potter to Azkaban no Shuujin (Japan)
 file: Harry Potter to Azkaban no Shuujin (Japan).rvz
@@ -2360,22 +2322,19 @@ file: Hikaru no Go 3 (Japan).rvz
 # file: Home Run King (USA).rvz
 
 game: Homeland (Japan)
-file: Homeland (Japan).rvz
+files:
+  Homeland (Japan).rvz
+  Homeland (Japan) (Rev 1).rvz
+  Homeland (Japan) (Test Disc).rvz
 
-game: Homeland (Japan) (Rev 1)
-file: Homeland (Japan) (Rev 1).rvz
+# game: Hontai Kensa Disc DOL (Japan) (Rev 3)
+# file: Hontai Kensa Disc DOL (Japan) (Rev 3).rvz
 
-game: Homeland (Japan) (Test Disc)
-file: Homeland (Japan) (Test Disc).rvz
+# game: Hontai Kensa Disc DOL (Japan) (Rev 6)
+# file: Hontai Kensa Disc DOL (Japan) (Rev 6).rvz
 
-game: Hontai Kensa Disc DOL (Japan) (Rev 3)
-file: Hontai Kensa Disc DOL (Japan) (Rev 3).rvz
-
-game: Hontai Kensa Disc DOL (Japan) (Rev 6)
-file: Hontai Kensa Disc DOL (Japan) (Rev 6).rvz
-
-game: Hontai Kensa Disc DOL-USA (Japan) (Rev 5)
-file: Hontai Kensa Disc DOL-USA (Japan) (Rev 5).rvz
+# game: Hontai Kensa Disc DOL-USA (Japan) (Rev 5)
+# file: Hontai Kensa Disc DOL-USA (Japan) (Rev 5).rvz
 
 # game: Hot Wheels - Velocity X (Europe)
 # file: Hot Wheels - Velocity X (Europe).rvz
@@ -2738,10 +2697,9 @@ game: Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan)
 file: Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan).rvz
 
 game: Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan)
-file: Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan).rvz
-
-game: Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc)
-file: Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc).rvz
+files:
+  Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan).rvz
+  Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc).rvz
 
 game: Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan)
 file: Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan).rvz
@@ -2752,11 +2710,10 @@ file: Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kika
 # game: Killer7 (Europe) (En,Fr,De) (Disc 2)
 # file: Killer7 (Europe) (En,Fr,De) (Disc 2).rvz
 
-game: Killer7 (Japan) (Disc 1) (Rev 2)
-file: Killer7 (Japan) (Disc 1) (Rev 2).rvz
-
-game: Killer7 (Japan) (Disc 2) (Rev 2)
-file: Killer7 (Japan) (Disc 2) (Rev 2).rvz
+game: Killer7 (Japan)
+files:
+  Killer7 (Japan) (Disc 1) (Rev 2).rvz
+  Killer7 (Japan) (Disc 2) (Rev 2).rvz
 
 # game: Killer7 (USA) (Disc 1) (Rev 1)
 # file: Killer7 (USA) (Disc 1) (Rev 1).rvz
@@ -2930,10 +2887,9 @@ game: Lord of the Rings - Futatsu no Tou (Japan)
 file: Lord of the Rings - Futatsu no Tou (Japan).rvz
 
 game: Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 1)
-file: Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 1).rvz
-
-game: Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 2)
-file: Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 2).rvz
+files:
+  Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 1).rvz
+  Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 2).rvz
 
 game: Lord of the Rings - Ou no Kikan (Japan)
 file: Lord of the Rings - Ou no Kikan (Japan).rvz
@@ -2990,10 +2946,9 @@ file: Luigi Mansion (Japan).rvz
 # file: Luigi's Mansion (USA).rvz
 
 game: Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1)
-file: Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1).rvz
-
-game: Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2)
-file: Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2).rvz
+files:
+  Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1).rvz
+  Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2).rvz
 
 # game: MC Groovz Dance Craze (Europe) (En,Fr,De,Es,It)
 # file: MC Groovz Dance Craze (Europe) (En,Fr,De,Es,It).rvz
@@ -3161,10 +3116,9 @@ file: Mario Party 7 (Japan).rvz
 # file: Mario Superstar Baseball (USA).rvz
 
 game: Mario Tennis GC (Japan)
-file: Mario Tennis GC (Japan).rvz
-
-game: Mario Tennis GC (Japan) (Rev 1)
-file: Mario Tennis GC (Japan) (Rev 1).rvz
+files:
+  Mario Tennis GC (Japan).rvz
+  Mario Tennis GC (Japan) (Rev 1).rvz
 
 # game: Mark Davis Pro Bass Challenge (USA)
 # file: Mark Davis Pro Bass Challenge (USA).rvz
@@ -3265,11 +3219,10 @@ file: Medal of Honor - Europa Kyoushuu (Japan).rvz
 # game: Medal of Honor - Rising Sun (Germany) (Disc 2)
 # file: Medal of Honor - Rising Sun (Germany) (Disc 2).rvz
 
-game: Medal of Honor - Rising Sun (Japan) (Disc 1)
-file: Medal of Honor - Rising Sun (Japan) (Disc 1).rvz
-
-game: Medal of Honor - Rising Sun (Japan) (Disc 2)
-file: Medal of Honor - Rising Sun (Japan) (Disc 2).rvz
+game: Medal of Honor - Rising Sun (Japan)
+files:
+  Medal of Honor - Rising Sun (Japan) (Disc 1).rvz
+  Medal of Honor - Rising Sun (Japan) (Disc 2).rvz
 
 # game: Medal of Honor - Rising Sun (USA) (Disc 1)
 # file: Medal of Honor - Rising Sun (USA) (Disc 1).rvz
@@ -3328,20 +3281,17 @@ file: Medarot Brave (Japan) (Rev 1).rvz
 # game: Metal Gear Solid - The Twin Snakes (Europe) (En,Fr,De,Es,It) (Disc 2)
 # file: Metal Gear Solid - The Twin Snakes (Europe) (En,Fr,De,Es,It) (Disc 2).rvz
 
-game: Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 1)
-file: Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 1).rvz
-
-game: Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 2)
-file: Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 2).rvz
+game: Metal Gear Solid - The Twin Snakes (Japan)
+files:
+  Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 1).rvz
+  Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 2).rvz
+  Metal Gear Solid - The Twin Snakes - Special Disc (Japan).rvz
 
 # game: Metal Gear Solid - The Twin Snakes (USA) (Disc 1)
 # file: Metal Gear Solid - The Twin Snakes (USA) (Disc 1).rvz
 
 # game: Metal Gear Solid - The Twin Snakes (USA) (Disc 2)
 # file: Metal Gear Solid - The Twin Snakes (USA) (Disc 2).rvz
-
-game: Metal Gear Solid - The Twin Snakes - Special Disc (Japan)
-file: Metal Gear Solid - The Twin Snakes - Special Disc (Japan).rvz
 
 # game: Metroid Prime (Europe) (En,Fr,De,Es,It)
 # file: Metroid Prime (Europe) (En,Fr,De,Es,It).rvz
@@ -3686,22 +3636,19 @@ game: Naruto - Gekitou Ninja Taisen! (Japan)
 file: Naruto - Gekitou Ninja Taisen! (Japan).rvz
 
 game: Naruto - Gekitou Ninja Taisen! 2 (Japan)
-file: Naruto - Gekitou Ninja Taisen! 2 (Japan).rvz
-
-game: Naruto - Gekitou Ninja Taisen! 2 (Japan) (Rev 1)
-file: Naruto - Gekitou Ninja Taisen! 2 (Japan) (Rev 1).rvz
+files:
+  Naruto - Gekitou Ninja Taisen! 2 (Japan).rvz
+  Naruto - Gekitou Ninja Taisen! 2 (Japan) (Rev 1).rvz
 
 game: Naruto - Gekitou Ninja Taisen! 3 (Japan)
-file: Naruto - Gekitou Ninja Taisen! 3 (Japan).rvz
-
-game: Naruto - Gekitou Ninja Taisen! 3 (Japan) (Rev 1)
-file: Naruto - Gekitou Ninja Taisen! 3 (Japan) (Rev 1).rvz
+files:
+  Naruto - Gekitou Ninja Taisen! 3 (Japan).rvz
+  Naruto - Gekitou Ninja Taisen! 3 (Japan) (Rev 1).rvz
 
 game: Naruto - Gekitou Ninja Taisen! 4 (Japan)
-file: Naruto - Gekitou Ninja Taisen! 4 (Japan).rvz
-
-game: Naruto - Gekitou Ninja Taisen! 4 (Japan) (Taikai Sen'you Disc) (Rev 1)
-file: Naruto - Gekitou Ninja Taisen! 4 (Japan) (Taikai Sen'you Disc) (Rev 1).rvz
+files:
+  Naruto - Gekitou Ninja Taisen! 4 (Japan).rvz
+  Naruto - Gekitou Ninja Taisen! 4 (Japan) (Taikai Sen'you Disc) (Rev 1).rvz
 
 game: Naruto Collection (Japan)
 file: Naruto Collection (Japan).rvz
@@ -3928,11 +3875,11 @@ file: Need for Speed - Underground 2 (Japan).rvz
 # game: Nintendo GameCube Service Disc Version 1.0-03 (USA)
 # file: Nintendo GameCube Service Disc Version 1.0-03 (USA).rvz
 
-game: Nintendo GameCube Soft e-Catalog 2003 Enjoy Plus-ban (Japan)
-file: Nintendo GameCube Soft e-Catalog 2003 Enjoy Plus-ban (Japan).rvz
+# game: Nintendo GameCube Soft e-Catalog 2003 Enjoy Plus-ban (Japan)
+# file: Nintendo GameCube Soft e-Catalog 2003 Enjoy Plus-ban (Japan).rvz
 
-game: Nintendo GameCube Soft e-Catalog 2003 Haru (Japan)
-file: Nintendo GameCube Soft e-Catalog 2003 Haru (Japan).rvz
+# game: Nintendo GameCube Soft e-Catalog 2003 Haru (Japan)
+# file: Nintendo GameCube Soft e-Catalog 2003 Haru (Japan).rvz
 
 game: Nintendo Puzzle Collection (Japan)
 file: Nintendo Puzzle Collection (Japan).rvz
@@ -3980,10 +3927,9 @@ file: One Piece - Pirates Carnival (Japan).rvz
 # file: P.N. 03 (Europe) (En,Fr,De,Es,It) (Demo).rvz
 
 game: P.N. 03 (Japan)
-file: P.N. 03 (Japan).rvz
-
-game: P.N. 03 (Japan) (Demo Eizou)
-file: P.N. 03 (Japan) (Demo Eizou).rvz
+files:
+  P.N. 03 (Japan).rvz
+  P.N. 03 (Japan) (Demo Eizou).rvz
 
 # game: P.N. 03 (USA)
 # file: P.N. 03 (USA).rvz
@@ -3995,10 +3941,9 @@ file: P.N. 03 (Japan) (Demo Eizou).rvz
 # file: Pac-Man Vs. (Europe) (En,Fr,De,Es,It).rvz
 
 game: Pac-Man Vs. (Japan)
-file: Pac-Man Vs. (Japan).rvz
-
-game: Pac-Man Vs. (Japan) (Club Nintendo Genteiban)
-file: Pac-Man Vs. (Japan) (Club Nintendo Genteiban).rvz
+files:
+  Pac-Man Vs. (Japan).rvz
+  Pac-Man Vs. (Japan) (Club Nintendo Genteiban).rvz
 
 # game: Pac-Man Vs. (USA)
 # file: Pac-Man Vs. (USA).rvz
@@ -4039,11 +3984,11 @@ file: Paper Mario RPG (Japan).rvz
 # game: Phantasy Star Online Episode I & II (Europe) (En,Ja,Fr,De,Es) (Beta)
 # file: Phantasy Star Online Episode I & II (Europe) (En,Ja,Fr,De,Es) (Beta).rvz
 
-game: Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 2)
-file: Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 2).rvz
-
-game: Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 3)
-file: Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 3).rvz
+game: Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es)
+files:
+  Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 2).rvz
+  Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 3).rvz
+  Phantasy Star Online Episode I & II - Trial Edition (Japan) (Taikenban).rvz
 
 # game: Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es)
 # file: Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es).rvz
@@ -4051,14 +3996,10 @@ file: Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 3).rvz
 # game: Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1)
 # file: Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).rvz
 
-game: Phantasy Star Online Episode I & II - Trial Edition (Japan) (Taikenban)
-file: Phantasy Star Online Episode I & II - Trial Edition (Japan) (Taikenban).rvz
-
-game: Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 4)
-file: Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 4).rvz
-
-game: Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 5)
-file: Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 5).rvz
+game: Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es)
+files:
+  Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 4).rvz
+  Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 5).rvz
 
 # game: Phantasy Star Online Episode I & II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2)
 # file: Phantasy Star Online Episode I & II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2).rvz
@@ -4067,13 +4008,12 @@ file: Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 5).
 # file: Phantasy Star Online Episode III - C.A.R.D. Revolution (Europe) (En,Ja,Fr,De,Es).rvz
 
 game: Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan)
-file: Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan).rvz
+files:
+  Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan).rvz
+  Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition (Japan) (Taikenban).rvz
 
 # game: Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)
 # file: Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).rvz
-
-game: Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition (Japan) (Taikenban)
-file: Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition (Japan) (Taikenban).rvz
 
 # game: Pickles (USA) (Proto)
 # file: Pickles (USA) (Proto).rvz
@@ -4081,14 +4021,11 @@ file: Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition (Ja
 # game: Pikmin (Europe) (En,Fr,De,Es,It)
 # file: Pikmin (Europe) (En,Fr,De,Es,It).rvz
 
-game: Pikmin (Japan) (Jitsuen-you Sample)
-file: Pikmin (Japan) (Jitsuen-you Sample).rvz
-
-game: Pikmin (Japan) (Rev 1)
-file: Pikmin (Japan) (Rev 1).rvz
-
-game: Pikmin (Japan) (Rev 2)
-file: Pikmin (Japan) (Rev 2).rvz
+game: Pikmin (Japan)
+files:
+  Pikmin (Japan) (Rev 1).rvz
+  Pikmin (Japan) (Rev 2).rvz
+  Pikmin (Japan) (Jitsuen-you Sample).rvz
 
 # game: Pikmin (USA)
 # file: Pikmin (USA).rvz
@@ -4445,16 +4382,14 @@ file: Rune (Japan).rvz
 # file: Rune (USA) (Beta) (2003-03-04).rvz
 
 game: Rune II - Koruten no Kagi no Himitsu (Japan)
-file: Rune II - Koruten no Kagi no Himitsu (Japan).rvz
-
-game: Rune II - Koruten no Kagi no Himitsu (Japan) (Taikenban)
-file: Rune II - Koruten no Kagi no Himitsu (Japan) (Taikenban).rvz
+files:
+  Rune II - Koruten no Kagi no Himitsu (Japan).rvz
+  Rune II - Koruten no Kagi no Himitsu (Japan) (Taikenban).rvz
 
 game: SD Gundam - Gashapon Wars (Japan)
-file: SD Gundam - Gashapon Wars (Japan).rvz
-
-game: SD Gundam - Gashapon Wars (Japan) (Taikenban)
-file: SD Gundam - Gashapon Wars (Japan) (Taikenban).rvz
+files:
+  SD Gundam - Gashapon Wars (Japan).rvz
+  SD Gundam - Gashapon Wars (Japan) (Taikenban).rvz
 
 # game: SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)
 # file: SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It).rvz
@@ -4478,10 +4413,9 @@ file: SSX 3 (Japan).rvz
 # file: SSX Tricky (Europe) (En,Fr,De).rvz
 
 game: SSX Tricky (Japan)
-file: SSX Tricky (Japan).rvz
-
-game: SSX Tricky (Japan) (Jitsuen-you Sample)
-file: SSX Tricky (Japan) (Jitsuen-you Sample).rvz
+files:
+  SSX Tricky (Japan).rvz
+  SSX Tricky (Japan) (Jitsuen-you Sample).rvz
 
 # game: SSX Tricky (USA)
 # file: SSX Tricky (USA).rvz
@@ -4907,10 +4841,9 @@ file: Star Fox - Assault (Japan).rvz
 # file: Star Fox Adventures (Europe) (En,Fr,De,Es,It) (Rev 1).rvz
 
 game: Star Fox Adventures (Japan)
-file: Star Fox Adventures (Japan).rvz
-
-game: Star Fox Adventures (Japan) (Rev 1)
-file: Star Fox Adventures (Japan) (Rev 1).rvz
+files:
+  Star Fox Adventures (Japan).rvz
+  Star Fox Adventures (Japan) (Rev 1).rvz
 
 # game: Star Fox Adventures (USA)
 # file: Star Fox Adventures (USA).rvz
@@ -4955,10 +4888,9 @@ file: Star Fox Adventures (Japan) (Rev 1).rvz
 # file: Star Wars - Las Guerras Clon (Spain).rvz
 
 game: Star Wars - Rogue Squadron II (Japan)
-file: Star Wars - Rogue Squadron II (Japan).rvz
-
-game: Star Wars - Rogue Squadron II (Japan) (Jitsuen-you Sample)
-file: Star Wars - Rogue Squadron II (Japan) (Jitsuen-you Sample).rvz
+files:
+  Star Wars - Rogue Squadron II (Japan).rvz
+  Star Wars - Rogue Squadron II (Japan) (Jitsuen-you Sample).rvz
 
 # game: Star Wars - Rogue Squadron II - Rogue Leader (Europe)
 # file: Star Wars - Rogue Squadron II - Rogue Leader (Europe).rvz
@@ -5066,10 +4998,9 @@ file: Super Mario Strikers (Japan).rvz
 # file: Super Mario Sunshine (Europe) (En,Fr,De,Es,It).rvz
 
 game: Super Mario Sunshine (Japan)
-file: Super Mario Sunshine (Japan).rvz
-
-game: Super Mario Sunshine (Japan) (Rev 1)
-file: Super Mario Sunshine (Japan) (Rev 1).rvz
+files:
+  Super Mario Sunshine (Japan).rvz
+  Super Mario Sunshine (Japan) (Rev 1).rvz
 
 # game: Super Mario Sunshine (Korea)
 # file: Super Mario Sunshine (Korea).rvz
@@ -5080,7 +5011,7 @@ file: Super Mario Sunshine (Japan) (Rev 1).rvz
 # game: Super Monkey Ball (Europe) (En,Fr,De,Es,It)
 # file: Super Monkey Ball (Europe) (En,Fr,De,Es,It).rvz
 
-game: Super Monkey Ball (Japan) (Rev 2)
+game: Super Monkey Ball (Japan)
 file: Super Monkey Ball (Japan) (Rev 2).rvz
 
 # game: Super Monkey Ball (USA)
@@ -5090,10 +5021,9 @@ file: Super Monkey Ball (Japan) (Rev 2).rvz
 # file: Super Monkey Ball 2 (Europe) (En,Fr,De,Es,It).rvz
 
 game: Super Monkey Ball 2 (Japan)
-file: Super Monkey Ball 2 (Japan).rvz
-
-game: Super Monkey Ball 2 (Japan) (Taikenban)
-file: Super Monkey Ball 2 (Japan) (Taikenban).rvz
+files:
+  Super Monkey Ball 2 (Japan).rvz
+  Super Monkey Ball 2 (Japan) (Taikenban).rvz
 
 # game: Super Monkey Ball 2 (USA)
 # file: Super Monkey Ball 2 (USA).rvz
@@ -5206,11 +5136,10 @@ file: Super Robot Taisen GC (Japan).rvz
 # game: Tales of Symphonia (Italy) (Disc 2)
 # file: Tales of Symphonia (Italy) (Disc 2).rvz
 
-game: Tales of Symphonia (Japan) (Disc 1)
-file: Tales of Symphonia (Japan) (Disc 1).rvz
-
-game: Tales of Symphonia (Japan) (Disc 2)
-file: Tales of Symphonia (Japan) (Disc 2).rvz
+game: Tales of Symphonia (Japan)
+files:
+  Tales of Symphonia (Japan) (Disc 1).rvz
+  Tales of Symphonia (Japan) (Disc 2).rvz
 
 # game: Tales of Symphonia (Spain) (Disc 1)
 # file: Tales of Symphonia (Spain) (Disc 1).rvz
@@ -5732,10 +5661,9 @@ file: WWE Day of Reckoning (Japan).rvz
 # file: WWE WrestleMania X8 (Europe).rvz
 
 game: WWE WrestleMania X8 (Japan)
-file: WWE WrestleMania X8 (Japan).rvz
-
-game: WWE WrestleMania X8 (Japan) (Taikenban)
-file: WWE WrestleMania X8 (Japan) (Taikenban).rvz
+files:
+  WWE WrestleMania X8 (Japan).rvz
+  WWE WrestleMania X8 (Japan) (Taikenban).rvz
 
 # game: WWE WrestleMania X8 (USA)
 # file: WWE WrestleMania X8 (USA).rvz
@@ -5903,10 +5831,9 @@ file: XGIII - Extreme G Racing (Japan).rvz
 # file: Xeno Crisis (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl).rvz
 
 game: Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan)
-file: Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan).rvz
-
-game: Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan) (Taikenban)
-file: Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan) (Taikenban).rvz
+files:
+  Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan).rvz
+  Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan) (Taikenban).rvz
 
 # game: Yu-Gi-Oh! The Falsebound Kingdom (Europe) (En,Fr,De,Es,It)
 # file: Yu-Gi-Oh! The Falsebound Kingdom (Europe) (En,Fr,De,Es,It).rvz
@@ -5947,20 +5874,18 @@ file: Zelda no Densetsu - Twilight Princess (Japan).rvz
 game: Zoids - Full Metal Crash (Japan)
 file: Zoids - Full Metal Crash (Japan).rvz
 
-game: Zoids Vs. (Japan) (Rev 1)
+game: Zoids Vs. (Japan)
 file: Zoids Vs. (Japan) (Rev 1).rvz
 
 game: Zoids Vs. II (Japan)
-file: Zoids Vs. II (Japan).rvz
-
-game: Zoids Vs. II (Japan) (Rev 1)
-file: Zoids Vs. II (Japan) (Rev 1).rvz
+files:
+  Zoids Vs. II (Japan).rvz
+  Zoids Vs. II (Japan) (Rev 1).rvz
 
 game: Zoids Vs. III (Japan)
-file: Zoids Vs. III (Japan).rvz
-
-game: Zoids Vs. III (Japan) (Rev 2)
-file: Zoids Vs. III (Japan) (Rev 2).rvz
+files:
+  Zoids Vs. III (Japan).rvz
+  Zoids Vs. III (Japan) (Rev 2).rvz
 
 # game: ZooCube (Europe) (En,Fr,De,Es,It)
 # file: ZooCube (Europe) (En,Fr,De,Es,It).rvz

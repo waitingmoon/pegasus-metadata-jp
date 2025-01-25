@@ -328,8 +328,8 @@ file: Bakuretsu Senshi Warrior (Japan).zip
 # game: Balloon Kid (USA, Europe)
 # file: Balloon Kid (USA, Europe).zip
 
-game: Bamse (Sweden)
-file: Bamse (Sweden).zip
+# game: Bamse (Sweden)
+# file: Bamse (Sweden).zip
 
 game: Banishing Racer (Japan)
 file: Banishing Racer (Japan).zip

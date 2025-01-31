@@ -2177,10 +2177,16 @@ description:
 game: ONE PIECE トレジャーバトル!
 sort_title: わんぴーすとれじゃーばとる
 file: From TV Animation One Piece - Treasure Battle! (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2002年11月1日にゲームキューブ用ソフトとして発売されたアクションゲーム。大人気コミックス『ONE　PIECE』を原作としたゲーム作品。ルフィやゾロ、サンジら人気キャラクターが、トゥーンシェードで鮮やかに表現され、迫力のチームバトルを体感できる。エースとチョッパー、ナミとアーロンといった原作では味わえない組み合わせが楽しめ、サッカーや宝物探しといったミニゲームも充実している。
 
 game: 新世紀GPXサイバーフォーミュラ Road To The EVOLUTION
 sort_title: しんせいきじーぴーえっくすさいばーふぉーみゅらろーどとぅざえぼりゅーしょん
 file: Future GPX Cyber Formula - Road to the Evolution (Japan).rvz
+publisher: サンライズインタラクティブ
+description:
+  サンライズインタラクティブより2004年7月29日にゲームキューブ用ソフトとして発売されたレースゲーム。あの『新世紀GPXサイバーフォーミュラ』が3Dフューチャーグランプリゲームとして走り出す。原作でもお馴染みの変形、ブーストなどを完全再現。追い抜き、ブースト時などには、キャラのカットインアニメーションとボイスが挿入され、レースをさらに熱くする。時速600キロを超える未体験のスピードを体感できる。
 
 # game: Future Tactics - The Uprising (Europe) (En,Fr,De,Es,It)
 # file: Future Tactics - The Uprising (Europe) (En,Fr,De,Es,It).rvz
@@ -2193,6 +2199,9 @@ sort_title: じーてぃーきゅーぶ
 files:
   GT Cube (Japan).rvz
   GT Cube (Japan) (Rev 1).rvz
+publisher: MTO
+description:
+  MTOより2003年6月20日にゲームキューブ用ソフトとして発売されたレースゲーム。トゥーンシェイドで描かれたマシンが様々なコースを疾走する。ファミリーワゴンにコンパクトカーなど国内10社から80車種を収録。ゲームモードは、チャンピオンシップ、タイムアタック、クイックレースなどを用意し、4人対戦も可能。バリエーション豊かな車で、多彩なコースを楽しむことができる。
 
 # game: Gadget Racers (Europe) (En,Fr,De,Es,It)
 # file: Gadget Racers (Europe) (En,Fr,De,Es,It).rvz
@@ -2200,6 +2209,9 @@ files:
 game: 学園都市ヴァラノワール ローゼス
 sort_title: がくえんとしう゛ぁらのわーるろーぜす
 file: Gakuen Toshi Vara Noir Roses (Japan).rvz
+publisher: アイディアファクトリー
+description:
+  アイディアファクトリーより2004年1月23日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。勇者を育成するという学園都市「ヴァラノワール」の勇者育成学部を目指す特別進学科が舞台。主人公・ミュウとなり、試練の場となるダンジョンなど、学園のさまざまな課題をこなしながら進学することを目指す。仲間やアイテムを集めながらダンジョンを攻略し、課題をクリアしていくのが目的となる。
 
 # game: Galleon (USA) (Proto)
 # file: Galleon (USA) (Proto).rvz
@@ -2247,6 +2259,9 @@ files:
 game: 激闘プロ野球 水島新司オールスターズ VS. プロ野球
 sort_title: げきとうぷろやきゅうみずしましんじおーるすたーずばーさすぷろやきゅう
 file: Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan).rvz
+publisher: セガ
+description:
+  セガより2003年9月11日にゲームキューブ用ソフトとして発売された野球ゲーム。日本プロ野球と、野球漫画界の巨匠・水島新司がガッチリ手を組んだ!『ドカベン』や『あぶさん』など、水島漫画を代表する15作品35名のキャラが実在のプロ野球12球団に交じって、球場せましと駆け巡る。もちろん、水島漫画特有の秘打・秘球も完全再現。水島オールスターズとプロ野球の夢の対決を堪能できる。
 
 # game: Gekkan Nintendo Tentou Demo 2002.10.1 (Japan)
 # file: Gekkan Nintendo Tentou Demo 2002.10.1 (Japan).rvz
@@ -2425,14 +2440,23 @@ file: Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan).rvz
 game: ジェネレーション・オブ・カオス イクシード 闇の皇女ロゼ
 sort_title: じぇねれーしょんおぶかおすいくしーどやみのこうじょろぜ
 file: Generation of Chaos Exceed - Yami no Koujo Roze (Japan).rvz
+publisher: アイディアファクトリー
+description:
+  アイディアファクトリーより2003年2月6日にゲームキューブ用ソフトとして発売されたシミュレーションRPG。『スペクトラル』シリーズの世界観とシステムをベースとした、『ジェネレーション・オブ・カオス』シリーズのゲームキューブ版となる。戦略性がメインとなるシミュレーションパートと、ダンジョンを探索するRPGパートで構成されている。自軍の勢力を拡大させてネバーランドを統一するのが目的となる。
 
 game: ジャイアントエッグ ビリー・ハッチャーの大冒険
 sort_title: じゃいあんとえっぐびりーはっちゃーのだいぼうけん
 file: Giant Egg - Billy Hatcher no Daibouken (Japan) (Rev 1).rvz
+publisher: セガ
+description:
+  セガより2003年10月9日にゲームキューブ用ソフトとして発売された3Dアクションゲーム。ビリー・ハッチャーと仲間たちが、世界を夜で支配しようとしているカラス達の手から世界に朝を取り戻す為に「タマゴ」を駆使して戦う。タマゴを転がす・シュート・ダンク・ハイジャンプなどの様々なタマゴアクションが可能。爽快なアクションを状況に応じて使い分けてカラス達を倒していく。
 
 game: ギフトピア
 sort_title: ぎふとぴあ
 file: Giftpia (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年4月25日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。難しいアクションなどは必要としない、独自の個性を前面に出したゲームとなっている。ゲームのテーマは「大人になること」。プレイヤーは主人公のポックルになり、お金を貯めたり人の願いをかなえたりして「大人」になることを目指す。贈り物に満ちた世界を舞台に、「大人」になるための日常が始まる。
 
 # game: Gladius (Europe) (En,Es,It)
 # file: Gladius (Europe) (En,Es,It).rvz
@@ -2464,6 +2488,9 @@ file: Giftpia (Japan).rvz
 game: ゴジラ 怪獣大乱闘
 sort_title: ごじらかいじゅうだいらんとう
 file: Godzilla - Kaijuu Dairantou (Japan).rvz
+publisher: インフォグラムジャパン
+description:
+  インフォグラムジャパンより2002年12月12日にゲームキューブ用ソフトとして発売された対戦アクションゲーム。世界各国で高い人気を誇る怪獣映画『ゴジラ』シリーズの怪獣たちが登場する。ゴジラやキングギドラ、メカゴジラ、モスラ、デストロイア、メカキングギドラなどが、映画ゆかりのステージで1体1のバトルを繰り広げる。映画のチラシなどを見ることができる「ギャラリー」も収録している。
 
 # game: GoldenEye - Agente Corrupto (Spain) (Disc 1)
 # file: GoldenEye - Agente Corrupto (Spain) (Disc 1).rvz
@@ -2476,6 +2503,9 @@ sort_title: ごーるでんあいだーくえーじぇんと
 files:
   GoldenEye - Dark Agent (Japan) (Disc 1).rvz
   GoldenEye - Dark Agent (Japan) (Disc 2).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2005年1月13日にゲームキューブ用ソフトとして発売されたアクションゲーム。人気スパイアクション映画『007』の世界観をベースにした外伝的作品。悪の組織に雇われた元英国諜報部MI6のエージェントとして、ドクター・ノオとの闘いに身を投じることになる。敵は新型AIで制御され、プレイヤーの行動や周辺環境の変化に素早く反応し、銃撃戦はよりリアルに、より予測困難になっている。
 
 # game: GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 1)
 # file: GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 1).rvz
@@ -2507,6 +2537,9 @@ files:
 game: ガチャフォース
 sort_title: がちゃふぉーす
 file: Gotcha Force (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2003年11月27日にゲームキューブ用ソフトとして発売された3D対戦アクションゲーム。宇宙から来た、手のひらサイズのマシン生命体「ガチャボーグ」を操る司令官となって、地球征服を進める悪のガチャボーグ軍団「デスフォース」と対決する。ニンジャ型・ナイト型などの個性あふれるガチャボーグは、200種類以上。自分だけの最強フォースを編成し、縦横無尽の戦いを繰り広げよう。
 
 # game: Gotcha Force (USA)
 # file: Gotcha Force (USA).rvz
@@ -2517,6 +2550,9 @@ file: Gotcha Force (Japan).rvz
 game: GROOVE ADVWNTURE RAVE ファイティングライブ
 sort_title: ぐるーう゛あどべんちゃーれいう゛ふぁいてぃんぐらいぶ
 file: Groove Adventure Rave - Fighting Live (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2002年3月20日にゲームキューブ用ソフトとして発売された3Dアクションゲーム。人気コミック『RAVE』のゲーム化作品となる。「ストーリーモード」「VSモード」「フリーモード」の3種類のゲームモードを搭載。3Dで描かれたキャラが画面狭しと動き回り、派手な必殺技を繰り出す。武器やレイヴ、ダークブリングの能力とキャラの特性を組み合わせた攻撃で大ダメージを与えることができる。
 
 # game: Grooverider - Slot Car Thunder (USA)
 # file: Grooverider - Slot Car Thunder (USA).rvz
@@ -2542,6 +2578,9 @@ file: Groove Adventure Rave - Fighting Live (Japan).rvz
 game: ハリー・ポッター クィディッチ・ワールドカップ
 sort_title: はりーぽったーくぃでぃっちわーるどかっぷ
 file: Harry Potter - Quidditch World Cup (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年11月13日にゲームキューブ用ソフトとして発売されたアクションゲーム。映画『ハリー・ポッター』シリーズに登場する魔法世界の人気スポーツ「クィディッチ」のゲーム。ホグワーツ寮のチームから1チームを選択し、ハリー、ドラコ、チョウ・チャンといったおなじみのキャラを操ってクィディッチをプレイで可能。各国のナショナルチームを選んで、クィディッチワールドカップに出場できる。
 
 # game: Harry Potter - Quidditch World Cup (USA) (En,Fr,Es)
 # file: Harry Potter - Quidditch World Cup (USA) (En,Fr,Es).rvz
@@ -2612,18 +2651,30 @@ file: Harry Potter - Quidditch World Cup (Japan).rvz
 game: ハリー・ポッターとアズカバンの囚人
 sort_title: はりーぽったーとあずかばんのしゅうじん
 file: Harry Potter to Azkaban no Shuujin (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2004年6月26日にゲームキューブ用ソフトとして発売されたアクションアドベンチャーゲーム。映画『ハリー・ポッターとアズカバンの囚人』に基づいたストーリーを楽しむことができる。主人公ハリーだけでなく、ロンとハーマイオニーを切り替えて操作し、それぞれ得意なアクションを駆使することで謎を解いていく。カードを探し集めたり、他の生徒とミニゲームも楽しめる。
 
 game: ハリー・ポッターと秘密の部屋
 sort_title: はりーぽったーとひみつのへや
 file: Harry Potter to Himitsu no Heya (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2002年11月23日にゲームキューブ用ソフトとして発売されたアクションアドベンチャーゲーム。映画『ハリー・ポッターと秘密の部屋』の物語を忠実に再現している。ハリー・ポッターとなって、ハーマイオニー、ロン、ハグリッドやヘドウィグと一緒に2年目のクラスで魔法や呪文を学び、魔法魔術学校ホグワーツで次々と巻き起こる事件の犯人「スリザリンの後継者」の正体を探る。
 
 game: ハリー・ポッターと炎のゴブレット
 sort_title: はりーぽったーとほのおのごぶれっと
 file: Harry Potter to Honoo no Goblet (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2005年11月26日にゲームキューブ用ソフトとして発売されたアクションゲーム。今までにない爽快な魔法アクションで第4作『ハリー・ポッターと炎のゴブレット』を再現。「三大魔法学校対抗試合」を舞台に、ハリーと仲間たちが大活躍を繰り広げる。魔法システムが大きく変化し、より手軽に扱えるようになり、3人同時魔法や連鎖魔法など、3人で協力して困難を乗り越える要素が強化されている。
 
 game: ハリー・ポッターと賢者の石
 sort_title: はりーぽったーとけんじゃのいし
 file: Harry Potter to Kenja no Ishi (Japan) (En,Ja).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年12月11日にゲームキューブ用ソフトとして発売された3Dアクションアドベンチャーゲーム。全世界で大ベストセラーとなった『ハリー・ポッターと賢者の石』を題材とするゲーム作品。原作に忠実なストーリーが展開。ハリー・ポッターとなり、授業で魔法を覚え、さまざまなミニゲームなどをクリアして、冒険をくり広げていく。魔法世界での大冒険を楽しむことができる。
 
 # game: Harry Potter und der Feuerkelch (Germany)
 # file: Harry Potter und der Feuerkelch (Germany).rvz
@@ -2673,6 +2724,9 @@ file: Harry Potter to Kenja no Ishi (Japan) (En,Ja).rvz
 game: ヒカルの碁3
 sort_title: ひかるのご3
 file: Hikaru no Go 3 (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2003年3月20日にゲームキューブ用ソフトとして発売された囲碁ゲーム。人気コミック『ヒカルの碁』を題材とするゲーム作品。トゥーンレンダリングによる3Dグラフィックでキャラを表現し、形勢逆転の一手を打つと派手な演出が入るなど映像面を大幅に強化。同梱の専用GBAカートリッジにゲームをダウンロードすることで、携帯碁盤や問題集をGBAでプレイできるようになる。
 
 # game: Hitman 2 - Silent Assassin (Europe)
 # file: Hitman 2 - Silent Assassin (Europe).rvz
@@ -2701,6 +2755,9 @@ files:
   Homeland (Japan).rvz
   Homeland (Japan) (Rev 1).rvz
   Homeland (Japan) (Test Disc).rvz
+publisher: チュンソフト
+description:
+  チュンソフトより2005年6月30日にゲームキューブ用ソフトとして発売された新感覚ロールプレイングゲーム。オンライン対応で1人でもみんなでも遊べる。プレイヤーが冒険する不思議な異世界の町や村で起こる数々のナゾや事件のどれを解決したかによって、物語が分岐し、世界も変化する。仲間のマスコットやほかのクエスターと手を繋ぐことで助け合う「手つなぎ」システムを採用している。
 
 # game: Hontai Kensa Disc DOL (Japan) (Rev 3)
 # file: Hontai Kensa Disc DOL (Japan) (Rev 3).rvz
@@ -2726,18 +2783,30 @@ files:
 game: ハドソンセレクション Vol.1 キュービックロードランナー
 sort_title: はどそんせれくしょん1きゅーびっくろーどらんなー
 file: Hudson Selection Vol. 1 - Cubic Lode Runner (Japan).rvz
+publisher: ハドソン
+description:
+  ハドソンより2003年7月10日にゲームキューブ用ソフトとして発売されたアクションゲーム。FC等で一世を風靡したアクションパズル『ロードランナー』の3D要素を取り入れたゲームキューブ版。ステージは全60ステージ。自分だけのオリジナルステージを作ることもでき、10ステージ分をセーブすることが可能。ノーマルステージをクリアしてゆくと、懐かしいCMムービーやプレイ中の背景など様々なオマケが増えていく。
 
 game: ハドソンセレクション Vol.2 スターソルジャー
 sort_title: はどそんせれくしょん2すたーそるじゃー
 file: Hudson Selection Vol. 2 - Star Soldier (Japan).rvz
+publisher: ハドソン
+description:
+  ハドソンより2003年7月10日にゲームキューブ用ソフトとして発売されたシューティングゲーム。あのFCの名作シューティング『スターソルジャー』が、グラフィックやゲームシステムを大きくパワーアップ。隠しパネルコンボボーナスなどFC版にあった得点システムなどをより深く突き詰め、好評の「キャラバンモード」を、2分間タイムアタック、5分間タイムアタックモードとして新たに搭載している。
 
 game: ハドソンセレクション Vol.3 PC原人
 sort_title: はどそんせれくしょん3ぴーしーげんじん
 file: Hudson Selection Vol. 3 - PC Genjin - Pithecanthropus Computerurus (Japan).rvz
+publisher: ハドソン
+description:
+  ハドソンより2003年12月4日にゲームキューブ用ソフトとして発売されたアクションゲーム。PCエンジンで大ヒットしたアクションゲーム『PC原人』が復活。3Dに生まれ変わった原人君が、史上最強の石頭で大暴れする。途中に出現する原始肉を食べると原人がPC猿人、PC変人へと2段階にパワーアップする。恐竜王国に突然現れた悪の大王・キングタマゴドン3世にさらわれたプリンセス・ドラゴンを救おう。
 
 game: ハドソンセレクション Vol.4 高橋名人の冒険島
 sort_title: はどそんせれくしょん4たかはしめいじんのぼうけんじま
 file: Hudson Selection Vol. 4 - Takahashi-Meijin no Boukenjima (Japan).rvz
+publisher: ハドソン
+description:
+  ハドソンより2003年12月18日にゲームキューブ用ソフトとして発売されたアクションゲーム。ファミコンの名作アクション『高橋名人の冒険島』が復活。高橋名人がキュラ大王に囚われた恋人ティナを取り戻すべく、冒険島を舞台に大活躍する。フルーツの獲得率を示す「フルーツ達成率」、ノーミスクリアを目指す「チャレンジゲーム」など新要素を追加。「シュウォッチ」や昔のCM映像など、オマケ要素も充実している。
 
 # game: Hulk (Europe)
 # file: Hulk (Europe).rvz
@@ -2763,6 +2832,9 @@ file: Hudson Selection Vol. 4 - Takahashi-Meijin no Boukenjima (Japan).rvz
 game: ハイパースポーツ2002 ウィンター
 sort_title: はいぱーすぽーつ2002うぃんたー
 file: Hyper Sports 2002 Winter (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2002年1月31日にゲームキューブ用ソフトとして発売されたウインタースポーツゲーム。冬季オリンピックの正式種目を楽しむことができる。「ダウンヒル」「スラローム」「スキージャンプ(2種)」「モーグル」「スピードスケート」「ボブスレー」「カーリング」「フィギュアスケート」「ハーフパイプ」など全10種の競技がプレイ可能。冬季オリンピックで見た感動を体験することができる。
 
 # game: I-Ninja (USA)
 # file: I-Ninja (USA).rvz
@@ -2779,6 +2851,9 @@ file: Hyper Sports 2002 Winter (Japan).rvz
 game: 斑鳩
 sort_title: いかるが
 file: Ikaruga (Japan).rvz
+publisher: インフォグラムジャパン
+description:
+  インフォグラムジャパンより2003年1月16日にゲームキューブ用ソフトとして発売されたシューティングゲーム。アーケードで高評価を呼んだ話題作の移植作品。敵味方関係なく、白と黒の2つの「属性」が存在し、同属性の弾は吸収し、異属性の弾に当たると1機失うという特性があり、この属性を使い分けてステージクリアを目指す。練習モードやイラストギャラリー、サウンドモードなどオリジナル要素を搭載している。
 
 # game: Ikaruga (USA)
 # file: Ikaruga (USA).rvz
@@ -3005,42 +3080,72 @@ file: Ikaruga (Japan).rvz
 game: 実況パワフルメジャーリーグ
 sort_title: じっきょうぱわふるめじゃーりーぐ
 file: Jikkyou Powerful Major League (Japan).rvz
+publisher: コナミコナミ
+description:
+  コナミより2006年5月11日にゲームキューブ用ソフトとして発売された野球ゲーム。人気プロ野球ゲーム『実況パワフルプロ野球』のメジャーリーグベースボール版。メジャーリーグベースボール30球団の選手が実名で登場し、フランチャイズ30球場も再現。選手は2006年度開幕予想データ。ホームラン競争、多人数で遊べるリーグモード、アレンジ、練習など様々なモードを用意している。
 
 game: 実況パワフルプロ野球10
 sort_title: じっきょうぱわふるぷよやきゅう10
 file: Jikkyou Powerful Pro Yakyuu 10 (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2003年7月17日にゲームキューブ用ソフトとして発売された野球ゲーム。人気の野球ゲーム『パワフルプロ野球』シリーズがさらに進化。さまざまな状況に応じたモーションを増やし、ボールの挙動も忠実に再現するなど、「野球らしさ」を徹底追求。好評の「サクセス」モードも、各球団別に新たなストーリーや新システムを用意。新モード「対決!伝説選手」なども搭載されている。
 
 game: 実況パワフルプロ野球10 超決定版 2003メモリアル
 sort_title: じっきょうぱわふるぷろやきゅう10ちょうけっていばん2003めもりある
 file: Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban - 2003 Memorial (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2003年12月18日にゲームキューブ用ソフトとして発売された野球ゲーム。大人気の野球ゲーム『実況パワフルプロ野球10』に03年ペナント終了時のデータ搭載。「サクセス」モードにも新しい第5のシナリオを追加。自分だけのチームを作り、プロ野球界に挑戦したり、歴代サクセスのキャラ120人が総出演する「サクセスオールスターズ」も登場。ますます盛り上がる『パワプロ』を堪能できる。
 
 game: 実況パワフルプロ野球11
 sort_title: じっきょうぱわふるぷろやきゅう11
 file: Jikkyou Powerful Pro Yakyuu 11 (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2004年7月15日にゲームキューブ用ソフトとして発売された野球ゲーム。大人気のプロ野球ゲーム『パワプロ』シリーズ。2004年度開幕時の現役選手520名、OB280名の合計800名の選手データを搭載。「さらに野球らしく」をテーマに、野球部分が進化。操作性はそのままに感覚的な野球を追及している。自分だけのプロ野球ライフを楽しめる「マイライフ」モードも独立化されている。
 
 game: 実況パワフルプロ野球11 超決定版
 sort_title: じっきょうぱわふるぷろやきゅう11ちょうけっていばん
 file: Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2004年12月16日にゲームキューブ用ソフトとして発売された野球ゲーム。2004年度シーズン終了時のデータを搭載し、『実況パワフルプロ野球11』がパワーアップ。現役520名にOB280名の合計800名の選手データを搭載。好評の「マイライフモード」や「サクセスモード」も進化。「ペナントモード」は、チームを率いて日本一を目指し、最大10年間のプレイが可能となっている。
 
 game: 実況パワフルプロ野球12
 sort_title: じっきょうぱわふるぷろやきゅう12
 file: Jikkyou Powerful Pro Yakyuu 12 (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2005年7月14日にゲームキューブ用ソフトとして発売された野球ゲーム。超人気野球ゲーム『実況パワフルプロ野球』シリーズ。2005年度ペナント開幕時のデータを収録。基礎クラス・応用クラス・実力テストの3段階で操作をマスターすることが出来る「パワプロ野球教室」を新搭載。「サクセス」はパワフルタウン編を収録。新チームやセ・パ交流戦などますます盛り上がるプロ野球を体験することができる。
 
 game: 実況パワフルプロ野球12 決定版
 sort_title: じっきょうぱわふるぷろやきゅう12けっていばん
 file: Jikkyou Powerful Pro Yakyuu 12 - Ketteiban (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2005年12月15日にゲームキューブ用ソフトとして発売された野球ゲーム。大ヒット作『実況パワフルプロ野球12』が決定版になって登場。2005年ペナントレース終了時のデータを使用。サクセスモードに「合併」「景気」「新施設」など選手の育成に大きな影響をおよぼす新要素を追加。他にも驚きの新要素が満載。あの興奮の交流戦や劇的な展開を魅せたペナントレースの感動を再び味わおう。
 
 game: 実況パワフルプロ野球9
 sort_title: じっきょうぱわふるぷろやきゅう09
 file: Jikkyou Powerful Pro Yakyuu 9 (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2002年7月18日にゲームキューブ用ソフトとして発売された野球ゲーム。爆発的にヒットしている大人気野球ゲーム『実況パワフルプロ野球』シリーズの第9弾。2002年度開幕時の選手データを収録。「ペナント」はプレイ期間が最長10年になるなど、様々な新要素を追加。選手育成モード「サクセス」はもちろん健在。自分好みの選手を育成し、さらに楽しくなった野球を楽しもう。
 
 game: 実況パワフルプロ野球9 決定版
 sort_title: じっきょうぱわふるぷろやきゅう09けっていばん
 file: Jikkyou Powerful Pro Yakyuu 9 - Ketteiban (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2002年12月19日にゲームキューブ用ソフトとして発売された野球ゲーム。大好評の『実況パワフルプロ野球9』に、2002年シーズン終了時のデータを収録し、様々な追加調整が行われた決定版となる。各種モードに様々な調整が施され、新イベントなどの新要素も満載。『9』はもちろん、『2002春』で育成した選手も、パスワード対応により使用可能となっている。
 
 game: 実況ワールドサッカー2002
 sort_title: じっきょうわーるどさっかー2002
 file: Jikkyou World Soccer 2002 (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2002年3月14日にゲームキューブ用ソフトとして発売されたサッカーゲーム。サッカーの奥深さ、リアルさを追求したサッカーゲーム『実況ワールドサッカー』シリーズの2002年度版となる。日本サッカー協会、FIFProと契約し、日本代表チームと海外32ヵ国のチームの選手が実名で登場。各モードで入手できるポイントで隠しユニフォームや旗を取得し、オリジナルチームのエディットも可能となっている。
 
 # game: Judge Dredd - Dredd vs. Death (Europe) (En,Fr)
 # file: Judge Dredd - Dredd vs. Death (Europe) (En,Fr).rvz
@@ -3054,6 +3159,9 @@ file: Jikkyou World Soccer 2002 (Japan).rvz
 game: カイジュウの島 アメージングアイランド
 sort_title: かいじゅうのしまあめーじんぐあいらんど
 file: Kaijuu no Shima - Amazing Island (Japan).rvz
+publisher: セガ
+description:
+  セガより2004年1月15日にゲームキューブ用ソフトとして発売されたオリジナルモンスターアクションゲーム。カイジュウたちが住むという伝説のカイジュウ島を舞台にしている。新機能カイジュウエディタは3Dモデルの自動生成技術を使用しており、誰でも簡単にカイジュウを作成することができる。自分だけのカイジュウを操作して、さまざまなアクションステージをクリアしていこう。
 
 # game: Kao the Kangaroo - Round 2 (Europe) (En,Fr,De,Es,It)
 # file: Kao the Kangaroo - Round 2 (Europe) (En,Fr,De,Es,It).rvz
@@ -3085,10 +3193,16 @@ file: Kaijuu no Shima - Amazing Island (Japan).rvz
 game: ケロケロキングDX
 sort_title: けろけろきんぐでらっくす
 file: Kero Kero King DX (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2003年7月11日にゲームキューブ用ソフトとして発売されたカエルを飛ばしてカップに入れるゴルフ風ゲーム。プレイステーションで発売された『ケロケロキング』の続編。ラビットビット星の少年プリプリとなって、大事なエネルギー源となるハイパーケロストンを手に入れるため、ケロフトーナメントでの優勝を狙う。コースの途中でポイントを稼ぎながら、少ない打数でカエルインさせよう。
 
 game: 機動戦士ガンダム ガンダム VS. Zガンダム
 sort_title: きどうせんしがんだむがんだむばーさすぜーたがんだむ
 file: Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2004年12月9日にゲームキューブ用ソフトとして発売された対戦アクションゲーム。ガンダムのチームバトルアクションの決定版。選んだ陣営のパイロットとなり、宇宙世紀の年表に沿ったステージにチャレンジする「宇宙世紀モード」では、結果によって史実とは違う展開が待ち受ける。シリーズ初登場機やMAなど数々のモビルスーツが参戦。選べる3種類のパワーアップがアツい駆け引きを生み出す。
 
 game: 機動戦士ガンダム 戦士達の軌跡
 sort_title: きどうせんしがんだむせんしたちのきせき
@@ -3096,6 +3210,9 @@ files:
   Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan).rvz
   Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc).rvz
   Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2004年3月18日にゲームキューブ用ソフトとして発売されたアクションゲーム。『機動戦士ガンダム』の一年戦争を駆け抜けた戦士たちに焦点をあてている。アムロやシャアを始めとする歴戦のパイロットとなって、一年戦争の数々の激戦を潜り抜けていく。ニュータイプ能力などを様々なアビリティやスキルを修得することで、従来のゲームでは不可能だった原作での壮絶な戦いを再現している。
 
 # game: Killer7 (Europe) (En,Fr,De) (Disc 1)
 # file: Killer7 (Europe) (En,Fr,De) (Disc 1).rvz
@@ -3108,6 +3225,9 @@ sort_title: きらー7
 files:
   Killer7 (Japan) (Disc 1) (Rev 2).rvz
   Killer7 (Japan) (Disc 2) (Rev 2).rvz
+publisher: CAPCOM
+description:
+  カプコンより2005年6月9日にゲームキューブ用ソフトとして発売されたハードボイルドテイストのアクションアドベンチャーゲーム。「キラー7」と呼ばれる7つの人格を持つ殺し屋となり、国家転覆を目論む「クン・ラン」と、彼が操る「ヘブン・スマイル」という暴徒たちと対峙していく。銃器の扱いに長け、特殊能力を備えた「キラー7」たちを要所で使い分け、困難な任務を遂行していくのが目的となる。
 
 # game: Killer7 (USA) (Disc 1) (Rev 1)
 # file: Killer7 (USA) (Disc 1) (Rev 1).rvz
@@ -3124,6 +3244,9 @@ files:
 game: キン肉マンII世 新世代超人 VS. 伝説超人
 sort_title: きんにくまんにせいにゅーじぇねれーしょんばーさすれじぇんど
 file: Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2002年11月22日にゲームキューブ用ソフトとして発売された3D格闘アクションゲーム。『キン肉マン』の白熱バトルを楽しめる。リアルに再現された初代正義超人と新世代超人が総登場し、夢のカードも実現可能。「エディットモード」では腕や足のパーツを組み合わせてオリジナル超人を作り出すことができ、時空を越えて繰り広げられる夢のバトルにキミも参戦することができる。
 
 # game: Kirby Air Ride (Europe) (En,Fr,De,Es,It)
 # file: Kirby Air Ride (Europe) (En,Fr,De,Es,It).rvz
@@ -3137,10 +3260,16 @@ file: Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin (Japan).rvz
 game: カービィのエアライド
 sort_title: かーびぃのえあらいど
 file: Kirby's Airride (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年7月11日にゲームキューブ用ソフトとして発売されたアクションレースゲーム。あの『カービィ』が今度は爽快レースゲームに挑戦。Aボタン1つのシンプル操作。多彩なコピーアクションもカンタン操作で実現しているので、タイミング良くつかってライバルを出し抜こう。もちろんエアライドマシンも、それぞれ個性豊かな能力があるものが多数登場。陸を、空をビュンビュン駆け巡る爽快感を味わうことができる。
 
 game: 極麻雀DXII The 4th MONDO21Cup Competition
 sort_title: きわめまーじゃんでらっくす2ざふぉーすもんどとぅうぇんてぃーわんこんぺてぃしょん
 file: Kiwame Mahjong DX II - The 4th MONDO21Cup Competition (Japan).rvz
+publisher: アテナ
+description:
+  アテナより2002年8月9日にゲームキューブ用ソフトとして発売された麻雀ゲーム。本格派4人打ち麻雀『プロ麻雀　極』シリーズが人気麻雀番組『MONDO21Cup』とコラボレーションゲーム。番組さながらの熱い闘牌を再現している。人気、実力ともにトップクラスの麻雀プロ16名が出演し、各プロのプロフィールや撮り下ろしインタビューも収録。プレイヤー対局情報を全て記録し、打ち筋を分析することもできる。
 
 # game: Knights of the Temple - Infernal Crusade (Europe) (En,Fr,De,Es)
 # file: Knights of the Temple - Infernal Crusade (Europe) (En,Fr,De,Es).rvz
@@ -3154,22 +3283,37 @@ file: Kiwame Mahjong DX II - The 4th MONDO21Cup Competition (Japan).rvz
 game: 金色のガッシュベル!! ゴー!ゴー!魔物ファイト!!
 sort_title: こんじきのがっしゅべるごーごーまものふぁいと
 file: Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2005年12月15日にゲームキューブ用ソフトとして発売されたアクションゲーム。魔物たちの能力を生かしたコミカルアクションとなっており、最大4人での対戦が可能。お気に入りの魔物を操作して、ライバルを蹴散らしてく。友情スロットを回して逆転を狙うことで様々な効果があらわれる。スロットアイテムを取得して、リールを回すことで、一定時間魔物ペアが決まる。うまく協力して逆転を狙おう。
 
 game: 金色のガッシュベル!! 友情タッグバトル Full Power
 sort_title: こんじきのがっしゅべるゆうじょうたっぐばとる1ふるぱわー
 file: Konjiki no Gashbell!! Yuujou Tag Battle - Full Power (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2004年8月5日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。PS2版『金色のガッシュベル!!　友情タッグバトル』を大幅パワーアップ。人気キャラ・ウマゴンや劇場版のキャラなどを追加。魔物とパートナーの魔界の王の座を巡る激しいバトルが展開する。GBA版『金色のガッシュベル!!　魔界のブックマーク』との連動で、隠しキャラクターの使用が可能になる。
 
 game: 金色のガッシュベル!! 友情タッグバトル2
 sort_title: こんじきのがっしゅべるゆうじょうたっぐばとる2
 file: Konjiki no Gashbell!! Yuujou Tag Battle 2 (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2005年3月24日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。『金色のガッシュベル!!　友情タッグバトル』が新要素満載でパワーアップ。勝敗の行方でストーリーが分岐するアドベンチャー要素が楽しめる「ストーリーモード」をはじめとした多彩なモードを搭載。コンビネーションジャンプアタック、バリアブルガードシステムなどを採用し、よりスリリングなバトルが楽しめる。
 
 game: くるりんスカッシュ!
 sort_title: くるりんすかっしゅ
 file: Kururin Squash! (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2004年10月14日にゲームキューブ用ソフトとして発売されたアクションゲーム。くるくる回転して飛ぶヘリリンに乗って大冒険。ゆっくりくるくるまわる特殊ヘリコプター・ヘリリンを操作して、壁や障害物、敵などにぶつからないようにゴールまで進めていく。さまざま機能を持ったアクションヘリリンによる新アクションを使えば障害物や敵を壊しせば、スカッと爽快に進められる。
 
 game: 巨人のドシン
 sort_title: きょじんのどしん
 file: Kyojin no Doshin (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2002年3月14日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。神か悪魔か、創造か破壊か。南国ムード漂う癒しの中に深いテーマが流れるゲーム。南洋のどこかに存在するバルド島に語り継がれる巨人伝説。プレイヤーはその巨人「ドシン」となって、神のような立場で島民たちの生活を見守る。慕われる存在になるか、憎まれる存在になるかはプレイヤー次第となる。
 
 # game: LEGO Star Wars - The Video Game (Europe)
 # file: LEGO Star Wars - The Video Game (Europe).rvz
@@ -3210,6 +3354,9 @@ file: Kyojin no Doshin (Japan).rvz
 game: レジェンド オブ ゴルファー
 sort_title: れじぇんどおぶごるふぁー
 file: Legend of Golfer (Japan).rvz
+publisher: セタ
+description:
+  セタより2004年6月17日にゲームキューブ用ソフトとして発売されたゴルフゲーム。世界各地の美しいコースを舞台に、「本格」をとことん追求している。パワーゲージとモーションを連動させた「アナログショットシステム」で、実際のゴルフのショット感覚を忠実に再現。自分だけのオリジナルキャラクターを育成して、世界No.1を目指すプロゴルファーの生活を体験することができる。
 
 # game: Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl)
 # file: Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl).rvz
@@ -3289,16 +3436,25 @@ file: Legend of Golfer (Japan).rvz
 game: ロード・オブ・ザ・リング 二つの塔
 sort_title: ろーどおふざりんぐふたつのとう
 file: Lord of the Rings - Futatsu no Tou (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年2月14日にゲームキューブ用ソフトとして発売されたアクションRPG。J.R.R.トールキン原作『指輪物語』3部作を完全映画化した『ロード・オブ・ザ・リング』の1作目と2作目をベースにしたゲーム作品。「中つ国」を舞台にした12以上のステージを用意。映画の仲間たちを操作し、それぞれ異なる多様な武器を駆使して、オークやトロルなどの闇の勢力との戦いを繰り広げる。
 
 game: ロード・オブ・ザ・リング 中つ国第三紀
 sort_title: ろーどおぶざりんぐなかつくにだいさんき
 files:
   Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 1).rvz
   Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 2).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2004年12月22日にゲームキューブで発売されたロールプレイングゲーム。ファンタジーの原点『ロード・オブ・ザ・リング』のゲーム化作品。オリジナルシナリオに原作の主要シーンを盛り込んだ壮大なストーリーの中で、人間、ドワーフ、エルフから成るパーティを操作して中つ国を冒険する。ターン制バトル、クエスト進行型のシステムなどが導入され、中つ国の世界をじっくり堪能できる。
 
 game: ロード・オブ・ザ・リング 王の帰還
 sort_title: ろーどおぶざりんぐおうのきかん
 file: Lord of the Rings - Ou no Kikan (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2004年1月8日にゲームキューブ用ソフトとして発売されたアクションRPG。映画『ロード・オブ・ザ・リング』三部作の最終章のゲーム化作品。前作から大幅にアクションが進化し、使用キャラには、アラゴルン、レゴラス、ギムリに加えて、ガンダルフ、サム、フロドを追加。ストーリーやステージ、使用できるキャラが異なる3つのルートが用意され、原作をより忠実に再現している。
 
 # game: Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Sv)
 # file: Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Sv).rvz
@@ -3342,6 +3498,9 @@ file: Lord of the Rings - Ou no Kikan (Japan).rvz
 game: ルイージマンション
 sort_title: るいーじまんしょん
 file: Luigi Mansion (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2001年9月14日にゲームキューブ用ソフトとして発売されたアクションゲーム。マリオの弟・ルイージを操り、イタズラ好きのオバケ・テレサがひそんでいる屋敷を探索する。コントローラの2本のスティックで、忍び足でまわりを見回したり、オバケを追いかけながら掃除機で吸いこんでいく。マリオを探して、本当はとっても怖がりのルイージが大冒険と大追跡を繰り広げる。
 
 # game: Luigi's Mansion (Europe) (En,Fr,De,Es,It)
 # file: Luigi's Mansion (Europe) (En,Fr,De,Es,It).rvz
@@ -3357,6 +3516,9 @@ sort_title: るぱんさんせいうみにきえたひほう
 files:
   Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1).rvz
   Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2).rvz
+publisher: アスミック・エース
+description:
+  アスミック・エースより2003年7月31日にゲームキューブ用ソフトとして発売された2Dアドベンチャーゲーム。痛快なアクションやスリルとサスペンスで人気の『ルパン三世』を題材としたゲーム作品。声優陣はもちろん、アニメーション部分もアニメシリーズを手がけた「東京ムービー」が監修。ルパンと出会う少年テオとなり、次元に五右衛門、銭形のとっつぁんといったキャラと共にオリジナルのストーリーを進めていく。
 
 # game: MC Groovz Dance Craze (Europe) (En,Fr,De,Es,It)
 # file: MC Groovz Dance Craze (Europe) (En,Fr,De,Es,It).rvz
@@ -3421,6 +3583,9 @@ files:
 game: 魔法のパンプキン アンとグレッグの大冒険
 sort_title: まほうのぱんぷきんなんとぐれっぐのだいぼうけん
 file: Mahou no Pumpkin - An to Greg no Daibouken (Japan).rvz
+publisher: MTO
+description:
+  MTOより2003年6月19日にゲームキューブ用ソフトとして発売されたアクションゲーム。ハロウィンの夜には不思議な何かが起きる。闇夜の墓地に不気味なモンスターといった、ハロウィンの雰囲気を再現している。とある森の中で不思議な世界に迷い込んでしまった主人公のアンとグレッグ。2人の異なる特性を活かしてさまざまな謎を解き明かし、森の中から脱出するのが目的となる。
 
 # game: Major League Baseball 2K6 (USA)
 # file: Major League Baseball 2K6 (USA).rvz
@@ -3428,6 +3593,9 @@ file: Mahou no Pumpkin - An to Greg no Daibouken (Japan).rvz
 game: マリオゴルフ ファミリーツアー
 sort_title: まりおごるふふぁみりーつあー
 file: Mario Golf - Family Tour (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年9月5日にゲームキューブ用ソフトとして発売されたゴルフゲーム。簡単な操作と奥深いゲーム性で、あらゆる世代から支持を集めている『マリオゴルフ』シリーズのゲームキューブ版となる。4人対戦はもちろん、2対2で1打ずつ交互に打つシステムの「ダブルス」など、バリエーション豊かな多人数プレイモードを搭載。従来シリーズのキャラに加え、ワルイージ、ノコノコなどが新たに参加する。
 
 # game: Mario Golf - Toadstool Tour (Europe) (En,Fr,De,Es,It)
 # file: Mario Golf - Toadstool Tour (Europe) (En,Fr,De,Es,It).rvz
@@ -3444,6 +3612,9 @@ file: Mario Golf - Family Tour (Japan).rvz
 game: マリオカート ダブルダッシュ!!
 sort_title: まりおかーとだぶるだっしゅ
 file: Mario Kart - Double Dash!! (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年11月7日にゲームキューブ用ソフトとして発売されたレースゲーム。人気ゲーム『マリオカート』シリーズのゲームキューブ版となる。1つのカートの前後に2人のキャラが乗り、多彩なアクションを繰り広げる。登場キャラクターは史上最多のオールキャスト。コースも遊園地や砂漠、豪華客船のデッキなど多彩。ブロードバンドアダプタを介しての多人数プレイも可能となっている。
 
 # game: Mario Kart - Double Dash!! (Korea)
 # file: Mario Kart - Double Dash!! (Korea).rvz
@@ -3469,6 +3640,9 @@ file: Mario Kart - Double Dash!! (Japan).rvz
 game: マリオパーティ4
 sort_title: まりおぱーてぃ4
 file: Mario Party 4 (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2002年11月8日にゲームキューブ用ソフトとして発売されたテーブルゲーム。任天堂の人気キャラたちが大活躍するパーティゲームの決定版『マリオパーティ』シリーズの第4弾。3Dマップ化に加え、2対2のタッグマッチなど大幅パワーアップ。マップはバリエーション豊かな全6種類、ほぼ完全新作のミニゲームは60種類以上収録している。1人でもみんなでも楽しめる4つのモードが楽しめる。
 
 # game: Mario Party 4 (Korea)
 # file: Mario Party 4 (Korea).rvz
@@ -3485,6 +3659,9 @@ file: Mario Party 4 (Japan).rvz
 game: マリオパーティ5
 sort_title: まりおぱーてぃ5
 file: Mario Party 5 (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年11月28日にゲームキューブ用ソフトとして発売されたテーブルゲーム。定番パーティゲームと言っても過言ではない『マリオパーティ』シリーズ第5弾。マップの3D化によって大幅にクオリティアップし、75種類のミニゲームを収録。「テレサ」「キノピオ」「ミニクッパ」が使用可能キャラに新登場している。「パーティモード」「ストーリーモード」など多彩なモードでゲームを楽しめる。
 
 # game: Mario Party 5 (Korea)
 # file: Mario Party 5 (Korea).rvz
@@ -3498,6 +3675,9 @@ file: Mario Party 5 (Japan).rvz
 game: マリオパーティ6
 sort_title: まりおぱーてぃ6
 file: Mario Party 6 (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2004年11月18日にゲームキューブ用ソフトとして発売されたパーティゲーム。マリオたちを操作してボードゲームとミニゲームを楽しむ『マリオパーティ』シリーズ第6弾。マイクに向かって答えを叫んだり、声でキャラを操作するなどの新感覚ゲームを含め、完全新作のミニゲーム82種類を収録。また、昼と夜が交互に入れ替わり、マップのルートやイベント、発生するミニゲームも変化する。
 
 # game: Mario Party 6 (USA)
 # file: Mario Party 6 (USA).rvz
@@ -3508,6 +3688,9 @@ file: Mario Party 6 (Japan).rvz
 game: マリオパーティ7
 sort_title: まりおぱーてぃ7
 file: Mario Party 7 (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2005年11月10日にゲームキューブ用ソフトとして発売されたマリオのパーティゲーム。シリーズ最多となる88種類ものミニゲームで遊べる。今まで通り1人で戦うゲームやチームで協力するゲームのほか、ドンキーミニゲームやクッパミニゲームなども盛りだくさん。さらに最大で8人同時プレイが可能。「パーティツアー」では2人1組になり、4チームで競い合うこともできる。
 
 # game: Mario Party 7 (USA) (Rev 1)
 # file: Mario Party 7 (USA) (Rev 1).rvz
@@ -3535,6 +3718,9 @@ sort_title: まりおてにすGC
 files:
   Mario Tennis GC (Japan).rvz
   Mario Tennis GC (Japan) (Rev 1).rvz
+publisher: 任天堂
+description:
+  任天堂より2004年10月28日にゲームキューブ用ソフトとして発売されたテニスゲーム。大人気の『マリオテニス』のゲームキューブ版となる。「簡単操作で、誰でもラリーが楽しめる!」という前作の特徴はそのままに、スペシャルショットやスペシャルゲームなどの新要素を追加し、これまでにはなかったド派手な演出で対戦プレイはさらにヒートアップ。簡単に多彩な打球を操れる本格テニスを楽しめる。
 
 # game: Mark Davis Pro Bass Challenge (USA)
 # file: Mark Davis Pro Bass Challenge (USA).rvz
@@ -3596,6 +3782,9 @@ files:
 game: メダル・オブ・オナー ヨーロッパ強襲
 sort_title: めだるおぶおなーよーろっぱきょうしゅう
 file: Medal of Honor - Europa Kyoushuu (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2005年8月11日にゲームキューブ用ソフトとして発売されたFPSゲーム。第二次世界大戦中のヨーロッパ戦線が舞台の人気FPSシリーズ第3弾。リアルで自由度の高い戦場描写に、仲間を引き連れた分隊戦、戦場の高揚感を体験できる「アドレナリンメーター」など新システムを導入。連合軍の命運を決める極秘任務を課せられた主人公は、歴史の転換期となった戦いに挑んでいく。
 
 # game: Medal of Honor - European Assault (Europe)
 # file: Medal of Honor - European Assault (Europe).rvz
@@ -3641,6 +3830,9 @@ sort_title: めだるおぶおなーらいじんぐさん
 files:
   Medal of Honor - Rising Sun (Japan) (Disc 1).rvz
   Medal of Honor - Rising Sun (Japan) (Disc 2).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年12月4日にゲームキューブ用ソフトとして発売されたFPSゲーム。日本帝国軍とアメリカ軍との激戦が繰り広げられた太平洋戦争を舞台にしている。戦場はさらにリアルになり、待望のマルチプレイを実装。主人公ジョセフ・グリフィンとなって、米海兵隊、米レンジャー部隊や英SASからなる部隊を率い、ガダルカナル島への上陸作戦など史実に基づいた任務を成功させるのが目的となる。
 
 # game: Medal of Honor - Rising Sun (USA) (Disc 1)
 # file: Medal of Honor - Rising Sun (USA) (Disc 1).rvz
@@ -3657,6 +3849,9 @@ files:
 game: メダロット BRAVE
 sort_title: めだろっとぶれいぶ
 file: Medarot Brave (Japan) (Rev 1).rvz
+publisher: ナツメ
+description:
+  ナツメより2003年11月28日にゲームキューブ用ソフトとして発売された『メダロット』シリーズ初の本格的ロボットアクションRPG。登場するメダロットの数は40体以上。一定条件をクリアすることで道が開かれる「ミッションアリーナ」やGCならではの「ロボトルアリーナ」を搭載。「ボイスナビゲーションシステム」で、初心者プレイヤーでも安心してプレイできる。
 
 # game: Mega Man Anniversary Collection (USA) (Rev 1)
 # file: Mega Man Anniversary Collection (USA) (Rev 1).rvz
@@ -3706,6 +3901,9 @@ files:
   Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 1).rvz
   Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 2).rvz
   Metal Gear Solid - The Twin Snakes - Special Disc (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2004年3月11日にゲームキューブ用ソフトとして発売されたアクションゲーム。あの名作『METAL　GEAR　SOLID』が、マップ、システム、敵AIなど進化してGCに登場。グラフィックは作り直され、新たなシーンも追加。潜入任務のスペシャリスト「ソリッド・スネーク」となって、敵地へ単独潜入し、仲間の助けを借りつつ、人質の救出、テロリストの武装解除などの任務を遂行しよう。
 
 # game: Metal Gear Solid - The Twin Snakes (USA) (Disc 1)
 # file: Metal Gear Solid - The Twin Snakes (USA) (Disc 1).rvz
@@ -3719,6 +3917,9 @@ files:
 game: メトロイドプライム
 sort_title: めとろいどぷらいむ1
 file: Metroid Prime (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年2月28日にゲームキューブ用ソフトとして発売されたアクションゲーム。アクションゲームの名作『メトロイド』が3D主観視点に生まれ変わったゲームキューブ版。機能の異なる4種類のバイザーを使い分ける新しいアクションを追加。シリーズ第1作目の事件の直後を舞台に、惑星ターロン4で行われている宇宙海賊の実験の真相を突き止めるべく、主人公のサムス・アランが再び戦いに身を投じる。
 
 # game: Metroid Prime (Korea)
 # file: Metroid Prime (Korea).rvz
@@ -3735,6 +3936,9 @@ file: Metroid Prime (Japan).rvz
 game: メトロイドプライム2 ダークエコーズ
 sort_title: めとろいどぷらいむ2だーくえこーず
 file: Metroid Prime 2 - Dark Echoes (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2005年5月26日にゲームキューブ用ソフトとして発売された探索潜入型アクションアドベンチャーゲーム。SF映画の主役気分で圧倒的な臨場感を楽しめる。前作の約3倍ものムービーによるシネマティックな演出により、SF映画の主人公になった気分でゲームを体感できる。シリーズ史上初めて搭載された「マルチプレイモード」ではアクション性の高い4人同時対戦が可能となっている。
 
 # game: Metroid Prime 2 - Echoes (Europe) (En,Fr,De,Es,It)
 # file: Metroid Prime 2 - Echoes (Europe) (En,Fr,De,Es,It).rvz
@@ -3778,6 +3982,9 @@ file: Metroid Prime 2 - Dark Echoes (Japan).rvz
 game: ミッション:インポッシブル -オペレーション・サルマ-
 sort_title: みっしょんいんぽっしぶるおぺれーしょんさるま
 file: Mission - Impossible - Operation Surma (Japan).rvz
+publisher: アタリ
+description:
+  アタリより2004年3月25日にゲームキューブ用ソフトとして発売されたアクションゲーム。映画『ミッション:インポッシブル』を題材にしている。エージェントのイーサン・ハントとなり、中東、中米、東欧などの世界各地でミッションに挑んでいく。映画でもおなじみの「変装用キット」や「ジェットパック」などのスパイ道具を駆使してミッションを遂行していく。
 
 # game: Mission - Impossible - Operation Surma (USA)
 # file: Mission - Impossible - Operation Surma (USA).rvz
@@ -3785,10 +3992,16 @@ file: Mission - Impossible - Operation Surma (Japan).rvz
 game: 桃太郎電鉄11 ブラックボンビー出現!の巻
 sort_title: ももたろうでんてつ11ぶらっくぼんびーしゅつげんのまき
 file: Momotarou Dentetsu 11 - Black Bombee Shutsugen! no Maki (Japan).rvz
+publisher: ハドソン
+description:
+  ハドソンより2002年12月5日にゲームキューブ用ソフトとして発売されたボードゲーム。すごろく形式の定番ボードゲーム『桃太郎電鉄』シリーズのパワーアップしたゲームキューブ版。キャラやイベント、カードはもちろん、「キングボンビー」も怪獣サイズまでに巨大化し、ますます凶悪になって登場する。さらに、シリーズ史上最悪のお邪魔キャラ「ブラックボンビー」も新たに誕生し、超ド級の災いをもたらす。
 
 game: 桃太郎電鉄12 西日本編もありまっせー!
 sort_title: ももたろうでんてつ12にしにほんへんもありまっせー
 file: Momotarou Dentetsu 12 - Nishi Nihon-hen mo Arimasse! (Japan).rvz
+publisher: ハドソン
+description:
+  ハドソンより2003年12月11日にゲームキューブ用ソフトとして発売されたボードゲーム。おなじみ国民的ゲーム『桃鉄』シリーズに今度はボリューム満点の「西日本編」を追加。近畿・四国・中国の3つの地域を舞台にした「西日本編」は、全国編とは一味違うシリーズ最多の物件数を誇り、「西日本編」だけの要素も盛りだくさん。もちろん「いつもの桃鉄」もパワーアップし、ますますゲームが盛り上がる。
 
 # game: Monde de Narnia, Le - Chapitre 1 - Le Lion, la Sorciere Blanche et l'Armoire Magique (France)
 # file: Monde de Narnia, Le - Chapitre 1 - Le Lion, la Sorciere Blanche et l'Armoire Magique (France).rvz
@@ -3796,6 +4009,9 @@ file: Momotarou Dentetsu 12 - Nishi Nihon-hen mo Arimasse! (Japan).rvz
 game: モノポリー めざせっ!! 大富豪人生!
 sort_title: ものぽりーめざせっだいふごうじんせい
 file: Monopoly - Mezase!! Daifugou Jinsei!! (Japan) (Rev 1).rvz
+publisher: トミー
+description:
+  トミーより2003年7月31日にゲームキューブ用ソフトとして発売されたボードゲーム。世界中で愛されているボードゲーム『モノポリー』のゲームキューブ版となる。通常ルールのほか、ミニゲームで行えるオリジナルルールも搭載。「歴史マップ」や、世界各地をモチーフにした「アレンジマップ」などのオリジナルマップを加えた計13種類を収録。初心者から上級者まで、手軽にみんなで楽しむことができる。
 
 # game: Monopoly Party (Europe) (En,Fr,De,Es,It)
 # file: Monopoly Party (Europe) (En,Fr,De,Es,It).rvz
@@ -3839,6 +4055,9 @@ file: Monopoly - Mezase!! Daifugou Jinsei!! (Japan) (Rev 1).rvz
 game: ミスタードリラー ドリルランド
 sort_title: みすたーどりらーどりるらんど
 file: Mr. Driller - Drill Land (Japan).rvz
+publisher: ナムコ
+description:
+  ナムコより2002年12月20日にゲームキューブ用ソフトとして発売されたアクションパズルゲーム。ブロックを崩して、下へと掘り進んでいく。ステージは「神秘の宇宙」「大冒険活劇」「ホラー」など、5つのアトラクションに挑む。「ドルアーガーの塔」をアレンジしたミニゲームなどで遊べたり、カードやフィギュアのアイテムを集めることができる。
 
 # game: Muppets - Party Cruise (USA)
 # file: Muppets - Party Cruise (USA).rvz
@@ -3846,10 +4065,16 @@ file: Mr. Driller - Drill Land (Japan).rvz
 game: マッスルちゃんぴよん 筋肉島の決戦
 sort_title: まっするちゃんぴよんきんにくじまのけっせん
 file: Muscle Champion - Kinniku-jima no Kessen (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2002年11月21日にゲームキューブ用ソフトとして発売されたスポーツパーティーゲーム。様々なスポーツを題材にしたミニゲームを多人数で競い合う。人気番組『筋肉番付』などでおなじみの「ストラックアウト」や「キックターゲット」、「バルーンシューター」など全21種類の競技の他、『SASUKE』も収録。スポーツが得意な芸能人が多数登場。ゲーム内で様々なマッスル競技を競い合うことができる。
 
 game: ムツとのほほん
 sort_title: むつとのほほん
 file: Mutsu to Nohohon (Japan).rvz
+publisher: トミー
+description:
+  トミーより2002年7月19日にゲームキューブ用ソフトとして発売されたコミュニケーションアドベンチャーゲーム。インタラクティブデジタルペット『MUTSU』を題材にしたゲーム作品。最大12匹まで同時に飼うことができ、他のプレイヤーの「MUTSU」とコミュニケーションすることも可能。自分だけの「MUTSU」を育てて、不思議な水の世界に散らばった「MICHIのかけら」を探し出すのが目的となる。
 
 # game: Mystic Heroes (Europe)
 # file: Mystic Heroes (Europe).rvz
@@ -3887,6 +4112,9 @@ file: Mutsu to Nohohon (Japan).rvz
 game: NBAコートサイド2002
 sort_title: えぬびーえーこーとさいど2002
 file: NBA Courtside 2002 (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2002年3月29日にゲームキューブ用ソフトとして発売されたバスケットボールゲーム。自然な感覚で選手を自由自在に操作することを追求したNBAを題材にしている。00-01シーズンのデータに基づき、選手の能力をリアルにシミュレート。NBAを代表するプレイヤーたちの協力により、各選手独特のしぐさまでリアルに再現している。アリウープなどスーパープレイでアリーナを沸かせよう。
 
 # game: NBA Courtside 2002 (USA)
 # file: NBA Courtside 2002 (USA).rvz
@@ -3918,6 +4146,9 @@ file: NBA Courtside 2002 (Japan).rvz
 game: NBAストリート
 sort_title: えぬびーえーすとりーと1
 file: NBA Street (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2002年3月22日にゲームキューブ用ソフトとして発売されたバスケットボールゲーム。「3on3」のストリートバスケの面白さを完全再現。NBAの実名選手や、あの伝説のマイケル・ジョーダンも登場。トリック、フェイント、ダンクでスリルと爽快感が味わえる。派手なパフォーマンスをすれば高得点が入り、スーパーコンボをくり出せるようになる。華麗な技を炸裂して観客を魅了しよう。
 
 # game: NBA Street (USA)
 # file: NBA Street (USA).rvz
@@ -3931,6 +4162,9 @@ file: NBA Street (Japan).rvz
 game: NBAストリートV3 マリオでダンク
 sort_title: えぬびーえーすとりーとV3まりおでだんく
 file: NBA Street V3 - Mario de Dunk (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2005年5月26日にゲームキューブ用ソフトとして発売されたバスケットボールゲーム。ストリートバスケアクション『NBA ストリート』で、マリオ、ルイージ、ピーチ姫といった任天堂キャラクターvsNBAプレイヤーの夢の対決が実現。重力無視のスーパージャンプ、豪快なダンクシュートなど、面白さ最優先の技の数々。コートを自由に動き回って、カッコいい技を決めて勝利を目指そう。
 
 # game: NBA Street Vol. 2 (Europe) (En,Fr)
 # file: NBA Street Vol. 2 (Europe) (En,Fr).rvz
@@ -3995,6 +4229,9 @@ file: NBA Street V3 - Mario de Dunk (Japan).rvz
 game: NHK 天才ビットくん グラモンバトル
 sort_title: えぬえちけーてんさいびっとくんぐらもんばとる
 file: NHK Tensai Bit-kun - Glamon Battle (Japan).rvz
+publisher: タイトー
+description:
+  タイトーより2003年10月3日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。NHKの大人気番組『天才ビットくん』の名物コーナー『グラモンバトル』をゲーム化した作品。自分で産み出したラクガキでこうげき、まほう、バリアを駆使してバトルを繰り広げよう。ビットランドでのストーリーが進行していく「キャンペーンモード」と「対戦モード」があり、友達とグラモンの交換をすることもできる。
 
 # game: NHL 06 (Europe) (En,Fr)
 # file: NHL 06 (Europe) (En,Fr).rvz
@@ -4068,24 +4305,36 @@ file: NHK Tensai Bit-kun - Glamon Battle (Japan).rvz
 game: NARUTO -ナルト- 激闘忍者大戦!
 sort_title: なるとげきとうにんじゃたいせん1
 file: Naruto - Gekitou Ninja Taisen! (Japan).rvz
+publisher: トミー
+description:
+  トミーより2003年4月11日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。人気コミック『NARUTO-ナルト-』を原作としたゲーム作品。『NARUTO-ナルト-』の世界を完全再現。原作で人気の必殺技に加え、イチャイチャパラダイス、おいろけの術なども収録。簡単入力で、格闘ゲームが苦手な人でも、手軽にコンボや必殺技を繰り出して、爽快感を味わうことができる。
 
 game: NARUTO -ナルト- 激闘忍者大戦!2
 sort_title: なるとげきとうにんじゃたいせん2
 files:
   Naruto - Gekitou Ninja Taisen! 2 (Japan).rvz
   Naruto - Gekitou Ninja Taisen! 2 (Japan) (Rev 1).rvz
+publisher: トミー
+description:
+  トミーより2003年12月4日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。『NARUTO-ナルト-』のキャラが激突する大人気格闘アクション『激闘忍者大戦!』第2弾。4人同時プレイの実現により、「4人全員が敵」「2対2のチームバトル」「1対3の人数差バトル」などが可能になった。日向ネジ&ヒナタ、山中いの、奈良シカマルなど新キャラが続々参戦し、キャラ数は前作の倍以上となっている。
 
 game: NARUTO -ナルト- 激闘忍者大戦!3
 sort_title: なるとげきとうにんじゃたいせん3
 files:
   Naruto - Gekitou Ninja Taisen! 3 (Japan).rvz
   Naruto - Gekitou Ninja Taisen! 3 (Japan) (Rev 1).rvz
+publisher: トミー
+description:
+  トミーより2004年11月20日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。人気忍アクション『NARUTO-ナルト-　激闘忍者大戦!』第3弾。チョウジや自来也など新キャラを収録。原作のスリーマンセル(3人1組)を再現した「スリーマンセル対決モード」により3人チームの勝ち抜き戦が体験できる。原作にはないオリジナル奥義も追加され、戦い方のバリエーションはさらに広がっている。
 
 game: NARUTO -ナルト- 激闘忍者大戦!4
 sort_title: なるとげきとうにんじゃたいせん4
 files:
   Naruto - Gekitou Ninja Taisen! 4 (Japan).rvz
   Naruto - Gekitou Ninja Taisen! 4 (Japan) (Taikai Sen'you Disc) (Rev 1).rvz
+publisher: トミー
+description:
+  トミーより2005年11月21日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。超人気『NARUTO-ナルト-　激闘忍者大戦!』第4弾。全チーム共通だった合体忍術がチームの個性を生かした様々なスリーマンセル合体奥義にパワーアップ。プレイスタイルによって「奥義を最後へ繋げる」という演出も可能。音の4人集も参戦し、アクションもヒートアップ。新ステージも追加され、激闘は新境地へ。
 
 game: ナルト コレクション
 sort_title: なるとこれくしょん
@@ -4121,6 +4370,9 @@ file: Naruto Collection (Japan).rvz
 game: ニード・フォー・スピード モスト・ウォンテッド
 sort_title: にーどふぉーすぴーどもすとうぉんてっど
 file: Need for Speed - Most Wanted (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2005年12月22日にゲームキューブ用ソフトとして発売されたレースゲーム。完成度の高さで人気に公道レースゲーム『ニード・フォー・スピード』シリーズ。最重要指名手配者の意味を持つ「モスト・ウォンテッド」とは、ストリートレーサーとしての最高称号。パトカーの包囲網を突破し、壮絶なカーチェイスを逃げ切る。逃亡ルートは無限大、マップ上自由に走って逃走することができる。
 
 # game: Need for Speed - Most Wanted (USA)
 # file: Need for Speed - Most Wanted (USA).rvz
@@ -4137,6 +4389,9 @@ file: Need for Speed - Most Wanted (Japan).rvz
 game: ニード・フォー・スピード アンダーグラウンド
 sort_title: にーどふぉーすぴーどあんだーぐらうんど1
 file: Need for Speed - Underground (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年12月25日にゲームキューブ用ソフトとして発売されたレースゲーム。極限のスピードとスリルを求めて公道で繰り広げられるドラッグレースを題材にしている。トヨタやフォードなど世界の自動車メーカーから20車種が全て実名で登場。マシンのカスタマイズではスペック面のみならず、車体デザインまでも変更可能。各種モードも大充実。夜の街を駆け抜ける爽快感を味わうことができる。
 
 # game: Need for Speed - Underground (USA)
 # file: Need for Speed - Underground (USA).rvz
@@ -4153,6 +4408,9 @@ file: Need for Speed - Underground (Japan).rvz
 game: ニード・フォー・スピード アンダーグラウンド2
 sort_title: にーどふぉーすぴーどあんだーぐらうんど2
 file: Need for Speed - Underground 2 (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2004年12月22日にゲームキューブ用ソフトとして発売されたレースゲーム。『ニード・フォー・スピード　アンダーグラウンド』の続編。プレイヤーが行動することによってライバルたちと出会い、勝利することでパーツ情報を入手できる。自分だけのマシンを作れるパーツやステッカーなどは前作の2倍に増加。要望が高かったリプレイ機能も搭載している。
 
 # game: Need for Speed - Underground 2 (Latin America)
 # file: Need for Speed - Underground 2 (Latin America).rvz
@@ -4325,6 +4583,9 @@ file: Need for Speed - Underground 2 (Japan).rvz
 game: ニンテンドーパズルコレクション
 sort_title: にんてんどーぱずるこれくしょん
 file: Nintendo Puzzle Collection (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年2月7日にゲームキューブ用ソフトとして発売された豪華なパズルゲーム集。3種類の名作パズルを楽しめる。『ドクターマリオ』『ヨッシーのクッキー』『パネルでポン』を収録。3種類のパズルゲームとも2人から4人の対戦プレイに対応し、みんなで遊ぶことも可能。シンプルだけどハマってしまう名作ばかりで、どなたでも楽しむことができる。
 
 # game: Odama (Europe) (En,Fr,De,Es,It)
 # file: Odama (Europe) (En,Fr,De,Es,It).rvz
@@ -4332,6 +4593,9 @@ file: Nintendo Puzzle Collection (Japan).rvz
 game: 大玉
 sort_title: おおだま
 file: Odama (Japan) (Rev 1).rvz
+publisher: 任天堂
+description:
+  任天堂より2006年4月13日にゲームキューブ用ソフトとして発売された人海戦術落城アクションゲーム。戦国時代を舞台に「大玉」と呼ばれる巨大な兵器を駆使しながら、釣り鐘を敵兵から守り敵陣奥深くまで兵士を導く。振り場と呼ばれるフリッパーを操作して大玉をコントロール。戦場に登場する無数の兵士達には専用のおおだマイクで直接命令を下すことが可能。妨害する敵兵士など邪魔者を蹴散らそう。
 
 # game: Odama (USA) (Rev 1)
 # file: Odama (USA) (Rev 1).rvz
@@ -4339,18 +4603,30 @@ file: Odama (Japan) (Rev 1).rvz
 game: 四国巡礼体験ゲーム お遍路さん 発心の道場 阿波国編
 sort_title: しこくじゅんれいたいけんげーむおへんろさんほっしんのどうじょうあわのくにへん
 file: Ohenro-San - Hosshin no Dojo (Awa Kuni) Hen (Japan).rvz
+publisher: ピンチェンジ
+description:
+  ピンチェンジより2003年4月24日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。フットパネル状のボタンコントローラの上で足踏みをする事で、四国八十八箇所の札所巡りを疑似体験できる。印籠型の専用歩数計もあり、これを付けてプレイすれば、日常生活で歩いた歩数がゲーム上の歩数に加算する事も可能。寺社や道中の多彩な情報も収録しており、音声と文字で丁寧に解説もしてくれる。
 
 game: ONE PIECE グランドバトル!3
 sort_title: わんぴーすぐらんどばとる3
 file: One Piece - Grand Battle! 3 (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2003年12月11日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。大人気の『ONE　PIECE』の『グラバト!』シリーズの第3作目。「空島篇」も完全収録し、エネル、スモーカー、ワイパー、オームなど人気キャラ約50人が勢揃い。3Dステージを2D感覚で遊ぶことができるカメラシステム「アクティブチェイスビュー」を搭載し、迫力のバトルが展開する。
 
 game: ONE PIECE グラバト!RUSH
 sort_title: わんぴーすぐらばとらっしゅ
 file: One Piece - Grand Battle! Rush (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2005年3月17日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。尾田栄一郎の漫画『ワンピース』を題材としたゲーム作品。『ワンピース グランドバトル!』シリーズ第4作目。基本的なシステムは前作『グランドバトル! 3』を継承したものになっており、新システムに3大ラッシュ等が登場している。また、サポートキャラも含めた総登場キャラ数はシリーズ最多の50人以上となっている。
 
 game: ONE PIECE パイレーツカーニバル
 sort_title: わんぴーすぱいれーつかーにばる
 file: One Piece - Pirates Carnival (Japan).rvz
+publisher: バンダイ
+description:
+  バンダイより2005年11月23日にゲームキューブ用ソフトとして発売されたパーティゲーム。今度の『ONE　PIECE』は大勢で楽しめるパーティーゲーム。金額の書かれたパネルを奪い合い、各キャラの特徴や名場面を再現した「ワンピースクイズ王」や、「グロッキーバスケ」に「ボートレースゲーム」など40種類以上のミニゲームで勝負する。個性あふれるキャラたちがボードゲームで大活躍する。
 
 # game: Open Season (Europe) (En,Fr,De,Es,It)
 # file: Open Season (Europe) (En,Fr,De,Es,It).rvz
@@ -4378,6 +4654,9 @@ sort_title: ぷろだくとなんばーぜろすりー
 files:
   P.N. 03 (Japan).rvz
   P.N. 03 (Japan) (Demo Eizou).rvz
+publisher: CAPCOM
+description:
+  カプコンより2003年3月27日にゲームキューブ用ソフトとして発売された女傭兵ヴァネッサ・Z・シュナイダーとなり、任務を遂行するシューティングアクションゲーム。「パームショット」と「エナジードライブ」の2種類の攻撃が可能。全9種類の「イージースーツ」はデザインやカラー、性能や発動できる「エナジードライブ」が異なる。ダンスを踊っているかのようなアクションを楽しむことができる。
 
 # game: P.N. 03 (USA)
 # file: P.N. 03 (USA).rvz
@@ -4421,6 +4700,9 @@ files:
 game: ペーパーマリオRPG
 sort_title: ぺーぱーまりおあーるぴーじー
 file: Paper Mario RPG (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2004年7月22日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。飛び出す絵本のような不思議な世界を舞台に、紙のようにペラペラのマリオ達が冒険の旅に赴く。ピーチ姫やクッパを操ることも可能。宝の地図を手がかりに、紙ヒコーキや船に変身したり、狭い隙間を通り抜けたりできるアクションを駆使して7つのスターストーンを集め、伝説の宝につながる1000年の扉を開くのが目的となる。
 
 # game: Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)
 # file: Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).rvz
@@ -4440,6 +4722,9 @@ files:
   Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 2).rvz
   Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 3).rvz
   Phantasy Star Online Episode I & II - Trial Edition (Japan) (Taikenban).rvz
+publisher: セガ
+description:
+  セガより2002年9月12日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。大人気のオンラインRPG『PHANTASY　STAR　ONLINE』のGC版。DC版『Ver2.0』に、新ステージなどを含む『エピソード2』を追加し、大幅にボリュームアップしている。世界同時ネットワークプレイが可能で5ヶ国語に対応した自動翻訳システムを搭載。オフライン時の4人同時プレイも可能になっている。
 
 # game: Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es)
 # file: Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es).rvz
@@ -4452,6 +4737,9 @@ sort_title: ふぁんたしーすたーおんらいんえぴそーど1&2ぷら�
 files:
   Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 4).rvz
   Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 5).rvz
+publisher: セガ
+description:
+  セガより2003年11月27日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。大好評の『PHANTASY　STAR　ONLINE　EPISODE1&2』がさらにパワーアップ。配信済みオンラインクエスト「心の座」「東天の塔」「西天の塔」をオフラインクエストとして収録し、オンライン未配信のチャレンジモードも搭載。ほかにもプラス要素をこれでもかと詰め込んでいる。
 
 # game: Phantasy Star Online Episode I & II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2)
 # file: Phantasy Star Online Episode I & II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2).rvz
@@ -4464,6 +4752,9 @@ sort_title: ふぁんたしーすたーおんらいんえぴそーど3かーど�
 files:
   Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan).rvz
   Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition (Japan) (Taikenban).rvz
+publisher: セガ
+description:
+  セガより2003年11月27日にゲームキューブ用ソフトとして発売されたタクティカルカードゲーム。『PHANTASY　STAR　ONLINE』の世界を舞台にしている。当時はネットを通じた協力プレイも可能だった。「ハンターズ」、もしくは「アークズ」の指揮官となって、部下のカードを編集してデッキを組んで戦い、それぞれの陣営の異なる物語が進行するシナリオモードで、惑星ラグオルの謎を解明するのが目的となる。
 
 # game: Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)
 # file: Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).rvz
@@ -4480,6 +4771,9 @@ files:
   Pikmin (Japan) (Rev 1).rvz
   Pikmin (Japan) (Rev 2).rvz
   Pikmin (Japan) (Jitsuen-you Sample).rvz
+publisher: 任天堂
+description:
+  任天堂より2001年10月26日にゲームキューブ用ソフトとして発売された新感覚アクションゲーム。植物と動物、両方の特徴を兼ね備えた奇妙な生物「ピクミン」をひきつれて未知の惑星でサバイバルする。様々な特徴を持つ「ピクミン」は、最大100匹まで引き連れることができ、1匹ずつでは非力でも数が増えれば底知れぬパワーを発揮する。適材適所で「ピクミン」に指示を出し、惑星から脱出するのが目的となる。
 
 # game: Pikmin (USA)
 # file: Pikmin (USA).rvz
@@ -4493,6 +4787,9 @@ files:
 game: ピクミン2
 sort_title: ぴくみん2
 file: Pikmin 2 (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2004年4月29日にゲームキューブ用ソフトとして発売されたアクションゲーム。独特の世界観が人気の『ピクミン』の続編。謎の生物ピクミンたちが暮らす惑星で宝を探し、10000ポコを稼ぐことが目的となる。前作の日数制限を無くし、主人公のオリマーに加え、新人のルーイも登場。ピクミンの種類も2種類追加し、原生生物も27から60種類以上に増加。アクションもより多彩になっている。
 
 # game: Pikmin 2 (USA)
 # file: Pikmin 2 (USA).rvz
@@ -4518,6 +4815,9 @@ file: Pikmin 2 (Japan).rvz
 game: ポケモンボックス ルビー&サファイア
 sort_title: ぽけもんぼっくするびーさふぁいあ
 file: Pokemon Box - Ruby & Sapphire (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年5月30日にゲームキューブ用ソフトとして発売された『ポケットモンスター　ルビー・サファイア』の自慢のポケモンコレクションを整理できるソフト。最大で1500匹ものポケモンを預けておくことが可能となっている。預けたポケモンたちを調べたり、並び替えたりする検索機能や、預けたポケモンをコマにして飾って楽しむディスプレイ機能も搭載している。
 
 # game: Pokemon Box - Ruby & Sapphire (USA) (Rev 1)
 # file: Pokemon Box - Ruby & Sapphire (USA) (Rev 1).rvz
@@ -4538,6 +4838,9 @@ file: Pokemon Channel - Bangumi Kakuchou Pack (Japan).rvz
 game: ポケモンチャンネル ピカチュウといっしょ!
 sort_title: ぽけもんちゃんねるぴかちゅうといっしょ
 file: Pokemon Channel - Pikachu to Issho! (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年7月18日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。ポケモンのテレビ番組・ポケモンチャンネルを通してピカチュウと仲良くなることが目的となる。ピカチュウと一緒に番組を見て、オーキドはかせにレポートを送っていく。ポケモンはジラーチを含めた約100種類が登場。アニメ番組を見たり、クイズ番組に参加したりすることも出来る。
 
 # game: Pokemon Colosseum (Europe) (En,Fr,De,Es,It)
 # file: Pokemon Colosseum (Europe) (En,Fr,De,Es,It).rvz
@@ -4545,6 +4848,9 @@ file: Pokemon Channel - Pikachu to Issho! (Japan).rvz
 game: ポケモンコロシアム
 sort_title: ぽけもんころしあむ
 file: Pokemon Colosseum (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2003年11月21日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。『ポケモンスタジアム』シリーズに続くポケモンバトルを3Dで楽しめるソフト。対戦ルールの変更も自由自在。戦術を研究して、バトルに挑んでいく。新たに「シナリオモード」を追加。新たな冒険の舞台・オーレ地方を旅して、ポケモンを悪事の道具「ダークポケモン」にしてしまう謎の組織を打ち倒すのが目的となる。
 
 # game: Pokemon Colosseum (USA)
 # file: Pokemon Colosseum (USA).rvz
@@ -4569,6 +4875,9 @@ file: Pokemon Colosseum - Nintendo Tokusei Disc (Japan).rvz
 game: ポケモンXD 闇の旋風ダーク・ルギア
 sort_title: ぽけもんXDやみのかぜだーくるぎあ
 file: Pokemon XD - Yami no Kaze Dark Lugia (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2005年8月4日にゲームキューブ用ソフトとして発売されたポケモンの新・本格ロールプレイングゲーム。ゲームキューブならではの美しい映像を駆使したバトルシーンや、フィールドの各所に秘められた仕掛けや謎解き、新ポケモン「ウソハチ」など見所も満載。GBAとの連動で、さらに楽しみは広がる。悪の組織によって、ココロを閉ざされたポケモンたちを助け出していくのが目的となる。
 
 # game: Polar Express, The (Europe) (En,Fr,De,Es,It)
 # file: Polar Express, The (Europe) (En,Fr,De,Es,It).rvz
@@ -4579,6 +4888,9 @@ file: Pokemon XD - Yami no Kaze Dark Lugia (Japan).rvz
 game: プールエッジ
 sort_title: ぷーるえっじ
 file: Pool Edge (Japan).rvz
+publisher: メディアカイト
+description:
+  メディアカイトより2002年10月25日にゲームキューブ用ソフトとして発売されたビリヤードゲーム。プロのビリヤード選手のアドバイスを盛り込んでいる。ボールの挙動、複雑なポケット周辺やクッションの処理、ラシャの摩擦などを網羅したオリジナルエンジンを搭載し、ボールの動きはもちろん、多彩なビリヤード台もリアルに再現。課題に挑戦して様々なテクニックを学べる「アシストモード」も搭載している。
 
 # game: Pool Paradise (Europe) (En,Fr,De,Es,It)
 # file: Pool Paradise (Europe) (En,Fr,De,Es,It).rvz
@@ -4646,6 +4958,9 @@ file: Pool Edge (Japan).rvz
 game: ぷよぷよフィーバー
 sort_title: ぷよぷよふぃーばー
 file: Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It).rvz
+publisher: セガ
+description:
+  セガより2004年3月24日にゲームキューブ用ソフトとして発売された落ちものパズルゲーム。落ちゲーの名作『ぷよぷよシリーズ』の一作。3個組ぷよや4個組ぷよに加え、連鎖のタネが落ちてきて、起爆させるだけで大連鎖がスタートする新システム「フィーバーモード」を搭載。これにより一発逆転も可能となった。新キャラクターも登場して、漫才デモなどであらたな「ぷよぷよワールド」を盛り上げてくれる。
 
 # game: R-Racing (Europe) (En,Fr,De,Es,It)
 # file: R-Racing (Europe) (En,Fr,De,Es,It).rvz
@@ -4656,10 +4971,16 @@ file: Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It).rvz
 game: R:RACING EVOLUTION
 sort_title: あーるれーしんぐえぼりゅーしょん
 file: R-Racing Evolution - Life in the Fast Lane (Japan).rvz
+publisher: ナムコ
+description:
+  ナムコより2003年11月27日にゲームキューブ用ソフトとして発売された新機軸レーシングゲーム。「ヒューマン・レーシング・ドキュメント」を謳っており、女性主人公とライバルが織りなす「レーシングライフモード」を収録している。状況に応じて、様々なセリフが表示されるインタラクティブAIシステムや、プレッシャーをかけることで相手のミスを誘うプレッシャー・バトルなどのシステムを搭載している。
 
 game: ラジルギ ジェネリック
 sort_title: らじるぎじぇねりっく
 file: Radirgy Generic (Japan).rvz
+publisher: マイルストーン
+description:
+  マイルストーンより2006年5月25日にゲームキューブ用ソフトとして発売された縦スクロールシューティングゲーム。世界が電波と携帯端末に満ちた時代が舞台。3種類のショットや、敵や敵弾を斬ることができる「ソード」を使い分け、敵を倒していく。自機の周囲に無敵のフィールドを作る「アブゾネット」は身を守るだけではなく、フィールド内の敵や敵弾から電波を吸収し、得点の倍率もアップする。
 
 # game: Rally Championship (Europe) (En,Fr,De,Es,It) (Rev 1)
 # file: Rally Championship (Europe) (En,Fr,De,Es,It) (Rev 1).rvz
@@ -4703,6 +5024,9 @@ file: Radirgy Generic (Japan).rvz
 game: 零ファイター 撃墜戦記
 sort_title: れいふぁいたーげきついせんき
 file: Rei Fighter Gekitsui Senki (Japan).rvz
+publisher: グローバル・A・エンタテインメント
+description:
+  グローバル・A・エンタテインメントより2003年3月6日にゲームキューブ用ソフトとして発売されたシューティングゲーム。名戦闘機に乗って歴史に名高い数々の戦場を駆け抜ける。零戦や紫電改、スピットファイアなど全33種類の戦闘機が登場。歴史上の有名な作戦や出来事を取り上げた16の作戦を遂行する「ミッション・モード」、対戦・協力プレイが楽しめる「VS・モード」など多彩なモードを搭載している。
 
 # game: Reign of Fire (Europe) (En,Fr,De,Es,It)
 # file: Reign of Fire (Europe) (En,Fr,De,Es,It).rvz
@@ -4806,6 +5130,9 @@ file: Rei Fighter Gekitsui Senki (Japan).rvz
 game: ロボコップ 新たなる危機
 sort_title: ろぼこっぷあらたなるきき
 file: RoboCop - Aratanaru Kiki (Japan).rvz
+publisher: タイタスジャパン
+description:
+  タイタスジャパンより2004年3月4日にゲームキューブ用ソフトとして発売されたアクションゲーム。あの『ロボコップ』が映画の雰囲気はそのままに、完全オリジナルシナリオでゲーム化。ロボコップとなって、オムニ社の企む邪悪な陰謀に立ち向かう。指令事項を遵守しながら、警官としてのミッションを遂行していこう。教会の遺跡や秘密施設、オムニ社など全9ステージで、映画でお馴染みのキャラたちも大活躍する。
 
 # game: Robotech - Battlecry (Europe) (En,Fr,De,Es,It)
 # file: Robotech - Battlecry (Europe) (En,Fr,De,Es,It).rvz
@@ -4819,6 +5146,9 @@ file: RoboCop - Aratanaru Kiki (Japan).rvz
 game: ロボッツ
 sort_title: ろぼっつ
 file: Robots (Japan).rvz
+publisher: ビベンディ・ユニバーサル・ゲームズ
+description:
+  ビベンディ・ユニバーサル・ゲームズより2005年7月28日にゲームキューブ用ソフトとして発売されたアクションアドベンチャーゲーム。映画『ロボッツ』を題材とするゲーム作品。映画のモデリングデータを使用した3Dグラフィックで忠実に再現し、映画で見たあのアクションシーンを、パズルや戦闘などバラエティ豊かな12ステージで体感。追加のスキルやパーツ、新型メカなどアップグレードしてストーリーを進めていこう。
 
 # game: Robots (USA)
 # file: Robots (USA).rvz
@@ -4826,10 +5156,16 @@ file: Robots (Japan).rvz
 game: ロックマンエグゼ トランスミッション
 sort_title: ろっくまんえぐぜとらんすみっしょん
 file: Rockman EXE Transmission (Japan) (Rev 1).rvz
+publisher: CAPCOM
+description:
+  カプコンより2003年2月28日にゲームキューブ用ソフトとして発売されたアクションゲーム。大人気の『ロックマン　エグゼ』シリーズのゲームキューブ版。『ロックマン』シリーズのアクションと『エグゼ』シリーズのバトルチップシステムが合体。バトルチップは100種類以上用意されているので、様々なカスタマイズが楽しめる。多彩なアクションを駆使して、立ちはだかるウィルスたちを倒すのが目的となる。
 
 game: ロックマンX コマンドミッション
 sort_title: ろっくまんえっくすこまんどみっしょん
 file: Rockman X - Command Mission (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2004年7月29日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。『ロックマンX』シリーズ初の新感覚RPGで、エックス、ゼロ、アクセルに加え、スパイダー、シナモン、マリノ、マッシモの4人が参戦している。戦況によってキャラの行動順が変化したり、コマンド入力等の操作で攻撃力が変化するなど、アクションの操作感をコマンド入力に置き換える新感覚のシステムが採用されている。
 
 # game: Rocky (Europe) (En,Fr,De,Es,It)
 # file: Rocky (Europe) (En,Fr,De,Es,It).rvz
@@ -4843,6 +5179,9 @@ file: Rockman X - Command Mission (Japan).rvz
 game: ローグオプス
 sort_title: ろーぐおぷす
 file: Rogue Ops (Japan).rvz
+publisher: ケムコ
+description:
+  ケムコより2004年2月26日にゲームキューブ用ソフトとして発売されたアクションゲーム。夫と息子を「オメガ19」というテロ組織に殺害された主人公ニキが反テロ組織「ダークフェニックス」に入隊し、「オメガ19」に立ち向かう姿を描いている。「隠密行動」という基本コンセプトをベースに、ライフルなどの武器、網膜スキャンなどのスパイアイテムを駆使して、様々なミッションに挑んでいく。
 
 # game: Rogue Ops (USA)
 # file: Rogue Ops (USA).rvz
@@ -4850,6 +5189,9 @@ file: Rogue Ops (Japan).rvz
 game: ルーン
 sort_title: るーん1
 file: Rune (Japan).rvz
+publisher: フロム・ソフトウェア
+description:
+  フロム・ソフトウェアより2002年4月25日にゲームキューブ用ソフトとして発売されたアクションRPG。敵との戦闘時にカードからクリーチャーを召喚して戦う。戦闘はリアルタイムで進み、戦闘でカードを使いつづけて経験値をためることで、より強いカードにクラスチェンジすることが可能となる。カードの種類は100種類以上。オランジェ王国の王女カティアが国を守るため、カードを駆使して黒い霧の侵略と戦っていく。
 
 # game: Rune (USA) (Beta) (2003-03-04)
 # file: Rune (USA) (Beta) (2003-03-04).rvz
@@ -4859,12 +5201,18 @@ sort_title: るーん2こるてんのかぎのひみつ
 files:
   Rune II - Koruten no Kagi no Himitsu (Japan).rvz
   Rune II - Koruten no Kagi no Himitsu (Japan) (Taikenban).rvz
+publisher: フロム・ソフトウェア
+description:
+  フロム・ソフトウェアより2003年5月23日にゲームキューブ用ソフトとして発売されたカードアクションRPG。同社より発売された『ルーン』の続編となる。カード種類の増加や新系統の追加はもちろん、攻撃パターンが1つだけだった召喚型カードに技の種類が増加するなどさまざまな新要素が加わり、さらに白熱したバトルへとパワーアップ。記憶喪失の主人公リズを中心に、色々なキャラとの人間模様が展開していく。
 
 game: SDガンダム ガシャポンウォーズ
 sort_title: えすでぃーがんだむがしゃぽんうぉーず
 files:
   SD Gundam - Gashapon Wars (Japan).rvz
   SD Gundam - Gashapon Wars (Japan) (Taikenban).rvz
+publisher: バンダイ
+description:
+  バンダイより2005年12月1日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。数々の人気作品を生み出してきたアクション・シミュレーション『ガチャポン戦士』シリーズのゲームキューブ版となる。『機動戦士ガンダム』から『機動戦士ガンダムSEED　DESTINY』まで、多数の作品からかわいくカッコよくデフォルメされた人気MSが登場。自動生成マップで常に新鮮な気持ちでプレイできる。
 
 # game: SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)
 # file: SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It).rvz
@@ -4881,6 +5229,9 @@ files:
 game: SSX 3
 sort_title: えすえすえっくす3
 file: SSX 3 (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年12月18日にゲームキューブ用ソフトとして発売されたスノーボードゲーム。スノーボードゲーム『SSX』シリーズに第3弾。雪の上を疾風の如く駆け抜けていく圧倒的なスピード感、宙に舞い華麗なトリックを決める爽快感は健在で、「バックカントリー」「スーパーパイプ」「ビックエアー」など多彩なモードを搭載。獲得した賞金でキャラクターのカスタマイズも行えるようになった。
 
 # game: SSX 3 (USA)
 # file: SSX 3 (USA).rvz
@@ -4893,6 +5244,9 @@ sort_title: えすえすえっくすとりっきー
 files:
   SSX Tricky (Japan).rvz
   SSX Tricky (Japan) (Jitsuen-you Sample).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2001年12月27日にゲームキューブ用ソフトとして発売された革新的スノーボードゲーム。常識を打ち破るスピードとトリックを競い合うエクストリーム系スノーボード競技『スーパークロス』を題材にしたゲーム作品。簡単操作で様々なトリックが出すことが可能で、幅広く遊べる多彩なモードも搭載している。『スーパークロス』のワールドサーキットに挑戦して世界チャンピオン目指すのが目的。
 
 # game: SSX Tricky (USA)
 # file: SSX Tricky (USA).rvz
@@ -4909,6 +5263,9 @@ files:
 game: SSX on Tour with マリオ
 sort_title: えすえすえっくすおんつあーうぃずまりお
 file: SSX on Tour with Mario (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2005年11月24日にゲームキューブ用ソフトとして発売されたスノーボードゲーム。奇抜で広大なコースをハイスピードで疾走するスノーボードアクションゲーム『SSX』シリーズ第4弾。今作ではスノーボードの他にスキーでもプレイ可能。リアルな滑走感覚と現実離れした「エア・トリック」は、さらに爽快に進化。ド派手な「エア・トリック」をキメで観衆の目をクギ付けにしよう。
 
 # game: SX Superstar (Europe) (En,Fr,De,Es)
 # file: SX Superstar (Europe) (En,Fr,De,Es).rvz
@@ -4982,6 +5339,9 @@ file: SSX on Tour with Mario (Japan).rvz
 game: セガ サッカースラム
 sort_title: せがさっかーすらむ
 file: Sega Soccer Slam (Japan).rvz
+publisher: セガ
+description:
+  セガより2002年9月26日にゲームキューブ用ソフトとして発売されたサッカーゲーム。イエローカードやレッドカードはもちろん反則すら存在せず、相手からボールを奪うためなら何でもOKというサッカーゲーム。スポットライトシュートやキラーシュートなどド派手なシュートを撃つことも可能。個性的な超人18名、各チーム3人6チームが登場。アイテムを購入してチームをパワーアップさせることができる。
 
 # game: Sega Soccer Slam (USA)
 # file: Sega Soccer Slam (USA).rvz
@@ -5022,6 +5382,9 @@ file: Sega Soccer Slam (Japan).rvz
 game: シャドウ・ザ・ヘッジホッグ
 sort_title: しゃどうざへっじほっぐ
 file: Shadow the Hedgehog (Japan) (En,Ja,Fr,De,Es,It).rvz
+publisher: セガ
+description:
+  セガより2005年12月15日にゲームキューブ用ソフトとして発売されたアクションゲーム。悲しき運命を背負ったダークヒーローの登場。ソニックのライバル・シャドウが「カオスエメラルド」を求める戦いへと旅立つ。プレイヤーの判断によって、結末だけではなく、ステージ・敵・イベントの全てが変化。マルチミッション・マルチストーリー・マルチエンディングを楽しむことができる。
 
 # game: Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)
 # file: Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It).rvz
@@ -5029,14 +5392,23 @@ file: Shadow the Hedgehog (Japan) (En,Ja,Fr,De,Es,It).rvz
 game: シャーマンキング ソウルファイト
 sort_title: しゃーまんきんぐそうるふぁいと
 file: Shaman King - Soul Fight (Japan) (Rev 1).rvz
+publisher: バンダイ
+description:
+  バンダイより2003年3月28日にゲームキューブ用ソフトとして発売された対戦格闘ゲーム。人気漫画『シャーマンキング』を題材とするゲーム作品。麻倉葉や道蓮といったお馴染みのキャラたちを鍛え上げ、原作者書き下ろしストーリーの超絶バトルを戦ってゆく。バートナーとして、アンナやまん太といったキャラが修業を手伝ってくれる。激戦を生き残り、シャーマンキングの座を勝ち取るのが目的となる。
 
 game: 式神の城II
 sort_title: しきがみのしろ2
 file: Shikigami no Shiro II (Japan).rvz
+publisher: キッズステーション
+description:
+  キッズステーションより2003年10月24日にゲームキューブ用ソフトとして発売されたシューティングゲーム。アーケードで人気のシューティングゲーム『式神の城2』のゲームキューブ移植作。新キャラクター「ニーギ・ゴージャスブルー」「ロジャー・サスケ」の2名を追加。さらに、「式神攻撃」は壱式と弐式、2つのバージョンから選択できるようになった。特徴的なゲームシステム、テンション・ボーナス・システムも健在。
 
 game: 神機世界エヴォルシア
 sort_title: しんきせかいえう゛ぉるしあ
 file: Shinki Sekai Evolutia (Japan).rvz
+publisher: ESP
+description:
+  ESPより2002年7月26日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。人気RPG『神機世界エヴォリューション』と、その続編『神機世界エヴォリューション2　遠い約束』を1つにしてリニューアル。移植に際し、基本的なストーリーやシナリオはそのままに、セリフの修正や声優陣の変更し、難易度や敵の強さなどのバランスも調整。幻の「サイコフレーム」を求め世界中の遺跡を大冒険していく。
 
 # game: Shonen Jump's One Piece - Grand Adventure (USA)
 # file: Shonen Jump's One Piece - Grand Adventure (USA).rvz
@@ -5113,6 +5485,9 @@ file: Shinki Sekai Evolutia (Japan).rvz
 game: ザ・シムズ
 sort_title: ざしむず
 file: Sims, The (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2004年1月22日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。「シム」という自分の分身を作成し、指示を与えて何かをさせたり行動を観察する『シムピープル お茶の間劇場』の続編。新キャラやアイテムを追加し、ミッションモードのストーリーも7種類に増加。シムたちの活動範囲も、スクーターや車に乗って、15ヶ所以上の場所へ自由に移動することができる。
 
 # game: Sims, The (USA)
 # file: Sims, The (USA).rvz
@@ -5147,6 +5522,9 @@ file: Sims, The (Japan).rvz
 game: ソニックアドベンチャー2 バトル
 sort_title: そにっくあどべんちゃー2ばとる
 file: Sonic Adventure 2 - Battle (Japan) (En,Ja,Fr,De,Es).rvz
+publisher: セガ
+description:
+  セガより2001年11月21日にゲームキューブ用ソフトとして発売されたアクションゲーム。前作からさらなる進化を遂げたソニックワールド。お馴染みのアクションステージも「HERO」「DARK」から選択可能。新キャラのシャドウ、ルージュを加え、全6キャラに増加している。「チャオ」とのミニゲームも大充実。新レギュラーアクション、レベルアップアイテムなども充実した30ステージ以上がプレイヤーを待ち受ける。
 
 # game: Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)
 # file: Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).rvz
@@ -5154,6 +5532,9 @@ file: Sonic Adventure 2 - Battle (Japan) (En,Ja,Fr,De,Es).rvz
 game: ソニックアドベンチャーDX
 sort_title: そにっくあどべんちゃーでらっくす
 file: Sonic Adventure DX (Japan) (En,Ja,Fr,De,Es).rvz
+publisher: セガ
+description:
+  セガより2003年6月19日にゲームキューブ用ソフトとして発売されたハイスピード3Dアクションゲーム。超音速ハリネズミ「ソニック」が繰り広げる。RPG的なストーリー展開を見せるアドベンチャーフィールドと、爽快なスピード感を満喫できるアクションステージの2部構成。シリーズならではのアクションの醍醐味はもちろん、謎解き要素も満載。かつてないハイスピードアクションを体感することができる。
 
 # game: Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es) (Rev 1)
 # file: Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es) (Rev 1).rvz
@@ -5167,6 +5548,9 @@ file: Sonic Adventure DX (Japan) (En,Ja,Fr,De,Es).rvz
 game: ソニックジェムズコレクション
 sort_title: そにっくじぇむずこれくしょん
 file: Sonic Gems Collection (Japan).rvz
+publisher: セガ
+description:
+  セガより2005年8月11日にゲームキューブ用ソフトとして発売されたアクションゲーム。あの『ソニック』シリーズの名作たちを1本にまとめたソフトとなる。『ソニック・ザ・ヘッジホッグCD』をはじめ、初移植となる『ソニック・ザ・ファイターズ』、コミカルレース『ソニックR』のほか、『ソニック』に関連するゲームギアソフト6本に隠しゲームも収録。『ソニック』シリーズのファンも大満足のお得な1本となっている。
 
 # game: Sonic Gems Collection (USA)
 # file: Sonic Gems Collection (USA).rvz
@@ -5177,6 +5561,9 @@ file: Sonic Gems Collection (Japan).rvz
 game: ソニックヒーローズ
 sort_title: そにっくひーろーず
 file: Sonic Heroes (Japan) (En,Ja,Fr,De,Es,It).rvz
+publisher: セガ
+description:
+  セガより2003年12月30日にゲームキューブ用ソフトとして発売されたアクションゲーム。息もつかせぬハイスピードアクションと壮大なストーリーで大好評の『ソニック』シリーズがチームアクションとなって登場。3人のキャラを同時に操作する斬新なシステムで、今まで以上に「速く」「強く」「自由」なアクション性を実現。3つのフォーメーションを自在に変化させ、3人の協力プレイでピンチを乗り越えよう。
 
 # game: Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)
 # file: Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).rvz
@@ -5187,6 +5574,9 @@ file: Sonic Heroes (Japan) (En,Ja,Fr,De,Es,It).rvz
 game: ソニック メガコレクション
 sort_title: そにっくめがこれくしょん
 file: Sonic Mega Collection (Japan).rvz
+publisher: セガ
+description:
+  セガより2002年12月19日にゲームキューブ用ソフトとして発売されたアクションゲーム。セガの看板タイトル『ソニック』シリーズのスペシャルコレクション。『ソニック・ザ・ヘッジホッグ1、2、3』『ソニック&ナックルズ』『ソニック3Dブラスト』『ソニックスピンボール』『ドクターエッグマンのミーンビーンマシーン』の計7本を収録。おまけ要素も満載で『ソニック』の歴史を丸ごと体感できる。
 
 # game: Sonic Mega Collection (USA)
 # file: Sonic Mega Collection (USA).rvz
@@ -5197,6 +5587,9 @@ file: Sonic Mega Collection (Japan).rvz
 game: ソニックライダーズ
 sort_title: そにっくらいだーず
 file: Sonic Riders (Japan) (En,Ja,Fr,De,Es,It).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2006年2月23日にゲームキューブ用ソフトとして発売された新感覚のガチンコレースバトルゲーム。『ソニック』シリーズの一作。エクストリームギアを駆って多彩なコースをソニック達が超ハイスピードで滑走する。キャラクター個々のスキルと特徴の組み合わせ、多種多様なタイプの乗り物を乗りこなし、様々なコースギミックを利用して、クールでダイナミックなトリックを決めることができる。
 
 # game: Sonic Riders (USA) (En,Ja,Fr,De,Es,It)
 # file: Sonic Riders (USA) (En,Ja,Fr,De,Es,It).rvz
@@ -5207,6 +5600,9 @@ file: Sonic Riders (Japan) (En,Ja,Fr,De,Es,It).rvz
 game: ソウルキャリバーII
 sort_title: そうるきゃりばー2
 file: Soulcalibur II (Japan) (Rev 1).rvz
+publisher: ナムコ
+description:
+  ナムコより2003年3月27日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。邪剣ソウルエッジを中心に戦士たちが戦う人気格闘ゲームを移植。世界中を冒険し、様々なミッションをクリアして武器を収集するRPG的な新モード「ウェポンマスターモード」を搭載。新キャラ「ネクリッド」に加え、『鉄拳』シリーズの「三島平八」も参戦。歴史と世界を超え、永遠に語り継がれる剣と魂の物語が始まる。
 
 # game: Soulcalibur II (USA)
 # file: Soulcalibur II (USA).rvz
@@ -5217,6 +5613,9 @@ file: Soulcalibur II (Japan) (Rev 1).rvz
 game: スペースレイダース
 sort_title: すぺーすれいだーす
 file: Space Raiders (Japan).rvz
+publisher: タイトー
+description:
+  タイトーより2003年1月9日にゲームキューブ用ソフトとして発売されたアクションシューティングゲーム。突如地球を襲った異星人に立ち向かう。能力の異なる主人公3人を操作し、さまざまなアイテムや必殺技を駆使して敵を撃ち倒すのが目的となる。「STORYモード」のほか、2人同時プレイも可能なスコアアタック「SURVIVALモード」を搭載している。連続HITボーナスで究極のスコアを目指そう。
 
 # game: Space Raiders (Korea)
 # file: Space Raiders (Korea).rvz
@@ -5245,6 +5644,9 @@ file: Space Raiders (Japan).rvz
 game: SPECIAL 人生ゲーム
 sort_title: すぺしゃるじんせいげーむ
 file: Special Jinsei Game (Japan).rvz
+publisher: タカラ
+description:
+  タカラより2003年5月1日にゲームキューブ用ソフトとして発売されたボードゲーム。ボードゲームの定番『人生ゲーム』のゲームキューブ版。オリジナルキャラも作成可能で、生年月日を入力すると、四柱推命をもとにした宿命星が設定される。バリエーション豊かなマップは自由に組み合わせることによって、自分好みの人生を演出できる。100種類以上のミニゲームも搭載されている。
 
 # game: Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr)
 # file: Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr).rvz
@@ -5276,6 +5678,9 @@ file: Special Jinsei Game (Japan).rvz
 game: スパイダーマン
 sort_title: すぱいだーまん
 file: Spider-Man (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2003年2月13日にゲームキューブ用ソフトとして発売された名作アメリカンコミック『スパイダーマン』の3Dアクションゲーム。壁を自在に這い、天井に貼りつくといったおなじみの動作はもちろん、躍動感溢れるスパイディーアクションを実現。宿敵・グリーンゴブリンも登場するオリジナルストーリーを収録、高層ビル街をはじめとする様々なシチュエーションで戦いを繰り広げる。
 
 # game: Spider-Man (USA)
 # file: Spider-Man (USA).rvz
@@ -5325,6 +5730,9 @@ file: Spider-Man (Japan).rvz
 game: スターフォックス アサルト
 sort_title: すたーふぉっくすあさると
 file: Star Fox - Assault (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2005年2月24日にゲームキューブ用ソフトとして発売されたシューティングゲーム。人気3Dアクションシューティング『スターフォックス』シリーズの一作。選択できる武器やキャラクターも増え、最大で4人同時プレイも可能。ニンテンドウ64版で大好評だった「対戦モード」も復活している。戦闘機のアーウィンや戦車のランドマスターを自在に乗りこなして、多彩なステージをクリアしていく。
 
 # game: Star Fox - Assault (USA)
 # file: Star Fox - Assault (USA).rvz
@@ -5340,6 +5748,9 @@ sort_title: すたーふぉっくすあどべんちゃー
 files:
   Star Fox Adventures (Japan).rvz
   Star Fox Adventures (Japan) (Rev 1).rvz
+publisher: 任天堂
+description:
+  任天堂より2002年9月27日にゲームキューブ用ソフトとして発売されたアクションゲーム。3Dシューティング『スターフォックス』シリーズ3作目。従来のシューティングパートに、アクションアドベンチャーパートを追加。「クリスタルスタッフ」を使った棒術アクションや謎解き、ミニゲームなどが満載。恐竜たちの惑星を舞台に、スケール将軍率いる凶暴なシャープクロウ軍たちから平和を取り戻すのが目的となる。
 
 # game: Star Fox Adventures (USA)
 # file: Star Fox Adventures (USA).rvz
@@ -5388,6 +5799,9 @@ sort_title: すたーうぉーずろーぐすこーどろん2
 files:
   Star Wars - Rogue Squadron II (Japan).rvz
   Star Wars - Rogue Squadron II (Japan) (Jitsuen-you Sample).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2002年3月22日にゲームキューブ用ソフトとして発売されたシューティングゲーム。SF映画『スター・ウォーズ』シリーズの世界を舞台にしたシューティングゲーム『スター・ウォーズ 出撃!ローグ中隊』の続編。映画の旧3部作にて繰り広げられた戦闘を再現し、大型戦艦や宇宙戦闘機が入り乱れてのドッグファイトが展開。「ローグ中隊」を指揮して、数々の任務を遂行していく。
 
 # game: Star Wars - Rogue Squadron II - Rogue Leader (Europe)
 # file: Star Wars - Rogue Squadron II - Rogue Leader (Europe).rvz
@@ -5410,6 +5824,9 @@ files:
 game: スター・ウォーズ ローグ スコードロンIII
 sort_title: すたーうぉーずろーぐすこーどろん3
 file: Star Wars - Rogue Squadron III (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年11月21日にゲームキューブで発売されたシューティングゲーム。映画『スター・ウォーズ』の旧3部作を完全再現した『ローグ スコードロン』シリーズ完結編。ルークやウェッジとなって巨大兵器と戦う「サードパーソンアクション」、2人でゲームを進める「協力モード」などを追加。前作の「ヤビンの戦い」や「デス・スターでの決闘」も収録し、スピーダー・バイクの操縦も可能。
 
 # game: Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)
 # file: Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It).rvz
@@ -5444,6 +5861,9 @@ file: Star Wars - Rogue Squadron III (Japan).rvz
 game: スター・ウォーズ クローン戦争
 sort_title: すたーうぉーずくろーんせんそう
 file: Star Wars - The Clone Wars (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2003年3月20日にゲームキューブ用ソフトとして発売されたシューティングゲーム。大ヒット映画『スター・ウォーズ エピソード2』を題材としたゲーム。有名な戦闘シーン、登場人物たちの声等々忠実に再現。ガンシップやタンクを操ってのシューティング、ジェダイに扮してのライトセイバーアクション、プレイヤー同士でのデュエルバトルなど、様々なゲーム性で映画の世界を楽しむことができる。
 
 # game: Star Wars - The Clone Wars (USA)
 # file: Star Wars - The Clone Wars (USA).rvz
@@ -5487,10 +5907,16 @@ file: Star Wars - The Clone Wars (Japan).rvz
 game: スーパーマリオスタジアム ミラクルベースボール
 sort_title: すーぱーまりおすたじあむみらくるべーすぼーる
 file: Super Mario Stadium - Miracle Baseball (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2005年7月21日にゲームキューブ用ソフトとして発売された野球ゲーム。マリオやドンキー、ピーチ姫をはじめ、総勢54ものキャラが登場し、ミラクルなバッティング&ピッチングが簡単操作で楽しめるお手軽野球ゲーム。好みのキャラを集めたドリームチームでプレイも可能。また、マリオファミリーならではのコミカルアクションやド派手な必殺技も多数収録!ミニゲームも搭載されている。
 
 game: スーパーマリオストライカーズ
 sort_title: すーぱーまりおすとらいかーず
 file: Super Mario Strikers (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2006年1月19日にゲームキューブ用ソフトとして発売されたサッカーゲーム。マリオ達のサッカーは、なんでもアリの大乱闘。マリオファミリーが大激突するサッカーゲームが登場。マリオシリーズならではの簡単操作で、白熱のプレイを楽しむことができる。アイテム攻撃、必殺シュート、格闘技並みのラフプレーなど、ルール無用の「ファイティングサッカー」を思う存分堪能しよう。
 
 # game: Super Mario Strikers (USA)
 # file: Super Mario Strikers (USA).rvz
@@ -5503,6 +5929,9 @@ sort_title: すーぱーまりおさんしゃいん
 files:
   Super Mario Sunshine (Japan).rvz
   Super Mario Sunshine (Japan) (Rev 1).rvz
+publisher: 任天堂
+description:
+  任天堂より2002年7月19日にゲームキューブ用ソフトとして発売されたアクションゲーム。国民的アクションゲーム『スーパーマリオ』シリーズの一作。『64』の基本システムを踏襲し、より美しいグラフィックと心地よい操作感でパワーアップ。マリオの様々なアクションはもちろん、人気キャラのヨッシーも健在。南のリゾートアイランド「ドルピック島」を舞台に、不思議なラクガキで島を汚す真犯人を追うのが目的となる。
 
 # game: Super Mario Sunshine (Korea)
 # file: Super Mario Sunshine (Korea).rvz
@@ -5516,6 +5945,9 @@ files:
 game: スーパーモンキーボール
 sort_title: すーぱーもんきーぼーる1
 file: Super Monkey Ball (Japan) (Rev 2).rvz
+publisher: セガ
+description:
+  セガより2001年9月14日にゲームキューブ用ソフトとして発売されたアクションゲーム。レバー1本で遊ぶ簡単な操作性とボールを転がしてゴールを目指すシンプルなルールが特徴のアーケードの人気アクション『モンキーボール』を様々な追加要素を盛り込んでゲームキューブに移植。アーケード版の移植となる「メインゲーム」の他、最大4人までで楽しめる「パーティーゲーム」と「ミニゲーム」を新搭載している。
 
 # game: Super Monkey Ball (USA)
 # file: Super Monkey Ball (USA).rvz
@@ -5528,6 +5960,9 @@ sort_title: すーぱーもんきーぼーる2
 files:
   Super Monkey Ball 2 (Japan).rvz
   Super Monkey Ball 2 (Japan) (Taikenban).rvz
+publisher: セガ
+description:
+  セガより2002年11月21日にゲームキューブ用ソフトとして発売されたアクションゲーム。ハイクオリティのパーティーゲーム『スーパーモンキーボール』に第2弾となる。パーティーゲームは全12種類に増加。アクションパズルのメインゲームは、150ステージとボリューム充分。お馴染み・アイアイたちが新キャラクター「マッドヒヒ博士」の陰謀に挑んで大冒険するストーリーモードも新たに登場する。
 
 # game: Super Monkey Ball 2 (USA)
 # file: Super Monkey Ball 2 (USA).rvz
@@ -5541,6 +5976,9 @@ files:
 game: スーパーパズルボブル オールスターズ
 sort_title: すーぱーぱずるぼぶるおーるすたーず
 file: Super Puzzle Bobble All Stars (Japan).rvz
+publisher: タイトー
+description:
+  タイトーより2003年2月27日にゲームキューブ用ソフトとして発売されたパズルゲーム。同色のバブルを3つ以上くっつけて消していく人気パズルゲーム『スーパーパズルボブル』の新要素を詰め込んだゲームキューブ版。PS2『スーパーパズルボブル』のシステムやモードを継承し、「4Pバトル」「シュートバブル」などオリジナルのモードを搭載。新たな『パズルボブル』の魅力がたっぷりの1本となっている。
 
 # game: Super Puzzle Bobble All Stars (Korea)
 # file: Super Puzzle Bobble All Stars (Korea).rvz
@@ -5548,6 +5986,9 @@ file: Super Puzzle Bobble All Stars (Japan).rvz
 game: スーパーロボット大戦GC
 sort_title: すーぱーろぼっとたいせんGC
 file: Super Robot Taisen GC (Japan).rvz
+publisher: バンプレスト
+description:
+  バンプレストより2004年12月16日にゲームキューブ用ソフトとして発売されたシミュレーションRPG。『スーパーロボット大戦』シリーズの一作。『絶対無敵ライジンオー』『最強ロボダイオージャ』が新たに参戦し、合計20作品ものロボットが激しい戦いを展開。新システムに、「ダメージ部位制」や「捕獲」を導入し、ユニットの改造や、戦闘時の援護システム、ユニットのサイズ差による特性なども再現されている。
 
 # game: Super Smash Bros. Melee (Europe) (En,Fr,De,Es,It)
 # file: Super Smash Bros. Melee (Europe) (En,Fr,De,Es,It).rvz
@@ -5647,6 +6088,9 @@ sort_title: ているずおぶしんふぉにあ
 files:
   Tales of Symphonia (Japan) (Disc 1).rvz
   Tales of Symphonia (Japan) (Disc 2).rvz
+publisher: ナムコ
+description:
+  ナムコより2003年8月29日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。大人気RPG『テイルズ　オブ』シリーズの一作。グラフィックをフル3Dで表現し、新戦闘システム「ML-LMBS」を搭載している。死滅しようとする世界シルヴァラントに平和を取り戻すため、ドワーフの養父に育てられた主人公の少年ロイドと幼馴染の神子(みこ)コレット、親友のジーニアスらによる世界再生の旅が始まる。
 
 # game: Tales of Symphonia (Spain) (Disc 1)
 # file: Tales of Symphonia (Spain) (Disc 1).rvz
@@ -5708,6 +6152,9 @@ files:
 game: 天外魔境II MANJIMARU
 sort_title: てんがいまきょう2まんじまる
 file: Tengai Makyou II - Manji Maru (Japan).rvz
+publisher: ハドソン
+description:
+  ハドソンより2003年9月25日にゲームキューブ用ソフトとして発売されたロールプレイングゲーム。PCEで発売され、RPG進化の礎を築いたといわれる『天外魔境』シリーズ第2弾のリメイク作品。日本のようで日本ではない、絢爛豪華な「ジパング」を舞台に繰り広げられる。発売から11年たったいまなお色あせない奇想天外なストーリーを、主人公の卍丸やカブキ団十郎、謎の美少女絹などと一緒に体験できる。
 
 # game: Terminator 3 - The Redemption (Europe) (En,Fr,De,Es,It)
 # file: Terminator 3 - The Redemption (Europe) (En,Fr,De,Es,It).rvz
@@ -5715,6 +6162,9 @@ file: Tengai Makyou II - Manji Maru (Japan).rvz
 game: ターミネーター3 ザ・レデンプション
 sort_title: たーみねーたー3ざれでんぷしょん
 file: Terminator 3 - The Redemption (Japan).rvz
+publisher: アタリ
+description:
+  アタリより2005年1月20日にゲームキューブ用ソフトとして発売されたアクションゲーム。アクション映画の大作『ターミネーター3』を三人称視点のシューティングでゲーム化。2人同時プレイが可能で、全4章・15ステージからなるノンストップアクションが展開。戦闘アンドロイド・T850となり、機械に支配された2032年の世界を改変するため、未来と現代のはざまで、ジョンとケイトの命を守流のが目的となる。
 
 # game: Terminator 3 - The Redemption (USA)
 # file: Terminator 3 - The Redemption (USA).rvz
@@ -5725,6 +6175,9 @@ file: Terminator 3 - The Redemption (Japan).rvz
 game: テトリスワールド
 sort_title: てとりすわーるど
 file: Tetris Worlds (Japan).rvz
+publisher: サクセス
+description:
+  サクセスより2002年12月20日にゲームキューブ用ソフトとして発売されたパズルゲーム。落ちもの系パズルゲームの定番『テトリス』に、遊びの幅を広げる新しいルールを盛り込んだバージョンとなる。通常のルールのテトリスはもちろん、様々なルール加えたものを含め、全6種類を収録。最大4人対戦も可能。ピースを保留できるホールド機能や落下先のガイド機能など、初心者向けのサポート機能も充実している。
 
 # game: Tetris Worlds (USA)
 # file: Tetris Worlds (USA).rvz
@@ -5897,6 +6350,9 @@ file: Tetris Worlds (Japan).rvz
 game: トニー・ホーク プロスケーター3
 sort_title: とにーほーくぷろすけーたー3
 file: Tony Hawk's Pro Skater 3 (Japan).rvz
+publisher: サクセス
+description:
+  サクセスより2003年6月27日にゲームキューブ用ソフトとして発売されたスケートボードゲーム。プロスケーターが実名で登場する大人気スケートボードゲームシリーズ。リバート、リップトリックコンボ、ヒドゥントリック&ヒドゥンコンボなどの新テクニックが登場。ゲームモードも、王冠の争奪戦「キング・オブ・ヒルモード」、初心者向けの「チュートリアルモード」が追加され、ますます充実している。
 
 # game: Tony Hawk's Pro Skater 3 (USA)
 # file: Tony Hawk's Pro Skater 3 (USA).rvz
@@ -5934,6 +6390,9 @@ file: Tony Hawk's Pro Skater 3 (Japan).rvz
 game: トップガン エース オブ ザ スカイ
 sort_title: とっぷがんえーすおぶざすかい
 file: Top Gun - Ace of the Sky (Japan).rvz
+publisher: タイタスジャパン
+description:
+  タイタスジャパンより2002年12月26日にゲームキューブ用ソフトとして発売されたフライトコンバットシューティングゲーム。トム・クルーズ主演の人気映画『トップガン』を題材にしたゲーム作品となる。過去、現代、近未来の戦闘まで、多彩なミッションを収録。F-14トムキャットを始めとした戦闘機も満載。トップガンのエリート候補生となって、激しいドッグファイトやミッションを楽しむことができる。
 
 # game: Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl)
 # file: Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl).rvz
@@ -5944,6 +6403,9 @@ file: Top Gun - Ace of the Sky (Japan).rvz
 game: 突撃!!ファミアコンウォーズ
 sort_title: とつげきふぁみこんうぉーず
 file: Totsugeki!! Famicom Wars (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2005年10月27日にゲームキューブ用ソフトとして発売されたアクションゲーム。アクション要素の強化や3Dグラフィックの導入などで生まれ変わった『ファミコンウォーズ』。自軍の兵士や兵器を操作して敵軍に挑む、まったく新しいタイプの戦略ウォーアクションに進化。自ら戦いつつも味方ユニットに的確な指示を与え、効果的な攻撃を行うことで、戦いを有利に展開できる。
 
 game: ドルアーガの塔
 sort_title: どるあーがのとう
@@ -6006,6 +6468,9 @@ file: Tower of Druaga, The (Japan).rvz
 game: UFC 2 TAPOUT Final spec.
 sort_title: あるふぃめっとふぁいてぃんぐちゃんぴおんしっぷ2たっぷあうとふぁいなるすぺっく
 file: UFC - Ultimate Fighting Championship 2 - Tapout - Final Spec (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2002年9月5日にゲームキューブ用ソフトとして発売された格闘アクションゲーム。実在の総合格闘技大会『UFC』をテーマにした格闘アクションゲーム第2弾。ティト・オーティス、マーク・コールマン、ゲーリー・グッドリッジ、モーリス・スミス、宇野薫、高阪剛など人気選手約27名が実名で登場。ホンモノだけが立てる究極のリングでの究極の戦いを体感できる。
 
 # game: Ultimate Cheats for Use with Metroid Prime (UK) (Unl)
 # file: Ultimate Cheats for Use with Metroid Prime (UK) (Unl).rvz
@@ -6049,6 +6514,9 @@ file: UFC - Ultimate Fighting Championship 2 - Tapout - Final Spec (Japan).rvz
 game: アルティメット スパイダーマン
 sort_title: あるてぃめっとすぱいだーまん
 file: Ultimate Spider-Man (Japan).rvz
+publisher: タイトー
+description:
+  タイトーより2006年6月29日にゲームキューブ用ソフトとして発売されたアクションゲーム。スーパーヒーロー『スパイダーマン』となって街の人々を救いながら敵を倒すゲーム。与えられたミッションを次々とこなしすことでゲームは進行し、独特のアクションや個性的なキャラクターを思う存分楽しむことが出来る。宿敵「ヴェノム」もプレイが可能。2人の異なるキャラを操作して、画面狭しと駆け抜けよう。
 
 # game: Ultimate Spider-Man (Spain)
 # file: Ultimate Spider-Man (Spain).rvz
@@ -6062,6 +6530,9 @@ file: Ultimate Spider-Man (Japan).rvz
 game: ユニバーサル・スタジオ・ジャパン・アドベンチャー
 sort_title: ゆにばーさるすたじおじゃぱんあどべんちゃー
 file: Universal Studios Japan Adventure (Japan).rvz
+publisher: ケムコ
+description:
+  ケムコより2001年12月7日にゲームキューブ用ソフトとして発売されたテーマパーク・アドベンチャーゲーム。自宅にいながら『ユニバーサル・スタジオ・ジャパン』での楽しい1日を擬似体験できる。パーク内の様々なイベントやゲーム形式のアトラクションに参加したりする事が可能。『ユニバーサル・スタジオ・ジャパン』に行ったことのある人も、ない人も、思う存分満喫することができる。
 
 # game: Universal Studios Theme Park Adventure (Europe) (En,Fr,De,Es)
 # file: Universal Studios Theme Park Adventure (Europe) (En,Fr,De,Es).rvz
@@ -6078,6 +6549,9 @@ file: Universal Studios Japan Adventure (Japan).rvz
 game: ザ・アーブズ シムズ・イン・ザ・シティ
 sort_title: ざあーぶずしむずいんざしてぃ
 file: Urbz, The - Sims in the City (Japan).rvz
+publisher: エレクトロニック・アーツ
+description:
+  エレクトロニック・アーツより2005年1月13日にゲームキューブ用ソフトとして発売されたシミュレーションゲーム。主人公・シムを操り、その生活をシミュレートする『ザ・シムズ』の続編。刺激に満ちた大都会が舞台。職場毎に異なるミニゲームをこなしスキルアップ。仕事以外の行動範囲も格段に広がり、社交や趣味に精を出したり、ペットを飼うことも可能。携帯端末などを使いこなし、街の人気者になろう。
 
 # game: Urbz, The - Sims in the City (USA)
 # file: Urbz, The - Sims in the City (USA).rvz
@@ -6088,6 +6562,9 @@ file: Urbz, The - Sims in the City (Japan).rvz
 game: V-RALLY3
 sort_title: ぶいらりー3
 file: V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It).rvz
+publisher: インフォグラムジャパン
+description:
+  インフォグラムジャパンより2003年7月10日にゲームキューブ用ソフトとして発売されたレースゲーム。ラリーゲームの最高峰との呼び声も高い『V-RALLY』シリーズ第3弾。プジョー206、フォードフォーカスRSなど実際のラリー車が登場。フランス、イギリス、ポルトガルなど様々なシチュエーションのコースを全40以上収録。超リアルなラリーの世界で、ワールドチャンピオンを目指すのが目的となる。
 
 # game: Vexx (Europe) (En,Fr,De,Es,It)
 # file: Vexx (Europe) (En,Fr,De,Es,It).rvz
@@ -6104,6 +6581,9 @@ file: V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It).rvz
 game: ビューティフルジョー
 sort_title: びゅーてぃふるじょー1
 file: Viewtiful Joe (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2003年6月26日にゲームキューブ用ソフトとして発売されたアクションゲーム。ヒーローに憧れる青年・ジョーが、スクリーンの向こう側から現実世界の侵略をたくらむ悪者「ジャドー」にさらわれた恋人のシルヴィアを救い出すために戦う。「ズーム」「マックスピード」「スロー」など、今までのゲームにはない斬新な必殺技「VFXパワー」駆使して、ジャドーに立ち向かう。
 
 # game: Viewtiful Joe (USA)
 # file: Viewtiful Joe (USA).rvz
@@ -6111,6 +6591,9 @@ file: Viewtiful Joe (Japan).rvz
 game: ビューティフルジョー バトルカーニバル
 sort_title: びゅーてぃふるじょーばとるかーにばる
 file: Viewtiful Joe - Battle Carnival (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2005年9月29日にゲームキューブ用ソフトとして発売された多人数対戦アクションゲーム。人気のアニメ版『ビューティフルジョー』をもとにしたゲーム作品。アニメと同じステージや敵キャラなども登場する。ライバルよりも活躍して、より多くのポイントを稼いだプレイヤーが勝者となる。画面を操り、瞬間を操るVFXアクションを始め、初心者でもキャラクターを動かすだけで楽しい抜群の操作感を堪能できる。
 
 # game: Viewtiful Joe - Red Hot Rumble (Europe) (En,Fr,De,Es,It)
 # file: Viewtiful Joe - Red Hot Rumble (Europe) (En,Fr,De,Es,It).rvz
@@ -6127,14 +6610,23 @@ file: Viewtiful Joe - Battle Carnival (Japan).rvz
 game: ビューティフルジョー2 ブラックフィルムの謎
 sort_title: びゅーてぃふるじょー2ぶらっくふぃるむのなぞ
 file: Viewtiful Joe 2 - Black Film no Nazo (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2004年12月16日にゲームキューブ用ソフトとして発売された格闘アクションゲーム。映画の中のような世界で展開するVFXアクション『ビューティフルジョー』第2弾。美しきパートナー・シルヴィアは銃を使ったシャープなアクションに加え、新たなVFXパワー「リプレイ」が使用可能。ジョーとシルヴィアは、状況に合わせていつでも交代可能。再び押し寄せる悪夢の軍団に、2人のヒーローが立ち上がる。
 
 game: ビューティフルジョー リバイバル
 sort_title: びゅーてぃふるじょーりばいばる
 file: Viewtiful Joe Revival (Japan).rvz
+publisher: CAPCOM
+description:
+  カプコンより2003年12月18日にゲームキューブ用ソフトとして発売されたアクションゲーム。前作「ビューティフルジョー」の廉価版となる。ヒーローに憧れる青年・ジョーが、スクリーンの向こう側から現実世界の侵略をたくらむ悪者「ジャドー」にさらわれた恋人のシルヴィアを救い出すために戦う。本作では難易度の低い「SWEET」が追加された。
 
 game: バーチャファイター サイバージェネレーション ジャッジメントシックスの野望
 sort_title: ばーちゃふぁいたーさいばーじぇねれーしょんじゃっじめんとしっくすのやぼう
 file: Virtua Fighter Cyber Generation - Judgment Six no Yabou (Japan).rvz
+publisher: セガ
+description:
+  セガより2004年8月26日にゲームキューブ用ソフトとして発売されたアクションRPG。あの『バーチャファイター』が高いアクション性に加え、ストーリー性・成長要素を盛り込んだアクションRPGになった。往年のバーチャファイターたちの魂が宿ったバーチャソウルをゲットすることで技を伝授してもらい、奥義を組み合わせて自由にカスタマイズし、自分だけのキャラクターを育てよう。
 
 # game: Virtua Quest (USA)
 # file: Virtua Quest (USA).rvz
@@ -6148,6 +6640,9 @@ file: Virtua Fighter Cyber Generation - Judgment Six no Yabou (Japan).rvz
 game: バーチャストライカー3 Ver.2002
 sort_title: ばーちゃすとらいかー3ばーじょん2002
 file: Virtua Striker 3 Ver. 2002 (Japan).rvz
+publisher: セガ
+description:
+  セガより2002年2月14日にゲームキューブ用ソフトとして発売されたサッカーゲーム。本格3Dサッカーゲーム『バーチャストライカー3』が2002年度版となって生まれ変わる。シンプルな操作で、サッカー選手のリアルな動きを再現したシリーズならではの特徴はそのままに、GC版ならではの新要素が満載。既存選手の能力値などを変更や、最大100人までオリジナル選手登録も可能となっている。
 
 # game: WTA Tour Tennis (USA)
 # file: WTA Tour Tennis (USA).rvz
@@ -6155,6 +6650,9 @@ file: Virtua Striker 3 Ver. 2002 (Japan).rvz
 game: WTA ツアーテニス プロエボリューション
 sort_title: だぶりゅーてぃーえーつあーてにすぷろえぼりゅーしょん
 file: WTA Tour Tennis Pro Evolution (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2002年8月29日にゲームキューブ用ソフトとして発売されたWTAツアー公認の本格リアルテニスゲーム。マルチナ・ヒンギス、セレナ・ウィリアムス、杉山愛といった女子プロテニスプレイヤー20名が登場。トッププレイヤーの華麗なテクニックや激しい動きをリアルに再現し、臨場感満点のゲームプレイを実現。選手の精神状態をシミュレートするAIシステムを搭載している。
 
 # game: WWE Crush Hour (Europe)
 # file: WWE Crush Hour (Europe).rvz
@@ -6171,6 +6669,9 @@ file: WTA Tour Tennis Pro Evolution (Japan).rvz
 game: WWE デイ・オブ・レコニング
 sort_title: だぶりゅーだぶりゅーいーでいおぶれこにんぐ
 file: WWE Day of Reckoning (Japan).rvz
+publisher: ユークス
+description:
+  ユークスより2005年1月13日にゲームキューブ用ソフトとして発売されたプロレスゲーム。人気プロレス団体『WWE』をゲーム化した『レッスルマニア』シリーズが新要素満載に生まれ変わった。スーパースターたちの特徴をリアルに再現し、これまで以上にWWEらしさ満載の試合展開を楽しめる。自分で製作したオリジナルのスーパースターを使って、練習生からWWEのトップスターを目指す。
 
 # game: WWE Day of Reckoning (USA)
 # file: WWE Day of Reckoning (USA).rvz
@@ -6192,6 +6693,9 @@ sort_title: れっするまにあ18
 files:
   WWE WrestleMania X8 (Japan).rvz
   WWE WrestleMania X8 (Japan) (Taikenban).rvz
+publisher: ユークス
+description:
+  ユークスより2002年9月6日にゲームキューブ用ソフトとして発売された世界最大のプロレス興行『レッスルマニア』を題材にしたプロレスゲーム。WWEのスーパースターたちが30名以上登場し、選手たちの華やかな入場シーンを再現。必殺技を簡単な操作で繰り出すことができ、「リバーサルシステム」により、緊張感あふれる駆け引きを実現。スーパースターたちのド迫力な試合を体感することができる。
 
 # game: WWE WrestleMania X8 (USA)
 # file: WWE WrestleMania X8 (USA).rvz
@@ -6202,6 +6706,9 @@ files:
 game: レッスルマニアXIX
 sort_title: れっするまにあ19
 file: WWE WrestleMania XIX (Japan).rvz
+publisher: セガ
+description:
+  セガより2003年11月14日にゲームキューブ用ソフトとして発売されたプロレスゲーム。WWEのスーパースターたちが登場する『レッスルマニア』シリーズ!2003年春にシアトルで開催したイベント「レッスルマニアXIX」を完全再現。流血シーンが取り入れられ、「ファースト・ブラッド・マッチ」も可能。エディットモードも充実し、自分好みのスーパースターを自由自在に作成することができる。
 
 # game: WWE WrestleMania XIX (Korea)
 # file: WWE WrestleMania XIX (Korea).rvz
@@ -6212,6 +6719,9 @@ file: WWE WrestleMania XIX (Japan).rvz
 game: わいわいゴルフ
 sort_title: わいわいごるふ
 file: Wai Wai Golf (Japan).rvz
+publisher: アイドス・インタラクティブ
+description:
+  アイドス・インタラクティブより2002年11月28日にゲームキューブ用ソフトとして発売されたみんなでワイワイ楽しめる本格ゴルフゲーム。実際にゴルフクラブをスイングするようにコントローラのアナログスティックを使うシステムの他、季節の変化や時間の概念、キャラの疲労などを実装。ゴルファー14人、キャディー6人が登場する。イギリスやハワイなど実在するコースをベースにした7コースに挑戦することができる。
 
 # game: Wallace & Gromit in Project Zoo (Europe) (En,Fr,De,Es,It)
 # file: Wallace & Gromit in Project Zoo (Europe) (En,Fr,De,Es,It).rvz
@@ -6231,6 +6741,9 @@ file: Wai Wai Golf (Japan).rvz
 game: ワリオワールド
 sort_title: わりおわーるど
 file: Wario World (Japan).rvz
+publisher: 任天堂
+description:
+  マリオの敵役として広く活躍しているワリオが主人公の3Dアクションゲーム。世界中から集めた財宝で城を建てて幸せに浸っていたワリオ、しかしその中にあった不気味に黒く光る宝石がお宝をモンスターに変えてしまった。ワリオ自慢のパワフルアクションでモンスター達を倒し、様々なパズルを解きながらお宝を奪い返すのが目的となる。
 
 # game: Wario World (Korea)
 # file: Wario World (Korea).rvz
@@ -6247,6 +6760,9 @@ file: Wario World (Japan).rvz
 game: ウォーリアーブレイド ラスタンVSバーバリアン編
 sort_title: うぉーりあーぶれいどらすたんばーさすばーばりあんへん
 file: Warrior Blade - Rastan vs. Barbarian (Japan).rvz
+publisher: タイトー
+description:
+  タイトーより2003年3月27日にゲームキューブ用ソフトとして発売されたアクションゲーム。世界の破滅を防ぐため、10人のバーバリアンたちが立ち上がる。11のクエストを制覇し、世界を破滅に導こうとする魔法使い「ゾーク」を倒す「クエスト」、2P対戦の「VSモード」、「トレーニング」の3つのモードを搭載。8種類のコンボやアイテムを駆使して激しい戦いを勝ち抜いていこう。
 
 # game: Wave Race - Blue Storm (Europe, Australia)
 # file: Wave Race - Blue Storm (Europe, Australia).rvz
@@ -6254,6 +6770,9 @@ file: Warrior Blade - Rastan vs. Barbarian (Japan).rvz
 game: ウェーブレース ブルーストーム
 sort_title: うぇーぶれーすぶるーすとーむ
 file: Wave Race - Blue Storm (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2001年9月14日にゲームキューブ用ソフトとして発売されたレースゲーム。水しぶきや波の揺らめきなど水の表現にこだわった水上レースゲーム『ウェーブレース』がさらなる進化を遂げた。天候の変化で波の大きさや質も変わったり、レース中、アクシデントによるイベントも発生。前作で好評だったスタントも大幅パワーアップ。リアルな水の存在を感じながら白熱のレースを楽しむことができる。
 
 # game: Wave Race - Blue Storm (USA)
 # file: Wave Race - Blue Storm (USA).rvz
@@ -6276,6 +6795,9 @@ file: Wave Race - Blue Storm (Japan).rvz
 game: ワールドサッカー ウイニングイレブン6 ファイナルエヴォリューション
 sort_title: わーるどさっかーういにんぐいれぶん6ふぁいなるえう゛ぉるーしょん
 file: World Soccer Winning Eleven 6 - Final Evolution (Japan).rvz
+publisher: コナミ
+description:
+  コナミより2003年1月30日にゲームキューブ用ソフトとして発売されたサッカーゲーム。人気サッカーゲーム『ワールドサッカーウイニングイレブン6』の最終進化版。日本代表選手の能力値やグラフィックがより忠実に再現され、実名で収録したナショナルチームも増加。「エディット」でのパーツの追加、「トレーニング」でのレベル設定、試合後の選手評価の表示など各モードにも新要素が満載となっている。
 
 # game: Worms 3D (Europe) (En,Fr,De,Es,It)
 # file: Worms 3D (Europe) (En,Fr,De,Es,It).rvz
@@ -6343,6 +6865,9 @@ file: World Soccer Winning Eleven 6 - Final Evolution (Japan).rvz
 game: エクストリームG3
 sort_title: えくすとりーむG3
 file: XGIII - Extreme G Racing (Japan).rvz
+publisher: アクレイムジャパン
+description:
+  アクレイムジャパンより2002年3月15日にゲームキューブ用ソフトとして発売された超高速バイクレースゲーム。近未来をイメージしたサーキットを駆け抜ける。バイクに搭載されたウエポンやアイテムを駆使してライバルをつぶすことができ、レースで入手した賞金を使って、バイクを強化やアイテム購入も可能。2人協力プレイや最大4人の対戦プレイも楽しめるぞ。ジェット機なみのスピード感と音を体感することができる。
 
 # game: XGIII - Extreme G Racing (USA)
 # file: XGIII - Extreme G Racing (USA).rvz
@@ -6370,6 +6895,9 @@ sort_title: ゆうぎおうふぉるすばうんどきんぐだむきょこう�
 files:
   Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan).rvz
   Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan) (Taikenban).rvz
+publisher: コナミ
+description:
+  コナミより2002年12月5日にゲームキューブ用ソフトとして発売されたフィールドモンスターバトルゲーム。大人気の『遊戯王デュエルモンスターズ』が、モンスターによる3対3のチームバトルを行う。特定のモンスターを組み合わせることで強力なコンビネーション攻撃を出すことが可能。ゲームの世界に閉じこめられた遊戯たちとなり、ゲームをクリアして現実世界に脱出するのが目的となる。
 
 # game: Yu-Gi-Oh! The Falsebound Kingdom (Europe) (En,Fr,De,Es,It)
 # file: Yu-Gi-Oh! The Falsebound Kingdom (Europe) (En,Fr,De,Es,It).rvz
@@ -6392,22 +6920,33 @@ files:
 game: ゼルダコレクション
 sort_title: ぜるだこれくしょん
 file: Zelda Collection (Japan).rvz
+publisher: 任天堂
 
 game: ゼルダの伝説 4つの剣+
 sort_title: ぜるだのでんせつよっつのつるぎぷらす
 file: Zelda no Densetsu - 4-tsu no Tsurugi+ (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2004年3月18日にゲームキューブ用ソフトとして発売されたアクションRPG。人気の『ゼルダの伝説』シリーズのGBA版『4つの剣』がGCに生まれ変わって登場。GBAとGCの連携により、テレビとGBAの2画面を活用する謎解きや、最大4人でのバトル、海賊のメダル探しなどを楽しむことが可能。プレイヤー同士が声を掛け合うといったプレイをすることができる。
 
 game: ゼルダの伝説 風のタクト
 sort_title: ぜるだのでんせつかぜのたくと
 file: Zelda no Densetsu - Kaze no Takuto (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2002年12月13日にゲームキューブ用ソフトとして発売されたアクションRPG。大人気『ゼルダの伝説』シリーズの一作。3D映像を2Dアニメーションのように表現する「トゥーンレンダリング」を採用し、アニメの中に入ったような、今までにないグラフィックを実現。さらにGBAを使った協力プレイも可能。怪鳥に連れ去られた妹を取り戻すため、リンクが新たな冒険に旅立つ。
 
 game: ゼルダの伝説 時のオカリナGC
 sort_title: ぜるだのでんせつときのおかりなGC
 file: Zelda no Densetsu - Toki no Ocarina GC (Japan).rvz
+publisher: 任天堂
 
 game: ゼルダの伝説 トワイライトプリンセス
 sort_title: ぜるだのでんせつとわいらいとぷりんせす
 file: Zelda no Densetsu - Twilight Princess (Japan).rvz
+publisher: 任天堂
+description:
+  任天堂より2006年12月2日にゲームキューブ用ソフトとして発売されたアクションRPG。人気アクションRPG『ゼルダの伝説』シリーズの一作となる。建物や仕掛けなどの構造物やマップ、キャラクターなどWii版と左右反転した状態になり、リンクの設定を忠実に再現している。闇と光の世界に広がる数多くの謎を解き明かし、さらわれた仲間を助け出すことができるのか?謎の生物ミドナの正体を突き止めよう。
 
 # game: Zoids - Battle Legends (USA)
 # file: Zoids - Battle Legends (USA).rvz
@@ -6415,22 +6954,34 @@ file: Zelda no Densetsu - Twilight Princess (Japan).rvz
 game: ゾイド フルメタルクラッシュ
 sort_title: ぞいどふるめたるくらっしゅ
 file: Zoids - Full Metal Crash (Japan).rvz
+publisher: トミー
+description:
+  トミーより2005年10月27日にゲームキューブ用ソフトとして発売された対戦格闘アクションゲーム。格闘を超えた究極のZOIDSファイティングゲームがGCに登場。アニメ『ゾイドジェネシス』からゾイド&キャラクターが多数登場。約30体ものZOIDSのド迫力ZOIDSバトルが楽しめるほか、50種類以上も用意されたカスタムパーツを組み合わせて、自分だけのオリジナルZOIDSを組み上げる楽しみもある。
 
 game: ゾイドバーサス
 sort_title: ぞいどばーさす1
 file: Zoids Vs. (Japan) (Rev 1).rvz
+publisher: トミー
+description:
+  トミーより2002年9月6日にゲームキューブ用ソフトとして発売された対戦アクションゲーム。大ヒットを飛ばしたおもちゃ『ZOIDS』を題材としたゲーム。戦場を駆け巡るZOIDSは80種類以上で、新型ゴジュラスの「ゴジュラスギガ」も参戦。装備できる武器も100種類以上あり、自在にカスタマイズが可能。テレビアニメでお馴染みのバンやフィーネなどのキャラクターもフルボイスで登場する。
 
 game: ゾイドバーサスII
 sort_title: ぞいどばーさす2
 files:
   Zoids Vs. II (Japan).rvz
   Zoids Vs. II (Japan) (Rev 1).rvz
+publisher: トミー
+description:
+  トミーより2003年9月5日にゲームキューブ用ソフトとして発売された対戦アクションゲーム。ZOIDSを操って戦う『ZOIDS　VS.』シリーズ第2弾。リングアウト制を導入し、よりスリリングなバトルが展開。対戦に特化したモード「ゾイドフィスト」も追加。謎のゾイドを巡って、共和国のブルーユニコン隊、帝国のロットティガー隊、ネオゼネバスのテラガイストの三つ巴の戦いが繰り広げられる。
 
 game: ゾイドバーサスIII
 sort_title: ぞいどばーさす3
 files:
   Zoids Vs. III (Japan).rvz
   Zoids Vs. III (Japan) (Rev 2).rvz
+publisher: トミー
+description:
+  トミーより2004年9月30日にゲームキューブ用ソフトとして発売された対戦アクションゲーム。玩具やアニメで人気の『ZOIDS』を題材としたゲーム作品。空戦ZOIDSによる空中戦や爆撃も可能となり、地上戦もパワーアップ。CPUをパートナーに2対2で戦うモードなど4つのモードが用意されており、登場するゾイドは150種類以上。4人同時対戦も実現し、1対3や2対2に分かれて戦うことも可能。
 
 # game: ZooCube (Europe) (En,Fr,De,Es,It)
 # file: ZooCube (Europe) (En,Fr,De,Es,It).rvz
@@ -6438,6 +6989,9 @@ files:
 game: ズーキューブ
 sort_title: ずーきゅーぶ
 file: ZooCube (Japan).rvz
+publisher: アクレイムジャパン
+description:
+  アクレイムジャパンより2002年10月25日にゲームキューブ用ソフトとして発売された3Dパズルアクションゲーム。「同じ色と形のカプセルのペアを作って消していくだけ」という簡単なルール。7つのステージのクリアを目指す「1Pプレイ」のほか、2Pとの協力プレイはもちろん、最大4人での対戦も実現。恐ろしい動物実験を計画している科学者「Dr.ズー」に捕らわれた動物を救助するのが目的となる。
 
 # game: ZooCube (USA)
 # file: ZooCube (USA).rvz

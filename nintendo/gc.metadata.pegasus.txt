@@ -5530,7 +5530,7 @@ description:
 # file: Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).rvz
 
 game: ソニックアドベンチャーDX
-sort_title: そにっくあどべんちゃーでらっくす
+sort_title: そにっくあどべんちゃー1でらっくす
 file: Sonic Adventure DX (Japan) (En,Ja,Fr,De,Es).rvz
 publisher: セガ
 description:
